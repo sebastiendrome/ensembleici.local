@@ -1,0 +1,779 @@
+
+
+    
+        
+        Ensemble ici | # 2016-37 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 08 au 18/09/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous,
+	
+	&nbsp;
+
+	L&#39;avant derni&egrave;re &eacute;mission de Radio Buvette est en ligne:
+	Le vote peut-il vraiment &ecirc;tre &quot;utile&quot; au changement ?!
+
+	Lundi prochain, on cl&ocirc;ture la saison avec Eriba Sound Syst&egrave;me, une petite caravane transform&eacute;e en discomobile qui diffuse sa musique au gr&egrave;s des rencontres et des envies...
+	Rdv &agrave; partir de 17h sur le march&eacute; de producteurs des Pilles (et en direct sur ensembleici.fr &agrave; partir de 18h...)
+	Venez nombreux !
+	
+	
+	
+	EVENEMENT:
+	Itin&eacute;rances, expo photo
+	
+	Le parcours photographique propos&eacute; par cinq communes sous l&#39;&eacute;gide de l&#39;Office du tourisme et de la Communaut&eacute; de communes prend cette ann&eacute;e une int&eacute;ressante tournure citoyenne...
+	
+	Un article lui est sp&eacute;cialement consacr&eacute; sur Ensemble Ici:
+	
+	ITINERANCE: LA VOIE CITOYENNE
+	
+	
+	&nbsp;
+
+	
+	
+	Belle semaine &agrave; toutes et &agrave; tous,
+	
+	L&#39;&eacute;quipe d&#39;Ensemble Ici - Baronnies
+	(qui recherche toujours un volontaire en service civique ! )
+			Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici. Il vous est ais&eacute; d'en ajouter via les formulaires du site. Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d'info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles! 
+contact@ensembleici.fr
+		
+	
+
+
+
+	
+                Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+                
+        
+		
+			
+				
+				Crestois Pays de Saillans							
+													
+								Les Rencontres AdHoc
+								Festival , MIRABEL-ET-BLACONS
+								du jeudi 08 au dimanche 11 septembre 2016
+						
+
+												
+													
+								Semaine de l'économie locale - Saillans
+								Rencontre , SAILLANS
+								du lundi 12 au dimanche 18 septembre 2016
+						
+
+												
+													
+								Atelier Découverte de EnsembleIci.fr
+								Atelier , SAILLANS
+								Samedi 17 septembre 2016
+						
+
+					Pays de Buis-les-Baronnies							
+													
+								Rencontre autour du Yoga
+								Projection , BUIS-LES-BARONNIES
+								Vendredi 09 septembre 2016
+						
+
+												
+													
+								IMAGES DE LA DROME EN GUERRE (1914-1918)
+								Exposition , BUIS-LES-BARONNIES
+								du lundi 12 au vendredi 23 septembre 2016
+						
+
+												
+													
+								La folle histoire de la course à pied
+								Projection , BUIS-LES-BARONNIES
+								Samedi 17 septembre 2016
+						
+
+												
+													
+								Tout Pour Tous 
+								Festival , BUIS-LES-BARONNIES
+								du samedi 17 au dimanche 18 septembre 2016
+						
+
+					&nbsp;Pays de Rémuzat							
+													
+								Vide grenier
+								Vide-grenier , REMUZAT
+								Samedi 10 septembre 2016
+						
+
+												
+													
+								Léo 38 
+								Spectacle , MONTREAL-LES-SOURCES
+								Vendredi 16 septembre 2016
+						
+
+					Val d'Eygues							
+													
+								COURS DE YOGA à domicile
+								Cours , NYONS
+								du lundi 11 avril au samedi 31 décembre 2016
+						
+
+												
+													
+								Rémi Collin — Exposition de peintures
+								Exposition , NYONS
+								du lundi 05 au dimanche 11 septembre 2016
+						
+
+												
+													
+								Cours et Initiation aux techniques de la céramique
+								Atelier , NYONS
+								du lundi 05 septembre 2016 au vendredi 14 juillet 2017
+						
+
+												
+													
+								Philharmonique de Chambre de Cologne
+								Concert , NYONS
+								Jeudi 08 septembre 2016
+						
+
+												
+													
+								Itinérances - Exposition photo
+								Exposition , CHATEAUNEUF-DE-BORDETTE
+								du vendredi 09 au dimanche 18 septembre 2016
+						
+
+												
+													
+								Itinérances - Exposition photo
+								Exposition , CURNIER
+								du vendredi 09 au dimanche 18 septembre 2016
+						
+
+												
+													
+								Exposition
+								Exposition , LES PILLES
+								du vendredi 09 au dimanche 18 septembre 2016
+						
+
+												
+													
+								Itinérances - Exposition photo
+								Exposition , LES PILLES
+								du vendredi 09 au dimanche 18 septembre 2016
+						
+
+												
+													
+								Itinérances - Exposition photo
+								Exposition , MIRABEL-AUX-BARONNIES
+								du vendredi 09 au dimanche 18 septembre 2016
+						
+
+												
+													
+								Itinérances - Exposition photo
+								Exposition , VENTEROL
+								du vendredi 09 au dimanche 18 septembre 2016
+						
+
+												
+													
+								Parcours d'Ateliers d'Artistes
+								Manifestation , NYONS
+								du samedi 10 au dimanche 11 septembre 2016
+						
+
+												
+													
+								Parcours des ateliers d'artistes
+								Exposition , NYONS
+								du samedi 10 au dimanche 11 septembre 2016
+						
+
+												
+													
+								Shirodhara Massage Royal  (association Les Racines du Coeur)
+								journée d'information , POET-SIGILLAT
+								du samedi 10 au dimanche 11 septembre 2016
+						
+
+												
+													
+								Forum des Associations et du Bénévolat
+								Manifestation , NYONS
+								Dimanche 11 septembre 2016
+						
+
+												
+													
+								Itinérances - Exposition photo
+								Exposition , NYONS
+								du lundi 12 au dimanche 18 septembre 2016
+						
+
+												
+													
+								Yoga, Détente, Bien être.
+								Cours , NYONS
+								du lundi 12 septembre 2016 au vendredi 29 juin 2018
+						
+
+												
+													
+								ASSOCIATION  LES CENT CIELS
+								Cours , NYONS
+								du lundi 12 septembre 2016 au vendredi 29 juin 2018
+						
+
+												
+													
+								Ateliers de Parentalité
+								Stage , LES PILLES
+								Samedi 17 septembre 2016
+						
+
+												
+													
+								Inauguration "Le Papillon " 
+								Manifestation , NYONS
+								Samedi 17 septembre 2016
+						
+
+												
+													
+								PAN
+								Festival , NYONS
+								Samedi 17 septembre 2016
+						
+
+												
+													
+								Rêve ton quartier
+								Manifestation , NYONS
+								du samedi 17 septembre au samedi 15 octobre 2016
+						
+
+												
+													
+								stage corps et voix
+								Stage , MONTAULIEU
+								Dimanche 18 septembre 2016
+						
+
+												
+													
+								Concert d'orgue — Journées du Patrimoine
+								Concert , NYONS
+								Dimanche 18 septembre 2016
+						
+
+												
+													
+								La Voix et le Trait
+								Stage , NYONS
+								du dimanche 18 au samedi 24 septembre 2016
+						
+
+					Ailleurs dans le coin							
+													
+								Exposition à la cathédrale de la haute-ville
+								Exposition , VAISON-LA-ROMAINE
+								du samedi 03 au vendredi 16 septembre 2016
+						
+
+												
+													
+								peintures et sculptures Michèle Anne Alligon et Isabelle Bisson-Alligon
+								Exposition , TAULIGNAN
+								du samedi 03 au dimanche 25 septembre 2016
+						
+
+												
+													
+								Éclats, le festival de la voix au Pays de Dieulefit, du 7 au 11 septembre 2016, 15e édition.
+								Festival , DIEULEFIT
+								du mercredi 07 au dimanche 11 septembre 2016
+						
+
+												
+													
+								QUAI DU BONHEUR
+								Spectacle , VAISON-LA-ROMAINE
+								Samedi 10 septembre 2016
+						
+
+												
+													
+								IMPRO'KIDS
+								Spectacle , VAISON-LA-ROMAINE
+								Mercredi 14 septembre 2016
+						
+
+												
+								Les Camisards, fresque historique
+								Conférence , BOURDEAUX
+								Samedi 17 septembre 2016
+						
+
+												
+													
+								CONCERT ROCK
+								Concert , SAINT-PANTALEON-LES-VIGNES
+								Samedi 17 septembre 2016
+						
+
+												
+													
+								LES MONTAGNES RUSSES
+								Spectacle , VAISON-LA-ROMAINE
+								Samedi 17 septembre 2016
+						
+
+												
+													
+								Portes ouvertes
+								Concert , VALREAS
+								Samedi 17 septembre 2016
+						
+
+												
+													
+								Les Platanes Craquent
+								Concert , SEGURET
+								du samedi 17 au dimanche 18 septembre 2016
+						
+
+												
+													
+								LES MONTAGNES RUSSES
+								Spectacle , VAISON-LA-ROMAINE
+								Dimanche 18 septembre 2016
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+                
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Cours HOLA NYONS
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Week-end gourmand en Drôme !
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAINT-FERREOL-TRENTE-PAS
+						
+						
+					
+					
+													Meublé à louer en hors saison
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAINT-FERREOL-TRENTE-PAS
+						
+						
+					
+					
+													Ouverture Ecole de Chant
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													troc pieds de fraisiers contre coup de mains
+							
+						
+						
+														CORNILLON-SUR-L'OULE
+						
+						
+					
+					
+													cherche canis
+							
+						
+						
+														CORNILLON-SUR-L'OULE
+						
+						
+					
+					
+													T2 meublé avec terrasse tropézienne NYONS
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+					
+													peinture
+							
+						
+						
+														CORNILLON-SUR-L'OULE
+						
+						
+					
+					
+													Vends tuteurs à tomates et brouette
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														VENTEROL
+						
+						
+					
+					
+													Cherche Maison à louer
+							
+						
+						
+														NYONS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Le Local
+								
+								
+							
+							
+															REMUZAT
+								Association							
+							
+						
+						
+														Atelier des Pigments
+								
+								Peintures naturelles et décoratives - stages, chantiers, conseils
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														Les Lectures du Poët
+								
+								une association pour promouvoir le débat autour des livres
+							
+							
+															POET-SIGILLAT
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+    
+	Le collectif "Ensemble ici" :
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+        
+
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

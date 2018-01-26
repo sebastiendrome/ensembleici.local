@@ -1,0 +1,329 @@
+body{
+	overflow: auto;
+}
+
+/***
+	HEADER POUR GRAND ECRAN
+	**/
+		#header #bandeau{
+			position: absolute;
+			max-width: 690px;
+			width: 100%;
+			height: 100%;
+			top: 0px;
+			left: 28%;
+			border-right: 1px solid rgb(227, 214, 199);
+		}
+			#bandeau #diaporama{
+				position: relative;
+				width: 100%;
+				height: 100%;
+			}
+				#bandeau #diaporama>img{
+					position: absolute;
+					left: 0px;
+					top: 0px;
+			
+					-webkit-transition: opacity 1000ms ease-out;
+					-moz-transition: opacity 1000ms ease-out;
+					-o-transition: opacity 1000ms ease-out;
+					-ms-transition: opacity 1000ms ease-out;
+					transition: opacity 1000ms ease-out;
+				}
+		#header #logo{
+			width: 28%; /* 270px au départ (donc 28% de 960px), compatible avec le resize */
+			height: 100%;
+			text-align: center;
+			display: inline-block;
+			line-height: 180px;
+			opacity: 1;
+			z-index: auto;
+			max-width: none;
+		}
+			#header #logo>img{
+				vertical-align: middle;
+				background-image: none;
+				padding: 0%;
+				width: auto;
+			}
+
+/****
+	MENUS POUR GRAND ECRAN
+	**/
+	#menuSmartphone{
+		display: none;
+	}
+	#menu{
+		padding: 0px;
+		margin: 0px;
+		display: inline-block;
+		vertical-align: top;
+		transition: none;
+		z-index: 2;
+		/*transition: all 0.1s ease 0.1s;*/
+	}
+	#menu, #menu.editorial, #menu.agenda, #menu.petite-annonce, #menu.structure, #menu.forum{
+		top: 0px;
+	}
+	a.item_menu{
+		width: auto;
+		display: inline-block;
+	}
+	.item_menu.rouge{
+		border-left: 1px solid rgb(197, 78, 44);
+		border-right: 1px solid rgb(197, 78, 44);
+	}
+	.item_menu.bleu{
+		border-left: 1px solid rgb(43, 151, 191);
+		border-right: 1px solid rgb(43, 151, 191);
+	}
+	.item_menu.vert{
+		/*border-left: 1px solid rgb(12, 90, 50);
+		border-right: 1px solid rgb(12, 90, 50);*/
+		border-left: 1px solid rgb(90, 160, 90);
+		border-right: 1px solid rgb(90, 160, 90);
+	}
+	.item_menu.pomme{
+		border-left: 1px solid rgb(184, 185, 55);
+		border-right: 1px solid rgb(184, 185, 55);
+	}
+	.item_menu.orange{
+		border-left: 1px solid rgb(215, 153, 66);
+		border-right: 1px solid rgb(215, 153, 66);
+	}
+	.item_menu.bleu, .item_menu.rouge, .item_menu.vert, .item_menu.pomme, .item_menu.orange{
+		border-top: 0px;
+		border-bottom: 0px;
+	}
+	
+	#menu_home{
+		border-radius: 5px 0px 0px;
+	}
+	#menu_home>div{
+		width: 30px;
+		height: 30px;
+		margin: 15px;
+		background-image: url("../img/icone-home.png");
+		background-repeat: no-repeat;
+		background-position: 3px 3px;
+		
+		transition: background 100ms ease 100ms;
+	}
+	#menu_home:hover>div{
+		background-position: 3px -26px;
+	}
+	
+	#menu_agenda, #menu_forum, #menu_structure, #menu_petiteannonce, #menu_editorial{
+		width: auto;
+	}
+	
+	.item_menu.gris:hover{
+		background-image: none;
+		background-color: rgb(68, 81, 88);
+	}
+	
+	.item_menu:hover, .editorial #menu_editorial, .agenda #menu_agenda, .structure #menu_repertoire, .petite-annonce #menu_petiteannonce, .forum #menu_forum{
+		/*background-color: rgb(240,237,234)rgb(229,238,242)*/;
+		
+		background-image: -webkit-gradient(
+			linear,
+			left top, left bottom,
+			from(rgba(78,78,78,0.2)),
+			to(rgba(78,78,78,0.2)),
+			color-stop(0.5, rgba(255,255,255,0))
+		);
+		background-image: -webkit-linear-gradient(
+			top,
+			rgba(78,78,78,0.2),
+			rgba(255,255,255,0) 100%),
+			-webkit-linear-gradient(
+			top,
+			rgba(240,237,234,0.2),
+			rgba(240,237,234,1) 80%);
+		background-image: -moz-linear-gradient(
+			top,
+			rgba(78,78,78,0.2),
+			rgba(255,255,255,0) 100%),
+			-moz-linear-gradient(
+			top,
+			rgba(240,237,234,0.2),
+			rgba(240,237,234,1) 80%);
+		background-image: -o-linear-gradient(
+			top,
+			rgba(78,78,78,0.2),
+			rgba(255,255,255,0) 100%),
+			-o-linear-gradient(
+			top,
+			rgba(240,237,234,0.2),
+			rgba(240,237,234,1) 80%);
+		background-image: linear-gradient(
+			top,
+			rgba(78,78,78,0.2),
+			rgba(255,255,255,0) 100%),
+			linear-gradient(
+			top,
+			rgba(240,237,234,0.2),
+			rgba(240,237,234,1) 80%);
+		color: rgb(68, 81, 88);
+		text-shadow: 0.1em 0.1em 0.2em rgb(255, 255, 255);
+	}
+	
+	#barressmenu>div{
+		text-align: left;
+		text-indent: 20px;
+	}
+	#barressmenu>div+div{
+		text-align: right;
+		text-indent: 0px;
+	}
+	#contenu_page{
+		padding-left: 40px;
+	}
+	#page{
+		max-height: none;
+		overflow: visible;
+		transition: none;
+		-moz-transition: none;
+	}
+	
+	#menu_utilisateur{
+		height: 413px;
+		width: 67px;
+		left: -17px;
+		top: 305px;
+		background-color: transparent;
+		overflow: hidden;
+	}
+		.item_menu_utilisateur{
+			height:59px;
+			background-image: url("../img/bg-boutons-rapide.png");
+			position: relative;
+			top: 0px;
+			cursor: pointer;
+			border: 0px;
+		}
+		.item_menu_utilisateur.espace_personnel{
+			background-position: 0px 0px;
+		}
+			.item_menu_utilisateur.espace_personnel:hover{
+				background-position: -75px 0px;
+			}
+		.item_menu_utilisateur.ajouter_information{
+			background-position: 0px -59px;
+		}
+			.item_menu_utilisateur.ajouter_information:hover{
+				background-position: -75px -59px;
+			}
+		
+/*                .item_menu_utilisateur.faire_don{
+			background-position: 0px -118px;
+		}
+			.item_menu_utilisateur.faire_don:hover{
+				background-position: -75px -118px;
+			}*/
+		.item_menu_utilisateur.lettres_informations{
+			background-position: 0px -118px;
+		}
+			.item_menu_utilisateur.lettres_informations:hover{
+				background-position: -75px -118px;
+			}
+		
+		.item_menu_utilisateur.vie_projet{
+			background-position: 0px -236px;
+			top: 59px;
+		}
+			.item_menu_utilisateur.vie_projet:hover{
+				background-position: -75px -236px;
+			}
+		.item_menu_utilisateur.guide_utilisation{
+			background-position: 0px -295px;
+			top: 59px;
+		}
+			.item_menu_utilisateur.guide_utilisation:hover{
+				background-position: -75px -295px;
+			}
+		.item_menu_utilisateur.page_facebook{
+			background-position: 0px -354px;
+			top: 59px;
+		}
+			.item_menu_utilisateur.page_facebook:hover{
+				background-position: -75px -354px;
+			}
+			
+
+
+/*****************************************
+Affichage liste.
+***/
+.liste_ligne{
+	text-align: left;
+	border-bottom: 1px dashed rgb(227, 214, 199);
+}
+.genre_ville.smartphone{
+	display: none;
+}
+.genre_ville.noSmartphone{
+	display: inline-block;
+}
+.genre_ville{
+	position: relative;
+	text-align: right;
+	float: right;
+	margin: 0px 0px 15px 15px;
+	border: 1px solid rgb(222, 213, 202);
+	padding: 2px 7px;
+	border-radius: 5px;
+}
+	.genre_ville:hover{
+		background-color: rgb(222, 213, 202);
+	}
+	.genre_ville>span{
+		display: block;
+	}
+	.genre{
+		margin-right: 0em;
+	}
+
+.coupdecoeur.smartphone, .archiver.smartphone{
+	display: none;
+}
+.coupdecoeur.noSmartphone, .archiver.noSmartphone{
+	display: block;
+	float: right;
+	height: 50px;
+	width: 45px;
+}
+	.coupdecoeur.noSmartphone .nb_aime{
+		right: 0em;
+	}
+	
+.archiver.noSmartphone{
+	clear: right;
+}
+
+.liste_ligne .image, #zone_recherche .image{
+	width:80px;
+	display:inline-block;
+	float:left;
+	margin-right:1em;
+	margin-top: 0em;
+}
+
+.editorial .liste_ligne .image{
+	width:30%;
+}
+
+.illustration_fichiers{
+	display:inline-block;
+	width:160px;
+	float:left;
+	margin-right:1em;
+	margin-top: 0em;
+}
+.editorial .illustration_fichiers{
+	width:60%;
+}
+
+
+
+

@@ -1,0 +1,745 @@
+
+
+    
+        
+        Ensemble ici | # 2014-38 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 25/09 au 05/10/2014
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous,
+
+	
+	Une id&eacute;e, une envie, un projet ?
+	Vous n&#39;&ecirc;tes s&ucirc;rement pas seul(e) !
+	
+	Venez en discuter et partager vos avis sur les forums d&#39;Ensemble Ici !&nbsp;
+	
+	Il y en a un pour chaque localit&eacute;...
+	
+	Cliquez sur &quot;acc&eacute;der aux forums&quot; depuis la page d&#39;accueil du site www.ensembleici.fr
+
+	&nbsp;
+
+	Belle semaine,
+	
+	L&#39;&eacute;quipe Ensemble Ici !
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums, et bient&ocirc;t articles!
+	
+	
+		contact@ensembleici.fr
+
+		
+	
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								Trico'Thé
+								Rencontre , MONTBRUN-LES-BAINS
+								du jeudi 04 septembre 2014 au jeudi 29 janvier 2015
+						
+
+												
+													
+								Café Citoyen
+								Débat , MONTBRUN-LES-BAINS
+								Jeudi 25 septembre 2014
+						
+
+					Pays de Buis-les-Baronnies							
+													
+								Le bridge au Buis
+								Rencontre , BUIS-LES-BARONNIES
+								du mercredi 10 septembre au mercredi 15 octobre 2014
+						
+
+												
+													
+								Exposition "Pastel... à savourer" 
+								Exposition , BUIS-LES-BARONNIES
+								du vendredi 19 septembre au vendredi 14 novembre 2014
+						
+
+												
+													
+								Cinéma hors les murs
+								Projection , BUIS-LES-BARONNIES
+								Jeudi 25 septembre 2014
+						
+
+												
+													
+								Concert de musique folk
+								Concert , BUIS-LES-BARONNIES
+								Samedi 27 septembre 2014
+						
+
+												
+													
+								Les couleurs du monde- en noir et blanc
+								Exposition , BUIS-LES-BARONNIES
+								du samedi 27 septembre au mardi 07 octobre 2014
+						
+
+												
+													
+								Championnat de France de Trail 2014
+								Performance , BUIS-LES-BARONNIES
+								Dimanche 28 septembre 2014
+						
+
+												
+													
+								Théâtre "1793", l'histoire mouvementée des sans culottes
+								Spectacle , BUIS-LES-BARONNIES
+								Samedi 04 octobre 2014
+						
+
+												
+													
+								La Ronde des Baronnies
+								Randonnée , BUIS-LES-BARONNIES
+								Dimanche 05 octobre 2014
+						
+
+					Val d'Eygues							
+													
+								Voix libre-chant improvisé
+								Atelier , LES PILLES
+								du lundi 15 septembre 2014 au mardi 30 juin 2015
+						
+
+												
+													
+								 LECTURE à HAUTE VOIX
+								Atelier , LES PILLES
+								du jeudi 25 septembre au jeudi 18 décembre 2014
+						
+
+												
+													
+								Vide grenier
+								Vide-grenier , NYONS
+								du vendredi 26 au samedi 27 septembre 2014
+						
+
+												
+													
+								CHANTIER DÉMONSTRATIF ENDUITS TERRE 
+								Rencontre , NYONS
+								du vendredi 26 au samedi 27 septembre 2014
+						
+
+												
+													
+								Conférence Judith Morlet
+								Conférence , LES PILLES
+								du vendredi 26 au mardi 30 septembre 2014
+						
+
+												
+													
+								Lancement du Comité de Lecture "Polar à Nyons"
+								Rencontre , NYONS
+								du vendredi 26 septembre au vendredi 14 novembre 2014
+						
+
+												
+													
+								Françoise Bourdon
+								Rencontre , NYONS
+								Samedi 27 septembre 2014
+						
+
+												
+													
+								Vendanges à l'ancienne
+								Rencontre , VINSOBRES
+								Samedi 27 septembre 2014
+						
+
+												
+													
+								Nettoyons la nature!
+								Manifestation , VINSOBRES
+								Samedi 27 septembre 2014
+						
+
+												
+													
+								Les virades de l'espoir
+								Manifestation , SAHUNE
+								du samedi 27 au dimanche 28 septembre 2014
+						
+
+												
+													
+								Les virades de l'espoir
+								Manifestation , SAINT-MAURICE-SUR-EYGUES
+								Dimanche 28 septembre 2014
+						
+
+												
+													
+								Visite - dégustation des cochons
+								Visite , SAINT-FERREOL-TRENTE-PAS
+								Mardi 30 septembre 2014
+						
+
+												
+													
+								Histoires et Tintamarres
+								Lecture , NYONS
+								Mercredi 01 octobre 2014
+						
+
+												
+													
+								Tournoi de bridge
+								Tournoi , NYONS
+								Jeudi 02 octobre 2014
+						
+
+												
+													
+								"Albert Camus au delà de la philosophie de l'absurde"
+								Conférence , NYONS
+								Vendredi 03 octobre 2014
+						
+
+												
+													
+								La Légende noire des soldats du Midi
+								Conférence , NYONS
+								Vendredi 03 octobre 2014
+						
+
+												
+													
+								L'hiver sous la table
+								Spectacle , CHATEAUNEUF-DE-BORDETTE
+								Samedi 04 octobre 2014
+						
+
+												
+													
+								Concert de l'Ensemble Vocal Syracuse
+								Concert , NYONS
+								Samedi 04 octobre 2014
+						
+
+												
+													
+								Eloge de soi
+								Atelier , LES PILLES
+								du samedi 04 octobre 2014 au mardi 30 juin 2015
+						
+
+												
+													
+								FIGURE LIBRE
+								Stage , LES PILLES
+								Dimanche 05 octobre 2014
+						
+
+					Ailleurs dans le coin							
+													
+								Reprise des cours FELDENKRAIS 
+								Atelier , VAISON-LA-ROMAINE
+								du lundi 22 septembre 2014 au lundi 29 juin 2015
+						
+
+												
+													
+								Chorale Sarabande
+								Concert , SAINT-LEGER-DU-VENTOUX
+								Vendredi 26 septembre 2014
+						
+
+												
+													
+								Haut les mômes
+								Festival , MONTELIMAR
+								du vendredi 26 au dimanche 28 septembre 2014
+						
+
+												
+													
+								Les Z'agriculturelles 26
+								Spectacle , BOURDEAUX
+								Samedi 27 septembre 2014
+						
+
+												
+													
+								Une heure et demie de retard
+								Spectacle , CLANSAYES
+								Samedi 27 septembre 2014
+						
+
+												
+													
+								Gratiféria
+								Marché , MONIEUX
+								Samedi 27 septembre 2014
+						
+
+												
+													
+								Journée"Dialogue" 
+								Manifestation , ROSANS
+								Samedi 27 septembre 2014
+						
+
+												
+													
+								BARBARA FURTUNA
+								Concert , VALREAS
+								Jeudi 02 octobre 2014
+						
+
+												
+													
+								Rencontres citoyennes
+								Rencontre , DIEULEFIT
+								du jeudi 02 au dimanche 05 octobre 2014
+						
+
+												
+													
+								"La femme dans tous ses états"
+								Spectacle , GRIGNAN
+								Vendredi 03 octobre 2014
+						
+
+												
+													
+								Marché Festif
+								Marché , BONLIEU-SUR-ROUBION
+								Dimanche 05 octobre 2014
+						
+
+												
+													
+								Exposition "Encres"
+								Exposition , GRIGNAN
+								du dimanche 05 octobre au dimanche 02 novembre 2014
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Cherche pédale machine à coudre
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														TAULIGNAN
+						
+						
+					
+					
+													Soutien scolaire
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														MIRABEL-AUX-BARONNIES
+						
+						
+					
+					
+													Aide Informatique
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Remorque Erdé 153 rehaussée + capot
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIEULEFIT
+						
+						
+					
+					
+													Massage-Bien-Etre
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Apprivoiser l'automne et retrouver toute votre énergie et votre moral.
+							
+						
+						
+														MONTAULIEU
+						
+						
+					
+					
+													Ne jetez plus vos transformateurs électriques !
+							
+						
+						
+														SAHUNE
+						
+						
+					
+					
+													Cherche emploi vente vin ou produits dérivés
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Abri caravane
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Vends Citroen Xantia break
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														LACHAU
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Le planning familial
+								
+								
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														Carnet de Notes
+								
+								Association Culturelle
+							
+							
+															VINSOBRES
+								Association							
+							
+						
+						
+														Le LUMINAÏRE
+								
+								Entre Muou, Pare, Chabre
+							
+							
+															LACHAU
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

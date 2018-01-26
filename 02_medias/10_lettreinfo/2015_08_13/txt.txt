@@ -1,0 +1,620 @@
+
+
+    
+        
+        Ensemble ici | # 2015-33 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 13 au 23/08/2015
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						Un grand merci &agrave; tous ceux qui rentrent leurs infos directement sur le site : c&#39;est ainsi que nous r&eacute;alisons ensemble cet outil d&#39;information et de liens au service de tous dans les Baronnies proven&ccedil;ales !
+C&#39;est aussi ainsi que vous pouvez &ecirc;tre s&ucirc;r que votre information sera bien en ligne apr&egrave;s validation et pr&eacute;sente dans cette lettre hebdomadaire qui atteint de plus en plus de monde.
+Justement, n&#39;h&eacute;sitez pas &agrave; en parler autour de vous : c&#39;est par le bouche &agrave; oreille qu&#39;Ensemble ici se d&eacute;veloppera.
+Devenez correspondant local : entrez les informations de votre localit&eacute;, et tous seront au courant !			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								Balivernes, Amours et Bagatelle
+								Spectacle , SEDERON
+								Jeudi 13 août 2015
+						
+
+					&nbsp;Pays de Buis-les-Baronnies							
+													
+								Intervalle - Activités du mois d'août
+								Manifestation , BUIS-LES-BARONNIES
+								du mercredi 05 au lundi 31 août 2015
+						
+
+												
+													
+								Parfum de Jazz
+								Festival , BUIS-LES-BARONNIES
+								du mardi 11 au samedi 15 août 2015
+						
+
+												
+													
+								Jazz et cinéma nouvelle vague
+								Festival , BUIS-LES-BARONNIES
+								Samedi 15 août 2015
+						
+
+												
+													
+								Cinéma en plein air
+								Spectacle , SAINT-AUBAN-SUR-L'OUVEZE
+								Samedi 15 août 2015
+						
+
+												
+													
+								Flûtes en Baronnies
+								Festival , BUIS-LES-BARONNIES
+								du samedi 15 au mardi 25 août 2015
+						
+
+												
+													
+								Balivernes, Amours et Bagatelle
+								Spectacle , BUIS-LES-BARONNIES
+								Jeudi 20 août 2015
+						
+
+												
+								LOTO
+								Jeux , BEAUVOISIN
+								Vendredi 21 août 2015
+						
+
+					&nbsp;Pays de Rémuzat							
+													
+								Concert de piano avec Marc VELLA
+								Concert , LA MOTTE-CHALANCON
+								Dimanche 16 août 2015
+						
+
+												
+													
+								Les promenades du Tambourinaïre
+								Promenade , VERCLAUSE
+								Dimanche 16 août 2015
+						
+
+												
+													
+								Stage piano"intuitif" avec Marc VELLA
+								Stage , LA MOTTE-CHALANCON
+								du dimanche 16 au vendredi 21 août 2015
+						
+
+												
+													
+								Stage d'expression et de créativité collective pour enfants de 6 à 10 ans
+								Stage , LA MOTTE-CHALANCON
+								du lundi 17 au vendredi 21 août 2015
+						
+
+												
+													
+								Concert sous yourte avec Cathy Masseus VELLA
+								Concert , LA MOTTE-CHALANCON
+								Vendredi 21 août 2015
+						
+
+												
+													
+								Stage de Danse biodynamique avec Laurence LEPINE
+								Stage , LA MOTTE-CHALANCON
+								du samedi 22 au dimanche 23 août 2015
+						
+
+												
+													
+								Vivre les passages du cancer autrment
+								Stage , CORNILLON-SUR-L'OULE
+								du dimanche 23 au jeudi 27 août 2015
+						
+
+					&nbsp;Val d'Eygues							
+													
+								"Esquisse d'un Nuage"
+								Exposition , SAHUNE
+								du mercredi 15 juillet au samedi 15 août 2015
+						
+
+												
+													
+								Kairn en concert à Nyons
+								Concert , NYONS
+								Jeudi 13 août 2015
+						
+
+												
+													
+								Peintures de Clayre Paris-Guilbert
+								Exposition , NYONS
+								du jeudi 13 au dimanche 16 août 2015
+						
+
+												
+													
+								MINI CONCERT DE JAZZ
+								Concert , SAINTE-JALLE
+								Vendredi 14 août 2015
+						
+
+												
+													
+								Fête Votive de Venterol
+								Fête , VENTEROL
+								du vendredi 14 au dimanche 16 août 2015
+						
+
+												
+													
+								La Bande à Bruzzo en concert à Nyons
+								Concert , NYONS
+								Samedi 15 août 2015
+						
+
+												
+													
+								Randonne en fête
+								Fête , NYONS
+								Samedi 15 août 2015
+						
+
+												
+													
+								Impact
+								Spectacle , SAINTE-JALLE
+								Samedi 15 août 2015
+						
+
+												
+													
+								Stage de fabrication de marionnettes
+								Stage , NYONS
+								du samedi 15 au samedi 22 août 2015
+						
+
+												
+													
+								Impact
+								Spectacle , LES PILLES
+								Lundi 17 août 2015
+						
+
+												
+													
+								Couple en Danger
+								Spectacle , NYONS
+								Lundi 17 août 2015
+						
+
+												
+													
+								Peintures et fibres textiles
+								Exposition , NYONS
+								du lundi 17 au dimanche 30 août 2015
+						
+
+												
+													
+								La Gran Ursula en concert à Nyons
+								Concert , NYONS
+								Mardi 18 août 2015
+						
+
+												
+													
+								Concert à Curnier
+								Concert , CURNIER
+								Mercredi 19 août 2015
+						
+
+												
+													
+								Duo Vandamme en concert à Nyons
+								Concert , NYONS
+								Jeudi 20 août 2015
+						
+
+												
+													
+								Les Culs Trempés en concert à Nyons
+								Concert , NYONS
+								Samedi 22 août 2015
+						
+
+												
+													
+								Dédicace de Françoise BOURDON à la Librairie de L'olivier à Nyons
+								Rencontre , NYONS
+								Samedi 22 août 2015
+						
+
+					Ailleurs dans le coin							
+													
+								Concert orgue et chant
+								Concert , GRIGNAN
+								Samedi 15 août 2015
+						
+
+												
+													
+								CLASSICARPA fête ses 10 ans
+								Concert , DIEULEFIT
+								Samedi 22 août 2015
+						
+
+												
+													
+								Reconnaissance du Sentier Laurent Pascal
+								Randonnée , EYGALAYES
+								Samedi 22 août 2015
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													2ème défi culinaire "le climat dans nos assiettes" - Participez !!!
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Toilettes Du Monde recrute 2 services civiques
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Enquête participative (Association familiale du nyonsais)
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Maison à louer à Buis les Baronnies
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Université buissonnière la vie en oeuvre
+								
+								Nomade dans les hautes Baronnies
+							
+							
+															VERS-SUR-MEOUGE
+								Association							
+							
+						
+						
+														Association Les Pilles, Histoire et patrimoine
+								
+								
+							
+							
+															LES PILLES
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

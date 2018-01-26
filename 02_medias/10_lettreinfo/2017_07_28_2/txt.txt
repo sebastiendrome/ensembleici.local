@@ -1,0 +1,684 @@
+
+
+
+    
+        
+        Ensemble ici | Lettre d'Ensemble Ici - Vallee de la Drome Diois. 2017 #30 - 28 Juillet
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Bonjour &agrave; toutes et &agrave; tous,
+Alors que Bison Fut&eacute; annoncera bientot un "week end class&eacute; noir sur les routes de France", la Vall&eacute;e de la Dr&ocirc;me et le Diois se mettent en quatre pour vous proposer concerts, spectacles, expositions et &eacute;v&eacute;nements en tous genres !
+Retrouvez ci-dessous les derni&egrave;res informations et annonces parues sur Ensemble Ici pour la semaine &agrave; venir.
+A bient&ocirc;t et bonne lecture.
+Etienne pour Ensemble ici Vall&eacute;e de la Dr&ocirc;me / Diois.
+&nbsp;
+Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois
+
+                
+Rappel T&eacute;l&eacute;chargeable depuis cette lettre, en fichier PDF, depuis le haut des 2 rubriques : - tous les &eacute;v&eacute;nements jusqu'au 2e WE &agrave; venir, - toutes les annonces de ces 30 derniers jours
+C'est vous qui publiez, modifier, compl&eacute;tez vos informations locales !
+Ensemble Ici : l'information par et pour les habitants de la Vall&eacute;e de la Dr&ocirc;me / Diois
+
+Vous&nbsp;appr&eacute;ciez Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois :
+&nbsp;"abonnement volontaire" / don mensuel&nbsp;
+Pour que l'animation du site puisse continuer,merci de votre soutien&nbsp;
+Adh&eacute;sion
+&nbsp;        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Crestois Pays de Saillans                        
+                    
+                    Soirée projection et discussion, Front social
+                    Projection , CREST
+                    Jeudi 27 juillet 2017
+                    
+
+                                            
+                    
+                    Spectacles, Concerts à Aurel 
+                    Spectacle , AUREL
+                    du vendredi 28 au samedi 29 juillet 2017
+                    
+
+                                            
+                    
+                    Concert des Valientes Gracias au restaurant "Façon chocolat" (Crest)
+                    Concert , CREST
+                    Samedi 29 juillet 2017
+                    
+
+                                            
+                    
+                    Une découverte du Bao-Pao Chez Eugène
+                    Atelier , CREST
+                    Vendredi 04 août 2017
+                    
+
+                    &nbsp;Diois                        
+                    
+                    Yeah ! Un concert à la Chaudière
+                    Concert , DIE
+                    du mercredi 26 au jeudi 27 juillet 2017
+                    
+
+                                            
+                    
+                    Concert Plaça
+                    Spectacle , DIE
+                    Vendredi 28 juillet 2017
+                    
+
+                    
+                    théâtre forum "Tu t'attendais à quoi"
+                    Spectacle , LUC-EN-DIOIS
+                    Vendredi 28 juillet 2017
+                    
+
+                                            
+                    
+                    Soirée resto   concert
+                    Concert , SAINT-JULIEN-EN-QUINT
+                    Vendredi 28 juillet 2017
+                    
+
+                                            
+                    
+                    Expo à Ponet
+                    Exposition , PONET-ET-SAINT-AUBAN
+                    du vendredi 28 juillet au dimanche 06 août 2017
+                    
+
+                    
+                    Théâtre-forum sur la place des femmes en agriculture
+                    Spectacle , DIE
+                    Samedi 29 juillet 2017
+                    
+
+                    
+                    Marché de Pontaix
+                    Marché , PONTAIX
+                    Lundi 31 juillet 2017
+                    
+
+                                            
+                    
+                    Cheval Contact
+                    Stage , RECOUBEAU-JANSAC
+                    du lundi 31 juillet au vendredi 04 août 2017
+                    
+
+                                            
+                    
+                    Comme dans du verre brisé
+                    Spectacle , BARNAVE
+                    Mercredi 02 août 2017
+                    
+
+                                            
+                    
+                    LE 7EME GNOME (JAZZ POP)
+                    Concert , DIE
+                    Jeudi 03 août 2017
+                    
+
+                                            
+                    
+                    Les Âmes Lointaines 
+                    Spectacle , SAINT-ANDEOL
+                    Jeudi 03 août 2017
+                    
+
+                                            
+                    
+                    STAGE TAPISSERIE D'AMEUBLEMENT
+                    Stage , DIE
+                    du jeudi 03 au dimanche 06 août 2017
+                    
+
+                                            
+                    
+                    CONCERT
+                    Concert , VALDROME
+                    du vendredi 04 au samedi 05 août 2017
+                    
+
+                                            
+                    
+                    Conférence sur la schizomorphophobie
+                    Spectacle , BARNAVE
+                    Samedi 05 août 2017
+                    
+
+                                            
+                    
+                    YACHIRYM en QUATUOR : CHANTS DU MONDE, MUSIQUE ANCIENNE ET POESIE
+                    Spectacle , CHATILLON-EN-DIOIS
+                    Samedi 05 août 2017
+                    
+
+                                            
+                    
+                    Le trésor de Barbababouche
+                    Spectacle , BARNAVE
+                    Dimanche 06 août 2017
+                    
+
+                                            
+                    
+                    BROCANTE éphémère
+                    Vide-grenier , CHATILLON-EN-DIOIS
+                    du dimanche 06 au dimanche 13 août 2017
+                    
+
+                    Val de Drôme                        
+                    
+                    BORO broderie
+                    Stage , LIVRON-SUR-DROME
+                    Mercredi 02 août 2017
+                    
+
+                                            
+                    
+                    Vide Grenier
+                    Vide-grenier , LIVRON-SUR-DROME
+                    Dimanche 06 août 2017
+                    
+
+                    Retrouvez l'agenda complet sur www.ensembleici.fr...            
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            cherche matelas mousse+isolant+contreplaqué
+                
+                    
+                    
+                                                        ESTABLET
+                    
+                    
+                
+                                    terre d'accueil pour dôme géodésique
+                
+                    
+                    
+                                                        PIEGROS-LA-CLASTRE
+                    
+                    
+                
+                                    Exposition "Au fond à droite"
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Fruits à glaner
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    recherche une maison d'accueil pour 2 chats
+                
+                    
+                    
+                                                        SAILLANS
+                    
+                    
+                
+                                    Mécanique à prix libre
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    baignoire 
+                
+                    
+                    
+                                                        MENGLON
+                    
+                    
+                
+                                    chienne cherche maitre ou maitresse
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Recherche DON ameublement
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    revues France patchwork
+                
+                    
+                    
+                                                        GRANE
+                    
+                    
+                
+                                    Trouvé chaton rue des lanvandins 
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    cherche lieu pour chocolaterie artisanale
+                
+                    
+                    
+                                                        SOYANS
+                    
+                    
+                
+                                    Machine à pain
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Cherche yourte
+                
+                    
+                    
+                                                        VACHERES-EN-QUINT
+                    
+                    
+                
+                                    Offre emploi matériauthèque Bis Usus
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Vente galerie de voiture Berelingo
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Donne chatons
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    CHERCHE POÊLE À BOIS
+                
+                    
+                    
+                                                        MARIGNAC-EN-DIOIS
+                    
+                    
+                
+                                    cherche paille
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        LUC-EN-DIOIS
+                    
+                    
+                
+                                    Vends Casque Sony
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Recherche Salle à louer pour Stage (2018)..ou Maison!
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        SAINT-ROMAN
+                    
+                    
+                
+                                    RAQUETTES DE TENNIS
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Aide achat ordi / linux...
+                
+                    
+                    
+                                                        PIEGROS-LA-CLASTRE
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

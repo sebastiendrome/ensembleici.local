@@ -1,0 +1,798 @@
+
+
+
+    
+        
+        Ensemble ici | 	Lettre d'Ensemble Ici - Vallee de la Drome Diois. 2017 #25 - 24 Juin
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Bonjour &agrave; toutes et &agrave; tous,
+Retrouvez ci-dessous tous les &eacute;v&eacute;nements et petites annonces publi&eacute;s sur Ensemble Ici pour la p&eacute;riode du 24 juin / 2 juillet, ainsi que les quatre structures r&eacute;f&eacute;renc&eacute;es cette semaine : LAEP Bleu Hamac &agrave; Die, et la Compagnie de l'Envol, l'Atelier Timur Ersen et le R&eacute;seau Autonomie &agrave; Crest.
+Ensemble Ici Vall&eacute;e de la Dr&ocirc;me / Diois
+
+
+
+&nbsp;
+&nbsp;
+
+
+
+
+
+&nbsp;                
+Rappel T&eacute;l&eacute;chargeable depuis cette lettre, en fichier PDF, depuis le haut des 2 rubriques : - tous les &eacute;v&eacute;nements jusqu'au 2e WE &agrave; venir, - toutes les annonces de ces 30 derniers jours
+C'est vous qui publiez, modifier, compl&eacute;tez vos informations locales !
+Ensemble Ici : l'information par et pour les habitants de la Vall&eacute;e de la Dr&ocirc;me / Diois
+
+Si vous appr&eacute;ciez Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois :
+&nbsp;"abonnement volontaire" / don mensuel&nbsp;
+Nous ne touchons aucune subvention. Pour que l'animation du site puisse continuer,merci de votre soutien
+Adh&eacute;sion
+&nbsp;        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Crestois Pays de Saillans                        
+                    
+                    Appel à contributions photos pour le 23 juin
+                    Projection , CREST
+                    du mercredi 07 au vendredi 23 juin 2017
+                    
+
+                                            
+                    
+                    Fête de lancement du média local Ricochets 
+                    Fête , CREST
+                    Vendredi 23 juin 2017
+                    
+
+                                            
+                    
+                    Danse 5 Rythmes
+                    Atelier , CREST
+                    Samedi 24 juin 2017
+                    
+
+                                            
+                    
+                    Créativité et Soi !
+                    Atelier , CREST
+                    Samedi 24 juin 2017
+                    
+
+                                            
+                    
+                    Au coeur de L'Usine
+                    Fête , CREST
+                    Samedi 24 juin 2017
+                    
+
+                                            
+                    
+                    projection "L'intérêt général et moi"
+                    Projection , SAILLANS
+                    Samedi 24 juin 2017
+                    
+
+                    
+                    Le tour à énergie positive, festival itinérant de la transition
+                    Manifestation , CREST
+                    Lundi 26 juin 2017
+                    
+
+                                            
+                    
+                    Médecine Symbolique 
+                    Conférence , CREST
+                    Mardi 27 juin 2017
+                    
+
+                                            
+                    
+                    Soirée récit de voyage vélo
+                    Rencontre , CREST
+                    Mercredi 28 juin 2017
+                    
+
+                    
+                    Formations en mécanique vélo
+                    Atelier , CREST
+                    Jeudi 29 juin 2017
+                    
+
+                                            
+                    
+                    Voyage Solidaire en Grèce
+                    Projection , CREST
+                    Vendredi 30 juin 2017
+                    
+
+                                            
+                    
+                    Concert de Morice Benin
+                    Concert , ESPENEL
+                    Vendredi 30 juin 2017
+                    
+
+                                            
+                    
+                    CREATIVITE ET SOI
+                    Atelier , CREST
+                    Samedi 01 juillet 2017
+                    
+
+                                            
+                    
+                    Regards Croisés : En route pour la transformation sociale et citoyenne
+                    Manifestation , SAILLANS
+                    du samedi 01 au dimanche 02 juillet 2017
+                    
+
+                    Diois                        
+                    
+                    LE MONDE SACRE DES AMERINDIENS
+                    Concert , CHATILLON-EN-DIOIS
+                    Samedi 24 juin 2017
+                    
+
+                    
+                    Duo Dezarno
+                    Concert , DIE
+                    Samedi 24 juin 2017
+                    
+
+                                            
+                    
+                    EXPOS Barbora PRECHOVA
+                    Exposition , SAINTE-CROIX
+                    du samedi 24 juin au jeudi 20 juillet 2017
+                    
+
+                                            
+                    
+                    Stage d'acroyoga
+                    Stage , CHATILLON-EN-DIOIS
+                    Dimanche 25 juin 2017
+                    
+
+                                            
+                    
+                    Formation démocratie locale
+                    Stage , DIE
+                    du jeudi 29 au vendredi 30 juin 2017
+                    
+
+                                            
+                    
+                    Concert CANTAVITA
+                    Concert , DIE
+                    Vendredi 30 juin 2017
+                    
+
+                                            
+                    
+                    THEATRE AU MONASTERE
+                    Spectacle , SAINTE-CROIX
+                    Vendredi 30 juin 2017
+                    
+
+                                            
+                    
+                    Cuir & Moustaches #4
+                    Concert , BARNAVE
+                    du samedi 01 au dimanche 02 juillet 2017
+                    
+
+                                            
+                    
+                    Hildegarde de Bingen
+                    Stage , DIE
+                    du samedi 01 au lundi 03 juillet 2017
+                    
+
+                    Val de Drôme                        
+                    
+                    Reflets
+                    Spectacle , EURRE
+                    Samedi 24 juin 2017
+                    
+
+                                            
+                    
+                    Marché Perché Tout Bio
+                    Marché , LIVRON-SUR-DROME
+                    Dimanche 25 juin 2017
+                    
+
+                                            
+                    
+                    atelier de constellations familales
+                    Atelier , SUZE
+                    Dimanche 25 juin 2017
+                    
+
+                                            
+                    
+                    Café-atelier
+                    Atelier , LIVRON-SUR-DROME
+                    Lundi 26 juin 2017
+                    
+
+                                            
+                    
+                    Stage "Créer son écoprojet"
+                    Stage , ROCHE-SUR-GRANE
+                    du lundi 26 juin au dimanche 02 juillet 2017
+                    
+
+                                            
+                    
+                    Déjeuner-atelier
+                    Atelier , LIVRON-SUR-DROME
+                    Jeudi 29 juin 2017
+                    
+
+                                            
+                    
+                    SEMINAIRE GRAINE DE JOIE - LE REVEIL
+                    Stage , MIRMANDE
+                    du vendredi 30 juin au dimanche 02 juillet 2017
+                    
+
+                                            
+                    
+                    Inauguration de L'Evidence - Bar à vin d'émotions 
+                    Fête , SUZE
+                    du samedi 01 au dimanche 02 juillet 2017
+                    
+
+                                            
+                    
+                    Vide Grenier
+                    Vide-grenier , LIVRON-SUR-DROME
+                    Dimanche 02 juillet 2017
+                    
+
+                                
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            offre d'emploi animateur
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Assistant animateur petite enfance
+                
+                    
+                    
+                                                        SAINT-NAZAIRE-LE-DESERT
+                    
+                    
+                
+                                    Tablette BlackBerry PlayBook 7" 64 Go Wi-Fi, Bluetooth
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Recherche endroit fermé pour garer une moto
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    stage clown
+                
+                    
+                    
+                                                        BARNAVE
+                    
+                    
+                
+                                    cherche remorque vélo
+                
+                    
+                    
+                                                        ROMEYER
+                    
+                    
+                
+                                    Cherche tondeuse  
+                
+                    
+                    
+                                                        BEAURIERES
+                    
+                    
+                
+                                    Stage Chant " la Voix de la Femme Soleil" Naître à son chant medecine
+                
+                    
+                    
+                                                        BOULC
+                    
+                    
+                
+                                    Stage de filage et tissage
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Ecole recherche lieu de stockage
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Recherche personne pour maintenance et ménage dans des appartements
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    vends hamac bébé
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        SAINT-ANDEOL
+                    
+                    
+                
+                                    Bahut en bois massif
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        SAINT-ANDEOL
+                    
+                    
+                
+                                    brocante
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    nom de la ficheStage : atelier de relance, chamanisme et création
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        PIEGROS-LA-CLASTRE
+                    
+                    
+                
+                                    Séjours de pleine nature enfant
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Cherche Remorque à louer/prêter
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Cherche a acceder a un composte en centre ville de crest 
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    vehicule pret
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Échange de maison
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    ensemble home cinéma / téléviseur 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    malle en fer à céder
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        SAILLANS
+                    
+                    
+                
+                                    cherche camion
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        MONTLAUR-EN-DIOIS
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Atelier Timur Ersen
+                Architecte/Artisan pisé : Conception et construction de bâtiments en pisé (terre crue)
+                
+                                        CREST
+                        Auto-entrepreneur                
+                
+                
+                            LAEP Bleu-Hamac
+                Lieu d'accueil Parents-Enfants
+                
+                                        DIE
+                                        
+                
+                
+                            Compagnie de l'Envol
+                
+                
+                                        CREST
+                        Association                
+                
+                
+                            Réseau autonomie Crest
+                Cultivons et récoltons notre autonomie !
+                
+                                        CREST
+                                        
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

@@ -1,0 +1,619 @@
+
+
+    
+        
+        Ensemble ici | #15 : Ensemble ici en Baronnies
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 03 au 13/10/2013
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						Bonjour,&nbsp;
+
+
+Le covoiturage vous int&eacute;resse ? Pour vous, votre village, votre quartier, votre lieu de travail, votre association,...
+
+L&#39;association &quot;Places libres&quot; est l&agrave; pour vous r&eacute;pondre !&nbsp;
+Une page de pr&eacute;sentation est diponible, en cliquant [ici]&nbsp;
+
+Nous vous invitons aussi &agrave; partager une soir&eacute;e covoiturage aux Pilanthropes, ce vendredi 4 octobre &agrave; partir de 20h30 aux Pilles.&nbsp;
+
+Bonne semaine,&nbsp;
+
+L&#39;&eacute;quipe &quot;Ensemble ici&quot;
+
+			Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici. Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site. Tous ensemble, solidaires, b&acirc;tissons cet outil d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, et bient&ocirc;t forums.		
+	
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+								Exposition de Sara de Neyman
+								Exposition , MONTBRUN-LES-BAINS
+								du mercredi 02 octobre au jeudi 28 novembre 2013
+						
+
+												
+													
+								Sortie Découverte Accompagnée à l'écoute du brame du cerf
+								promenade /  randonnée , MONTBRUN-LES-BAINS
+								Samedi 05 octobre 2013
+						
+
+												
+								Randonnée "Ventoux, Crêtes Est"
+								promenade /  randonnée , MONTBRUN-LES-BAINS
+								Jeudi 10 octobre 2013
+						
+
+					Pays de Buis-les-Baronnies							
+													
+								Soirée découverte avec Laurence De La Ferrière
+								Conférence , BUIS-LES-BARONNIES
+								Vendredi 11 octobre 2013
+						
+
+												
+													
+								Ciné Bui'Sport Nature
+								Projection , BUIS-LES-BARONNIES
+								du vendredi 11 au dimanche 13 octobre 2013
+						
+
+												
+													
+								Ciné conférence d'Arnaud Petit
+								Projection , BUIS-LES-BARONNIES
+								Samedi 12 octobre 2013
+						
+
+												
+								Matinée films sports extrêmes
+								Projection , BUIS-LES-BARONNIES
+								Samedi 12 octobre 2013
+						
+
+												
+													
+								Découverte de la nouvelle Via Ferrata
+								Atelier , BUIS-LES-BARONNIES
+								du samedi 12 au dimanche 13 octobre 2013
+						
+
+												
+													
+								Projection exceptionnelle de "Premier de cordée"
+								Atelier , BUIS-LES-BARONNIES
+								Dimanche 13 octobre 2013
+						
+
+					Pays de Rémuzat							
+													
+								Journée Portes Ouvertes à l'espace numérique
+								Manifestation , VERCLAUSE
+								Jeudi 03 octobre 2013
+						
+
+												
+													
+								Journée Portes Ouvertes à l'espace numérique
+								Manifestation , REMUZAT
+								Samedi 12 octobre 2013
+						
+
+					Val d'Eygues							
+													
+								LES CENT CIELS
+								Manifestation , NYONS
+								du dimanche 16 septembre 2012 au vendredi 10 juillet 2015
+						
+
+												
+													
+								Cyclos Nyonsais
+								Cours , NYONS
+								du dimanche 06 janvier au mardi 31 décembre 2013
+						
+
+												
+								Atelier de Relaxation et techniques psycho-corporelles
+								Atelier , NYONS
+								du mardi 01 octobre 2013 au jeudi 10 juillet 2014
+						
+
+												
+													
+								Soirée covoiturage aux Pilanthropes
+								Rencontre , LES PILLES
+								Vendredi 04 octobre 2013
+						
+
+												
+													
+								Radio M vous invite...
+								Rencontre , NYONS
+								Vendredi 04 octobre 2013
+						
+
+												
+													
+								Journée Portes Ouvertes à l'espace numérique
+								Manifestation , SAHUNE
+								Vendredi 04 octobre 2013
+						
+
+												
+													
+								Inscriptions Sortie Famille
+								Visite , NYONS
+								Lundi 07 octobre 2013
+						
+
+												
+								"La généalogie"
+								Conférence , NYONS
+								Lundi 07 octobre 2013
+						
+
+												
+													
+								Soirée cinémas d'Afrique
+								Projection , NYONS
+								Lundi 07 octobre 2013
+						
+
+												
+													
+								Journées Bien Manger pour tous !
+								Manifestation , NYONS
+								du jeudi 10 au jeudi 17 octobre 2013
+						
+
+												
+													
+								Dr Troll & Télépat
+								Spectacle , CONDORCET
+								Vendredi 11 octobre 2013
+						
+
+												
+								Soirée de présentation Nyons en Scène 2013-2014
+								Atelier , NYONS
+								Vendredi 11 octobre 2013
+						
+
+												
+													
+								Comité de lecture "Polar à Nyons"
+								Rencontre , NYONS
+								du vendredi 11 octobre au vendredi 15 novembre 2013
+						
+
+												
+								"Comprendre et accompagner nos adolescents"
+								Conférence , NYONS
+								Samedi 12 octobre 2013
+						
+
+												
+								Toupetituli
+								Conte , NYONS
+								Samedi 12 octobre 2013
+						
+
+					Ailleurs dans le coin							
+													
+								Exposition
+								Atelier , SERRES
+								du mardi 01 au samedi 12 octobre 2013
+						
+
+												
+													
+								Exposition - Manolo CERDAN
+								Exposition , LA MOTTE-CHALANCON
+								du mercredi 02 octobre au samedi 02 novembre 2013
+						
+
+												
+													
+								Fête du terroir du Rosanais
+								Fête , ROSANS
+								Samedi 05 octobre 2013
+						
+
+												
+													
+								Boeuf Musical
+								Rencontre , TOURRETTES
+								Samedi 05 octobre 2013
+						
+
+												
+													
+								Les Potiers de d'Argiles: 100 céramistes en Rhône-Alpes
+								Marché , DIEULEFIT
+								du samedi 05 au dimanche 06 octobre 2013
+						
+
+												
+													
+								30ème Foire Bio de Montfroc
+								Foire , MONTFROC
+								du samedi 05 au dimanche 06 octobre 2013
+						
+
+												
+													
+								REGLES CP2012- Construire en botte de paille avec une ossature bois et enduits a la terre
+								Atelier , EOURRES
+								du lundi 07 au vendredi 11 octobre 2013
+						
+
+												
+													
+								Festival du Film de Saint-Paul-Trois-Châteaux
+								Festival , SAINT-PAUL-TROIS-CHATEAUX
+								du samedi 12 au samedi 19 octobre 2013
+						
+
+												
+								Les fêtes des champignons 2013
+								Manifestation , LA MOTTE-CHALANCON
+								Dimanche 13 octobre 2013
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													garde d enfant
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													consommable pour imprimante Dell 
+							
+						
+						
+														LES PILLES
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+		
+			
+				
+			
+		
+	
+		
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Le Chat Botté
+								
+								Centre de loisirs 4-9ans
+							
+							
+															BUIS-LES-BARONNIES
+								Etablissement public							
+							
+						
+						
+														Prestinfo
+								
+								Julien Roux
+							
+							
+															VENTEROL
+								Etablissement privé							
+							
+						
+						
+														PLACES LIBRES
+								
+								covoiturage
+							
+							
+															CONDORCET
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+			
+				
+			
+				
+			
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

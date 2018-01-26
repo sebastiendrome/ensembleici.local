@@ -1,0 +1,836 @@
+
+
+
+    
+        
+        Ensemble ici | Lettre d'Ensemble Ici - Vallee de la Drome / Diois, 2016 #27 - 22 septembre
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Chers habitants et acteurs de la Vall&eacute;e, du Diois, toutes et tous acteurs locaux,  Encore de nombreux ateliers et activit&eacute;s propos&eacute;s dans cette lettre.  Agenda :&nbsp; un WE tr&egrave;s v&eacute;lo vous attends dans le Diois et &agrave; Die, avec la DieCyclette et la Dr&ocirc;moise. Un Comit&eacute; de ligne SNCF exceptionnel attend les habitants de la Vall&eacute;e &agrave; Saillans mercredi prochain : pour l'avenir du train dans la Vall&eacute;e, une belle f&ecirc;te pour les familles le 2 octobre &agrave; Mirabel et Blacon, et un &eacute;v&eacute;nement culturel exceptionnel &agrave; la For&ecirc;t de Sao&ucirc; le m&ecirc;me WE. Les annonces : entre autre de quoi pr&eacute;parer ses vacances de Toussaint...  N'h&eacute;sitez pas &agrave; d&eacute;noncer vos "bons plans", publiez un peu en avance les &eacute;v&eacute;nements que vous aimez et o&ugrave; vous serez !  Bonne semaine et bonne lecture,
+Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois
+                
+Rappel T&eacute;l&eacute;chargeable depuis cette lettre, en fichier PDF : - tous les &eacute;v&eacute;nements &agrave; venir dans les 10 jours, - toutes les annonces de ces derniers jours
+
+ Si vous appr&eacute;ciez Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois : soutenez-nous par votre adh&eacute;sion ! (lien vers la page d'adh&eacute;sion, ici)        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Crestois Pays de Saillans                        
+                    
+                    ATELIER DÉCOUVERTE COMMUNICATION CONSCIENTE
+                    Atelier , CREST
+                    Vendredi 23 septembre 2016
+                    
+
+                                            
+                    
+                    BIOGRAPHIE - ATELIERS DÉCOUVERTE CREST
+                    Conférence , CREST
+                    Vendredi 23 septembre 2016
+                    
+
+                                            
+                    
+                    Concert Matabiche - MéloDuo
+                    Concert , AOUSTE-SUR-SYE
+                    Samedi 24 septembre 2016
+                    
+
+                                            
+                    
+                    Natureland
+                    Concert , AUREL
+                    Samedi 24 septembre 2016
+                    
+
+                                            
+                    
+                    Soirée en plein air à la rencontre du monde et de ses luttes
+                    Manifestation , CREST
+                    Mercredi 28 septembre 2016
+                    
+
+                                            
+                    
+                    Comité de Ligne Luc en Diois Valence Exceptionnel 
+                    Rencontre , SAILLANS
+                    Mercredi 28 septembre 2016
+                    
+
+                                            
+                    
+                    Flux Riflo #3
+                    Concert , SAILLANS
+                    Jeudi 29 septembre 2016
+                    
+
+                                            
+                    
+                    soirée projection à la rencontre du monde et de ses luttes
+                    Projection , SAILLANS
+                    Vendredi 30 septembre 2016
+                    
+
+                                            
+                    
+                    Exposition Viviane BLIN  à la Galerie Espace Liberté CREST
+                    Exposition , CREST
+                    du vendredi 30 septembre au dimanche 23 octobre 2016
+                    
+
+                                            
+                    
+                    Ciné-Club au Temple de Saillans : Quête et enquête
+                    Projection , SAILLANS
+                    Samedi 01 octobre 2016
+                    
+
+                                            
+                    
+                    Stage de guitare
+                    Stage , AUREL
+                    du samedi 01 au dimanche 02 octobre 2016
+                    
+
+                                            
+                    
+                    Danse au Féminin entre force et douceur
+                    Stage , CREST
+                    Dimanche 02 octobre 2016
+                    
+
+                                            
+                    
+                    Fête Parent'Aise
+                    Fête , MIRABEL-ET-BLACONS
+                    Dimanche 02 octobre 2016
+                    
+
+                    &nbsp;Diois                        
+                    
+                    Concours de selfies spécial covoiturage
+                    Jeux , DIE
+                    du vendredi 16 au lundi 26 septembre 2016
+                    
+
+                                            
+                    
+                    CONCERT de SENOR MARKÜSEN
+                    Concert , DIE
+                    Vendredi 23 septembre 2016
+                    
+
+                                            
+                    
+                    Trio Velamos
+                    Concert , DIE
+                    Vendredi 23 septembre 2016
+                    
+
+                    
+                    QU'EST-CE QU'UN PEUPLE REVOLUTIONNAIRE ?
+                    Conférence , LUC-EN-DIOIS
+                    Vendredi 23 septembre 2016
+                    
+
+                                            
+                    
+                    Journée Portes Ouvertes du Club d'Escalade Les Caillasses
+                    journée d'information , DIE
+                    Samedi 24 septembre 2016
+                    
+
+                                            
+                    
+                    En piste pour la DieCyclette
+                    Fête , DIE
+                    Samedi 24 septembre 2016
+                    
+
+                                            
+                    
+                    Zone de gratuité 0-3 ans
+                    Manifestation , DIE
+                    Samedi 24 septembre 2016
+                    
+
+                                            
+                    
+                    Les Rétro Cyclettes
+                    Spectacle , DIE
+                    Samedi 24 septembre 2016
+                    
+
+                                            
+                    
+                    La Drômoise
+                    Fête , DIE
+                    Dimanche 25 septembre 2016
+                    
+
+                                            
+                    
+                    Au Coeur de sa voix
+                    Atelier , DIE
+                    Mardi 27 septembre 2016
+                    
+
+                                            
+                    
+                    Coeur d'hommes
+                    Atelier , DIE
+                    Mercredi 28 septembre 2016
+                    
+
+                                            
+                    
+                    EPN de LATELIER - "Les réseaux sociaux"
+                    Atelier , DIE
+                    Mercredi 28 septembre 2016
+                    
+
+                                            
+                    
+                    Présentation de la saison 2016/2017 du Théâtre de Die
+                    journée d'information , DIE
+                    Vendredi 30 septembre 2016
+                    
+
+                                            
+                    
+                    Rencontre autour de Graine de Savoir
+                    Fête , DIE
+                    Vendredi 30 septembre 2016
+                    
+
+                                            
+                    
+                    concert piano/chant lyrique
+                    Concert , DIE
+                    Samedi 01 octobre 2016
+                    
+
+                                            
+                    
+                    Fête de la Bière #4
+                    Fête , BARNAVE
+                    du samedi 01 au dimanche 02 octobre 2016
+                    
+
+                                            
+                    
+                    Rencontre du RADISEL
+                    Rencontre , DIE
+                    Dimanche 02 octobre 2016
+                    
+
+                    Val de Drôme                        
+                    
+                    Sur le chemin de Compost'elles
+                    Manifestation , EURRE
+                    du jeudi 22 septembre au jeudi 06 octobre 2016
+                    
+
+                                            
+                    
+                    Journée de la transition à l'Oasis de Serendip
+                    journée d'information , EURRE
+                    Samedi 24 septembre 2016
+                    
+
+                                            
+                    
+                    Journée Porte Ouverte du CIL
+                    journée d'information , LORIOL-SUR-DROME
+                    Samedi 24 septembre 2016
+                    
+
+                                            
+                    
+                    Atelier - découverte Juniper : "Apprendre la paix à l’école, c’est possible !"
+                    Atelier , ROCHE-SUR-GRANE
+                    Samedi 24 septembre 2016
+                    
+
+                                            
+                    
+                    Les Rencontres Essentielles - REPORTé en 2017
+                    Rencontre , EURRE
+                    du samedi 24 au dimanche 25 septembre 2016
+                    
+
+                                            
+                    
+                    Tiers-lieux lilO hors les murs
+                    journée d'information , LIVRON-SUR-DROME
+                    Mardi 27 septembre 2016
+                    
+
+                                            
+                    
+                    Stage Plantes sauvages de la Gervanne
+                    Stage , GIGORS-ET-LOZERON
+                    du vendredi 30 septembre au dimanche 02 octobre 2016
+                    
+
+                                            
+                    
+                    Saoû la Forêt, les Oiseaux
+                    Festival , SAOU
+                    du samedi 01 au dimanche 02 octobre 2016
+                    
+
+                    Retrouvez l'agenda complet sur www.ensembleici.fr...            
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            sèche linge à vendre
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        VAL-MARAVEL
+                    
+                    
+                
+                                    Cours Arts Plastiques
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Cherche peugeot partner pour pièces
+                
+                    
+                    
+                                                        CHATILLON-EN-DIOIS
+                    
+                    
+                
+                                    cherche ford transit pour pièces
+                
+                    
+                    
+                                                        CHATILLON-EN-DIOIS
+                    
+                    
+                
+                                    Colocation sur Romeyer
+                
+                    
+                    
+                                                        ROMEYER
+                    
+                    
+                
+                                    Recherche de logement dans les environs de Die
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Cours de guitare
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Danse libre  technique François Malkovsky
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Colocation 10 km de Die Vallée de Quint
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        SAINT-JULIEN-EN-QUINT
+                    
+                    
+                
+                                    PETITE YOURTE A VENDRE 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Je garde vos enfants !
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Activités et randonnées nature
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    ateliers EVEIL MUSICAL enfants 4 - 6 ans
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Méditation de pleine conscience Drôme
+                
+                    
+                    
+                                                        CLIOUSCLAT
+                    
+                    
+                
+                                    Cours de tournage d'art sur bois 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CHABRILLAN
+                    
+                    
+                
+                                    Chambre dans coloc
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Vends Peugeot 205
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        PONTAIX
+                    
+                    
+                
+                                    présentoir bois 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    affaires de sport de combat 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    luminothérapie 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    radiateur
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    methode saxophhone 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    PAPI PAGAILLE
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Atelier Vertige 
+                 Verre de Murano filé au chalumeau 
+                
+                                        CREST
+                        Auto-entrepreneur                
+                
+                
+                            compagnie Ascendances
+                
+                
+                                        BARNAVE
+                        Association                
+                
+                
+                            Terr'Idea - Savoirs de Territoires
+                Développement rural & Economie agricole
+                
+                                        SAILLANS
+                        Auto-entrepreneur                
+                
+                
+                            Galerie Espace Liberté
+                Association La Fabrique-Crest
+                
+                                        CREST
+                        Association                
+                
+                
+                            L'Atelier de Zita - clown de théâtre
+                DÉCOUVRE TON CLOWN ! ®
+                
+                                        AOUSTE-SUR-SYE
+                        Association                
+                
+                
+                            Charousse
+                Maison d'accueil, de stages et de séjours
+                
+                                        GIGORS-ET-LOZERON
+                        Etablissement privé                
+                
+                
+                            MJC-Centre social Nini Chaize
+                
+                
+                                        AOUSTE-SUR-SYE
+                        Association                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

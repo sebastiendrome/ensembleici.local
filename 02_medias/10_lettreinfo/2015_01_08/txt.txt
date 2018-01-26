@@ -1,0 +1,593 @@
+
+
+    
+        
+        Ensemble ici | # 2015-54 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 08 au 18/01/2015
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Ensemble, ici et l&agrave;, en hommage aux victimes de la trag&eacute;die de mercredi
+	et en soutien &agrave; libert&eacute; d&#39;expression, plusieurs rassemblements ont lieu aujourd&#39;hui et cette semaine pr&egrave;s de chez vous.
+	
+	
+	
+	L&#39;&eacute;quipe Ensemble Ici,
+	Nous sommes tous Charlie
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums, et bient&ocirc;t articles!
+	
+	
+		contact@ensembleici.fr
+
+		
+	
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								TABLE RONDE
+								Réunion , MONTBRUN-LES-BAINS
+								Dimanche 18 janvier 2015
+						
+
+					&nbsp;Pays de Buis-les-Baronnies							
+													
+								"Je suis Charlie"
+								Manifestation , BUIS-LES-BARONNIES
+								Samedi 10 janvier 2015
+						
+
+												
+													
+								Stage théâtre - Eric POIRIER
+								Stage , BUIS-LES-BARONNIES
+								Samedi 17 janvier 2015
+						
+
+												
+													
+								l'Olive et l'Huile en Fête
+								Repas , BUIS-LES-BARONNIES
+								du samedi 17 au dimanche 18 janvier 2015
+						
+
+					Pays de Rémuzat							
+													
+								La langue de bois
+								Spectacle , MONTREAL-LES-SOURCES
+								Samedi 10 janvier 2015
+						
+
+					&nbsp;Val d'Eygues							
+													
+								Vernissage de l’exposition « L’Album enchanté en chantier »
+								Exposition , NYONS
+								Samedi 10 janvier 2015
+						
+
+												
+													
+								"Je suis Charlie"
+								Manifestation , NYONS
+								Samedi 10 janvier 2015
+						
+
+												
+													
+								BULLES DOUCES pour mamans
+								Atelier , MONTAULIEU
+								du samedi 10 janvier 2015 au samedi 02 janvier 2016
+						
+
+												
+													
+								Les balades du tambourinaïre
+								Atelier , NYONS
+								du dimanche 11 janvier au jeudi 11 juin 2015
+						
+
+												
+													
+								La croisière de l'histoire entre la mer Adriatique et la mer Egée
+								Conférence , NYONS
+								Lundi 12 janvier 2015
+						
+
+												
+													
+								Conférence sur Les biotechnologies
+								Conférence , NYONS
+								Jeudi 15 janvier 2015
+						
+
+												
+													
+								Atelier vannerie 
+								Atelier , NYONS
+								du vendredi 16 au samedi 24 janvier 2015
+						
+
+												
+													
+								La Loi Veil a 40 ans
+								Atelier , NYONS
+								Samedi 17 janvier 2015
+						
+
+					Ailleurs dans le coin							
+													
+								Les mercredis LATINOS de La MARQUISE
+								Fête , GRIGNAN
+								du mercredi 17 décembre 2014 au jeudi 15 janvier 2015
+						
+
+												
+													
+								"Je suis Charlie"
+								Manifestation , VAISON-LA-ROMAINE
+								Jeudi 08 janvier 2015
+						
+
+												
+													
+								"Je suis Charlie"
+								Manifestation , VALREAS
+								Jeudi 08 janvier 2015
+						
+
+												
+													
+								"Je suis Charlie"
+								Manifestation , DIEULEFIT
+								Vendredi 09 janvier 2015
+						
+
+												
+													
+								VIDE GRENIER
+								Vide-grenier , SAINTE-CECILE-LES-VIGNES
+								Dimanche 11 janvier 2015
+						
+
+												
+													
+								Cours pour adultes de dessin et peinture
+								Atelier , SEGURET
+								du lundi 12 janvier au lundi 15 juin 2015
+						
+
+												
+													
+								forum des metiers et de lorientation
+								Foire , SAINT-PAUL-TROIS-CHATEAUX
+								Samedi 17 janvier 2015
+						
+
+												
+													
+								RYTM'&BOUFFE
+								Repas , SEGURET
+								Samedi 24 janvier 2015
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													APPARTEMENT A LOUER
+							
+						
+						
+														SAINT-SAUVEUR-GOUVERNET
+						
+						
+					
+					
+													Vends BX 1985 essence
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														FAUCON
+						
+						
+					
+					
+													cherche location ou colocation sur Nyons
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Cherche logement
+							
+						
+						
+														AUBRES
+						
+						
+					
+					
+													cherche voiture < 50 000 km
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													Recherche jongleurs de feu
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Atelier hebdomadaire Feldenkrais
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													VEND PEUGEOT 309
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Cherche emploi services à la personne / saison agricole
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													covoiturage Nyons/Les pilles
+							
+						
+						
+														NYONS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Initiatives locales pour l'emploi en baronnies
+								
+								
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														Association Familiale les Baronnies
+								
+								
+							
+							
+															BUIS-LES-BARONNIES
+								Association							
+							
+						
+						
+														Foyer des jeunes
+								
+								de La Motte Chalancon
+							
+							
+															LA MOTTE-CHALANCON
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+			
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

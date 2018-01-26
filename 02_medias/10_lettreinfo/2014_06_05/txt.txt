@@ -1,0 +1,978 @@
+
+
+    
+        
+        Ensemble ici | # 2014- 22 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 05 au 15/06/2014
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; tous,
+	&nbsp;
+
+	Jardin collectif, habitat partag&eacute;, covoiturage, repas de quartier...
+
+	&nbsp;
+
+	Pour agir ensemble, ici,&nbsp;nous vous rappelons que les forums th&eacute;matiques sont arriv&eacute;s !
+
+	N&#39;h&eacute;sitez pas &agrave; les utiliser pour &eacute;changer, rencontrer d&#39;autres personnes, proposer ou rejoindre des initiatives locales.
+
+	&nbsp;
+
+	Ils sont accessibles directement depuis la page d&#39;accueil du site&nbsp;www.ensembleici.fr
+	(Cliquer sur&nbsp;&quot;Acc&eacute;der aux forums&quot;)
+
+	
+	
+	Belle semaine,
+	
+	L&#39;Equipe Ensemble Ici !
+	&nbsp;
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums, et bient&ocirc;t articles!
+	
+	
+		contact@ensembleici.fr
+
+		
+	
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								Gratiféria
+								Vide-grenier , MONTBRUN-LES-BAINS
+								Dimanche 15 juin 2014
+						
+
+					&nbsp;Pays de Buis-les-Baronnies							
+													
+								Exposition "Dimanche Sans"
+								Exposition , BUIS-LES-BARONNIES
+								du vendredi 02 mai au vendredi 20 juin 2014
+						
+
+												
+													
+								Cinémoi
+								Projection , BUIS-LES-BARONNIES
+								Vendredi 06 juin 2014
+						
+
+												
+													
+								Ban du Tilleul
+								Marché , BENIVAY-OLLON
+								Samedi 07 juin 2014
+						
+
+												
+													
+								Spectacle en Chansons Mosaïque
+								Spectacle , BUIS-LES-BARONNIES
+								Samedi 07 juin 2014
+						
+
+												
+													
+								Un concert franco-belge et 100 % féminin
+								Concert , BESIGNAN
+								Dimanche 08 juin 2014
+						
+
+												
+													
+								Découverte botanique accompagnée
+								Visite , BUIS-LES-BARONNIES
+								Dimanche 08 juin 2014
+						
+
+												
+													
+								Sortie Famille ! Jardins de l'abbaye de Valsaintes
+								Visite , BUIS-LES-BARONNIES
+								Mercredi 11 juin 2014
+						
+
+												
+													
+								Théâtre voix 
+								Atelier , PROPIAC
+								Vendredi 13 juin 2014
+						
+
+												
+													
+								Concert Rock Blues
+								Concert , BEAUVOISIN
+								Samedi 14 juin 2014
+						
+
+												
+													
+								Premier Rallye Raid VTT du Tilleul
+								Performance , BUIS-LES-BARONNIES
+								Samedi 14 juin 2014
+						
+
+												
+													
+								Cueillette du Tilleul en Baronnies
+								Manifestation , BUIS-LES-BARONNIES
+								Samedi 14 juin 2014
+						
+
+												
+													
+								Fête votive
+								Fête , PLAISIANS
+								du samedi 14 au dimanche 15 juin 2014
+						
+
+					Pays de Rémuzat							
+													
+								Récital lyrique
+								Concert , LA MOTTE-CHALANCON
+								Samedi 07 juin 2014
+						
+
+												
+													
+								Marché fleuri
+								Marché , REMUZAT
+								Samedi 07 juin 2014
+						
+
+												
+													
+								INSTALL PARTY
+								Manifestation , VERCLAUSE
+								Samedi 07 juin 2014
+						
+
+					Val d'Eygues							
+													
+								Défilé de la Biennale de la danse de Lyon 
+								Festival , LES PILLES
+								du jeudi 09 janvier au mardi 23 septembre 2014
+						
+
+												
+													
+								Expo photo à l'Espace Roumanille
+								Exposition , NYONS
+								du lundi 02 au samedi 14 juin 2014
+						
+
+												
+													
+								Soirée 100% Brésil
+								Projection , NYONS
+								Vendredi 06 juin 2014
+						
+
+												
+													
+								Théâtre " La délicatesse des chiens"
+								Spectacle , LES PILLES
+								Samedi 07 juin 2014
+						
+
+												
+													
+								L'Olive en balade
+								Manifestation , NYONS
+								Samedi 07 juin 2014
+						
+
+												
+													
+								BOX IMPRO
+								Spectacle , NYONS
+								Samedi 07 juin 2014
+						
+
+												
+													
+								INSTALL PARTY
+								Manifestation , SAHUNE
+								Samedi 07 juin 2014
+						
+
+												
+													
+								Covoiturer... avec des enfants !
+								Festival , SAINTE-JALLE
+								Samedi 07 juin 2014
+						
+
+												
+													
+								Festival du vent et des enfants !
+								Festival , SAINTE-JALLE
+								Samedi 07 juin 2014
+						
+
+												
+													
+								Le petit marché de Venterol
+								Marché , VENTEROL
+								Samedi 07 juin 2014
+						
+
+												
+													
+								Journée de l' Archéologie
+								Atelier , NYONS
+								du samedi 07 au dimanche 08 juin 2014
+						
+
+												
+													
+								35 ème édition de la Randonnée des Oliviers
+								Performance , NYONS
+								du samedi 07 au lundi 09 juin 2014
+						
+
+												
+													
+								Concert du chœur européen de Vaison la romaine
+								Concert , NYONS
+								Dimanche 08 juin 2014
+						
+
+												
+													
+								Fête du vin
+								Fête , NYONS
+								Dimanche 08 juin 2014
+						
+
+												
+													
+								"La rencontre de l'immobile"
+								Concert , PIEGON
+								Dimanche 08 juin 2014
+						
+
+												
+													
+								Balade gourmande des terroirs de Vinsobres 
+								Promenade , VINSOBRES
+								Dimanche 08 juin 2014
+						
+
+												
+													
+								Vide Grenier
+								Vide-grenier , LES PILLES
+								Lundi 09 juin 2014
+						
+
+												
+													
+								Marché des producteurs
+								Marché , LES PILLES
+								Lundi 09 juin 2014
+						
+
+												
+													
+								On va voir les cochons !
+								Visite , SAINT-FERREOL-TRENTE-PAS
+								Mardi 10 juin 2014
+						
+
+												
+													
+								Journée plantes avec Jean Coudour 
+								Atelier , CURNIER
+								Jeudi 12 juin 2014
+						
+
+												
+													
+								Spectacle de fin d'année- Danse
+								Spectacle , NYONS
+								Vendredi 13 juin 2014
+						
+
+												
+													
+								Marché des producteurs
+								Marché , SAINTE-JALLE
+								Vendredi 13 juin 2014
+						
+
+												
+													
+								Concours de boules semi nocturne et nocturne 
+								Performance , SAINTE-JALLE
+								Vendredi 13 juin 2014
+						
+
+												
+													
+								Fête de l'Enfance
+								Fête , NYONS
+								Samedi 14 juin 2014
+						
+
+												
+													
+								Spectacle de fin d'année- Danse
+								Spectacle , NYONS
+								Samedi 14 juin 2014
+						
+
+												
+													
+								Mini Festival Musical
+								Festival , NYONS
+								Samedi 14 juin 2014
+						
+
+												
+													
+								Fête votive
+								Fête , AUBRES
+								du samedi 14 au dimanche 15 juin 2014
+						
+
+												
+													
+								Journée Portes Ouvertes du Club d'Escrime de Nyons
+								Atelier , NYONS
+								Dimanche 15 juin 2014
+						
+
+												
+													
+								Vide Grenier
+								Vide-grenier , SAINT-MAURICE-SUR-EYGUES
+								Dimanche 15 juin 2014
+						
+
+												
+													
+								NEXT BLOCK
+								Concert , VENTEROL
+								Dimanche 15 juin 2014
+						
+
+					Ailleurs dans le coin							
+													
+								Exposition : CORPS-HISTOIRE
+								Exposition , GRIGNAN
+								du samedi 12 avril au dimanche 06 juillet 2014
+						
+
+												
+													
+								EXPOSITION de DANIEL ROVALETTO
+								Exposition , SERRES
+								du vendredi 02 mai au mercredi 25 juin 2014
+						
+
+												
+													
+								Exposition Valérie Polizzano
+								Exposition , TAULIGNAN
+								du dimanche 01 au samedi 28 juin 2014
+						
+
+												
+													
+								Graine de Plaisir
+								Stage , DIEULEFIT
+								du lundi 02 juin 2014 au mardi 01 septembre 2015
+						
+
+												
+													
+								Festival musique d'un siècle
+								Festival , DIEULEFIT
+								du vendredi 06 au dimanche 08 juin 2014
+						
+
+												
+													
+								Journées de l'Archéologie
+								Visite , SAINT-PAUL-TROIS-CHATEAUX
+								du vendredi 06 au dimanche 08 juin 2014
+						
+
+												
+													
+								Initiation aux fouilles archéologiques
+								Atelier , LE PEGUE
+								Samedi 07 juin 2014
+						
+
+												
+													
+								Grand gala de danse 1001 danses
+								Performance , SAINT-PAUL-TROIS-CHATEAUX
+								Samedi 07 juin 2014
+						
+
+												
+													
+								Polyphonies Corses
+								Concert , SUZE-LA-ROUSSE
+								Samedi 07 juin 2014
+						
+
+												
+													
+								Biennale de la céramique
+								Exposition , CHANTEMERLE-LES-GRIGNAN
+								du samedi 07 au lundi 09 juin 2014
+						
+
+												
+													
+								Vide Grenier
+								Vide-grenier , BOURDEAUX
+								Dimanche 08 juin 2014
+						
+
+												
+													
+								ENSEMBLE VOCAL "FLORILEGE"
+								Concert , CLANSAYES
+								Dimanche 08 juin 2014
+						
+
+												
+													
+								Balade " Fontaine et bassins"
+								Promenade , DIEULEFIT
+								Dimanche 08 juin 2014
+						
+
+												
+													
+								Dieulefit dans son jardin
+								Foire , DIEULEFIT
+								Dimanche 08 juin 2014
+						
+
+												
+													
+								L’été des Peintres
+								Exposition , GRIGNAN
+								Dimanche 08 juin 2014
+						
+
+												
+													
+								Le Tour du Canton
+								Randonnée , GRIGNAN
+								Dimanche 08 juin 2014
+						
+
+												
+													
+								Initiation aux fouilles archéologiques
+								Atelier , LE PEGUE
+								Dimanche 08 juin 2014
+						
+
+												
+													
+								Les Journées Extra-Ordinaires
+								Spectacle , VALREAS
+								du jeudi 12 au dimanche 15 juin 2014
+						
+
+												
+													
+								Fête votive
+								Fête , SUZE-LA-ROUSSE
+								du vendredi 13 au dimanche 15 juin 2014
+						
+
+												
+													
+								Concert de Calm'Art
+								Concert , BOURDEAUX
+								Samedi 14 juin 2014
+						
+
+												
+													
+								Les Becs de Jazz
+								Concert , BOUVIERES
+								Samedi 14 juin 2014
+						
+
+												
+													
+								Journée mondiale du tricot
+								Foire , ROSANS
+								Samedi 14 juin 2014
+						
+
+												
+													
+								Muddy's street
+								Concert , ROSANS
+								Samedi 14 juin 2014
+						
+
+												
+													
+								25 ans de l'école de cirque Badaboum
+								Fête , VAISON-LA-ROMAINE
+								du samedi 14 au dimanche 15 juin 2014
+						
+
+												
+													
+								"Polar rock" lecture-concert
+								Lecture , GRIGNAN
+								Dimanche 15 juin 2014
+						
+
+												
+													
+								Concours d'élégance en automobile
+								Manifestation , GRIGNAN
+								Dimanche 15 juin 2014
+						
+
+												
+													
+								Balade de Tambourinaire à Trescléoux et Orpierre 
+								Randonnée , SERRES
+								Dimanche 15 juin 2014
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Colis barbecue !
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAINT-FERREOL-TRENTE-PAS
+						
+						
+					
+					
+													Plots terrasse bois
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														ROUSSET-LES-VIGNES
+						
+						
+					
+					
+													Donne tuiles
+							
+						
+						
+														AUBRES
+						
+						
+					
+					
+													Maison à partager !
+							
+						
+						
+														CURNIER
+						
+						
+					
+					
+													Lit parapluie
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Cherche location atelier
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													 WELT Histoires et chansons du Yiddishland
+							
+						
+						
+														GRILLON
+						
+						
+					
+					
+													Parcours Aventure
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+					
+													Covoiturage Verclause/Ardèche
+							
+						
+						
+														CHAUVAC-LAUX-MONTAUX
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														TESTE Vincent
+								
+								Prestations de services agricoles
+							
+							
+															NYONS
+								Auto-entrepreneur							
+							
+						
+						
+														LinguaFrance
+								
+								
+							
+							
+															NYONS
+								Auto-entrepreneur							
+							
+						
+						
+														Graine de plaisir
+								
+								Autour de la Naissance
+							
+							
+															DIEULEFIT
+								Association							
+							
+						
+						
+														Terre et Expression
+								
+								céramique
+							
+							
+															LES PILLES
+								Association							
+							
+						
+						
+														 EXPRESSION CERAMIQUE
+								
+								CERAMIQUE
+							
+							
+															LES PILLES
+															
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

@@ -1,0 +1,93 @@
+#contenu_page{
+	padding-bottom: 20px;
+}
+
+.row{
+	padding-top: 20px;
+}
+
+.bloc>div{
+	margin: 20px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+.row.multi_row .bloc + .bloc>div{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+input[type="button"].ico, input[type="submit"].ico, input[type="button"].ico:hover, input[type="submit"].ico:hover{
+	background-size: 450px 510px;
+}
+input[type="button"].ico, input[type="submit"].ico, input[type="button"].ico:hover, input[type="submit"].ico:hover{
+	padding: 0.2em 0.5em 0.2em 1em;
+	margin: 0.3em 0.3em;
+}
+input[type="button"].ico, input[type="submit"].ico{
+	color: rgb(68, 81, 87);
+	border: 1px solid rgb(68, 81, 87);
+	box-shadow: none;
+}
+input[type="button"].ico:hover, input[type="submit"].ico:hover{
+	color: #f7f7f7;
+	border: 1px solid #f7f7f7;
+	box-shadow: 0px 0px 0.5em rgb(68, 81, 87), 0px 0px 0.3em #f7f7f7;
+}
+
+/****
+	Il faut considérer que chaque ligne de l'image fait 30px
+****/
+
+.ico.editorial{background-position: 0px -4px;}
+	.ico.editorial:hover{background-position: -225px -4px;}
+.ico.agenda{background-position: 0px -34px;}
+	.ico.agenda:hover{background-position: -225px -34px;}
+.ico.annonce{background-position: 0px -64px;}
+	.ico.annonce:hover{background-position: -225px -64px;}
+.ico.repertoire{background-position: 0px -94px;}
+	.ico.repertoire:hover{background-position: -225px -94px;}
+.ico.forum{background-position: 0px -124px;}
+	.ico.forum:hover{background-position: -225px -124px;}
+
+.ico.desactiver{background-position: 0px -184px;}
+.ico.desactiver:hover{background-position: -225px -184px;}
+.ico.plus{background-position: 0px -214px;}
+	.ico.plus:hover{background-position: -225px -214px;}
+.ico.map{background-position: 0px -244px;}
+	.ico.map:hover{background-position: -225px -244px;}
+
+.ico.lettre{background-position: 0px -274px;}
+	.ico.lettre:hover{background-position: -225px -274px;}
+.ico.fleche{background-position: 0px -334px;}
+	.ico.fleche:hover{background-position: -225px -334px;}
+.ico.fleche_gauche{background-position: 0px -304px;}
+	.ico.fleche_gauche:hover{background-position: -225px -304px;}
+
+.ico.editer{background-position: 0px -364px;}
+	.ico.editer:hover{background-position: -225px -364px;}
+	
+.ico.deconnexion{background-position: 0px -424px;}
+	.ico.deconnexion:hover{background-position: -225px -424px;}
+.ico.connexion{background-position: 0px -454px;}
+	.ico.connexion:hover{background-position: -225px -454px;}
+.ico.nouveau_compte{background-position: 0px -484px;}
+	.ico.nouveau_compte:hover{background-position: -225px -484px;}
+
+
+a[href*="tel:"]{
+	pointer-events:none;
+	text-decoration:none;
+}
+
+
+.bloc.bleu>div, .bloc.gris_fonce>div, .bloc.rouge>div, .bloc.vert>div, .bloc.pomme>div, .bloc.orange>div{
+	border-radius: 3px;
+}
+
+.bloc.rouge.rectangle_haut>div{
+	border-radius: 0px 0px 3px 3px;
+}
+.bloc.gris_fonce.rectangle_bas>div{
+	border-radius: 3px 3px 0px 0px;
+}

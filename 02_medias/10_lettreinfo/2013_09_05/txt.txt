@@ -1,0 +1,570 @@
+
+
+    
+        
+        Ensemble ici | # 11 : Ensemble ici en Baronnies 
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 05 au 15/09/2013
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						Bonne rentr&eacute;e&nbsp;&agrave; tous,&nbsp;
+
+	Des &eacute;nergies militantes se font entendre aux quatre coins du territoire.&nbsp;
+	
+	Non,&nbsp;Le Cri cri de la Cigale&nbsp;n&#39;est pas mort !&nbsp;
+	Nous f&ecirc;terons sa rentr&eacute;e, Samedi 14 septembre au Th&eacute;&acirc;tre de Verdure &agrave; Nyons.&nbsp;
+	En recherche active de b&eacute;n&eacute;vole, ferez-vous parti de l&#39;aventure ?&nbsp;
+	Recherche b&eacute;n&eacute;vole - La Cigale &agrave; Nyons
+	
+	Ce week-end, La Valse des AS&nbsp;vous donne rendez-vous dans les ruelles et places de Valr&eacute;as.&nbsp;
+	Nous ne r&eacute;sistons &agrave; l&#39;envie de vous faire partager les quelques lignes de Beno&icirc;t Malet, directeur artistique de l&#39;&eacute;v&eacute;nement.&nbsp;
+	
+	Eh, dites&#39; :
+	
+		Les fronti&egrave;res ont boug&eacute;.&nbsp;
+		Dans les t&ecirc;tes ? pas encore mais quelque part, les fronti&egrave;res ont boug&eacute; (d&eacute;j&agrave; l&#39;an dernier, la ville a pivot&eacute; !).&nbsp;
+		D&#39;autres fronti&egrave;res doivent bouger &agrave; leur tour mais il faudra du temps.&nbsp;
+		Mais sommes nous pr&ecirc;ts, en r&eacute;alit&eacute; ?&nbsp; Avons-nous envie d&#39;&eacute;voluer, de s&#39;ouvrir, de retenter le pari du m&eacute;lange, du brassage des id&eacute;es et des genres ? Avons-nous encore l&#39;&eacute;lan n&eacute;cessaire &agrave; l&#39;&eacute;volution o&ugrave; sommes-nous finalement arriv&eacute;s au bout du bout, humains apeur&eacute;s et statiques supportant tout tant bien que mal sans se redresser, sans faire face.
+		Le d&eacute;bat n&#39;est pas ouvert, encore moins ici qu&#39;ailleurs.&nbsp;Il est donc urgent de le relancer, sans peur.&nbsp;C&#39;est l&agrave; le premier acte de l&#39;humain, signe positif du brassage des id&eacute;es qui fait avancer.
+	
+		20 ans, age tendre et plein.&nbsp;soyons.
+
+
+			Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici. Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site. Tous ensemble, solidaires, b&acirc;tissons cet outil d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, et bient&ocirc;t forums.		
+	
+
+
+	
+		
+			
+				
+				Pays de Buis-les-Baronnies							
+													
+								Exposition salle des Ursulines
+								Exposition , BUIS-LES-BARONNIES
+								du samedi 24 août au mercredi 11 septembre 2013
+						
+
+												
+													
+								GRATIFERIA
+								Marché , BUIS-LES-BARONNIES
+								Dimanche 08 septembre 2013
+						
+
+					Pays de Rémuzat							
+								Brocante et vide greniers
+								Vide-grenier , REMUZAT
+								Samedi 14 septembre 2013
+						
+
+					&nbsp;Val d'Eygues							
+													
+								Exposition A.M. Berruet
+								Exposition , NYONS
+								du lundi 02 au lundi 09 septembre 2013
+						
+
+												
+													
+								Ateliers de salsa
+								Manifestation , NYONS
+								du mardi 03 septembre 2013 au lundi 30 juin 2014
+						
+
+												
+													
+								"Un air de famille"
+								Spectacle , MONTAULIEU
+								Vendredi 06 septembre 2013
+						
+
+												
+								8 ème Forum des activités jeunesse
+								Foire , NYONS
+								Samedi 07 septembre 2013
+						
+
+												
+								Jeux divers et goûter
+								Rencontre , NYONS
+								Jeudi 12 septembre 2013
+						
+
+												
+								Journée "Portes Ouvertes" à l'UNTL
+								Rencontre , NYONS
+								Samedi 14 septembre 2013
+						
+
+												
+								visite commentée du chantier de réhabilitation du 3 septembre
+								Atelier , NYONS
+								Samedi 14 septembre 2013
+						
+
+												
+													
+								Le Cri cri de la Cigale 
+								Manifestation , NYONS
+								Samedi 14 septembre 2013
+						
+
+												
+								Vide-grenier 
+								Vide-grenier , NYONS
+								Samedi 14 septembre 2013
+						
+
+												
+													
+								Scène ouverte et projection en plein air
+								Projection , SAINT-FERREOL-TRENTE-PAS
+								Samedi 14 septembre 2013
+						
+
+												
+													
+								Opération de mise en valeur, réhabilitation d'ouvrage d'art
+								Performance , NYONS
+								du samedi 14 au dimanche 15 septembre 2013
+						
+
+												
+													
+								Les Journées européennes du Patrimoine
+								Manifestation , NYONS
+								du samedi 14 au dimanche 15 septembre 2013
+						
+
+					Ailleurs dans le coin							
+													
+								Exposition Lucie Meisson
+								Atelier , SERRES
+								du mardi 27 août au dimanche 08 septembre 2013
+						
+
+												
+													
+								2 ème Festival musical Buëch-Durance
+								Atelier , SERRES
+								du vendredi 30 août au dimanche 22 septembre 2013
+						
+
+												
+													
+								La Valse des AS
+								Festival , VALREAS
+								du vendredi 06 au samedi 07 septembre 2013
+						
+
+												
+													
+								Festival d'automne du THV Théâtre de la Haute Ville
+								Festival , VAISON-LA-ROMAINE
+								du vendredi 06 septembre au dimanche 27 octobre 2013
+						
+
+												
+								La voix, comment ça marche ?
+								Conférence , DIEULEFIT
+								Samedi 07 septembre 2013
+						
+
+												
+													
+								Forum des associations
+								Manifestation , VAISON-LA-ROMAINE
+								Dimanche 08 septembre 2013
+						
+
+												
+								Festival éclats : Le 9 ème tremplin découverte
+								Festival , DIEULEFIT
+								Lundi 09 septembre 2013
+						
+
+												
+													
+								Festival Éclats : Michel Jonasz en concert
+								Atelier , DIEULEFIT
+								Mardi 10 septembre 2013
+						
+
+												
+								Soirée spectaculaire
+								Spectacle , TAULIGNAN
+								Vendredi 13 septembre 2013
+						
+
+												
+													
+								Figures d'effroi : photos de Catherine De Clippel
+								Exposition , VAISON-LA-ROMAINE
+								du vendredi 13 septembre au vendredi 18 octobre 2013
+						
+
+												
+								Choeur féminin Calliopée
+								Concert , ROUSSET-LES-VIGNES
+								Samedi 14 septembre 2013
+						
+
+												
+													
+								Journées du patrimoine à Vaison-la-Romaine
+								Manifestation , VAISON-LA-ROMAINE
+								du samedi 14 au dimanche 15 septembre 2013
+						
+
+												
+													
+								ley ménestrié de provence
+								Concert , VISAN
+								Dimanche 15 septembre 2013
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Recherche outils de cuisine pour collectif
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													Reprise yoga
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Recherche bénévole - La Cigale à Nyons
+							
+						
+						
+														NYONS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														La Boucoule
+								
+								
+							
+							
+															MONTBRUN-LES-BAINS
+								société privée							
+							
+						
+						
+														Les petits plats d'Antaram
+								
+								
+							
+							
+															NYONS
+															
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+			
+				
+			
+				
+			
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

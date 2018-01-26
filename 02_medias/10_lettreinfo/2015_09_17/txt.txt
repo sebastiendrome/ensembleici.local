@@ -1,0 +1,695 @@
+
+
+    
+        
+        Ensemble ici | # 2015-38 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 17 au 27/09/2015
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous,
+	
+		&nbsp;
+	
+		Comme nous l&#39;avions annonc&eacute;, Ensemble Ici et RadiO&#39;live &eacute;taient pr&eacute;sents lors de la venue du crayon g&eacute;ant stop TTIP (ou Tafta) le mardi 8 septembre &agrave; Nyons.
+	
+		Mais au fait le Tafta, c&#39;est quoi ?
+		
+		Retour sur la journ&eacute;e et r&eacute;ponse du collectif Nyonsais Stop Tafta:
+		
+		[ Un reportage RadiO&#39;live sur Ensemble Ici ]
+	
+		
+		Belle semaine !
+	
+		
+			
+				
+					
+						
+						Rappel:
+						Rendez-vous le 26 Septembre&nbsp;&agrave; CURNIER !
+						Les initiatives en tout genre se multiplient sur le territoire.
+						On est de plus en plus nombreux &agrave; vouloir s&#39;impliquer et agir collectivement...
+						Alors il est temps de se rencontrer !
+					
+						Plus d&#39;infos en cliquant ICI
+						&nbsp;
+				
+			
+		
+	
+
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								A l'assaut du Fort
+								Randonnée , SEDERON
+								Dimanche 27 septembre 2015
+						
+
+					&nbsp;Val d'Eygues							
+													
+								Gymnastique sensorielle
+								Cours , NYONS
+								du mardi 15 septembre 2015 au mardi 28 juin 2016
+						
+
+												
+													
+								DANSE CONTEMPORAINE
+								Cours , NYONS
+								du mardi 15 septembre 2015 au mardi 28 juin 2016
+						
+
+												
+													
+								Exposition «Massif du Ventoux
+								Exposition , NYONS
+								du mercredi 16 au samedi 26 septembre 2015
+						
+
+												
+													
+								Itinérances. Parcours Photographique en pays de Nyons
+								Exposition , CURNIER
+								du jeudi 17 au dimanche 27 septembre 2015
+						
+
+												
+													
+								Expo-photo itinérances en pays de Nyons
+								Exposition , LES PILLES
+								du jeudi 17 au dimanche 27 septembre 2015
+						
+
+												
+													
+								Itinérances : Photographies d'Anna Puig Rosado
+								Exposition , VENTEROL
+								du jeudi 17 au dimanche 27 septembre 2015
+						
+
+												
+													
+								Dimlight
+								Concert , MONTAULIEU
+								Vendredi 18 septembre 2015
+						
+
+												
+													
+								Abeille Vinsobraise
+								Réunion , VINSOBRES
+								Vendredi 18 septembre 2015
+						
+
+												
+													
+								Stage de danse créative
+								Stage , NYONS
+								Samedi 19 septembre 2015
+						
+
+												
+													
+								Stage d'initiation à la Commedia Dell'Arte
+								Stage , NYONS
+								Samedi 19 septembre 2015
+						
+
+												
+													
+								Journées du patrimoine
+								Repas , LES PILLES
+								du samedi 19 au dimanche 20 septembre 2015
+						
+
+												
+													
+								Puces des Couturières
+								Vide-grenier , CURNIER
+								Dimanche 20 septembre 2015
+						
+
+												
+													
+								Concert de "Chansons Françaises" 
+								Concert , LES PILLES
+								Dimanche 20 septembre 2015
+						
+
+												
+													
+								Stage de théâtre pour adultes 
+								Stage , NYONS
+								Dimanche 20 septembre 2015
+						
+
+												
+													
+								La Bolha - Reprise des répétitions tous les mercredis
+								Atelier , AUBRES
+								du dimanche 20 septembre au dimanche 13 décembre 2015
+						
+
+												
+													
+								La rentrée à l' Atelier du Chouchalout
+								Atelier , LES PILLES
+								Mercredi 23 septembre 2015
+						
+
+												
+													
+								Se rencontrer pour agir !
+								Rencontre , CURNIER
+								Samedi 26 septembre 2015
+						
+
+												
+													
+								balade-lecture
+								Promenade , SAHUNE
+								Dimanche 27 septembre 2015
+						
+
+					Ailleurs dans le coin							
+													
+								Exposition de peintures Jean-Marc Boyer
+								Exposition , VISAN
+								du samedi 12 au mercredi 30 septembre 2015
+						
+
+												
+													
+								Reprise activités atelier théâtre de Sablet
+								Cours , SABLET
+								du mardi 15 septembre au vendredi 30 octobre 2015
+						
+
+												
+													
+								Ze Fiestival
+								Festival , MARSANNE
+								du jeudi 17 au samedi 19 septembre 2015
+						
+
+												
+													
+								Conférence Vieillissement et équilibre
+								Conférence , TAULIGNAN
+								Vendredi 18 septembre 2015
+						
+
+												
+													
+								Soirée jeu de société
+								Jeux , VISAN
+								Vendredi 18 septembre 2015
+						
+
+												
+													
+								Expositions d'art contemporain
+								Exposition , SERRES
+								du vendredi 18 au dimanche 20 septembre 2015
+						
+
+												
+													
+								Est-Ouest
+								Festival , DIE
+								du samedi 19 au lundi 28 septembre 2015
+						
+
+												
+													
+								Installation d'oeuvres de Carl Hurtin
+								Exposition , VISAN
+								du samedi 19 au mardi 29 septembre 2015
+						
+
+												
+													
+								Les Z'agriculturelles
+								Festival , DIEULEFIT
+								du samedi 19 septembre au samedi 10 octobre 2015
+						
+
+												
+													
+								EXPOSITION ENTRE INTIME ET AUTOPORTRAIT
+								Exposition , GRIGNAN
+								du samedi 19 septembre au dimanche 15 novembre 2015
+						
+
+												
+													
+								Concert ensemble Appogiatures
+								Concert , VISAN
+								Dimanche 20 septembre 2015
+						
+
+												
+													
+								Fête du sport et des associations
+								Fête , VISAN
+								Samedi 26 septembre 2015
+						
+
+												
+													
+								La Source
+								Spectacle , VAISON-LA-ROMAINE
+								Dimanche 27 septembre 2015
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Sport et santé à l'association Intervalle
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													concours photo Mon Parc naturel régional 
+							
+						
+						
+														SAHUNE
+						
+						
+					
+					
+													Service civique à Africultures
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													Ateliers d'éveil musical
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+					
+													YOGA en Joie et en douceur ! Les Pilles / Nyons 
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													YOGA à Nyons École 1001 Dance NOUVEAU! 
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													vends peugeot 206
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAINT-FERREOL-TRENTE-PAS
+						
+						
+					
+					
+													Recherche bénévole
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													chambre a louer
+							
+						
+						
+														ROUSSET-LES-VIGNES
+						
+						
+					
+					
+													Atelier Théâtre Adultes ou Enfants à Nyons
+							
+						
+						
+														NYONS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														BUIS SERVICES
+								
+								BRIGADE D INTERVENTION
+							
+							
+															BUIS-LES-BARONNIES
+								Auto-entrepreneur							
+							
+						
+						
+														ANAIS
+								
+								
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														ATELIER THEATRE DE SABLET
+								
+								Cours de théâtre, créations de spectacles, animations culturelles
+							
+							
+															SABLET
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

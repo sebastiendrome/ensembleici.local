@@ -1,0 +1,1127 @@
+
+
+    
+        
+        Ensemble ici | # 2014-27 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 10 au 20/07/2014
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; tous,
+	
+	&nbsp;
+
+	Ce week end c&#39;est la f&ecirc;te nationale ! Profitez de votre week end &agrave; rallonge pour sortir .... 
+	&nbsp;
+
+	
+	De nombreuses festivit&eacute;s sont &agrave; pr&eacute;voir dans nos vall&eacute;es, n&#39;h&eacute;sitez pas &agrave; consulter l&#39;agenda des &eacute;v&eacute;nements locaux sur le site Ensemble Ici pour savoir que faire ce week end ! 
+	&nbsp;
+
+	
+	Belle semaine,&nbsp;
+	
+	L&#39;Equipe Ensemble Ici !
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums, et bient&ocirc;t articles!
+	
+	
+		contact@ensembleici.fr
+
+		
+	
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								Deux petites dames vers le nord
+								Spectacle , SEDERON
+								Mardi 15 juillet 2014
+						
+
+												
+													
+								Vide Grenier
+								Vide-grenier , SEDERON
+								Dimanche 20 juillet 2014
+						
+
+												
+													
+								Festival Grandeur Nature
+								Festival , MONTBRUN-LES-BAINS
+								du dimanche 20 au jeudi 31 juillet 2014
+						
+
+					Pays de Buis-les-Baronnies							
+													
+								Les p'tits pestacles de l'été 2014
+								Spectacle , BUIS-LES-BARONNIES
+								du lundi 07 juillet au jeudi 21 août 2014
+						
+
+												
+													
+								Exposition : Photographies de Mélanie Rodriguez
+								Exposition , BUIS-LES-BARONNIES
+								du mercredi 09 juillet au dimanche 10 août 2014
+						
+
+												
+													
+								Opéra baroque "Didon et Enée" de H. Purcell
+								Spectacle , BUIS-LES-BARONNIES
+								Vendredi 11 juillet 2014
+						
+
+												
+													
+								Aromatiques et Tilleul en Baronnies
+								Marché , BUIS-LES-BARONNIES
+								Dimanche 13 juillet 2014
+						
+
+												
+													
+								Trésors de Provence
+								Concert , BUIS-LES-BARONNIES
+								Lundi 14 juillet 2014
+						
+
+												
+													
+								Viva BRAHMS
+								Concert , BUIS-LES-BARONNIES
+								Mardi 15 juillet 2014
+						
+
+												
+													
+								Concert de midi pour les enfants
+								Concert , BUIS-LES-BARONNIES
+								Mercredi 16 juillet 2014
+						
+
+												
+													
+								SCHUBERTIADE
+								Concert , BUIS-LES-BARONNIES
+								Jeudi 17 juillet 2014
+						
+
+												
+													
+								Une soirée viennoise
+								Concert , BUIS-LES-BARONNIES
+								Vendredi 18 juillet 2014
+						
+
+												
+													
+								"Marius" de Marcel Pagnol
+								Spectacle , ROCHE-SUR-LE-BUIS
+								Vendredi 18 juillet 2014
+						
+
+												
+													
+								"Marius" de Marcel PAGNOL
+								Spectacle , ROCHE-SUR-LE-BUIS
+								Samedi 19 juillet 2014
+						
+
+												
+													
+								Last RURBAN, l'Ultime SESSION
+								Festival , BUIS-LES-BARONNIES
+								du samedi 19 au dimanche 20 juillet 2014
+						
+
+												
+													
+								Exposition d'art textile et de porcelaine
+								Exposition , MOLLANS-SUR-OUVEZE
+								du dimanche 20 juillet au dimanche 03 août 2014
+						
+
+					&nbsp;Pays de Rémuzat							
+													
+								Exposition de peinture Catherine Cattin
+								Exposition , REMUZAT
+								du mardi 08 au dimanche 20 juillet 2014
+						
+
+												
+													
+								Contes en Musique à l'Auberge de l'Oule
+								Conte , CORNILLON-SUR-L'OULE
+								Vendredi 11 juillet 2014
+						
+
+												
+													
+								Cirque
+								Spectacle , LA MOTTE-CHALANCON
+								Vendredi 11 juillet 2014
+						
+
+												
+													
+								Concert avec Colline Serreau
+								Concert , LA MOTTE-CHALANCON
+								Samedi 12 juillet 2014
+						
+
+												
+													
+								Concert Trio Jâsé
+								Concert , LA MOTTE-CHALANCON
+								Mercredi 16 juillet 2014
+						
+
+					Val d'Eygues							
+													
+								Stage de clown avec Giora Seeliger
+								Stage , NYONS
+								du dimanche 06 au samedi 12 juillet 2014
+						
+
+												
+													
+								Stage de piano
+								Stage , CURNIER
+								du lundi 07 au jeudi 10 juillet 2014
+						
+
+												
+													
+								Stage d'Eté - Yoga
+								Stage , LES PILLES
+								du lundi 07 au vendredi 11 juillet 2014
+						
+
+												
+													
+								Curnier Plage
+								Jeux , CURNIER
+								du mardi 08 au vendredi 25 juillet 2014
+						
+
+												
+													
+								Soirée indienne
+								Spectacle , PIEGON
+								Vendredi 11 juillet 2014
+						
+
+												
+													
+								Concours de boules semi nocturne et nocturne 
+								Performance , SAINTE-JALLE
+								Vendredi 11 juillet 2014
+						
+
+												
+													
+								Marché des producteurs
+								Marché , SAINTE-JALLE
+								Vendredi 11 juillet 2014
+						
+
+												
+													
+								Mix trio en concert
+								Concert , VENTEROL
+								Vendredi 11 juillet 2014
+						
+
+												
+													
+								Parcours Artistique 2014
+								Exposition , VENTEROL
+								du vendredi 11 au dimanche 13 juillet 2014
+						
+
+												
+													
+								Sur la plage - Exposition
+								Exposition , NYONS
+								du vendredi 11 au dimanche 27 juillet 2014
+						
+
+												
+													
+								Fête d'été - Les Pilles
+								Fête , LES PILLES
+								Samedi 12 juillet 2014
+						
+
+												
+													
+								Cirque Anthony Rozel
+								Spectacle , LES PILLES
+								Samedi 12 juillet 2014
+						
+
+												
+													
+								Simples piétons
+								Concert , NYONS
+								Samedi 12 juillet 2014
+						
+
+												
+													
+								Journée "bonnes affaires"
+								Vide-grenier , NYONS
+								Samedi 12 juillet 2014
+						
+
+												
+													
+								Fête de Piégon La belle vendangeuse
+								Fête , PIEGON
+								Samedi 12 juillet 2014
+						
+
+												
+													
+								Pour faire la fête, on COvoiture ! par Places Libres
+								Fête , PIEGON
+								Samedi 12 juillet 2014
+						
+
+												
+													
+								Pour faire la fête, on COvoiture ! par Places Libres
+								Fête , LES PILLES
+								du samedi 12 au dimanche 13 juillet 2014
+						
+
+												
+													
+								Expo Frontières Nomades
+								Exposition , NYONS
+								du samedi 12 juillet au dimanche 24 août 2014
+						
+
+												
+													
+								Finale de la coupe du monde et feu d'artifice du 14 juillet
+								Fête , SAHUNE
+								Dimanche 13 juillet 2014
+						
+
+												
+													
+								Soupe au Pistou
+								Repas , VINSOBRES
+								Dimanche 13 juillet 2014
+						
+
+												
+													
+								Fête nationale
+								Fête , SAINTE-JALLE
+								du dimanche 13 au lundi 14 juillet 2014
+						
+
+												
+													
+								Mèchouï
+								Repas , MIRABEL-AUX-BARONNIES
+								Lundi 14 juillet 2014
+						
+
+												
+													
+								Sketch impro spécial fête nationale
+								Spectacle , NYONS
+								Lundi 14 juillet 2014
+						
+
+												
+													
+								Célébration de la fête nationale Nyons
+								Fête , NYONS
+								Lundi 14 juillet 2014
+						
+
+												
+													
+								Concours de la Longue & vide grenier
+								Vide-grenier , VINSOBRES
+								Lundi 14 juillet 2014
+						
+
+												
+													
+								On va voir les cochons !
+								Visite , SAINT-FERREOL-TRENTE-PAS
+								Mardi 15 juillet 2014
+						
+
+												
+													
+								Bidouilles aux champs
+								Stage , LES PILLES
+								du mardi 15 au vendredi 18 juillet 2014
+						
+
+												
+													
+								Observation du ciel
+								Visite , MIRABEL-AUX-BARONNIES
+								Mercredi 16 juillet 2014
+						
+
+												
+													
+								Peinturlure
+								Spectacle , NYONS
+								Mercredi 16 juillet 2014
+						
+
+												
+													
+								GRIEG Edvard: La mère chante
+								Concert , SAINTE-JALLE
+								Mercredi 16 juillet 2014
+						
+
+												
+													
+								Quatuor Eros
+								Concert , NYONS
+								Jeudi 17 juillet 2014
+						
+
+												
+													
+								Animation: "Un Goncourt à Nyons: Adrien Bertrand"
+								Manifestation , NYONS
+								Jeudi 17 juillet 2014
+						
+
+												
+													
+								Nuit divinique
+								Rencontre , VINSOBRES
+								Jeudi 17 juillet 2014
+						
+
+												
+													
+								Fête des Olivades
+								Fête , NYONS
+								du jeudi 17 au dimanche 20 juillet 2014
+						
+
+												
+													
+								Les rencontres des cinémas du monde
+								Projection , SAINTE-JALLE
+								du jeudi 17 au dimanche 20 juillet 2014
+						
+
+												
+													
+								Concert Mandela Day
+								Concert , NYONS
+								Vendredi 18 juillet 2014
+						
+
+												
+													
+								Journée Portes-Ouvertes - ANAIS
+								Vide-grenier , NYONS
+								Vendredi 18 juillet 2014
+						
+
+												
+													
+								Saôu chante Mozart
+								Concert , NYONS
+								Vendredi 18 juillet 2014
+						
+
+												
+													
+								Marché des producteurs
+								Marché , SAINTE-JALLE
+								Vendredi 18 juillet 2014
+						
+
+												
+													
+								Concours de boules semi nocturne et nocturne 
+								Performance , SAINTE-JALLE
+								Vendredi 18 juillet 2014
+						
+
+												
+													
+								Fête votive- Saint Férreol Trente Pas
+								Fête , SAINT-FERREOL-TRENTE-PAS
+								du vendredi 18 au dimanche 20 juillet 2014
+						
+
+												
+													
+								Pour faire la fête, on COvoiture ! par Places Libres
+								Fête , SAINT-FERREOL-TRENTE-PAS
+								du vendredi 18 au dimanche 20 juillet 2014
+						
+
+												
+													
+								Le Condor
+								Concert , NYONS
+								Samedi 19 juillet 2014
+						
+
+												
+													
+								Concert Chorale du delta
+								Concert , VINSOBRES
+								Samedi 19 juillet 2014
+						
+
+												
+													
+								Petit marché de St-Fé
+								Manifestation , SAINT-FERREOL-TRENTE-PAS
+								Dimanche 20 juillet 2014
+						
+
+					Ailleurs dans le coin							
+													
+								Exposition
+								Exposition , SERRES
+								du lundi 23 juin au mardi 15 juillet 2014
+						
+
+												
+													
+								Festival des Nuits de l'Enclave
+								Festival , VALREAS
+								du mardi 08 au jeudi 31 juillet 2014
+						
+
+												
+													
+								La terrasse des vingnerons
+								Visite , GRIGNAN
+								Vendredi 11 juillet 2014
+						
+
+												
+													
+								PLI FESTIVAL
+								Festival , PONT-DE-BARRET
+								du vendredi 11 au dimanche 13 juillet 2014
+						
+
+												
+													
+								Chapitre confrérie d'été St Vincent
+								Rencontre , VISAN
+								Samedi 12 juillet 2014
+						
+
+												
+													
+								Les vacances engagées du CCFD-Terre Solidaire
+								Rencontre , EYGALAYES
+								du samedi 12 au jeudi 17 juillet 2014
+						
+
+												
+													
+								Comité des Orgues- concert Uriel Valadeau
+								Concert , GRIGNAN
+								Dimanche 13 juillet 2014
+						
+
+												
+													
+								Promenade à la Péguière
+								Promenade , MONTMORIN
+								Dimanche 13 juillet 2014
+						
+
+												
+													
+								Musique Baroque Espagnole A La Cathédrale De Guatemala
+								Concert , RASTEAU
+								Dimanche 13 juillet 2014
+						
+
+												
+													
+								Fête nationale Taulignan
+								Fête , TAULIGNAN
+								Dimanche 13 juillet 2014
+						
+
+												
+													
+								Vide Grenier
+								Vide-grenier , TULETTE
+								Dimanche 13 juillet 2014
+						
+
+												
+													
+								EXPOSITION FLORENCE JOLY PEINTRE
+								Exposition , EPINE
+								du dimanche 13 au dimanche 20 juillet 2014
+						
+
+												
+													
+								Repas Fête nationale
+								Repas , TULETTE
+								Lundi 14 juillet 2014
+						
+
+												
+													
+								Fête nationale Visan
+								Fête , VISAN
+								Lundi 14 juillet 2014
+						
+
+												
+													
+								Stage de création "Paper people"
+								Stage , POET-LAVAL
+								du lundi 14 au jeudi 17 juillet 2014
+						
+
+												
+													
+								Chorale du DELTA dirigée par Coline Serreau
+								Concert , CLANSAYES
+								Mardi 15 juillet 2014
+						
+
+												
+													
+								Festival "Chemins de Pierre"
+								Festival , DIEULEFIT
+								du mardi 15 au jeudi 17 juillet 2014
+						
+
+												
+													
+								Musicales de grillon
+								Concert , VISAN
+								Mercredi 16 juillet 2014
+						
+
+												
+													
+								12ème Festival de Jazz de Serres
+								Festival , SERRES
+								du mercredi 16 au dimanche 27 juillet 2014
+						
+
+												
+													
+								Concert Chorale du delta
+								Concert , DIEULEFIT
+								Vendredi 18 juillet 2014
+						
+
+												
+													
+								5ème Festival de marionnettes aux Estampes
+								Festival , POET-LAVAL
+								du vendredi 18 au dimanche 20 juillet 2014
+						
+
+												
+													
+								Festival Offenbach connection
+								Concert , SAINT-PAUL-TROIS-CHATEAUX
+								du vendredi 18 au vendredi 25 juillet 2014
+						
+
+												
+													
+								Othello, variation pour trois acteurs
+								Spectacle , RASTEAU
+								Samedi 19 juillet 2014
+						
+
+												
+													
+								O'combien c'est raid 
+								Performance , DIEULEFIT
+								du samedi 19 au dimanche 20 juillet 2014
+						
+
+												
+													
+								Fête votive
+								Fête , SAINT-PANTALEON-LES-VIGNES
+								du samedi 19 au dimanche 20 juillet 2014
+						
+
+												
+													
+								LES PEINTRES A L'EPINE
+								Exposition , EPINE
+								Dimanche 20 juillet 2014
+						
+
+												
+													
+								Comité des Orgues- concert Frédéric Brun
+								Concert , GRIGNAN
+								Dimanche 20 juillet 2014
+						
+
+												
+													
+								Salon du marques pages et ex libris
+								Salon , GRIGNAN
+								Dimanche 20 juillet 2014
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Maison à partager !
+							
+						
+						
+														CURNIER
+						
+						
+					
+					
+													Cherche location atelier
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Cherche soudeur expérimenté
+							
+						
+						
+														ROUSSET-LES-VIGNES
+						
+						
+					
+					
+													Jument comtoise
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														VALOUSE
+						
+						
+					
+					
+													Cherche maison
+							
+						
+						
+														MONTAULIEU
+						
+						
+					
+					
+													Trancheuse à pain
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														REMUZAT
+						
+						
+					
+					
+													Cherche camping-car
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Vend canapé BZ neuf
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													APPART A LOUER
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAINT-FERREOL-TRENTE-PAS
+						
+						
+					
+					
+													URGENT - Offre d'emploi - Animateur/Animatrice
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Notes en bulles
+								
+								
+							
+							
+															BUIS-LES-BARONNIES
+								Association							
+							
+						
+						
+														Association de la Lyre
+								
+								Promotion culturelle, artistique et pédagogique
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														Association des anciens combatant de la résistance du Nyonsais
+								
+								
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														Compagnie Polichinelle
+								
+								théatre , musique , création artistique
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														Les moments musicaux de cacharel
+								
+								Promouvoir les musiques des  XVIIème et XVIIIème siècles en ProvenceUn concert tous les mois, le premier samedi du mois, de musique baroque des 16 ème et 17 ème siècle
+							
+							
+															RASTEAU
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

@@ -1,0 +1,841 @@
+
+
+
+    
+        
+        Ensemble ici | 	Lettre d'Ensemble Ici - Vallee de la Drome Diois. 2017 #37 - 22 Septembre
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Bonjour &agrave; toutes et &agrave; tous,
+Retrouvez ci-dessous les &eacute;v&eacute;nements et petites annonces pr&eacute;vus jusqu'au 1er octobre.
+Bonne lecture et &agrave; bient&ocirc;t !
+&nbsp;
+Etienne - Ensemble Ici Vall&eacute;e de la Dr&ocirc;me / Diois.
+&nbsp;
+Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois
+
+
+&nbsp;
+&nbsp;                
+Rappel T&eacute;l&eacute;chargeable depuis cette lettre, en fichier PDF, depuis le haut des 2 rubriques : - tous les &eacute;v&eacute;nements jusqu'au 2e WE &agrave; venir, - toutes les annonces de ces 30 derniers jours
+C'est vous qui publiez, modifier, compl&eacute;tez vos informations locales !
+Ensemble Ici : l'information par et pour les habitants de la Vall&eacute;e de la Dr&ocirc;me / Diois
+
+Vous&nbsp;appr&eacute;ciez Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois :
+&nbsp;"abonnement volontaire" / don mensuel&nbsp;
+Pour que l'animation du site puisse continuer,merci de votre soutien&nbsp;
+Adh&eacute;sion
+&nbsp;        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Crestois Pays de Saillans                        
+                    
+                     Pleine Conscience et Gestion des Émotions 
+                    Stage , SAILLANS
+                    du vendredi 22 au dimanche 24 septembre 2017
+                    
+
+                                            
+                    
+                    Robert MONTAUDOIN - … à fleur de peau … 
+                    Exposition , CREST
+                    du vendredi 22 septembre au dimanche 12 novembre 2017
+                    
+
+                                            
+                    
+                    L'AG des Amis d'Eugène et le concert de Jules Petit-Bidon
+                    Concert , CREST
+                    Samedi 23 septembre 2017
+                    
+
+                                            
+                    
+                    Forum des associations
+                    journée d'information , SAILLANS
+                    Samedi 23 septembre 2017
+                    
+
+                                            
+                    
+                    Fete des étoiles à Veronne
+                    Fête , VERONNE
+                    du samedi 23 au dimanche 24 septembre 2017
+                    
+
+                                            
+                    
+                    Fête des Possibles - Visite du jardin collectif aux Sétérées
+                    Atelier , CREST
+                    Dimanche 24 septembre 2017
+                    
+
+                                            
+                    
+                    Danse au Féminin
+                    Stage , CREST
+                    Dimanche 24 septembre 2017
+                    
+
+                                            
+                    
+                    Fête des Possibles - Portes Ouvertes au Jardin de L’Usine
+                    Atelier , CREST
+                    Lundi 25 septembre 2017
+                    
+
+                                            
+                    
+                    spectacle
+                    Concert , SAILLANS
+                    Vendredi 29 septembre 2017
+                    
+
+                                            
+                    
+                    Trio à cordes Compass
+                    Concert , AUREL
+                    Samedi 30 septembre 2017
+                    
+
+                                            
+                    
+                    Fête des Possibles - Circuit des arbres fruitiers à Crest
+                    Atelier , CREST
+                    Samedi 30 septembre 2017
+                    
+
+                                            
+                    
+                    Magie de la laine feutrée
+                    Atelier , PIEGROS-LA-CLASTRE
+                    Samedi 30 septembre 2017
+                    
+
+                                            
+                    
+                    L'Oignon fête l'automne
+                    Concert , SAILLANS
+                    Samedi 30 septembre 2017
+                    
+
+                    &nbsp;Diois                        
+                    
+                    CHACUN SON SUD
+                    Concert , SAINTE-CROIX
+                    Vendredi 22 septembre 2017
+                    
+
+                                            
+                    
+                    "SEJOUR A NE RIEN VOULOIR FAIRE"
+                    Rencontre , MISCON
+                    du vendredi 22 au dimanche 24 septembre 2017
+                    
+
+                                            
+                    
+                    Johnny Alone
+                    Spectacle , DIE
+                    Samedi 23 septembre 2017
+                    
+
+                                            
+                    
+                    Cyclisme artistique
+                    Spectacle , DIE
+                    Samedi 23 septembre 2017
+                    
+
+                                            
+                    
+                    En selle pour la DieCyclette 2017 !
+                    Fête , DIE
+                    Samedi 23 septembre 2017
+                    
+
+                                            
+                    
+                    Arytmetis ouvre ses portes
+                    Fête , DIE
+                    Samedi 23 septembre 2017
+                    
+
+                                            
+                    
+                    Concert "Miroirs Subtils"
+                    Concert , SAINT-JULIEN-EN-QUINT
+                    Samedi 23 septembre 2017
+                    
+
+                                            
+                    
+                    VIDE YOURTE
+                    Vide-grenier , BEAUMONT-EN-DIOIS
+                    du samedi 23 au dimanche 24 septembre 2017
+                    
+
+                                            
+                    
+                    Chi Kong, Taï Chi : COURS HEBDOS
+                    Atelier , DIE
+                    du lundi 25 septembre 2017 au jeudi 28 juin 2018
+                    
+
+                                            
+                    
+                    Devenir bénévole à l'atelier ABC
+                    Atelier , DIE
+                    Mardi 26 septembre 2017
+                    
+
+                                            
+                    
+                    Le Diois invite l'Europe
+                    Rencontre , DIE
+                    Mercredi 27 septembre 2017
+                    
+
+                                            
+                    
+                    Soirée brésilienne avec O Négo Branco
+                    Concert , DIE
+                    Jeudi 28 septembre 2017
+                    
+
+                                            
+                    
+                    Atelier d'introduction au Jardinage Ecologique
+                    Atelier , DIE
+                    Vendredi 29 septembre 2017
+                    
+
+                                            
+                    
+                    Soirée Vintage
+                    Concert , DIE
+                    Vendredi 29 septembre 2017
+                    
+
+                                            
+                    
+                    Concert Miroirs Subtils
+                    Concert , SAINT-JULIEN-EN-QUINT
+                    Vendredi 29 septembre 2017
+                    
+
+                                            
+                    
+                    Bulle de femmes
+                    Fête , AUCELON
+                    Samedi 30 septembre 2017
+                    
+
+                                            
+                    
+                    Concert des Valientes Gracias
+                    Concert , DIE
+                    Samedi 30 septembre 2017
+                    
+
+                                            
+                    
+                    Atelier Parents : En jeux
+                    Atelier , SAINT-NAZAIRE-LE-DESERT
+                    Samedi 30 septembre 2017
+                    
+
+                    
+                    stages d'initiations pédagogiques Montessori / Nuyts
+                    Stage , DIE
+                    du samedi 30 septembre au dimanche 01 octobre 2017
+                    
+
+                    
+                    Les enfants, Nouvelles générations
+                    Atelier , MARIGNAC-EN-DIOIS
+                    du samedi 30 septembre au dimanche 01 octobre 2017
+                    
+
+                                            
+                    
+                    Une approche du JARDIN ECOLOGIQUE - STAGE 2 jours
+                    Stage , VAL-MARAVEL
+                    du samedi 30 septembre au dimanche 01 octobre 2017
+                    
+
+                                            
+                    
+                    12 ème Fête mycologique 
+                    Manifestation , LUS-LA-CROIX-HAUTE
+                    Dimanche 01 octobre 2017
+                    
+
+                    &nbsp;Val de Drôme                        
+                    
+                    Formation compostage
+                    Stage , EURRE
+                    Vendredi 22 septembre 2017
+                    
+
+                                            
+                    
+                    Equinoxe
+                    Concert , GIGORS-ET-LOZERON
+                    Vendredi 22 septembre 2017
+                    
+
+                                            
+                    
+                    Troc de plantes & Grainothèque
+                    Rencontre , CHABRILLAN
+                    Samedi 23 septembre 2017
+                    
+
+                                            
+                    
+                    Fête des Amanins: Semons ensemble des possibles
+                    Fête , LA ROCHE-SUR-GRANE
+                    Samedi 23 septembre 2017
+                    
+
+                                            
+                    
+                    Matinée Portes Ouvertes
+                    journée d'information , LORIOL-SUR-DROME
+                    Samedi 23 septembre 2017
+                    
+
+                                            
+                    
+                    Programme MBSR Réduction du stress par la pleine conscience à Mirmande
+                    Réunion , MIRMANDE
+                    Jeudi 28 septembre 2017
+                    
+
+                                            
+                    
+                    Les Tartignolles
+                    Spectacle , CHABRILLAN
+                    Vendredi 29 septembre 2017
+                    
+
+                                            
+                    
+                    Expo Peinture
+                    Exposition , CHABRILLAN
+                    du vendredi 29 septembre au dimanche 05 novembre 2017
+                    
+
+                                            
+                    
+                    Conserves Lacto-Fermentées
+                    Atelier , GIGORS-ET-LOZERON
+                    du samedi 30 septembre au dimanche 15 octobre 2017
+                    
+
+                                            
+                    
+                    Vide Grenier
+                    Vide-grenier , LIVRON-SUR-DROME
+                    Dimanche 01 octobre 2017
+                    
+
+                    Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...            
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Emplacement en prêt
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Sac de chenevotte (chanvre)
+                
+                    
+                    
+                                                        PIEGROS-LA-CLASTRE
+                    
+                    
+                
+                                     lLoft écolo en campagne
+                
+                    
+                    
+                                                        PIEGROS-LA-CLASTRE
+                    
+                    
+                
+                                    professionnel(le) de la petite enfance
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Ateliers enfants / Coopcinelle
+                
+                    
+                    
+                                                        AOUSTE-SUR-SYE
+                    
+                    
+                
+                                    Offre emploi ADMR LE VELLAN
+                
+                    
+                    
+                                                        BEAUFORT-SUR-GERVANNE
+                    
+                    
+                
+                                    petite armoire
+                
+                    
+                    
+                                                        SAINT-ANDEOL
+                    
+                    
+                
+                                    Table
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        SAINT-ANDEOL
+                    
+                    
+                
+                                    buffet
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        SAINT-ANDEOL
+                    
+                    
+                
+                                    Lampe moyeu roue de charette
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        SAINT-ANDEOL
+                    
+                    
+                
+                                    Vente maison
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        MOLIERES-GLANDAZ
+                    
+                    
+                
+                                    Destockage Jeux
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Chaton à Adopter
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    chatons à donner
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    CHERCHE COVOITURAGE AIX EN PROVENCE
+                
+                    
+                    
+                                                        MONTLAUR-EN-DIOIS
+                    
+                    
+                
+                                    Vends Seat Inca 1.9L SDI
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        SAINT-ANDEOL
+                    
+                    
+                
+                                    Donne caravane
+                
+                    
+                    
+                                                        VACHERES-EN-QUINT
+                    
+                    
+                
+                                    Fête des possibles Val de Drôme
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    TROC ou VEND  PLAN DE TRAVAIL
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Le nouveau cours de Danse Bolas
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Appels aux bénévoles
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Récoltes en Création : stage Qi Gong, Marche et Arts Plastiques
+                
+                    
+                    
+                                                        BOULC
+                    
+                    
+                
+                                    Trajet Diois - MFR de Châteauneuf-sur-Isère
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

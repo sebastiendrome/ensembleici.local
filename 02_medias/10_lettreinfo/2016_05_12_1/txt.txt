@@ -1,0 +1,752 @@
+
+
+    
+        
+        Ensemble ici | # 2016-20 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 12 au 22/05/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous,
+
+Depuis bient&ocirc;t un an, notre association avec RadiO&#39;live permet de faire entendre la voix des habitants des Baronnies sur des sujets divers: racisme (cf. Du racisme de vitrine au racisme de comptoir&quot;), loi El Khomri (&eacute;coutable ici !) ou encore, tout nouvellement, l&#39;accueil de r&eacute;fugi&eacute;s dans le Nyonsais.
+
+Cela de mani&egrave;re peut-&ecirc;tre plus &quot;engag&eacute;e&quot;, mais parce que nous pensons qu&#39;il est plus que n&eacute;cessaire de se mobiliser aujourd&#39;hui ! Et pour cela, nous avons besoin de tous: habitants, acteurs locaux et collectivit&eacute;s.
+
+Nous vous rappelons qu&#39;il s&#39;agit d&#39;un projet citoyen et ind&eacute;pendant, en recherche permanente de financements pour les d&eacute;veloppements informatiques et l&#39;animation qu&#39;il n&eacute;cessite.
+
+Nous lan&ccedil;ons donc un appel &agrave; tous ceux qui souhaitent nous soutenir !
+
+Pour cela, deux mani&egrave;res:
+
+- Vie du projet, pour se renseigner et s&#39;investir &agrave; nos c&ocirc;t&eacute;s.
+
+- Faire un don, pour nous soutenir financi&egrave;rement.
+
+
+
+	D&#39;avance merci et belle semaine !
+	
+	L&#39;&eacute;quipe Ensemble Ici.
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+                
+        
+		
+			
+				
+				Pays de Buis-les-Baronnies							
+													
+								Concert du Quatuor Girard et Walter Grimmer 
+								Concert , BUIS-LES-BARONNIES
+								Vendredi 13 mai 2016
+						
+
+												
+													
+								ATEL MUZ
+								Concert , BUIS-LES-BARONNIES
+								Samedi 14 mai 2016
+						
+
+												
+													
+								LES LOINTAINES Festival musiques du monde
+								Festival , BUIS-LES-BARONNIES
+								Mercredi 18 mai 2016
+						
+
+												
+													
+								LES LOINTAINES
+								Festival , BUIS-LES-BARONNIES
+								Jeudi 19 mai 2016
+						
+
+												
+													
+								LES LOINTAINES
+								Festival , BEAUVOISIN
+								Vendredi 20 mai 2016
+						
+
+												
+													
+								LES LOINTAINES
+								Festival , BUIS-LES-BARONNIES
+								Samedi 21 mai 2016
+						
+
+												
+													
+								 ATELIER TRICOT NOMADE 
+								Atelier , BUIS-LES-BARONNIES
+								Samedi 21 mai 2016
+						
+
+					&nbsp;Pays de Rémuzat							
+													
+								Les Promenades du Tambourinaïre
+								Promenade , VILLEPERDRIX
+								Dimanche 15 mai 2016
+						
+
+												
+													
+								CARRte blanche à ALEXIA CARR
+								Spectacle , MONTREAL-LES-SOURCES
+								Samedi 21 mai 2016
+						
+
+					Val d'Eygues							
+													
+								Exposition NID D'ART
+								Exposition , NYONS
+								du dimanche 08 mai au dimanche 18 septembre 2016
+						
+
+												
+													
+								La Nuit Debout
+								Manifestation , NYONS
+								Jeudi 12 mai 2016
+						
+
+												
+													
+								STAGE DE CHANT CORSE
+								Stage , CHATEAUNEUF-DE-BORDETTE
+								du jeudi 12 au dimanche 15 mai 2016
+						
+
+												
+													
+								Conférence Concert
+								Conférence , LES PILLES
+								Vendredi 13 mai 2016
+						
+
+												
+													
+								25e foire éco biologique NATURELLEMENT !
+								Foire , NYONS
+								du vendredi 13 au dimanche 15 mai 2016
+						
+
+												
+													
+								Vide-greniers
+								Vide-grenier , AUBRES
+								Samedi 14 mai 2016
+						
+
+												
+													
+								TAGADA TSING
+								Concert , LES PILLES
+								Samedi 14 mai 2016
+						
+
+												
+													
+								Concert de Mike & Youssef [Blues]
+								Concert , NYONS
+								Samedi 14 mai 2016
+						
+
+												
+													
+								Françoise BOURDON en Dédicace
+								Rencontre , NYONS
+								Samedi 14 mai 2016
+						
+
+												
+													
+								Vide maison
+								Vide-grenier , PIEGON
+								du samedi 14 au lundi 16 mai 2016
+						
+
+												
+													
+								Xinarca, chants et cistre corses 
+								Concert , CHATEAUNEUF-DE-BORDETTE
+								Dimanche 15 mai 2016
+						
+
+												
+													
+								" Regards d'ailleurs"
+								Manifestation , VENTEROL
+								du dimanche 15 au lundi 16 mai 2016
+						
+
+												
+													
+								e-révisions
+								Atelier , SAHUNE
+								du mercredi 18 mai au mercredi 22 juin 2016
+						
+
+												
+													
+								A L'ECOLE de la FORET
+								Projection , MONTAULIEU
+								Jeudi 19 mai 2016
+						
+
+												
+													
+								"Le Sacre du Printemps" et "Shéhérazade"
+								Spectacle , NYONS
+								Samedi 21 mai 2016
+						
+
+												
+													
+								VIDE GRENIER DE LA MAISON CONSTANTIN
+								Vide-grenier , NYONS
+								Samedi 21 mai 2016
+						
+
+												
+													
+								MEDITATION PLEINE PRESENCE
+								Atelier , NYONS
+								Samedi 21 mai 2016
+						
+
+					Ailleurs dans le coin							
+													
+								concert CROONERS
+								Concert , VAISON-LA-ROMAINE
+								Vendredi 13 mai 2016
+						
+
+												
+													
+								Découverte des symboles gravés dans les chapelles du Pays de Grignan 
+								Visite , GRIGNAN
+								Samedi 14 mai 2016
+						
+
+												
+													
+								Lecture debout en réponse à l'appel international Nuit Debout
+								Lecture , BARRET-SUR-MEOUGE
+								Dimanche 15 mai 2016
+						
+
+												
+													
+								Concert de l'Ensemble Vocal "FLORILEGE"
+								Concert , CLANSAYES
+								Dimanche 15 mai 2016
+						
+
+												
+													
+								Marché aux vins de la nouvelle lune
+								Marché , SAINTE-CECILE-LES-VIGNES
+								Dimanche 15 mai 2016
+						
+
+												
+													
+								"EN COMPAGNIE DES POETES" 
+								Concert , VAISON-LA-ROMAINE
+								Dimanche 15 mai 2016
+						
+
+												
+													
+								"Merci Patron"
+								Projection , LACHAU
+								Lundi 16 mai 2016
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													recrutement familles de vacances
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+					
+													recrutement de familes d'accueil
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIEULEFIT
+						
+						
+					
+					
+													Location appartement
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Méditation Collective (gratuite)
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Fraises Bio
+							
+						
+						
+														MONTGUERS
+						
+						
+					
+					
+													recherche bottes de paille pour potager
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Récupèration essaim abeille
+							
+						
+						
+														MIRABEL-AUX-BARONNIES
+						
+						
+					
+					
+													Velo enfant
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													Massage Assis
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													CHALLENGE MOBILITE REGIONAL 2016
+							
+						
+						
+														EURRE
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														A saute-page
+								
+								Contes et lectures
+							
+							
+															CURNIER
+								Association							
+							
+						
+						
+														Le Temple
+								
+								Gestion et programmation culturelle
+							
+							
+															VENTEROL
+								Association							
+							
+						
+						
+														Vocalises Buissonnières 
+								
+								Promotion du chant et de la vocalité sous toutes ses formes
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														Les Ateliers du Vivant
+								
+								Se relier au Vivant par la création
+							
+							
+															MONTMAUR-EN-DIOIS
+								Auto-entrepreneur							
+							
+						
+						
+														Kate Fletcher Graphiste
+								
+								
+							
+							
+															DIE
+															
+							
+						
+						
+														Dojo Zen de Die
+								
+								Pratique de zazen
+							
+							
+															DIE
+								Association							
+							
+						
+						
+														Tiss'âges
+								
+								Lieu d'Accueil Enfants Parents
+							
+							
+															CREST
+								Association							
+							
+						
+						
+														ACCORDERIE DU PAYS DIOIS
+								
+								
+							
+							
+															DIE
+								Association							
+							
+						
+						
+														Restaurant Le Tchaïwalla
+								
+								Bio Végétarien
+							
+							
+															DIE
+								société privée							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

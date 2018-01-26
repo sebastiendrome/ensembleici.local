@@ -1,0 +1,768 @@
+
+
+    
+        
+        Ensemble ici | # 2016-17 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 21/04 au 01/05/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Ensemble, ici, pour des lendemains qui chantent !
+	
+	&nbsp;
+
+Cette semaine, Ensemble ici met en avant la jeunesse qui elle aussi s&#39;implique pour l&#39;avenir des Baronnies.
+
+
+	Ecoutez la derni&egrave;re &eacute;mission de RadiO&#39;live, &quot;Etre jeune dans le Nyonsais&quot;, enregistr&eacute;e &agrave; l&#39;occasion du 9e forum des activit&eacute;s jeunesse : un reportage pour valoriser les actions des jeunes sur le territoire. Cliquez ici !
+
+
+Et pour qu&#39;&agrave; l&#39;avenir Ensemble ici puisse continuer &agrave; exister, pensez &agrave; soutenir le projet en faisant un don ( c&#39;est par l&agrave; ! ). Si vous voulez que votre don devienne cotisation, signalez-le nous.
+
+	
+	&nbsp;
+
+	Belle semaine &agrave; toutes et &agrave; tous,
+	L&#39;&eacute;quipe Ensemble Ici Baronnies !
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+                
+        
+		
+			
+				
+				Hautes Baronnies							
+													
+								Les Aprem's Nature
+								Atelier , MEVOUILLON
+								du mardi 19 au jeudi 21 avril 2016
+						
+
+					&nbsp;Pays de Buis-les-Baronnies							
+													
+								Initiation à la CÉRAMIQUE
+								Stage , PLAISIANS
+								du vendredi 22 au dimanche 24 avril 2016
+						
+
+												
+													
+								CONTE A REBOURS
+								Spectacle , BUIS-LES-BARONNIES
+								Samedi 23 avril 2016
+						
+
+												
+													
+								EXPO-VENTE ET REPAS PARTAGE 
+								Marché , BUIS-LES-BARONNIES
+								Samedi 23 avril 2016
+						
+
+												
+													
+								buiscylette 2016
+								Randonnée , BUIS-LES-BARONNIES
+								du samedi 23 au dimanche 24 avril 2016
+						
+
+												
+													
+								De ferme en ferme
+								Fête , ROCHEBRUNE
+								du samedi 23 au dimanche 24 avril 2016
+						
+
+												
+													
+								2e bourse velo buiscyclette 2016
+								Vide-grenier , BUIS-LES-BARONNIES
+								Dimanche 24 avril 2016
+						
+
+												
+													
+								concours de boules
+								Manifestation , EYGALIERS
+								Dimanche 24 avril 2016
+						
+
+												
+													
+								La Cave du Troc, Votre Boutik' gratuite de Prêt à Porter et articles en tout genre!
+								Visite , MOLLANS-SUR-OUVEZE
+								du dimanche 24 au samedi 30 avril 2016
+						
+
+												
+													
+								AT(h)OME
+								Projection , BUIS-LES-BARONNIES
+								Lundi 25 avril 2016
+						
+
+												
+													
+								"Malaterra" de Roger PASTUREL - Nouvelle création du TELB - Mise en scène Roland PEYRON
+								Atelier , BUIS-LES-BARONNIES
+								Vendredi 29 avril 2016
+						
+
+												
+													
+								Conférence, Débats, Témoignages
+								Conférence , BEAUVOISIN
+								Samedi 30 avril 2016
+						
+
+												
+													
+								 ATELIER  TRICOT  NOMADE
+								Atelier , BUIS-LES-BARONNIES
+								Samedi 30 avril 2016
+						
+
+												
+													
+								Film "Malaterra"
+								Projection , BUIS-LES-BARONNIES
+								Samedi 30 avril 2016
+						
+
+					&nbsp;Pays de Rémuzat							
+													
+								Virginie Komaniecki
+								Conte , MONTREAL-LES-SOURCES
+								Samedi 30 avril 2016
+						
+
+												
+													
+								concert Rock
+								Concert , REMUZAT
+								Samedi 30 avril 2016
+						
+
+												
+													
+								Salon de l'harmonie 2016
+								Salon , LA MOTTE-CHALANCON
+								du samedi 30 avril au dimanche 01 mai 2016
+						
+
+					Val d'Eygues							
+													
+								LIVRES EN SCENES
+								Atelier , NYONS
+								du mercredi 20 au vendredi 22 avril 2016
+						
+
+												
+													
+								Soirée slam
+								Atelier , NYONS
+								Jeudi 21 avril 2016
+						
+
+												
+													
+								EXPOSITION
+								Exposition , VENTEROL
+								du jeudi 21 avril au dimanche 08 mai 2016
+						
+
+												
+													
+								Exposition au Temple à Venterol
+								Exposition , VENTEROL
+								du jeudi 21 avril au dimanche 08 mai 2016
+						
+
+												
+													
+								EDEN FEST Child
+								Atelier , NYONS
+								Vendredi 22 avril 2016
+						
+
+												
+													
+								EDEN FEST
+								Concert , NYONS
+								Vendredi 22 avril 2016
+						
+
+												
+													
+								Stage de voix
+								Atelier , LES PILLES
+								Samedi 23 avril 2016
+						
+
+												
+													
+								Vide grenier "spécial bébé" à Nyons
+								Vide-grenier , NYONS
+								Samedi 23 avril 2016
+						
+
+												
+													
+								Journée d'adoptions
+								Manifestation , PIEGON
+								Samedi 23 avril 2016
+						
+
+												
+													
+								Jazz AOC sextet
+								Concert , VINSOBRES
+								Samedi 23 avril 2016
+						
+
+												
+													
+								stage corps et voix
+								Atelier , MONTAULIEU
+								Mardi 26 avril 2016
+						
+
+												
+													
+								soirée italienne
+								Concert , CURNIER
+								Vendredi 29 avril 2016
+						
+
+												
+													
+								Ateliers Pleine Présence
+								Stage , LES PILLES
+								Samedi 30 avril 2016
+						
+
+												
+													
+								LA DAME BLANCHE + Tupan [Cumbia Urban Electro Hip Hop]
+								Concert , NYONS
+								Samedi 30 avril 2016
+						
+
+												
+													
+								Tour des Crêtes
+								Randonnée , VENTEROL
+								Dimanche 01 mai 2016
+						
+
+					Ailleurs dans le coin							
+													
+								 Stage Dieulefit  Avril 2016 ZEN QIQONG TAICHI CHUAN
+								Stage , DIEULEFIT
+								du samedi 16 au vendredi 22 avril 2016
+						
+
+												
+													
+								STAGE AIKIDO AVRIL 2016
+								Stage , DIEULEFIT
+								du lundi 18 au vendredi 22 avril 2016
+						
+
+												
+													
+								Soirée Haïti
+								Conférence , VALREAS
+								Vendredi 22 avril 2016
+						
+
+												
+													
+								Qi-Gong
+								Cours , VALREAS
+								Vendredi 22 avril 2016
+						
+
+												
+													
+								La louisiane était française
+								Débat , VISAN
+								Vendredi 22 avril 2016
+						
+
+												
+													
+								week-end tournage
+								Atelier , DIEULEFIT
+								du samedi 23 au dimanche 24 avril 2016
+						
+
+												
+													
+								Hôtel des 2 Mondes
+								Spectacle , VAISON-LA-ROMAINE
+								Dimanche 24 avril 2016
+						
+
+												
+													
+								Concert classique  du trio Pigaglio
+								Concert , VAISON-LA-ROMAINE
+								Dimanche 24 avril 2016
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Stage yoga et bien-être au Maroc
+							
+						
+						
+														SAHUNE
+						
+						
+					
+					
+													Cours de peinture
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														VALREAS
+						
+						
+					
+					
+													Jeune couple bientôt à la retraite cherche maison à louer
+							
+						
+						
+														CURNIER
+						
+						
+					
+					
+													recherche congélateur
+							
+						
+						
+														MONTAULIEU
+						
+						
+					
+					
+													RECHERCHE LIEU POUR CREER UNE ECOLE MONTESSORI
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Recherche cours d'accordéon
+							
+						
+						
+														ARPAVON
+						
+						
+					
+					
+													Graines de Kefir
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													Recherche maison isolée
+							
+						
+						
+														ROSANS
+						
+						
+					
+					
+													location appartement
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Association Familiale du Nyonsais
+								
+								
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														Laetitia Gaudefroy Colombot
+								
+								Créatrice Plasticienne - Art thérapeute
+							
+							
+															VENTEROL
+															
+							
+						
+						
+														cinéma Le reg'Art
+								
+								
+							
+							
+															BUIS-LES-BARONNIES
+								Association							
+							
+						
+						
+														REFLEXOLOGIE PLANTAIRE A DOMICILE
+								
+								
+							
+							
+															DIE
+															
+							
+						
+						
+														composy
+								
+								Formation - Communication - Consultant
+							
+							
+															DIE
+								SCOP							
+							
+						
+						
+														BIS USUS
+								
+								RESSOURCERIE/MATHERIAUTHEQUE
+							
+							
+															DIE
+								Association							
+							
+						
+						
+														Usine Vivante
+								
+								Tiers-Lieu à Crest
+							
+							
+															CREST
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

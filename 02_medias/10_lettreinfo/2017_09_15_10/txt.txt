@@ -1,0 +1,832 @@
+
+
+
+    
+        
+        Ensemble ici | 	La Lettre Ensemble Ici Pays de Dieulefit-Bourdeaux-Marsanne 2017#16
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Bonjour, bonjour, bonjour &agrave; toute(s)!
+C'est la lettre d'infos&nbsp;ensembleici.fr qui vous parle comme tous les 15 jours.Le mois de Septembre n'est pas moins charg&eacute; en animations et en &eacute;motions que l&rsquo;&eacute;t&eacute;. Deux festivals monumentaux du pays ont d&eacute;marr&eacute; cette semaine, quelle chance&nbsp;: le festival Eclat, festival de la voix qui se dote d'un nouveau site web &agrave; d&eacute;couvrir ici avec toute la programmation. Et puis Ze Fiestival avec une programmation &eacute;clectique comme &agrave; son habitude. A noter les entretiens sonores des directeurs de programmation de ces deux festivals &agrave; &eacute;couter en posdcasts sur le site de radioL&agrave;. La radio du pays qui se d&eacute;veloppe, donc en &eacute;coute tous les jours &agrave; 8h 12h et 19h le journal de RFI Monde et nombre d&rsquo;&eacute;missions propos&eacute;es toute la semaine. Pour en savoir plus ici
+Ce week end c'est aussi les journ&eacute;es du patrimoine dans ce cadre vous pourrez visiter entre autres:- Eglise de la Viale de Bourdeaux : de 15h &agrave; 19h - Chapelle Saint Jean de Crupies: ouverture de 14h30 &agrave; 17h30- Po&euml;t-C&eacute;lard : libre acc&egrave;s au ch&acirc;teau et &laquo; Eureka &raquo; de 14h &agrave; 17h- La fabrique de poterie de Cliousclat, nouvellement r&eacute;ouverteEt comme chaque ann&eacute;e la Municipalit&eacute; de Dieulefit a convi&eacute; les associations &agrave; un grand forum qui vous permettra de faire connaissance avec la multitude d'activit&eacute;s propos&eacute;es tout au long de l'ann&eacute;e. Le Samedi 16 septembre 2017 de 14h &agrave; 18h, RDV au gymnase du juncher (vieille route). Plus de 40 associations vous pr&eacute;senteront leurs actions et projets.
+On y sera, on vous attend pour vous parler de nous et vous enregistrer parler de vous!
+&nbsp;                
+Voici les infos des prochaines semaines dont vous trouvez le d&eacute;tail sur le site Ensemble ici. 
+La lettre d'info les petites annonces du territoire sont t&eacute;l&eacute;chargeables en PDF dans ce mail. 
+Il vous est ais&eacute; d'en ajouter via les formulaires du site.
+
+&nbsp;
+C'est vous qui publiez et alimentez les rubriques du site : ajoutez, modifier, compl&eacute;tez vos informations locales !
+
+
+Ensemble Ici : l'information par et pour les habitants du pays de Dieulefit-Bourdeaux et Marsanne.
+&nbsp;
+
+L'assocation Ici et Ailleurs est la structure juridique qui porte les projets Ensemble Ici - Pays de Dieulefit-Bourdeaux-Marsanne et RadioL&agrave;, la web-radio du pays de Dieulefit-Bourdeaux. 
+Nous avons besoin de votre soutien pour continuer nos actions: adh&eacute;rer
+
+
+&nbsp;
+Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d'info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, petites annonces, forums et articles! 
+Si vous souhaitez participer &agrave; la diffusion d&rsquo;Ensemble Ici sur le territoire de Dieulefit-Bourdeaux et Marsanne, merci de nous &eacute;crire &agrave; contact.pdb@ensembleici.fr
+&nbsp;
+        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Pays de Dieulefit-Bourdeaux et Marsanne                        
+                    
+                    Anne-Marie Jaccottet
+                    Exposition , GRIGNAN
+                    du samedi 09 septembre au dimanche 26 novembre 2017
+                    
+
+                                            
+                    
+                    « Éclats, festival de la voix au Pays de Dieulefit », du 13 au 17 septembre 2017, 17e édition.
+                    Festival , DIEULEFIT
+                    du mercredi 13 au dimanche 17 septembre 2017
+                    
+
+                                            
+                    
+                    Ze Fiestival 7
+                    Festival , MARSANNE
+                    du jeudi 14 au dimanche 17 septembre 2017
+                    
+
+                                            
+                    
+                    ROUBION # 3
+                    Concert , BONLIEU-SUR-ROUBION
+                    Samedi 16 septembre 2017
+                    
+
+                    
+                    Les Journées du Patrimoine à St Pantaléon
+                    Conférence , SAINT-PANTALEON-LES-VIGNES
+                    Dimanche 17 septembre 2017
+                    
+
+                                            
+                    
+                    Cours de danse Orientale, Tzigane et Yogadanse
+                    Cours , CRUPIES
+                    du lundi 18 septembre 2017 au vendredi 15 juin 2018
+                    
+
+                                            
+                    
+                    danse africaine à Dieulefit
+                    Cours , DIEULEFIT
+                    Mardi 19 septembre 2017
+                    
+
+                                            
+                    
+                    Soirée Astronomie Musiflore
+                    Atelier , CRUPIES
+                    Vendredi 22 septembre 2017
+                    
+
+                    Ailleurs dans le coin                        
+                    
+                    Programmation 2017-2018
+                    Spectacle , VALREAS
+                    du vendredi 15 septembre 2017 au dimanche 22 juillet 2018
+                    
+
+                                            
+                    
+                    Concert des valientes Gracias
+                    Concert , SAINT-JULIEN-EN-SAINT-ALBAN
+                    Samedi 16 septembre 2017
+                    
+
+                                            
+                    
+                    HOMMAGE A FERNANDEL - Dimanche 17/9
+                    Spectacle , VAISON-LA-ROMAINE
+                    Dimanche 17 septembre 2017
+                    
+
+                                            
+                    
+                    Sortie à Beaucaire
+                    Visite , GRILLON
+                    Jeudi 21 septembre 2017
+                    
+
+                                            
+                    
+                    LE BAL DES CUISINIERES
+                    Spectacle , VAISON-LA-ROMAINE
+                    Vendredi 22 septembre 2017
+                    
+
+                                            
+                    
+                    Serres Lez'arts
+                    Exposition , SERRES
+                    du vendredi 22 au dimanche 24 septembre 2017
+                    
+
+                                            
+                    
+                    EXPÉRIMENTER LE TRAVAIL BIOGRAPHIQUE
+                    Conférence , GRILLON
+                    Samedi 23 septembre 2017
+                    
+
+                                            
+                    
+                    Atelier thérapeutique
+                    Stage , MONTELIMAR
+                    Samedi 23 septembre 2017
+                    
+
+                                            
+                    
+                    La langue d'Anna
+                    Spectacle , VALREAS
+                    Samedi 23 septembre 2017
+                    
+
+                                            
+                    
+                    DUO ACANTHE
+                    Spectacle , VAISON-LA-ROMAINE
+                    Dimanche 24 septembre 2017
+                    
+
+                                            
+                    
+                    Fondation groupe ZEROWASTE Drôme Ardêche
+                    Réunion , VALENCE
+                    Dimanche 24 septembre 2017
+                    
+
+                    Pays de Buis-les-Baronnies                        
+                    
+                    Notes en Bulles au forum des assos de Buis
+                    Rencontre , BUIS-LES-BARONNIES
+                    Samedi 16 septembre 2017
+                    
+
+                    
+                    Atelier : fabrication de sirops maison
+                    Concert , MOLLANS-SUR-OUVEZE
+                    Samedi 16 septembre 2017
+                    
+
+                                            
+                    
+                    MEMOIRE DES GUERRES: VISITE GUIDEE DES LIEUX DE MEMOIRE 14-18/39-45
+                    Visite , BUIS-LES-BARONNIES
+                    du samedi 16 au dimanche 17 septembre 2017
+                    
+
+                                            
+                    
+                    TOUT POUR TOUS 
+                    Festival , BUIS-LES-BARONNIES
+                    du vendredi 22 au dimanche 24 septembre 2017
+                    
+
+                    
+                    Concert : L'unique femme orchestre
+                    Concert , MOLLANS-SUR-OUVEZE
+                    Samedi 23 septembre 2017
+                    
+
+                    Val d'Eygues                        
+                    
+                    YOGA, DETENTE, BIEN-ETRE
+                    Cours , NYONS
+                    du lundi 11 septembre 2017 au lundi 01 juillet 2019
+                    
+
+                    
+                    FILM VIVRE ENSEMBLE
+                    Projection , NYONS
+                    Vendredi 15 septembre 2017
+                    
+
+                                            
+                    
+                    Ecole de Musique de Nyons
+                    journée d'information , NYONS
+                    Samedi 16 septembre 2017
+                    
+
+                                            
+                    
+                     COURS DE FITNESS A CURNIER
+                    Cours , CURNIER
+                    Lundi 18 septembre 2017
+                    
+
+                                            
+                    
+                    Les virades de l'espoir
+                    Manifestation , CURNIER
+                    du samedi 23 au dimanche 24 septembre 2017
+                    
+
+                    Crestois Pays de Saillans                        
+                    
+                    ciné casse-croûte 
+                    Projection , AOUSTE-SUR-SYE
+                    Vendredi 15 septembre 2017
+                    
+
+                                            
+                    
+                    apéro guinguette d'Archijeux
+                    Jeux , CREST
+                    Vendredi 15 septembre 2017
+                    
+
+                                            
+                    
+                    STAGE DE GÉOBIOLOGIE
+                    Stage , ESPENEL
+                    Samedi 16 septembre 2017
+                    
+
+                                            
+                    
+                    L’Eveil de la Permaculture : Projection - débat à l’EDEN Crest
+                    Projection , CREST
+                    Lundi 18 septembre 2017
+                    
+
+                                            
+                    
+                    Dessin, peinture & connaissance de soi
+                    Atelier , CREST
+                    Mardi 19 septembre 2017
+                    
+
+                                            
+                    
+                    Séance d'essai cours de cirque Parent-Enfant (3-5ans) : Le mardi 19 septembre de 17h30 à 18h30
+                    Cours , CREST
+                    Mardi 19 septembre 2017
+                    
+
+                                            
+                    
+                    Séance d'essai - Cours de cirque Parent-Enfant (3-5ans) à Aouste le Mercredi 20 septembre de 9h45-10h45 ou 17h-18h
+                    Cours , AOUSTE-SUR-SYE
+                    Mercredi 20 septembre 2017
+                    
+
+                                            
+                    
+                    Ateliers Découverte Mouvement ROSEN
+                    Atelier , CREST
+                    Mercredi 20 septembre 2017
+                    
+
+                                            
+                    
+                    Journées "Portes ouvertes" Maison de services au public
+                    journée d'information , SAILLANS
+                    du jeudi 21 au samedi 23 septembre 2017
+                    
+
+                                            
+                    
+                     Pleine Conscience et Gestion des Émotions 
+                    Stage , SAILLANS
+                    du vendredi 22 au dimanche 24 septembre 2017
+                    
+
+                                            
+                    
+                    Forum des associations
+                    journée d'information , SAILLANS
+                    Samedi 23 septembre 2017
+                    
+
+                    Diois                        
+                    
+                    Yeah ! Un concert à la Chaudière
+                    Concert , DIE
+                    du vendredi 15 au samedi 16 septembre 2017
+                    
+
+                                            
+                    
+                    CHACUN SON SUD
+                    Concert , SAINTE-CROIX
+                    Vendredi 22 septembre 2017
+                    
+
+                                            
+                    
+                    "SEJOUR A NE RIEN VOULOIR FAIRE"
+                    Rencontre , MISCON
+                    du vendredi 22 au dimanche 24 septembre 2017
+                    
+
+                    Val de Drôme                        
+                    
+                    Journées du Patrimoine 
+                    Manifestation , CHABRILLAN
+                    du samedi 16 au dimanche 17 septembre 2017
+                    
+
+                    
+                    Journées Européennes du Patrimoine
+                    Exposition , LIVRON-SUR-DROME
+                    du samedi 16 au dimanche 17 septembre 2017
+                    
+
+                                            
+                    
+                    Formation compostage
+                    Stage , EURRE
+                    Vendredi 22 septembre 2017
+                    
+
+                                            
+                    
+                    Troc de plantes & Grainothèque
+                    Rencontre , CHABRILLAN
+                    Samedi 23 septembre 2017
+                    
+
+                                            
+                    
+                    Fête des Amanins: Semons ensemble des possibles
+                    Fête , LA ROCHE-SUR-GRANE
+                    Samedi 23 septembre 2017
+                    
+
+                    Chabeuil                        
+                    
+                    KALUWO
+                    Concert , CHATEAUDOUBLE
+                    Samedi 23 septembre 2017
+                    
+
+                    &nbsp;Pays de l'Herbasse                        
+                    
+                    Que Dios Nos Perdone (film)
+                    Projection , SAINT-DONAT-SUR-L'HERBASSE
+                    Mardi 19 septembre 2017
+                    
+
+                    &nbsp;Pays de Romans                        
+                    
+                    Festival du Polar
+                    Festival , ROMANS-SUR-ISERE
+                    du vendredi 15 au dimanche 17 septembre 2017
+                    
+
+                                            
+                    
+                    Atelier Radio 
+                    Atelier , ROMANS-SUR-ISERE
+                    Jeudi 21 septembre 2017
+                    
+
+                    Retrouvez l'agenda complet sur www.ensembleici.fr...            
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Cours de yoga
+                
+                    
+                    
+                                                        VAISON-LA-ROMAINE
+                    
+                    
+                
+                                    Offre emploi ADMR LE VELLAN
+                
+                    
+                    
+                                                        BEAUFORT-SUR-GERVANNE
+                    
+                    
+                
+                                    Vente maison
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        MOLIERES-GLANDAZ
+                    
+                    
+                
+                                    Destockage Jeux
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Fête des possibles Val de Drôme
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Le nouveau cours de Danse Bolas
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Récoltes en Création : stage Qi Gong, Marche et Arts Plastiques
+                
+                    
+                    
+                                                        BOULC
+                    
+                    
+                
+                                    Cours de C.A.F. et STEP
+                
+                    
+                    
+                                                        LA ROCHE-SAINT-SECRET-BECONNE
+                    
+                    
+                
+                                    Vends poêle de masse ancien
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Viens chanter à la CAVE !
+                
+                    
+                    
+                                                        SAHUNE
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Maison des Vautours
+                
+                
+                                        REMUZAT
+                        Association                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+    Le collectif "Ensemble ici" :
+
+        
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

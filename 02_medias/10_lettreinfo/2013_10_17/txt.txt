@@ -1,0 +1,585 @@
+
+
+    
+        
+        Ensemble ici | # 17 : Ensemble Ici en Baronnies
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 17 au 27/10/2013
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						Bonjour,
+
+Ce week-end,&nbsp; le Syndicat mixte des Baronnies Proven&ccedil;ales propose aux acteurs de ce territoire mais aussi du pays &quot;Une Autre Provence&quot; de se rencontrer autour des th&eacute;matiques comme l&#39;audiovisuel, les chantiers de jeunes, le spectacle vivant, la toponymie ou les m&eacute;tiers d&#39;art et de terroir...
+
+Venez rencontrer les acteurs culturels locaux et dessiner des actions communes lors de ce 4e forum culturel des Baronnies Proven&ccedil;ales, samedi de 11h30 &agrave; 18h30 &agrave; la salle des f&ecirc;tes de Laragne Mont&eacute;glin!
+
+Belle semaine &agrave; tous,
+
+L&#39;&eacute;quipe &quot;Ensemble Ici&quot;			Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici. Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site. Tous ensemble, solidaires, b&acirc;tissons cet outil d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, et bient&ocirc;t forums.		
+	
+
+
+	
+		
+			
+				
+				Pays de Buis-les-Baronnies							
+													
+								Concert KARIMOUCHE + FAMILY CHEAP + METAMEC
+								Concert , BUIS-LES-BARONNIES
+								du samedi 26 au dimanche 27 octobre 2013
+						
+
+												
+													
+								Albertine en cinq temps
+								Spectacle , BUIS-LES-BARONNIES
+								Dimanche 27 octobre 2013
+						
+
+					Val d'Eygues							
+													
+								Journées sur la flore locale
+								Rencontre , CURNIER
+								du samedi 05 octobre au mardi 26 novembre 2013
+						
+
+												
+													
+								Programme des événements du CEDER
+								Visite , NYONS
+								du jeudi 10 octobre au samedi 30 novembre 2013
+						
+
+												
+													
+								Stage de restauration de murs en pierre sèche
+								Stage , CHATEAUNEUF-DE-BORDETTE
+								du mardi 15 au vendredi 18 octobre 2013
+						
+
+												
+													
+								Cycle Ozu au cinéma
+								Projection , NYONS
+								du mercredi 16 octobre au mardi 05 novembre 2013
+						
+
+												
+													
+								Rodeuse : concert-spectacle à la salle de fêtes de Montaulieu
+								Concert , MONTAULIEU
+								Samedi 19 octobre 2013
+						
+
+												
+													
+								Le dresseur de poissons
+								Spectacle , NYONS
+								Samedi 19 octobre 2013
+						
+
+												
+													
+								Concert SLOW JOE & THE GINGER ACCIDENT + JOE BEL
+								Concert , NYONS
+								du samedi 19 au dimanche 20 octobre 2013
+						
+
+												
+								Les balades du  Tambourinaïre, départ de Nyons
+								promenade /  randonnée , NYONS
+								Dimanche 20 octobre 2013
+						
+
+												
+													
+								Jeux en mode Kinect
+								Atelier , NYONS
+								du mardi 22 octobre au samedi 02 novembre 2013
+						
+
+												
+													
+								L'Enfant Plume
+								Spectacle , CONDORCET
+								Mercredi 23 octobre 2013
+						
+
+												
+													
+								3ème Festival Polar à Nyons
+								Festival , NYONS
+								du mercredi 23 au jeudi 24 octobre 2013
+						
+
+												
+								"A quoi tu joues?"
+								jeux , NYONS
+								du mercredi 23 au jeudi 24 octobre 2013
+						
+
+												
+													
+								Facilàchanter : jeu autour de la chanson française
+								jeux , NYONS
+								Jeudi 24 octobre 2013
+						
+
+												
+													
+								On planche là-dessus
+								Spectacle , NYONS
+								Samedi 26 octobre 2013
+						
+
+												
+													
+								Toupetituli
+								Atelier , NYONS
+								Samedi 26 octobre 2013
+						
+
+												
+													
+								Balade des oliviers en moto ancienne
+								Manifestation , NYONS
+								Samedi 26 octobre 2013
+						
+
+												
+													
+								SECRETS d’Atelier de Pascal LEROY PY
+								Exposition , SAHUNE
+								Samedi 26 octobre 2013
+						
+
+												
+													
+								Ateliers sophrologie
+								Atelier , LES PILLES
+								du samedi 26 octobre au samedi 07 décembre 2013
+						
+
+												
+													
+								Trial des Oliviers
+								Manifestation , NYONS
+								Dimanche 27 octobre 2013
+						
+
+					&nbsp;Ailleurs dans le coin							
+													
+								Exposition
+								Exposition , SERRES
+								du lundi 14 octobre au samedi 09 novembre 2013
+						
+
+												
+													
+								Voix d'exils: sur les pas des huguenots
+								promenade /  randonnée , DIEULEFIT
+								du jeudi 17 au dimanche 20 octobre 2013
+						
+
+												
+													
+								4e forum culturel des Baronnies Provençales
+								Rencontre , LARAGNE-MONTEGLIN
+								Samedi 19 octobre 2013
+						
+
+												
+								Festival de la BD et littérature de la jeunesse
+								Festival , BEGUDE-DE-MAZENC
+								du samedi 19 au dimanche 20 octobre 2013
+						
+
+												
+								Concours d'équitation
+								Atelier , PIERRELATTE
+								du samedi 19 au dimanche 27 octobre 2013
+						
+
+												
+													
+								Le journal d'Anne Frank
+								Spectacle , SAINT-PAUL-TROIS-CHATEAUX
+								Samedi 26 octobre 2013
+						
+
+												
+													
+								Salon du couteau
+								Atelier , PIERRELATTE
+								du samedi 26 au dimanche 27 octobre 2013
+						
+
+												
+													
+								Journée "champignons"
+								promenade /  randonnée , LA MOTTE-CHALANCON
+								Dimanche 27 octobre 2013
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													 maison de village 80 m2
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														REMUZAT
+						
+						
+					
+					
+													yoga, méditation, ateliers, soins
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													transport
+							
+						
+						
+														MIRABEL-AUX-BARONNIES
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+		
+			
+				
+			
+		
+	
+		
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Echange Sport et Nature
+								
+								
+							
+							
+															SAINT-FERREOL-TRENTE-PAS
+								Association							
+							
+						
+						
+														Association Familiale les Baronnies
+								
+								
+							
+							
+															BUIS-LES-BARONNIES
+								Association							
+							
+						
+						
+														Evenement ciel
+								
+								Festival du vent et des enfants
+							
+							
+															POET-SIGILLAT
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+			
+				
+			
+				
+			
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

@@ -1,0 +1,798 @@
+
+
+    
+        
+        Ensemble ici | # 2014-49 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 04 au 14/12/2014
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous,
+
+	
+	Les f&ecirc;tes approchent ! 
+	Un peu partout, producteurs et artisans locaux se r&eacute;unissent et proposent leurs produits..
+	
+	De S&eacute;guret &agrave; La Motte Chalancon, en passant par Saint-Auban ou Les Pilles, les march&eacute;s de No&euml;l sont sur Ensemble Ici !
+	
+	C&#39;est aussi le moment d&#39;&ecirc;tre solidaire, que ce soit pour le t&eacute;l&eacute;thon, la &quot;cascade aux jouets&quot; ou encore la gratif&eacute;ria d&#39;Aurel (un march&eacute; 100% gratuit !).
+	&nbsp;
+
+	Belle semaine,
+	
+	L&#39;&eacute;quipe Ensemble Ici.
+	
+		
+		&nbsp;
+	
+		Ensemble Ici recherche un(e) volontaire en service civique !
+		&gt; Plus d&#39;infos en cliquant [ ici ] !
+
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums, et bient&ocirc;t articles!
+	
+	
+		contact@ensembleici.fr
+
+		
+	
+
+
+	
+		
+			
+				
+				Pays de Buis-les-Baronnies							
+													
+								Les conteurs d'ici - Repas conté
+								Conte , ROCHEBRUNE
+								Vendredi 05 décembre 2014
+						
+
+												
+													
+								Grand Loto du Téléthon
+								Manifestation , BESIGNAN
+								Samedi 06 décembre 2014
+						
+
+												
+													
+								Téléthon 2014
+								Manifestation , SAINT-AUBAN-SUR-L'OUVEZE
+								Samedi 06 décembre 2014
+						
+
+												
+													
+								Concerts de l'avent
+								Concert , BESIGNAN
+								du samedi 06 au samedi 20 décembre 2014
+						
+
+												
+													
+								Iran : Christianisme, islam et autres religions
+								Conférence , BUIS-LES-BARONNIES
+								Vendredi 12 décembre 2014
+						
+
+												
+													
+								Contes tombés du manguier
+								Conte , BUIS-LES-BARONNIES
+								Vendredi 12 décembre 2014
+						
+
+												
+													
+								Fête de Noël
+								Fête , ROCHE-SUR-LE-BUIS
+								Samedi 13 décembre 2014
+						
+
+												
+													
+								Stage théâtre - Roland PEYRON
+								Stage , BUIS-LES-BARONNIES
+								du samedi 13 au dimanche 14 décembre 2014
+						
+
+												
+													
+								Marché de Noël
+								Foire , SAINT-AUBAN-SUR-L'OUVEZE
+								Dimanche 14 décembre 2014
+						
+
+					Pays de Rémuzat							
+													
+								Marché de noël
+								Marché , LA MOTTE-CHALANCON
+								Samedi 06 décembre 2014
+						
+
+												
+													
+								Repas conté - Folies d'Amour
+								Conte , VILLEPERDRIX
+								Samedi 06 décembre 2014
+						
+
+												
+													
+								Rencontrer ma voix pour dire mon conte
+								Stage , VILLEPERDRIX
+								du samedi 06 au dimanche 07 décembre 2014
+						
+
+												
+													
+								Contes et légendes du Khorassan
+								Conte , REMUZAT
+								Vendredi 12 décembre 2014
+						
+
+												
+													
+								Marché de noël
+								Marché , REMUZAT
+								Dimanche 14 décembre 2014
+						
+
+					Val d'Eygues							
+													
+								Atelier de Sophrologie
+								Atelier , LES PILLES
+								du lundi 01 décembre 2014 au samedi 20 juin 2015
+						
+
+												
+													
+								L'Ultima Bumma
+								Conte , NYONS
+								Jeudi 04 décembre 2014
+						
+
+												
+													
+								Repas tirés du sac !
+								Rencontre , NYONS
+								du jeudi 04 au jeudi 18 décembre 2014
+						
+
+												
+													
+								Soirée karaoké
+								Repas , CURNIER
+								Samedi 06 décembre 2014
+						
+
+												
+													
+								Contes et rencontres / Thierry Cornillon : l'Ostal blanc
+								Conte , LES PILLES
+								Samedi 06 décembre 2014
+						
+
+												
+													
+								Concert gratuit : Slash Gordon
+								Concert , NYONS
+								Samedi 06 décembre 2014
+						
+
+												
+													
+								Expo de Noël
+								Exposition , MIRABEL-AUX-BARONNIES
+								du samedi 06 au dimanche 07 décembre 2014
+						
+
+												
+													
+								Marché de noël
+								Marché , MIRABEL-AUX-BARONNIES
+								Dimanche 07 décembre 2014
+						
+
+												
+													
+								David, Le barde voyageur
+								Conte , MONTAULIEU
+								Dimanche 07 décembre 2014
+						
+
+												
+													
+								Balade géologique
+								Promenade , NYONS
+								Dimanche 07 décembre 2014
+						
+
+												
+													
+								Soirée enChantée
+								Rencontre , NYONS
+								Dimanche 07 décembre 2014
+						
+
+												
+													
+								Incompressa
+								Projection , NYONS
+								Lundi 08 décembre 2014
+						
+
+												
+													
+								Qi Gong, art de vivre au quotidien.
+								Atelier , PIEGON
+								Mercredi 10 décembre 2014
+						
+
+												
+													
+								Les Jubilason's
+								Concert , MONTAULIEU
+								Vendredi 12 décembre 2014
+						
+
+												
+													
+								Divers contes d'hiver
+								Conte , CURNIER
+								Samedi 13 décembre 2014
+						
+
+												
+													
+								Dans la gueule du loup
+								Conte , NYONS
+								Samedi 13 décembre 2014
+						
+
+												
+													
+								Toupetituli
+								Atelier , NYONS
+								Samedi 13 décembre 2014
+						
+
+												
+													
+								La cascade aux jouets
+								Manifestation , NYONS
+								Samedi 13 décembre 2014
+						
+
+												
+													
+								Contes et légendes du Khorassan
+								Conte , VENTEROL
+								Samedi 13 décembre 2014
+						
+
+												
+													
+								Marché de Noël
+								Fête , LES PILLES
+								Dimanche 14 décembre 2014
+						
+
+												
+													
+								Henri Gougaud: Histoires d'amour
+								Conte , NYONS
+								Dimanche 14 décembre 2014
+						
+
+					Ailleurs dans le coin							
+													
+								DE L'USINE AU MUSÉE
+								Exposition , GRIGNAN
+								du vendredi 28 novembre 2014 au dimanche 18 janvier 2015
+						
+
+												
+													
+								Exposition de peintures Berruet
+								Exposition , VISAN
+								du lundi 01 au mercredi 31 décembre 2014
+						
+
+												
+													
+								L'Homme Semence
+								Conte , SAINTE-CECILE-LES-VIGNES
+								Vendredi 05 décembre 2014
+						
+
+												
+													
+								Atelier Percussions Corporelles
+								Atelier , VALREAS
+								Vendredi 05 décembre 2014
+						
+
+												
+													
+								Concert et vide-grenier au profit du Téléthon
+								Manifestation , TAULIGNAN
+								du vendredi 05 au samedi 06 décembre 2014
+						
+
+												
+													
+								Contes en musique
+								Conte , ROSANS
+								Samedi 06 décembre 2014
+						
+
+												
+													
+								1ère Soirée sélections Françaises Catch-Impro
+								Spectacle , SAINT-PAUL-TROIS-CHATEAUX
+								Samedi 06 décembre 2014
+						
+
+												
+													
+								VIDE GRENIER DU TELETHON
+								Vide-grenier , SAINTE-CECILE-LES-VIGNES
+								Samedi 06 décembre 2014
+						
+
+												
+													
+								Soirée dansante de ste barbe
+								Repas , VISAN
+								Samedi 06 décembre 2014
+						
+
+												
+													
+								Iran : Christianisme, islam et autres religions
+								Conférence , TAULIGNAN
+								Samedi 13 décembre 2014
+						
+
+												
+													
+								"Mon petit marché de noël"
+								Marché , SEGURET
+								du samedi 13 au dimanche 14 décembre 2014
+						
+
+												
+													
+								Marché de noël
+								Manifestation , VISAN
+								du samedi 13 au dimanche 14 décembre 2014
+						
+
+												
+													
+								Gratiféria de Noel
+								Marché , AUREL
+								Dimanche 14 décembre 2014
+						
+
+												
+													
+								Randonnée "Rochegude"
+								Randonnée , SEGURET
+								Dimanche 14 décembre 2014
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Ensemble Ici recherche un(e) volontaire en service civique !
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													Loft à Nyons
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Table de cuisson vitrocéramique
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														AUBRES
+						
+						
+					
+					
+													Vend cuisinère Brandt
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														BEAUVOISIN
+						
+						
+					
+					
+													Pour Noel: porcelaine peinte à la main !
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														BEAUVOISIN
+						
+						
+					
+					
+													appart T2 
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+					
+													Achat Groupé AGRUMES
+							
+						
+						
+														MONTGUERS
+						
+						
+					
+					
+													Donne ski enfant
+							
+						
+						
+														VENTEROL
+						
+						
+					
+					
+													Vds chaussure + ski de rando
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														VENTEROL
+						
+						
+					
+					
+													Souscription pour l'achat anticipé du livre de Vinsobres 
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														VINSOBRES
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Le Chat Botté
+								
+								Centre de loisirs 4-9ans
+							
+							
+															BUIS-LES-BARONNIES
+								Etablissement public							
+							
+						
+						
+														Association Familiale du Nyonsais
+								
+								
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														Les agités du vocal
+								
+								Choeur vocal
+							
+							
+															VAISON-LA-ROMAINE
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

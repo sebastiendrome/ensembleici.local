@@ -1,0 +1,641 @@
+
+
+    
+        
+        Ensemble ici | La 1ere newsletter "Ensemble ici"
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 27/06 au 07/07/2013
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+&quot;Ensemble ici&quot; au quotidien&nbsp;!
+&nbsp;
+Agenda des &eacute;v&eacute;nements de nos quatre vall&eacute;es, r&eacute;pertoire des initiatives, annonces de tous styles pour troquer, &eacute;changer, rechercher, trouver&nbsp;: ces trois &eacute;tapes de d&eacute;veloppement d&rsquo;Ensemble ici sont maintenant en ligne, sur le site internet.
+Il manquait encore cette newsletter du projet, qui vous permet de suivre chaque semaine les nouveaut&eacute;s de votre territoire de vie.
+Faites-la suivre &agrave; vos amis pour qu&rsquo;ils s&rsquo;y inscrivent aussi. Ce service est nouveau et donc pas connu de tous. Or c&rsquo;est tous ensemble qu&rsquo;Ensemble ici, initiative citoyenne sans but lucratif, remplira son r&ocirc;le d&rsquo;information et de lien pour mieux vivre ensemble ici.
+Vous voulez faire circuler une information, vous r&eacute;pertorier, poster une annonce et profiter de cette newsletter pour que &ccedil;a se sache&nbsp;? Il vous suffit d&rsquo;aller sur ensembleici.fr&nbsp;: c&rsquo;est simple et &ccedil;a fonctionne&nbsp;!
+&nbsp;
+Bonne semaine&nbsp;!
+&nbsp;
+
+Ensemble ici est une initiative de l&rsquo;Association pour le d&eacute;veloppement des communaut&eacute;s rurales (DECOR, Les Pilles), de l&rsquo;Association pour l&rsquo;animation du Haut-Nyonsais (Curnier), du Tam-Tam des Baronnies (Buis) et d&rsquo;Africultures (Les Pilles).
+			Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici. Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site. Tous ensemble, solidaires, b&acirc;tissons cet outil d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, et bient&ocirc;t forums.		
+	
+
+
+	
+		
+			
+				
+				Pays de Buis-les-Baronnies							
+													
+								Concert jazz et danse country 
+								Concert , BUIS-LES-BARONNIES
+								Vendredi 05 juillet 2013
+						
+
+												
+													
+								Brocante
+								Manifestation , BUIS-LES-BARONNIES
+								Samedi 06 juillet 2013
+						
+
+												
+													
+								Baronuit : Un trail de 18km en semi nocturne
+								Manifestation , BUIS-LES-BARONNIES
+								Samedi 06 juillet 2013
+						
+
+												
+													
+								Concert Nepal Sitars 
+								Concert , BUIS-LES-BARONNIES
+								Samedi 06 juillet 2013
+						
+
+												
+													
+								La Marche du Géant
+								Manifestation , BUIS-LES-BARONNIES
+								du samedi 06 au dimanche 07 juillet 2013
+						
+
+					&nbsp;Pays de Rémuzat							
+								Marché d'artisanat
+								Marché , REMUZAT
+								Vendredi 05 juillet 2013
+						
+
+					&nbsp;&nbsp;Val d'Eygues							
+													
+								Pilanthropes : partage de lectures, troc de livres
+								Rencontre , LES PILLES
+								Vendredi 28 juin 2013
+						
+
+												
+													
+								Le festival Lucien Durosoir
+								Concert , NYONS
+								du vendredi 28 au dimanche 30 juin 2013
+						
+
+												
+								Les balades du Tambourinaïre : Le tour du Vautour, ruines du vieux Saint Ferréol.
+								promenade /  randonnée , SAINT-FERREOL-TRENTE-PAS
+								Dimanche 30 juin 2013
+						
+
+												
+													
+								Balade-lecture enfants 
+								Manifestation , SAINTE-JALLE
+								Lundi 01 juillet 2013
+						
+
+												
+								Exposition peintures atelier Elisabeth
+								Exposition , VINSOBRES
+								du lundi 01 au samedi 20 juillet 2013
+						
+
+												
+													
+								Concert THE GOLDEN GRAPE SINGERS  
+								Concert , NYONS
+								Mercredi 03 juillet 2013
+						
+
+												
+													
+								Festival Digue Jam
+								Performance , NYONS
+								Samedi 06 juillet 2013
+						
+
+												
+								Fête de la belle vendangeuse   
+								Fête , PIEGON
+								Samedi 06 juillet 2013
+						
+
+												
+													
+								11ème rencontre des communes aux noms burlesques
+								Rencontre , VINSOBRES
+								du samedi 06 au dimanche 07 juillet 2013
+						
+
+												
+													
+								Vide-grenier 
+								Vide-grenier , POET-SIGILLAT
+								Dimanche 07 juillet 2013
+						
+
+					&nbsp;&nbsp;Ailleurs dans le coin							
+													
+								Exposition Yannick Giorgi
+								Exposition , ROUSSET-LES-VIGNES
+								du lundi 01 octobre 2012 au mercredi 30 avril 2014
+						
+
+												
+													
+								Pascal-Henri Poirot et Christine Colin
+								Exposition , GARDE-ADHEMAR
+								du samedi 01 juin au mercredi 10 juillet 2013
+						
+
+												
+													
+								Collection Freddy Denaës 3ème partie
+								Exposition , SAINT-PAUL-TROIS-CHATEAUX
+								du mercredi 19 juin au dimanche 15 septembre 2013
+						
+
+												
+													
+								Découverte de Grignan
+								promenade /  randonnée , GRIGNAN
+								du mercredi 26 juin au vendredi 12 juillet 2013
+						
+
+												
+													
+								Fête des Amanins pour la Terre et l'Humanité 
+								Fête , EURRE
+								Samedi 29 juin 2013
+						
+
+												
+													
+								Fêtes nocturnes 2013 château de Grignan : 
+								Fête , GRIGNAN
+								du samedi 29 juin au samedi 24 août 2013
+						
+
+												
+								Pique-nique géant
+								Rencontre , DIEULEFIT
+								Dimanche 30 juin 2013
+						
+
+												
+								Concert Appogiature 
+								Concert , TOUCHE
+								Dimanche 30 juin 2013
+						
+
+												
+								Randonnées contées
+								promenade /  randonnée , ARNAYON
+								du mardi 02 au mercredi 03 juillet 2013
+						
+
+												
+													
+								18è Festival de la Correspondance
+								Festival , GRIGNAN
+								du mardi 02 au dimanche 07 juillet 2013
+						
+
+												
+													
+								Un mariage follement gai 
+								Spectacle , PIERRELATTE
+								Mercredi 03 juillet 2013
+						
+
+												
+													
+								Visite nocturne de la vieille ville de Valréas 
+								Visite , VALREAS
+								du mercredi 03 au mercredi 31 juillet 2013
+						
+
+												
+													
+								Puygiron art festival "Voyage"
+								Concert , PUYGIRON
+								du jeudi 04 au dimanche 07 juillet 2013
+						
+
+												
+													
+								Désert Numérique 
+								Festival , SAINT-NAZAIRE-LE-DESERT
+								du jeudi 04 au dimanche 07 juillet 2013
+						
+
+												
+													
+								L'Oasis Bizz' art 
+								Concert , DIEULEFIT
+								du vendredi 05 au dimanche 07 juillet 2013
+						
+
+												
+													
+								Festival AR'LIRE
+								Festival , MONTFROC
+								du samedi 06 au dimanche 07 juillet 2013
+						
+
+												
+								Exposition de peintures Fabienne Vincent 
+								Exposition , VALREAS
+								du samedi 06 au dimanche 28 juillet 2013
+						
+
+												
+													
+								Concert de la Chorale des 3 Vallées de Ste Jalle 
+								Concert , LA MOTTE-CHALANCON
+								Dimanche 07 juillet 2013
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													matériel bricolage à emprunter
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													VEND PIECES MOTO
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAINTE-JALLE
+						
+						
+					
+					
+													Troc : cherche poste clôture contre charcuterie maison (cochons noirs des baronnies)
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Tous petit travaux d'entretien (nettoyage voiture, débroussaillage etc ) 
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														AUBRES
+						
+						
+					
+					
+													Cherche graine de kefir de lait
+							
+						
+						
+														NYONS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														association Monté olivo
+								
+								
+							
+							
+															MONTAULIEU
+								Association							
+							
+						
+						
+														office de tourisme de Buis les Baronnies
+								
+								
+							
+							
+															BUIS-LES-BARONNIES
+								Association							
+							
+						
+						
+														Service jeunesse 
+								
+								Ville de Nyons
+							
+							
+															NYONS
+								Collectivité locale							
+							
+						
+						
+														Evenement ciel
+								
+								Festival du vent et des enfants
+							
+							
+															POET-SIGILLAT
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+			
+				
+			
+				
+			
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

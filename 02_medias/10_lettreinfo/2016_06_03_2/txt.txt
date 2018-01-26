@@ -1,0 +1,644 @@
+
+
+    
+        
+        Ensemble ici | Lettre de EnsembleIci - Vallée de la Drôme / Diois, 2016 #12 - 2 juin
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 03 au 13/06/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						Bonjour &agrave; toutes et tous,
+
+Les &quot;tendances&quot; de la semaine : les annonces en &quot;pince&quot; pour l&#39;ameublement, un mot clef pour cet agenda : &eacute;nergies.
+
+On vous le mart&egrave;le depuis au moins 3 semaines, mais elle arrive &agrave; grand pas... notre soir&eacute;e de lancement / pr&eacute;sentation avec l&#39;Assembl&eacute;e G&eacute;n&eacute;rale fondatrice de notre nouvelle Association &quot;Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois&quot; c&#39;est dans moins d&#39;une semaine !
+
+	lundi 6 Juin 2016 &agrave; Saillans de 17h30 &agrave; 20h, au th&eacute;&acirc;tre du temple.
+Plus vous serez nombreux, plus nous serons heureux.
+
+N&#39;h&eacute;sitez pas &agrave; publier des informations, vous aussi.
+On est bien, ensemble, ici, en Vall&eacute;e de la Dr&ocirc;me / Diois, non ?
+
+Bonne lecture,
+
+
+	Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois
+
+	
+			
+	
+		Rappel
+		Tous les &eacute;v&eacute;nements &agrave; venir dans les 10 jours, list&eacute;s en PDF : en haut des &eacute;v&eacute;nements cliquez sur &quot;l&#39;agenda complet des &eacute;v&eacute;nements au format PDF&quot; ,
+		Toutes les derni&egrave;res annonces, list&eacute;es en PDF : en haut des annonces cliquez sur &quot;la liste compl&egrave;te des petites annonces au format PDF&quot;
+
+		
+	
+
+
+
+	
+                Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+                
+        
+		
+			
+				
+				Crestois Pays de Saillans							
+													
+								Rassemblement POUR une piscine couverte adaptée
+								Débat , SAILLANS
+								Jeudi 02 juin 2016
+						
+
+												
+													
+								Concert de Gâmal
+								Concert , PIEGROS-LA-CLASTRE
+								Samedi 04 juin 2016
+						
+
+												
+													
+								Soirée de lancement de l'Association Ensemble Ici - Vallée de la Drôme / Diois
+								Rencontre , SAILLANS
+								Lundi 06 juin 2016
+						
+
+												
+													
+								Méditation sonore au temple d'Aurel
+								Rencontre , AUREL
+								Mardi 07 juin 2016
+						
+
+												
+													
+								BIODANZA
+								Atelier , CREST
+								du jeudi 09 au jeudi 16 juin 2016
+						
+
+												
+													
+								soirée Constitution pour une res publica democratica
+								Atelier , AOUSTE-SUR-SYE
+								Vendredi 10 juin 2016
+						
+
+												
+								Cercle de femmes, tantra - yoga
+								Stage , PIEGROS-LA-CLASTRE
+								du vendredi 10 au dimanche 12 juin 2016
+						
+
+					&nbsp;Diois							
+													
+								Contes de la Pampa
+								Spectacle , RECOUBEAU-JANSAC
+								Vendredi 03 juin 2016
+						
+
+												
+													
+								Fête du Vélo 
+								Exposition , DIE
+								Samedi 04 juin 2016
+						
+
+												
+								Tambouille aux Agités du Local
+								Repas , DIE
+								Samedi 04 juin 2016
+						
+
+												
+													
+								Soirée brésilienne au Tchaïwalla
+								Concert , DIE
+								Samedi 04 juin 2016
+						
+
+												
+													
+								SPECTACLE MUSICAL TRAJET SPECTACLE
+								Spectacle , DIE
+								Samedi 04 juin 2016
+						
+
+												
+													
+								Rendez-vous au jardin
+								Visite , DIE
+								du samedi 04 au dimanche 05 juin 2016
+						
+
+												
+								Corps, mouvement et genre
+								Atelier , DIE
+								Dimanche 05 juin 2016
+						
+
+												
+													
+								NOS VOIX PUBLIQUES
+								Spectacle , DIE
+								Dimanche 05 juin 2016
+						
+
+												
+													
+								Journée de Biodanza
+								Atelier , DIE
+								Dimanche 05 juin 2016
+						
+
+												
+													
+								Libérez vos potentiels !  
+								Conférence , DIE
+								du dimanche 05 au mardi 07 juin 2016
+						
+
+												
+													
+								Soin et Créativité à la Source -Prix libre
+								Atelier , DIE
+								Mardi 07 juin 2016
+						
+
+												
+													
+								Invitation à l'inauguration du centre de ressources
+								Fête , DIE
+								Mardi 07 juin 2016
+						
+
+												
+													
+								"Ils sont venus pour ça"
+								Spectacle , DIE
+								Mercredi 08 juin 2016
+						
+
+												
+													
+								"MODE D'EMPLOI"
+								Spectacle , DIE
+								Vendredi 10 juin 2016
+						
+
+												
+								Conférence-Atelier-Découverte  sur la Communication Consciente
+								Conférence , DIE
+								Vendredi 10 juin 2016
+						
+
+												
+								Sesshin sauvage
+								Stage , DIE
+								du vendredi 10 au dimanche 12 juin 2016
+						
+
+												
+													
+								Concerto pour rire et orchestre
+								Concert , CHATILLON-EN-DIOIS
+								Samedi 11 juin 2016
+						
+
+												
+													
+								Grande Famille juin
+								Manifestation , DIE
+								Samedi 11 juin 2016
+						
+
+												
+													
+								RADISEL le SEL du Diois
+								Rencontre , DIE
+								Dimanche 12 juin 2016
+						
+
+												
+								concert "rêves de voyage"
+								Concert , DIE
+								Dimanche 12 juin 2016
+						
+
+					Val de Drôme							
+													
+								S'asseoir Ensemble
+								Manifestation , EURRE
+								Vendredi 03 juin 2016
+						
+
+												
+													
+								LES COTYLEDONS / Classe primaire
+								Réunion , ALLEX
+								Samedi 04 juin 2016
+						
+
+												
+								Marché de poteries
+								Marché , CLIOUSCLAT
+								du samedi 04 au dimanche 05 juin 2016
+						
+
+												
+													
+								Plantes des milieux rocheux de la Gervanne
+								Randonnée , BEAUFORT-SUR-GERVANNE
+								Mardi 07 juin 2016
+						
+
+												
+													
+								Le Marché du Coin
+								Marché , CLIOUSCLAT
+								Jeudi 09 juin 2016
+						
+
+												
+													
+								WE "découverte de son clown"
+								Stage , ALLEX
+								du samedi 11 au dimanche 12 juin 2016
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+                
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Télé-agrandisseur pour mal-voyant
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														MARIGNAC-EN-DIOIS
+						
+						
+					
+					
+													Casting enfants/ados "Dans les coulisses"
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													covoiturage Die Valence
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													recherche Frigo Combi Congelateur
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													terrain pour camper
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														ESPENEL
+						
+						
+					
+					
+													Vends Ordinateur
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													Je vends ma Clio Be Bop 
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													Oeufs fécondés
+							
+						
+						
+														DIE
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Association AIDER
+								
+								Hebergement convivial en Drôme Ardèche  
+							
+							
+															EURRE
+								Association							
+							
+						
+						
+														LA SOURCE
+								
+								Maison de santé naturelle
+							
+							
+															DIE
+								Association							
+							
+						
+						
+														L'Oasis de Serendip
+								
+								
+							
+							
+															EURRE
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

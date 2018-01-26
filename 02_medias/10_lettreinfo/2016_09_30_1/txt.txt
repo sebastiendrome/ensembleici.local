@@ -1,0 +1,758 @@
+
+
+
+    
+        
+        Ensemble ici | # 2016-40 : Ensemble Ici, tous acteurs de la vie locale !
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Ensemble Ici change de visage !
+ Apr&egrave;s trois ans pass&eacute; aux c&ocirc;t&eacute;s de l&rsquo;association DECOR, pour Ensemble Ici et la toute nouvelle Radio&rsquo;live, il est temps pour &laquo;&nbsp;le charg&eacute;&nbsp;de projet&nbsp;&raquo; de passer la main... 
+C'est donc la toute derni&egrave;re fois o&ugrave; je m'adresse &agrave; vous dans cette habituelle "lettre d'info".
+Cette exp&eacute;rience a &eacute;t&eacute; pour moi tr&egrave;s enrichissante, notamment gr&acirc;ce &agrave; toutes celles et ceux que j&rsquo;ai eu la chance de rencontrer et qui consacrent leurs efforts &agrave; faire vivre ce territoire. (une t&acirc;che pas toujours facile malgr&eacute; tout le potentiel qu&rsquo;on peut y trouver&hellip;)
+Un grand merci &agrave; eux pour ce qu&rsquo;ils font et pour m&rsquo;avoir fait d&eacute;couvrir les &laquo;&nbsp;Baronnies&nbsp;&raquo; de la meilleure fa&ccedil;on qu&rsquo;il soit&nbsp;: &agrave; travers ce qui anime au quotidien ceux qui y vivent !
+Des initiatives sur lesquelles j&rsquo;ai r&eacute;alis&eacute; mes premiers reportages jusqu&rsquo;&agrave; la cr&eacute;ation de RadiO&rsquo;live en passant par l&rsquo;organisation de rencontres et l&rsquo;&eacute;volution d&rsquo;Ensemble Ici dans sa dimension &laquo;&nbsp;m&eacute;dia&nbsp;&raquo;, j&rsquo;ai &eacute;galement eu la chance de participer &agrave; un beau projet citoyen,&nbsp;qui a du sens dans la p&eacute;riode actuelle et encore beaucoup &agrave; offrir&hellip;
+&nbsp;
+Continuons de semer des graines, tout en rendant le terreau fertile.
+&nbsp;
+Tandis que je me dirige vers d&rsquo;autres horizons, c&rsquo;est donc d&eacute;sormais Maud Coatrieux qui tiendra la barre du navire, le cap sur l&rsquo;essaimage et sur de nouvelles initiatives &agrave; mener ensemble, &hellip; ! (je vous laisse deviner)
+Bonne continuation &agrave; toutes et &agrave; tous, et notamment &agrave; Maud&nbsp;!
+&nbsp;
+Th&eacute;o, 
+pour "Ensemble Ici". 
+&nbsp;
+
+
+
+
+
+
+
+Un dernier rendez-vous quand m&ecirc;me... ce vendredi soir &agrave; Sauve, &agrave; partir de 16h pour un ap&eacute;ro musical qui annonce le lancement&nbsp;de la saison 2 des r&eacute;sidences Gargoulette'NB : ateliers, repas partag&eacute;, slam, concert et sc&egrave;ne ouverte sont au programme !
+&gt; Plus d'infos dans la rubrique Ev&eacute;nements
+&nbsp;
+
+
+                Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici. Il vous est ais&eacute; d'en ajouter via les formulaires du site. Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d'info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles! 
+contact@ensembleici.fr
+        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Hautes Baronnies                        
+                    
+                    Après midi jeu pour tous
+                    Jeux , SEDERON
+                    Dimanche 02 octobre 2016
+                    
+
+                    &nbsp;Pays de Buis-les-Baronnies                        
+                    
+                    chapelle de Pierrelongue cherche bénèvoles
+                    Visite , PIERRELONGUE
+                    du mercredi 01 juin au vendredi 30 septembre 2016
+                    
+
+                                            
+                    
+                    JOURNEE DES ARTS MARTIAUX
+                    Manifestation , BUIS-LES-BARONNIES
+                    Samedi 01 octobre 2016
+                    
+
+                                            
+                    
+                    Je te regarde
+                    Projection , BUIS-LES-BARONNIES
+                    Lundi 03 octobre 2016
+                    
+
+                                            
+                    
+                    SCENE OUVERTE et PORTE OUVERTE ATELIER THEÂTRE
+                    Spectacle , BEAUVOISIN
+                    du vendredi 07 au dimanche 09 octobre 2016
+                    
+
+                    &nbsp;Pays de Rémuzat                        
+                    
+                    Céline Blasco
+                    Concert , MONTREAL-LES-SOURCES
+                    Samedi 08 octobre 2016
+                    
+
+                    &nbsp;Val d'Eygues                        
+                    
+                    Yoga, Détente, Bien être.
+                    Cours , NYONS
+                    du lundi 12 septembre 2016 au vendredi 29 juin 2018
+                    
+
+                                            
+                    
+                    Cours de Yoga de SAMARA
+                    Cours , ARPAVON
+                    du lundi 26 septembre 2016 au mardi 27 juin 2017
+                    
+
+                                            
+                    
+                    Lancement Saison 2 Résidence Gargoulette'NB
+                    Fête , NYONS
+                    Vendredi 30 septembre 2016
+                    
+
+                                            
+                    
+                    Concert à Sauve 
+                    Concert , NYONS
+                    Vendredi 30 septembre 2016
+                    
+
+                                            
+                    
+                    Dédicace à la Librairie de l'Olivier - Le Crime des soeurs Papin 
+                    Rencontre , NYONS
+                    Samedi 01 octobre 2016
+                    
+
+                                            
+                    
+                    Cycle de formation autoconstruire son habitat
+                    Atelier , NYONS
+                    Samedi 01 octobre 2016
+                    
+
+                                            
+                    
+                    TIERS LIEUX HORS LES MURS
+                    Manifestation , NYONS
+                    Jeudi 06 octobre 2016
+                    
+
+                                            
+                    
+                    Présentation de la saison Nyons en Scène 2016-2017
+                    Projection , NYONS
+                    Vendredi 07 octobre 2016
+                    
+
+                                            
+                    
+                    Rencontre autour du jardinage
+                    Rencontre , NYONS
+                    du vendredi 07 au dimanche 09 octobre 2016
+                    
+
+                                            
+                    
+                    MASSAGE SENSORIEL
+                    Stage , NYONS
+                    Dimanche 09 octobre 2016
+                    
+
+                    &nbsp;Ailleurs dans le coin                        
+                    
+                    Pique-nique
+                    Rencontre , VALREAS
+                    du jeudi 29 septembre au jeudi 13 octobre 2016
+                    
+
+                                            
+                    
+                    MISS EN SCENE, RIMES PASSIONNELLES
+                    Spectacle , VAISON-LA-ROMAINE
+                    Vendredi 30 septembre 2016
+                    
+
+                                            
+                    
+                    Miss en scène ! ...rimes passionnelles
+                    Spectacle , VAISON-LA-ROMAINE
+                    Vendredi 30 septembre 2016
+                    
+
+                                            
+                    
+                    Percussions corporelles
+                    Atelier , VALREAS
+                    Vendredi 30 septembre 2016
+                    
+
+                                            
+                    
+                    4 PIECES DE TCHEKHOV
+                    Spectacle , VALREAS
+                    du vendredi 30 septembre au samedi 01 octobre 2016
+                    
+
+                                            
+                    
+                    Théâtre
+                    Spectacle , DONZERE
+                    Samedi 01 octobre 2016
+                    
+
+                                            
+                    
+                    Stage "L'Art de Vivre en Paix"
+                    Stage , DIEULEFIT
+                    du samedi 01 au dimanche 02 octobre 2016
+                    
+
+                                            
+                    
+                    Festival Mômes et Merveilles
+                    Festival , DIEULEFIT
+                    Dimanche 02 octobre 2016
+                    
+
+                                            
+                    
+                    JOURNEE BIEN ETRE ET PUCES A PUYMERAS 
+                    journée d'information , PUYMERAS
+                    Dimanche 02 octobre 2016
+                    
+
+                                            
+                    
+                    Ripitiki
+                    Spectacle , VALAURIE
+                    Dimanche 02 octobre 2016
+                    
+
+                                            
+                    
+                    BIOGRAPHIE ATELIER DÉCOUVERTE
+                    Atelier , LABLACHERE
+                    Vendredi 07 octobre 2016
+                    
+
+                                            
+                    
+                    Scène ouverte
+                    Concert , SEGURET
+                    Vendredi 07 octobre 2016
+                    
+
+                                            
+                    
+                    ATELIERS DÉCOUVERTE
+                    Conférence , GRILLON
+                    Samedi 08 octobre 2016
+                    
+
+                                            
+                    
+                    Vide-Grenier Hadrien 2000
+                    Vide-grenier , VAISON-LA-ROMAINE
+                    Samedi 08 octobre 2016
+                    
+
+                                            
+                    
+                    FESTIVAL HISTOIRE D'EN RIRE
+                    Spectacle , VAISON-LA-ROMAINE
+                    Samedi 08 octobre 2016
+                    
+
+                                            
+                    
+                    Vide greniers
+                    Vide-grenier , VAISON-LA-ROMAINE
+                    Dimanche 09 octobre 2016
+                    
+
+                                            
+                    
+                    FESTIVAL HISTOIRE D'EN RIRE
+                    Spectacle , VAISON-LA-ROMAINE
+                    Dimanche 09 octobre 2016
+                    
+
+                    Retrouvez l'agenda complet sur www.ensembleici.fr...            
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Rêve ! (cherche fourgon)
+                
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    Cherche terrain à louer
+                
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    vend maison villeperdrix
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        VILLEPERDRIX
+                    
+                    
+                
+                                    vends sac à dos millet 75+10
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        BUIS-LES-BARONNIES
+                    
+                    
+                
+                                    Recherche colocation existante ou à créer
+                
+                    
+                    
+                                                        CHABEUIL
+                    
+                    
+                
+                                    Foire bio Montfroc le 1er et 2 octobre
+                
+                    
+                    
+                                                        MONTFROC
+                    
+                    
+                
+                                    recherche  professeur harmonica
+                
+                    
+                    
+                                                        MIRABEL-AUX-BARONNIES
+                    
+                    
+                
+                                    Cherche maison/animaux a garder du 26/09 au 10/10
+                
+                    
+                    
+                                                        PARIS 17EME ARRONDISSEMENT
+                    
+                    
+                
+                                    URGENT: Ensemble Ici recherche un(e) volontaire en service civique !
+                
+                    
+                    
+                                                        LES PILLES
+                    
+                    
+                
+                                    labo noir et blanc
+                
+                    
+                    
+                                                        CHABEUIL
+                    
+                    
+                
+                                    Exposition de tableux et de sculptures à Mirabel
+                
+                    
+                    
+                                                        MIRABEL-AUX-BARONNIES
+                    
+                    
+                
+                                    Massage Ayurvédique
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CONDORCET
+                    
+                    
+                
+                                    cherche terrain à acheter
+                
+                    
+                    
+                                                        VENTEROL
+                    
+                    
+                
+                                    Escrime à Nyons
+                
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    Cours de Hatha Yoga
+                
+                    
+                    
+                                                        CONDORCET
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Carrefour des habitants
+                
+                
+                                        NYONS
+                        Association                
+                
+                
+                            La cigale
+                Diffuseurs de bonheurs
+                
+                                        NYONS
+                        Association                
+                
+                
+                            La Ressourcerie Verte
+                
+                
+                                        ROMANS-SUR-ISERE
+                        Association                
+                
+                
+                            THEATRE DES 2 MONDES
+                Salle de spectacles
+                
+                                        VAISON-LA-ROMAINE
+                        Association                
+                
+                
+                            Yoga de SAMARA
+                
+                
+                                        ARPAVON
+                        Association                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+    Le collectif "Ensemble ici" :
+
+        
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

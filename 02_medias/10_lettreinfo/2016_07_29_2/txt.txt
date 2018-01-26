@@ -1,0 +1,632 @@
+
+
+    
+        
+        Ensemble ici | Lettre d'Ensemble Ici - Vallee de la Drome / Diois, 2016 #20 - 28 Juillet
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 29/07 au 08/08/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						Bonjour &agrave; toutes et tous,
+
+Cette semaine, un agenda tr&egrave;s musical mais pas que,
+Les annonces : au milieu des logements et v&eacute;hicules, 3 annonces particuli&egrave;rement sympathiques &gt; un stage pour &quot;apprendre &agrave; construire ensemble&quot; fin ao&ucirc;t, une recherche de pelotes pour des ateliers tricots avec des enfants, de la r&eacute;cup&eacute;ration de mat&eacute;riaux pour fabriquer des trousses et portes-monnaies.
+
+
+	Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois a besoin de votre soutien !
+	Depuis plus 6 mois des b&eacute;n&eacute;voles de plusieurs associations portent et soutiennent cette initiative pour favoriser le lien entre les personnes et mettre en avant l&rsquo;ensemble des richesses propos&eacute;es dans notre vall&eacute;e.&nbsp;
+
+	&nbsp;
+
+	Aujourd&#39;hui nous avons besoin de votre participation pour animer et p&eacute;renniser le site. Nous avons besoin de votre adh&eacute;sion, de vos dons, de votre &eacute;nergie.
+
+	&nbsp;
+
+	Nous pensons que les habitants peuvent cr&eacute;er, prendre en main, d&eacute;velopper et financer les outils qui am&eacute;liorent le vivre ensemble.
+
+	&nbsp;
+
+	N&#39;h&eacute;sitez pas &agrave; contribuer, m&ecirc;me pour &nbsp;1 ou 2 euros, ce sont les petits ruisseaux qui font les grandes rivi&egrave;res.
+	Pour cela, rendez-vous sur notre page &quot;Faire un don&quot; ou notre page Helloasso.
+	&nbsp;
+
+
+Bonne lecture, bonnes festivit&eacute;s estivales et bonne semaine,
+
+
+	Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois
+
+	
+			
+	
+		Rappel
+		T&eacute;l&eacute;chargeable depuis cette lettre, en fichier PDF :
+		- tous les &eacute;v&eacute;nements &agrave; venir dans les 10 jours,
+		- toutes les annonces des 30 derniers jours
+
+		
+	
+
+
+
+	
+                Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+                
+        
+		
+			
+				
+				Crestois Pays de Saillans							
+													
+								le Trio VELAMOS
+								Concert , PIEGROS-LA-CLASTRE
+								Jeudi 28 juillet 2016
+						
+
+												
+													
+								MON'A à La Terrasse d'Eva
+								Concert , SAILLANS
+								du vendredi 29 au samedi 30 juillet 2016
+						
+
+												
+													
+								Crest Jazz Vocal
+								Festival , CREST
+								du vendredi 29 juillet au samedi 06 août 2016
+						
+
+												
+								Exposition aquarelles et sculptures à Aurel
+								Exposition , AUREL
+								du vendredi 29 juillet au dimanche 07 août 2016
+						
+
+												
+													
+								STAGE DANSE AFRICAINE
+								Stage , CREST
+								du lundi 01 au samedi 06 août 2016
+						
+
+												
+													
+								Franck Barnier Aubert à La Terrasse d'Eva
+								Concert , SAILLANS
+								du vendredi 05 au samedi 06 août 2016
+						
+
+					Diois							
+													
+								Atelier Fromage
+								Atelier , DIE
+								Vendredi 29 juillet 2016
+						
+
+												
+													
+								Concert POÉTIQUE HENRY MICHAUX (au chapeau)
+								Concert , DIE
+								Vendredi 29 juillet 2016
+						
+
+												
+													
+								Fête romaine
+								Fête , DIE
+								du vendredi 29 au dimanche 31 juillet 2016
+						
+
+												
+													
+								expo aquarelles de Véronique Godding
+								Exposition , PONET-ET-SAINT-AUBAN
+								du vendredi 29 juillet au dimanche 07 août 2016
+						
+
+												
+													
+								Rencontres AstroCiel
+								Manifestation , VALDROME
+								du vendredi 29 juillet au jeudi 11 août 2016
+						
+
+												
+													
+								Damz'Elles à Barnave
+								Concert , BARNAVE
+								Samedi 30 juillet 2016
+						
+
+												
+								Les Slugs
+								Concert , DIE
+								Samedi 30 juillet 2016
+						
+
+												
+													
+								Farfelutherie
+								Concert , ARNAYON
+								Mardi 02 août 2016
+						
+
+												
+													
+								Les mardis contés
+								Conte , ARNAYON
+								Mardi 02 août 2016
+						
+
+												
+													
+								Ernest ou comment l'oublier
+								Spectacle , BARNAVE
+								Mercredi 03 août 2016
+						
+
+												
+													
+								bal sur le parquet en bas du champ
+								Fête , MARIGNAC-EN-DIOIS
+								Mercredi 03 août 2016
+						
+
+												
+								Exposition Susan Rayfeld
+								Exposition , DIE
+								du mercredi 03 au dimanche 14 août 2016
+						
+
+												
+													
+								T'ar ta Gomme
+								Spectacle , BARNAVE
+								Vendredi 05 août 2016
+						
+
+												
+													
+								Le Parti d'en Rire
+								Spectacle , BARNAVE
+								Samedi 06 août 2016
+						
+
+					Pays de Rémuzat							
+													
+								Blue Motte Jazz
+								Festival , LA MOTTE-CHALANCON
+								du lundi 01 au mardi 02 août 2016
+						
+
+												
+													
+								Rock On The L'Oule
+								Festival , LA MOTTE-CHALANCON
+								Mercredi 03 août 2016
+						
+
+					Val de Drôme							
+													
+								Être Chemin de Paix
+								Stage , OMBLEZE
+								du samedi 30 juillet au samedi 06 août 2016
+						
+
+												
+													
+								The BellRays + The Velvet Store
+								Concert , GIGORS-ET-LOZERON
+								Vendredi 05 août 2016
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+                
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Barbecue électrique
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														AUREL
+						
+						
+					
+					
+													Cherche logement en Septembre
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														AIX-EN-DIOIS
+						
+						
+					
+					
+													Traductrice
+							
+						
+						
+														BEAUFORT-SUR-GERVANNE
+						
+						
+					
+					
+													Siège pour douche
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													Echafaudage
+							
+						
+						
+														MENGLON
+						
+						
+					
+					
+													Vente Peugeot 206 - Cause départ à l'étranger
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														CREST
+						
+						
+					
+					
+													RECHERCHE PROF DE GUITARE
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAILLANS
+						
+						
+					
+					
+													recherche pour garder mon enfant de 7 ans
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														ROMEYER
+						
+						
+					
+					
+													Cherche camion 20m3 pour 48h cause déménagement
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAILLANS
+						
+						
+					
+					
+													AX 50000km
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													vend Citroen C5 année 2007
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													Vend Magnifique VTT Rocky Moutain Vertex
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													VTT égaré
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													canapé Futon
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Un Souffle en Soi
+								
+								massages bien-être
+							
+							
+															CREST
+								Auto-entrepreneur							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

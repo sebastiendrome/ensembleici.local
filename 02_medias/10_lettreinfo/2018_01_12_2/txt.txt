@@ -1,0 +1,704 @@
+
+
+
+    
+        
+        Ensemble ici | Lettre d'Ensemble Ici - Vallee de la Drome Diois. 2017 #52 - 12 janvier
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Bonjour &agrave; toutes et &agrave; tous,
+retrouvez ci-dessous les &eacute;v&eacute;nements et petites annonces pr&eacute;vus jusqu'au dimanche 28 janvier.
+Bonne lecture et &agrave; bient&ocirc;t.
+&nbsp;
+Etienne - Ensemble Ici Vall&eacute;e de la Dr&ocirc;me / Diois.
+&nbsp;
+Ensemble Ici Vall&eacute;e de la Dr&ocirc;me / Diois                
+Rappel T&eacute;l&eacute;chargeable depuis cette lettre, en fichier PDF, depuis le haut des 2 rubriques : - tous les &eacute;v&eacute;nements jusqu'au 2e WE &agrave; venir, - toutes les annonces de ces 30 derniers jours
+C'est vous qui publiez, modifiez, compl&eacute;tez vos informations locales !
+Ensemble Ici : l'information par et pour les habitants de la Vall&eacute;e de la Dr&ocirc;me / Diois
+
+Vous&nbsp;appr&eacute;ciez Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois :
+&nbsp;"abonnement volontaire" / don mensuel&nbsp;
+Pour que l'animation du site puisse continuer,merci de votre soutien&nbsp;
+Adh&eacute;sion
+&nbsp;        
+    
+
+
+
+    
+        
+            
+            Crestois Pays de Saillans                        
+                    
+                    ciné casse-croute
+                    Projection , AOUSTE-SUR-SYE
+                    Vendredi 12 janvier 2018
+                    
+
+                                            
+                    
+                    Atelier d'écriture
+                    Atelier , CREST
+                    Lundi 15 janvier 2018
+                    
+
+                                            
+                    
+                    OpenBidouille  & Repair Café
+                    Atelier , CREST
+                    Jeudi 18 janvier 2018
+                    
+
+                                            
+                    
+                    Cercle de Femmes
+                    Atelier , CREST
+                    Vendredi 19 janvier 2018
+                    
+
+                                            
+                    
+                    Flux Riflo #5
+                    Concert , SAILLANS
+                    Vendredi 19 janvier 2018
+                    
+
+                                            
+                    
+                    " Le développement durable est-il encore possible " 
+                    Conférence , SAILLANS
+                    Vendredi 19 janvier 2018
+                    
+
+                                            
+                    
+                    Cercle de Femmes 
+                    Atelier , CREST
+                    Samedi 20 janvier 2018
+                    
+
+                                            
+                    
+                    tai chi chuan / qi-gong / meditation
+                    Stage , SAILLANS
+                    Samedi 20 janvier 2018
+                    
+
+                                            
+                    
+                    Stage cirque Parents-enfants-adultes - Salle de Renc'arts à Aouste
+                    Stage , AOUSTE-SUR-SYE
+                    du samedi 20 au dimanche 21 janvier 2018
+                    
+
+                                            
+                    
+                    Groupement d’achats local en création à Crest
+                    Réunion , CREST
+                    Dimanche 21 janvier 2018
+                    
+
+                    &nbsp;Diois                        
+                    
+                    Au tour du plaisir des femmes
+                    Spectacle , DIE
+                    Vendredi 12 janvier 2018
+                    
+
+                                            
+                    
+                    Gratiferia
+                    Foire , DIE
+                    Samedi 13 janvier 2018
+                    
+
+                                            
+                    
+                    Atelier Inspiration à l'Ecriture
+                    Atelier , DIE
+                    Mardi 16 janvier 2018
+                    
+
+                                            
+                    
+                    Concert - Méditation
+                    Concert , SAINT-JULIEN-EN-QUINT
+                    Mercredi 17 janvier 2018
+                    
+
+                                            
+                    
+                    Le Design en Permaculture
+                    Atelier , DIE
+                    Samedi 20 janvier 2018
+                    
+
+                                            
+                    
+                    Concert Solo Chez l'habitant
+                    Concert , SAINT-ANDEOL
+                    Samedi 20 janvier 2018
+                    
+
+                                            
+                    
+                    stage aquarelles naturelles
+                    Stage , SAINT-ROMAN
+                    Samedi 20 janvier 2018
+                    
+
+                                            
+                    
+                    Stage de danse africaine
+                    Stage , DIE
+                    du samedi 20 au dimanche 21 janvier 2018
+                    
+
+                                            
+                    
+                    STAGE DE DANSE MALIENNE
+                    Stage , DIE
+                    du samedi 20 au dimanche 21 janvier 2018
+                    
+
+                                            
+                    
+                    Ecologie,course au bonheur:un nouvel individualisme?
+                    Débat , DIE
+                    Dimanche 21 janvier 2018
+                    
+
+                    &nbsp;Val de Drôme                        
+                    
+                    CONCERT "Surco" :  Amérique Latine
+                    Concert , CHABRILLAN
+                    Samedi 13 janvier 2018
+                    
+
+                                            
+                    
+                    L'autre et moi
+                    Spectacle , LIVRON-SUR-DROME
+                    Samedi 13 janvier 2018
+                    
+
+                                            
+                    
+                    Denis Cheissoux raconte Jean-Marie Pelt
+                    Conférence , EURRE
+                    Mercredi 17 janvier 2018
+                    
+
+                                            
+                    
+                    Rocky Bad Billy
+                    Concert , EURRE
+                    Vendredi 19 janvier 2018
+                    
+
+                                            
+                    
+                    Soirée Jeux
+                    Jeux , CHABRILLAN
+                    Samedi 20 janvier 2018
+                    
+
+                                            
+                    
+                    LE COFFRE DU TEMPS
+                    Spectacle , LIVRON-SUR-DROME
+                    Dimanche 21 janvier 2018
+                    
+
+                                
+        
+    
+    
+            
+                        
+    
+
+
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Chaussures El naturalista à Vendre
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Cherche prêt yourte + maison pour stage 
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    un projet musical ?
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    coupelles Silverette d'allaitement en argent 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Atelier partagé
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Appartement 109 m2
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Cherche échelle mezzanine
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    garde de chatons de 6 mois 
+                
+                    
+                    
+                                                        SOYANS
+                    
+                    
+                
+                                    Plat de service
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Broc avec vasque
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Poêle Petit Godin
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Chapeaux festifs
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    MATERIAUTHEQUE
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    accordéoniste cherche musiciens
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    recherche barrières enfants
+                
+                    
+                    
+                                                        MARIGNAC-EN-DIOIS
+                    
+                    
+                
+                                    Soufflet CARDAN
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Cherche cabane pour 3 jours pour temps de solitude et de repos
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Vend Renaudt Express
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        VACHERES-EN-QUINT
+                    
+                    
+                
+                                    à vendre
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        MARIGNAC-EN-DIOIS
+                    
+                    
+                
+                                    Cherche Meubles
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    stage clownez conte juillet 2018
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Vente Livres Plantes Médicinales et Aromatiques
+                
+                    
+                    
+                                                        CHATILLON-EN-DIOIS
+                    
+                    
+                
+                                    cherche mezzanine 2 places
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

@@ -1,0 +1,739 @@
+
+
+
+    
+        
+        Ensemble ici | Lettre d'Ensemble Ici - Vallee de la Drome Diois. 2017 #49 - 15 décembre
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Bonjour &agrave; toutes et &agrave; tous,
+Retrouvez ci-dessous les &eacute;v&eacute;nements et petites annonces pr&eacute;vus jusqu'au 31 d&eacute;cembre.
+Bonne lecture et &agrave; bient&ocirc;t !
+&nbsp;
+Etienne - Ensemble Ici Vall&eacute;e de la Dr&ocirc;me / Diois.
+&nbsp;
+Ensemble Ici Vall&eacute;e de la Dr&ocirc;me / Diois                
+Rappel T&eacute;l&eacute;chargeable depuis cette lettre, en fichier PDF, depuis le haut des 2 rubriques : - tous les &eacute;v&eacute;nements jusqu'au 2e WE &agrave; venir, - toutes les annonces de ces 30 derniers jours
+C'est vous qui publiez, modifiez, compl&eacute;tez vos informations locales !
+Ensemble Ici : l'information par et pour les habitants de la Vall&eacute;e de la Dr&ocirc;me / Diois
+
+Vous&nbsp;appr&eacute;ciez Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois :
+&nbsp;"abonnement volontaire" / don mensuel&nbsp;
+Pour que l'animation du site puisse continuer,merci de votre soutien&nbsp;
+Adh&eacute;sion
+&nbsp;        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Crestois Pays de Saillans
+                    chantier participatif Vercheny
+                    Atelier , VERCHENY
+                    du samedi 02 décembre 2017 au mercredi 28 février 2018
+                    
+
+                                            
+                    
+                    Ne passez pas à côté de vous...et des autres
+                    Atelier , CREST
+                    du mardi 12 décembre 2017 au mardi 26 juin 2018
+                    
+
+                                            
+                    
+                    Atelier adultes : dessiner et fabriquer ses bijoux à la découpe laser
+                    Atelier , CREST
+                    Vendredi 15 décembre 2017
+                    
+
+                                            
+                    
+                    Le Bonhomme de Neige de Dianne Jackson
+                    Projection , SAILLANS
+                    Vendredi 15 décembre 2017
+                    
+
+                                            
+                    
+                    Noël avec ses dix doigts
+                    Atelier , CREST
+                    Samedi 16 décembre 2017
+                    
+
+                    
+                    nom de la ficheCONCERT POLYPHONIES DE LA CORSE AU CAUCASE LES OUATES
+                    Spectacle , VERCHENY
+                    Samedi 16 décembre 2017
+                    
+
+                                            
+                    
+                    Ensemble vocal Les Ouates
+                    Concert , VERCHENY
+                    Samedi 16 décembre 2017
+                    
+
+                                            
+                    
+                    Stage cirque Parents-enfants-adultes - Salle de Renc'arts à Aouste
+                    Stage , AOUSTE-SUR-SYE
+                    du samedi 16 au dimanche 17 décembre 2017
+                    
+
+                                            
+                    
+                    Stage cirque Parents-enfants-adultes - Salle de Renc'arts à Aouste
+                    Stage , AOUSTE-SUR-SYE
+                    du samedi 16 au dimanche 31 décembre 2017
+                    
+
+                                            
+                    
+                    Concert participatif de Noël
+                    Concert , CREST
+                    Dimanche 17 décembre 2017
+                    
+
+                                            
+                    
+                    Groupement d’achat local en création à Crest
+                    Réunion , CREST
+                    Dimanche 17 décembre 2017
+                    
+
+                                            
+                    
+                    Atelier d'écriture
+                    Atelier , CREST
+                    Lundi 18 décembre 2017
+                    
+
+                                            
+                    
+                    Bols de Cristal
+                    Concert , CREST
+                    Mercredi 20 décembre 2017
+                    
+
+                                            
+                    
+                    projection "Un paese di calabria"
+                    Projection , SAILLANS
+                    Vendredi 22 décembre 2017
+                    
+
+                                            
+                    
+                    Une idée cadeau originale
+                    Atelier , AOUSTE-SUR-SYE
+                    du samedi 23 au dimanche 24 décembre 2017
+                    
+
+                                            
+                    
+                    Célébration de Noël
+                    Réunion , CREST
+                    Dimanche 24 décembre 2017
+                    
+
+                                            
+                    
+                    Le Réveil de Noël Chez Eugène
+                    Repas , CREST
+                    du dimanche 24 au lundi 25 décembre 2017
+                    
+
+                    Diois                        
+                    
+                    Sauvageons des neiges
+                    Stage , DIE
+                    du lundi 11 au samedi 23 décembre 2017
+                    
+
+                                            
+                    
+                    Martin Middle M
+                    Concert , BEAUMONT-EN-DIOIS
+                    Vendredi 15 décembre 2017
+                    
+
+                                            
+                    
+                    Atelier jeux coopératifs
+                    Jeux , DIE
+                    Vendredi 15 décembre 2017
+                    
+
+                                            
+                    
+                    Nuit féérique et marché de Noël de Sainte-Croix
+                    Marché , SAINTE-CROIX
+                    Vendredi 15 décembre 2017
+                    
+
+                                            
+                    
+                    Ateliers PHOTO
+                    Atelier , DIE
+                    du vendredi 15 au dimanche 17 décembre 2017
+                    
+
+                                            
+                    
+                    Zone de gratuité Grande Famille
+                    Manifestation , DIE
+                    Samedi 16 décembre 2017
+                    
+
+                                            
+                    
+                    Gratiferia
+                    Foire , DIE
+                    Samedi 16 décembre 2017
+                    
+
+                                            
+                    
+                    Definir son projet d' éco-jardin et apprendre à observer son site.             Plantes bio-indicatrices 
+                    Atelier , DIE
+                    Samedi 16 décembre 2017
+                    
+
+                                            
+                    
+                    Stage d'aïkido à Die avec Gilles AILLOUD et Richard DUFFOURS
+                    Stage , DIE
+                    du samedi 16 au dimanche 17 décembre 2017
+                    
+
+                                            
+                    
+                    Stage d'aïkido à Die
+                    Stage , DIE
+                    du samedi 16 au dimanche 17 décembre 2017
+                    
+
+                                            
+                    
+                    Danse au Féminin
+                    Stage , DIE
+                    Dimanche 17 décembre 2017
+                    
+
+                                            
+                    
+                    Inauguration d'un espace Yi Jing
+                    Rencontre , DIE
+                    Jeudi 21 décembre 2017
+                    
+
+                                            
+                    
+                    Dîner concert hommage à Barbara
+                    Concert , DIE
+                    Samedi 23 décembre 2017
+                    
+
+                    &nbsp;Val de Drôme                        
+                    
+                    LE PETIT TOUR DU MONDE DU PERE NOEL
+                    Spectacle , LIVRON-SUR-DROME
+                    Samedi 23 décembre 2017
+                    
+
+                    Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...            
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Trouver LA coloc'
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Bois de chauffage résineux sec
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Chambre à louer
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Boule et Bill
+                
+                    
+                    
+                                                        PONTAIX
+                    
+                    
+                
+                                    tasse à café
+                
+                    
+                    
+                                                        PONTAIX
+                    
+                    
+                
+                                    Atelier - logement à rénover
+                
+                    
+                    
+                                                        GLANDAGE
+                    
+                    
+                
+                                    nom de la fiche
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Covoiturage Piegros la Clastre - Crest
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Fuel à vendre
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    directeur( trice ) centre de loisirs Février 2018
+                
+                    
+                    
+                                                        LUS-LA-CROIX-HAUTE
+                    
+                    
+                
+                                    Animateur (trice) centre de loisirs Février 2018
+                
+                    
+                    
+                                                        LUS-LA-CROIX-HAUTE
+                    
+                    
+                
+                                    bois de chauffage
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    avant les fêtes de Noël, offrez-vous une constel!
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Portée de chiots
+                
+                    
+                    
+                                                        EURRE
+                    
+                    
+                
+                                    Assemblée Générale du Radisel
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    sous location 3 mois
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        PONTAIX
+                    
+                    
+                
+                                    decolleuse
+                
+                    
+                    
+                                                        SAILLANS
+                    
+                    
+                
+                                    Partager Boutique Atelier
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Cherche garde-manger
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    nom de la fiche
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Déshydrateur
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    chaussures Millet treking Bouhtan GTX à vendre
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Recherche atelier bois - Chamaloc
+                
+                    
+                    
+                                                        CHAMALOC
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

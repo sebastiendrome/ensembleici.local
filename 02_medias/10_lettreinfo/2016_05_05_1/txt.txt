@@ -1,0 +1,769 @@
+
+
+    
+        
+        Ensemble ici | # 2016-19 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 05 au 15/05/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	
+		A la rencontre des cultures m&eacute;dit&eacute;ran&eacute;ennes...
+	Sept mois de voyage, de l&rsquo;Espagne &agrave; la Turquie, &agrave; la d&eacute;couverte des cultures m&eacute;diterran&eacute;ennes ; les musiques traditionnelles, populaires ou savantes pour fil rouge. Gitanjali et Lucas de l&rsquo;association Mare Nostrum se sont lanc&eacute;s sur les routes de M&eacute;diterran&eacute;e en Novembre 2014 pour vivre ce projet aux multiples facettes.
+	
+	Aujourd&rsquo;hui de retour, les deux voyageurs nous proposent de revenir sur cette exp&eacute;rience en partageant leurs souvenirs de voyage et leurs d&eacute;couvertes musicales, en plusieurs &eacute;missions enregistr&eacute;es par RadiO&rsquo;live :
+	
+	
+		A &eacute;couter sur Ensemble ici : 
+		Mare Nostrum - Carnet de voyage
+		
+		&nbsp;
+	
+		Et retrouvez nos deux aventuriers d&egrave;s ce soir &agrave; Vinsobres autour du concert de Youness Lachgar, musicien marocain, suivi d&#39;un repas partag&eacute; ! 
+	
+		Plus d&#39;infos: ici
+	
+		&nbsp;
+	
+	&nbsp;
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+                Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+                
+        
+		
+			
+				
+				Hautes Baronnies							
+													
+								Tous les Talents du Toulourenc
+								Exposition , MONTBRUN-LES-BAINS
+								du jeudi 05 au dimanche 08 mai 2016
+						
+
+												
+													
+								Concert "Une touche d'optimisme"
+								Concert , MONTBRUN-LES-BAINS
+								Vendredi 06 mai 2016
+						
+
+					Pays de Buis-les-Baronnies							
+													
+								CLINTON FEARON + Manbouss [Reggae acoustique]
+								Concert , BUIS-LES-BARONNIES
+								Vendredi 06 mai 2016
+						
+
+												
+													
+								Lire en mai et Michel Van Zele
+								Projection , BUIS-LES-BARONNIES
+								Vendredi 06 mai 2016
+						
+
+												
+													
+								Spectacle: "Les 12 travaux de Bricolo & Mecano"
+								Spectacle , BUIS-LES-BARONNIES
+								Samedi 07 mai 2016
+						
+
+												
+													
+								Foire horticole
+								Foire , EYGALIERS
+								Dimanche 08 mai 2016
+						
+
+					&nbsp;Val d'Eygues							
+													
+								Gymnastique sensorielle
+								Cours , NYONS
+								du mardi 15 septembre 2015 au mardi 28 juin 2016
+						
+
+												
+													
+								Recherche bénévoles foire éco biologique Naturellement !
+								Foire , NYONS
+								du mardi 29 mars au dimanche 15 mai 2016
+						
+
+												
+													
+								COURS DE YOGA à domicile
+								Cours , NYONS
+								du lundi 11 avril au samedi 31 décembre 2016
+						
+
+												
+													
+								Concert de Youness Lachgar, musicien marocain
+								Concert , VINSOBRES
+								Mercredi 04 mai 2016
+						
+
+												
+													
+								Tea For Two Duo
+								Concert , NYONS
+								Jeudi 05 mai 2016
+						
+
+												
+													
+								Journée du "fait main"
+								Marché , SAINTE-JALLE
+								Jeudi 05 mai 2016
+						
+
+												
+													
+								La Gran Ursula en concert
+								Concert , CURNIER
+								Vendredi 06 mai 2016
+						
+
+												
+													
+								18e fête du livre de Nyons
+								Atelier , NYONS
+								du vendredi 06 au samedi 07 mai 2016
+						
+
+												
+													
+								Fiesta de Santa Fé
+								Concert , SAINT-FERREOL-TRENTE-PAS
+								Samedi 07 mai 2016
+						
+
+												
+													
+								Fête de la vigne et du vin
+								Fête , SAINT-MAURICE-SUR-EYGUES
+								Samedi 07 mai 2016
+						
+
+												
+													
+								Fête de la Vigne et du Vin 
+								Fête , VINSOBRES
+								Samedi 07 mai 2016
+						
+
+												
+													
+								les Dimanches des Arts
+								Exposition , NYONS
+								du dimanche 08 mai au samedi 20 août 2016
+						
+
+												
+													
+								STAGE DE CHANT CORSE
+								Stage , CHATEAUNEUF-DE-BORDETTE
+								du jeudi 12 au dimanche 15 mai 2016
+						
+
+												
+													
+								25e foire éco biologique NATURELLEMENT !
+								Foire , NYONS
+								du vendredi 13 au dimanche 15 mai 2016
+						
+
+												
+													
+								TAGADA TSING
+								Concert , LES PILLES
+								Samedi 14 mai 2016
+						
+
+												
+													
+								Françoise BOURDON en Dédicace
+								Rencontre , NYONS
+								Samedi 14 mai 2016
+						
+
+												
+													
+								Concert de Mike & Youssef [Blues]
+								Concert , NYONS
+								Samedi 14 mai 2016
+						
+
+												
+													
+								Xinarca, chant & cistre corses 
+								Concert , CHATEAUNEUF-DE-BORDETTE
+								Dimanche 15 mai 2016
+						
+
+					Ailleurs dans le coin							
+													
+								Bernard Stern, ses oeuvres au fil du temps...
+								Exposition , GRIGNAN
+								du samedi 26 mars au dimanche 05 juin 2016
+						
+
+												
+													
+								Générations "Céramiste" vol.6
+								Exposition , DIEULEFIT
+								du mardi 12 avril au dimanche 26 juin 2016
+						
+
+												
+													
+								Vide grenier des 3 soleils
+								Vide-grenier , DIEULEFIT
+								Jeudi 05 mai 2016
+						
+
+												
+													
+								Vide grenier Badaboum
+								Vide-grenier , VAISON-LA-ROMAINE
+								Jeudi 05 mai 2016
+						
+
+												
+													
+								Stage de céramique
+								Atelier , MONTFROC
+								du jeudi 05 au dimanche 08 mai 2016
+						
+
+												
+													
+								"Madame Marguerite"
+								Spectacle , VAISON-LA-ROMAINE
+								Vendredi 06 mai 2016
+						
+
+												
+													
+								Bouquet musical 
+								Concert , VALREAS
+								Vendredi 06 mai 2016
+						
+
+												
+													
+								Fête de la vigne et du vin
+								Fête , SAINT-PANTALEON-LES-VIGNES
+								Samedi 07 mai 2016
+						
+
+												
+													
+								On peut pas dire autrement
+								Spectacle , VALREAS
+								Samedi 07 mai 2016
+						
+
+												
+													
+								Soirée jeux
+								Jeux , VALREAS
+								Samedi 07 mai 2016
+						
+
+												
+													
+								Stage de Jazz Vocal
+								Stage , DIEULEFIT
+								du samedi 07 au dimanche 08 mai 2016
+						
+
+												
+													
+								Exposition à Taulignan
+								Exposition , TAULIGNAN
+								du samedi 07 au mardi 31 mai 2016
+						
+
+												
+													
+								concert CROONERS
+								Concert , VAISON-LA-ROMAINE
+								Vendredi 13 mai 2016
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+                
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Graines de Kefir
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													Recherche maison isolée
+							
+						
+						
+														ROSANS
+						
+						
+					
+					
+													recherche coordonnees installateur poele à bois
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													Vente maison familiale
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													recrutement de familes d'accueil
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIEULEFIT
+						
+						
+					
+					
+													Colocation
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+					
+													Cède Clio rouge BeBop
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													Location appartement
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													location appartement
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Méditation Collective (gratuite)
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Fraises Bio
+							
+						
+						
+														MONTGUERS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Mare Nostrum
+								
+								
+							
+							
+															VINSOBRES
+								Association							
+							
+						
+						
+														Voyageurs des Cimes
+								
+								
+							
+							
+															DIE
+								Association							
+							
+						
+						
+														BIS USUS
+								
+								RESSOURCERIE/MATHERIAUTHEQUE
+							
+							
+															DIE
+								Association							
+							
+						
+						
+														Usine Vivante
+								
+								Tiers-Lieu à Crest
+							
+							
+															CREST
+								Association							
+							
+						
+						
+														Marche et Dessine
+								
+								
+							
+							
+															OMBLEZE
+															
+							
+						
+						
+														COUCOU Services - Association
+								
+								
+							
+							
+															DIE
+								Association							
+							
+						
+						
+														Ordi'contact
+								
+								Dépannage et assistance informatique à domicile
+							
+							
+															ARPAVON
+								Auto-entrepreneur							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

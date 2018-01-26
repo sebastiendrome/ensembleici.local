@@ -1,0 +1,805 @@
+
+
+    
+        
+        Ensemble ici | Newsletter # 8 : l'actualite "Ensemble ici" partagee par les habitants et les acteurs des Baronnies provencales
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 14 au 24/08/2013
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						Dans le vif de l&#39;&eacute;t&eacute;, encore tout plein d&#39;&eacute;v&eacute;nements qui montrent le dynamisme de nos vall&eacute;es des Baronnies !&nbsp;Mais Ensemble ici n&#39;est pas seulement un agenda : vous pouvez pr&eacute;senter vos activit&eacute;s, poster des annonces en tous genres.&nbsp;Ensemble ici, c&#39;est pour mieux vivre ensemble, et donc d&eacute;velopper nos liens et nos solidarit&eacute;s !
+
+Bonne semaine &agrave; toutes et tous !
+
+			Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici. Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site. Tous ensemble, solidaires, b&acirc;tissons cet outil d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, et bient&ocirc;t forums.		
+	
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								Projection du film "Fanny"
+								Projection , MONTBRUN-LES-BAINS
+								Mercredi 14 août 2013
+						
+
+												
+													
+								Concert "Joulik"
+								Concert , MONTBRUN-LES-BAINS
+								Jeudi 15 août 2013
+						
+
+												
+													
+								Marché artisanal nocturne
+								Marché , MONTBRUN-LES-BAINS
+								Vendredi 16 août 2013
+						
+
+												
+													
+								Journée familiale de l'environnement
+								Manifestation , SEDERON
+								Vendredi 16 août 2013
+						
+
+												
+													
+								Exposition de Manhu Roche
+								Exposition , MONTBRUN-LES-BAINS
+								du samedi 17 août au vendredi 27 septembre 2013
+						
+
+												
+													
+								Concert flûte et orgue
+								Concert , MONTBRUN-LES-BAINS
+								Dimanche 18 août 2013
+						
+
+												
+													
+								Cabaret Kantatik
+								Spectacle , MONTBRUN-LES-BAINS
+								Mardi 20 août 2013
+						
+
+					&nbsp;Pays de Buis-les-Baronnies							
+													
+								Atelier de Michèle Lepeer
+								Exposition , BUIS-LES-BARONNIES
+								du mercredi 03 juillet au samedi 31 août 2013
+						
+
+												
+													
+								“SAVEURS LOCALES“ - SORTIE DÉCOUVERTE
+								promenade /  randonnée , BUIS-LES-BARONNIES
+								du jeudi 04 juillet au jeudi 29 août 2013
+						
+
+												
+													
+								Stages céramique RAKU
+								Stage , MOLLANS-SUR-OUVEZE
+								du dimanche 14 juillet au dimanche 01 septembre 2013
+						
+
+												
+													
+								Exposition à la salle des Ursulines
+								Exposition , BUIS-LES-BARONNIES
+								du samedi 03 au mercredi 21 août 2013
+						
+
+												
+													
+								Parfum de Jazz
+								Festival , BUIS-LES-BARONNIES
+								du mardi 13 au samedi 24 août 2013
+						
+
+												
+								Concert New Orléans  
+								Concert , BUIS-LES-BARONNIES
+								Mercredi 14 août 2013
+						
+
+												
+													
+								Apéro swing - Parfum de jazz 
+								Concert , BUIS-LES-BARONNIES
+								du mercredi 14 au samedi 17 août 2013
+						
+
+												
+													
+								Ascension cycliste chronométrée Le Buis - Le Poët en Percip.
+								Manifestation , BUIS-LES-BARONNIES
+								Jeudi 15 août 2013
+						
+
+												
+								Tribute to Erroll Garner 
+								Concert , BUIS-LES-BARONNIES
+								Jeudi 15 août 2013
+						
+
+												
+													
+								Fête de la lavande et de l'abricot
+								Manifestation , SAINT-SAUVEUR-GOUVERNET
+								Jeudi 15 août 2013
+						
+
+												
+								Concert de flûte Guy Ancelloz
+								Concert , BUIS-LES-BARONNIES
+								Vendredi 16 août 2013
+						
+
+												
+								Concert : Akpé Motion & Duo Michel Portal & Bernard Lubat 
+								Concert , BUIS-LES-BARONNIES
+								Vendredi 16 août 2013
+						
+
+												
+								Cuba dans tous ses états ! Parfum de jazz
+								Concert , BUIS-LES-BARONNIES
+								Samedi 17 août 2013
+						
+
+												
+													
+								Festival des flûtes en Baronnies
+								Concert , BUIS-LES-BARONNIES
+								du samedi 17 au mardi 27 août 2013
+						
+
+												
+													
+								"La suite nomade" 
+								Concert , BUIS-LES-BARONNIES
+								Mercredi 21 août 2013
+						
+
+					Pays de Rémuzat							
+								Concert FNACEM 
+								Concert , CORNILLON-SUR-L'OULE
+								Jeudi 15 août 2013
+						
+
+												
+								Brocante et vide greniers
+								Marché , VILLEPERDRIX
+								Jeudi 15 août 2013
+						
+
+												
+								Fêtes votives
+								Fête , REMUZAT
+								du vendredi 16 au lundi 19 août 2013
+						
+
+												
+								Brocante et vide greniers
+								Vide-grenier , REMUZAT
+								Dimanche 18 août 2013
+						
+
+					&nbsp;Val d'Eygues							
+													
+								Peintures de Chantal Namysl
+								Exposition , NYONS
+								du dimanche 02 juin au samedi 24 août 2013
+						
+
+												
+								Auberge espagnole
+								Rencontre , VINSOBRES
+								du mardi 02 juillet au mardi 27 août 2013
+						
+
+												
+								concert d'oratorios pour chant et orgue
+								Concert , NYONS
+								Mercredi 14 août 2013
+						
+
+												
+								Concert d'oratirios
+								Concert , NYONS
+								Mercredi 14 août 2013
+						
+
+												
+								Elvire cocotte en pic nic 
+								Spectacle , NYONS
+								Mercredi 14 août 2013
+						
+
+												
+								Loto nocturne
+								jeux , SAINT-MAURICE-SUR-EYGUES
+								Mercredi 14 août 2013
+						
+
+												
+													
+								Randonne en fête
+								Fête , NYONS
+								Jeudi 15 août 2013
+						
+
+												
+								Visite guidée du musée d'histoire et d'achéologie
+								Visite , NYONS
+								Jeudi 15 août 2013
+						
+
+												
+													
+								LA BANDE À BRUZZO
+								Concert , NYONS
+								Jeudi 15 août 2013
+						
+
+												
+													
+								Fermes sous les étoiles : à l'écoute des insectes
+								promenade /  randonnée , CURNIER
+								Vendredi 16 août 2013
+						
+
+												
+													
+								Fête Votive 
+								Fête , VENTEROL
+								du vendredi 16 au samedi 17 août 2013
+						
+
+												
+								Fête Votive 
+								Fête , SAINT-MAURICE-SUR-EYGUES
+								du vendredi 16 au lundi 19 août 2013
+						
+
+												
+													
+								CHICABOUM
+								Concert , NYONS
+								Samedi 17 août 2013
+						
+
+												
+													
+								journées Barjavel
+								Lecture , NYONS
+								du samedi 17 au dimanche 18 août 2013
+						
+
+												
+													
+								Michael Kohlhaas
+								Projection , NYONS
+								Lundi 19 août 2013
+						
+
+												
+													
+								Festivolt : Cie carton plein 
+								Spectacle , NYONS
+								Lundi 19 août 2013
+						
+
+												
+													
+								Les livres prennent l'air
+								Manifestation , NYONS
+								Mercredi 21 août 2013
+						
+
+												
+								Peinturlure
+								Spectacle , NYONS
+								Mercredi 21 août 2013
+						
+
+												
+													
+								G. Goumat / " Zodiaque " 
+								Exposition , NYONS
+								du mercredi 21 au vendredi 30 août 2013
+						
+
+												
+													
+								Les livres prennent l'air
+								Manifestation , NYONS
+								Vendredi 23 août 2013
+						
+
+												
+													
+								Foire de la St-Barthélémy "Métiers et Traditions" à Ste Jalle. 
+								Foire , SAINTE-JALLE
+								Samedi 24 août 2013
+						
+
+												
+													
+								Stage de tango argentin
+								Manifestation , NYONS
+								du samedi 24 au samedi 31 août 2013
+						
+
+					&nbsp;Ailleurs dans le coin							
+													
+								Exposition d'Ann Veronica Janssens « Sources »
+								Exposition , GRIGNAN
+								du vendredi 28 juin au dimanche 15 septembre 2013
+						
+
+												
+													
+								Nuits de la Coupole
+								Rencontre , MOYDANS
+								du lundi 01 juillet au samedi 31 août 2013
+						
+
+												
+								concert du quatuor à cordes Cavatine
+								Concert , CLANSAYES
+								Mercredi 14 août 2013
+						
+
+												
+								Découverte du Ciel Nocturne. 
+								Manifestation , LA MOTTE-CHALANCON
+								Mercredi 14 août 2013
+						
+
+												
+													
+								9ème Festival Des Airs de Rue
+								Festival , SAINT-NAZAIRE-LE-DESERT
+								Mercredi 14 août 2013
+						
+
+												
+								Festival : Airs de rue 
+								Festival , SAINT-NAZAIRE-LE-DESERT
+								Mercredi 14 août 2013
+						
+
+												
+								Fête Votive de Colonzelle
+								Fête , COLONZELLE
+								du mercredi 14 au jeudi 15 août 2013
+						
+
+												
+								Fête du 15 août 
+								Fête , MARSANNE
+								du mercredi 14 au jeudi 15 août 2013
+						
+
+												
+													
+								Tragédie "Thyeste" de Sénèque
+								Spectacle , GRILLON
+								du vendredi 16 au samedi 17 août 2013
+						
+
+												
+								Conférence « l’Enjeu Energétique Mondial : un Défi pour Tous »
+								Conférence , LA MOTTE-CHALANCON
+								Samedi 17 août 2013
+						
+
+												
+													
+								Vide-grenier
+								Vide-grenier , SALLES-SOUS-BOIS
+								Samedi 17 août 2013
+						
+
+												
+													
+								Bal 
+								Fête , TAULIGNAN
+								Samedi 17 août 2013
+						
+
+												
+								Music' o kiosque : Philippe Coulange 
+								Concert , MONTELIMAR
+								Dimanche 18 août 2013
+						
+
+												
+								Concert : Catilam 
+								Concert , SAINT-NAZAIRE-LE-DESERT
+								Dimanche 18 août 2013
+						
+
+												
+													
+								Marché  + Pot de bienvenue de l'été
+								Marché , SERRES
+								Lundi 19 août 2013
+						
+
+												
+													
+								Triathlon sprint des gorges de l'Ardèche 2013
+								Tournoi , VALLON-PONT-D'ARC
+								Vendredi 23 août 2013
+						
+
+												
+													
+								Fête votive et foraine
+								Manifestation , SERRES
+								du vendredi 23 au dimanche 25 août 2013
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Recherche tenors
+							
+						
+						
+														TAULIGNAN
+						
+						
+					
+					
+													Extracteur jus fruits/légumes
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														REMUZAT
+						
+						
+					
+					
+													Cherche un pote pour faire de la guitare
+							
+						
+						
+														NYONS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Comité des fêtes de Mollans sur Ouvèze
+								
+								
+							
+							
+															MOLLANS-SUR-OUVEZE
+								Association							
+							
+						
+						
+														Gîte De La Villette
+								
+								
+							
+							
+															MONTBRUN-LES-BAINS
+								société privée							
+							
+						
+						
+														CFPPA
+								
+								Centre de Formation Professionnelle pour Aduldes
+							
+							
+															NYONS
+								Etablissement public							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+			
+				
+			
+				
+			
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

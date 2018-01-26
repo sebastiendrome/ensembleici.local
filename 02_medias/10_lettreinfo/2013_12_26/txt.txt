@@ -1,0 +1,499 @@
+
+
+    
+        
+        Ensemble ici | # 27: Ensemble Ici en Baronnies
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 26/12/2013 au 05/01/2014
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	L&#39;&eacute;quipe &quot;Ensemble Ici&quot; vous souhaite de joyeuses f&ecirc;tes et une tr&egrave;s bonne fin d&#39;ann&eacute;e!
+
+On se retrouve d&eacute;s 2014 pour de nouvelles perspectives:
+
+Mise en valeur et mise en lien d&#39;initiatives locales, apparition et d&eacute;veloppement de forums et d&#39;espaces de discussion, co-organisation d&#39;un &quot;gros d&eacute;bat&quot; sur la th&eacute;matique de la Transition, informations locales, multim&eacute;dia...
+Autant de projets en pr&eacute;paration que vous aurez l&#39;occasion de d&eacute;couvrir et de consolider avec nous d&eacute;s le mois prochain!
+
+Heureuse fin d&#39;ann&eacute;e &agrave; tous!
+
+	
+	L&#39;&eacute;quipe &quot;Ensemble Ici&quot;
+			Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici. Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site. Tous ensemble, solidaires, b&acirc;tissons cet outil d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, et bient&ocirc;t forums.		
+	
+
+
+	
+		
+			
+				
+				Pays de Buis-les-Baronnies							
+													
+								Vin chaud musical
+								Manifestation , BUIS-LES-BARONNIES
+								Samedi 28 décembre 2013
+						
+
+					&nbsp;Val d'Eygues							
+													
+								Exposition de l'Atelier de Laines et de Colliers
+								Exposition , NYONS
+								du lundi 23 décembre 2013 au jeudi 02 janvier 2014
+						
+
+												
+													
+								Jeux en mode Kinect
+								Jeux , NYONS
+								du jeudi 26 décembre 2013 au samedi 04 janvier 2014
+						
+
+												
+													
+								Ciné-goûter
+								Projection , NYONS
+								Vendredi 27 décembre 2013
+						
+
+												
+													
+								La Drôme des Troubadours
+								Conférence , NYONS
+								Samedi 28 décembre 2013
+						
+
+												
+													
+								Concours de dessin pour enfants
+								Atelier , NYONS
+								Samedi 28 décembre 2013
+						
+
+												
+													
+								Réveillon de la saint Sylvestre
+								Repas , NYONS
+								Mardi 31 décembre 2013
+						
+
+												
+													
+								Réveillon du Nouvel an
+								Repas , CONDORCET
+								du mardi 31 décembre 2013 au mercredi 01 janvier 2014
+						
+
+												
+													
+								Calliopée, musique de la renaissance à nos jours
+								Concert , NYONS
+								Mercredi 01 janvier 2014
+						
+
+					Ailleurs dans le coin							
+													
+								Exposition  Berthe Von Ow
+								Exposition , VISAN
+								du vendredi 22 novembre 2013 au dimanche 09 février 2014
+						
+
+												
+													
+								Dieulefit fête Noël
+								Manifestation , DIEULEFIT
+								du samedi 21 au mardi 24 décembre 2013
+						
+
+												
+													
+								Les vacances au château: Noël conte en famille
+								Visite , SUZE-LA-ROUSSE
+								Lundi 30 décembre 2013
+						
+
+												
+													
+								Les vacances au château: Une table bien dressée
+								Visite , SUZE-LA-ROUSSE
+								Jeudi 02 janvier 2014
+						
+
+												
+													
+								Ensemble vocal "Dissonances"
+								Concert , REAUVILLE
+								Dimanche 05 janvier 2014
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Appel à participation défilé Biennale de la Danse septembre .2014
+							
+						
+						
+														CURNIER
+						
+						
+					
+					
+													Cherche paille pour maison
+							
+						
+						
+														MIRABEL-AUX-BARONNIES
+						
+						
+					
+					
+													cherche meuble de récup
+							
+						
+						
+														VENTEROL
+						
+						
+					
+					
+													Recherche un volontaire en service civique!
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													recherche logement
+							
+						
+						
+														ARPAVON
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Homeopathie à la ferme
+								
+								
+							
+							
+															NYONS
+								Etablissement privé							
+							
+						
+						
+														Société Musicale et chorale des Baronnies
+								
+								
+							
+							
+															MIRABEL-AUX-BARONNIES
+								Etablissement privé							
+							
+						
+						
+														Les frimousses des deux vallées
+								
+								Crèche-halte garderie
+							
+							
+															REMUZAT
+								Etablissement public							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+			
+				
+			
+				
+			
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

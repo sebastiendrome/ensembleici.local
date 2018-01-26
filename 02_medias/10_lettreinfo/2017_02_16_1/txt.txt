@@ -1,0 +1,614 @@
+
+
+
+    
+        
+        Ensemble ici | # 2017-07 : Ensemble Ici, tous acteurs de la vie locale !
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                &nbsp;
+Bonjour &agrave; toutes et &agrave; tous
+&nbsp;
+MEDIAS : Ensemble pour sauver l'h&ocirc;pital local de Buis-les-Baronnies !
+RadiO'live est all&eacute; rencontrer Jean-Pierre Buix et S&eacute;bastien Bernard.
+Entre engagements des d&eacute;cideurs institutionnels et mobilisation citoyenne, les deux acteurs phares de cette mobilisation reviennent sur les raisons de la cr&eacute;ation d'un comit&eacute; de d&eacute;fense de l'h&ocirc;pital et l'historique du conflit.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C'est par l&agrave; !
+&nbsp;
+FORUMS : Ensemble, ici, pour &eacute;changer. 
+Vous l'avez peut-&ecirc;tre oubli&eacute; mais le site d'Ensemble Ici contient une rubrique "FORUMS" qui continue de vivre. On y partage des articles, des reflexions et des bonnes id&eacute;es. 
+&nbsp;
+&nbsp;
+AGENDA : Ensemble, avec les autres !
+
+Vendredi prochain DECOR entre en sc&egrave;ne avec le Service Jeunesse de Nyons, AVENTIC et @SOFT ! On vous donne rendez-vous au premier Festival des Cultures Num&eacute;riques et Mangas en Dr&ocirc;me Proven&ccedil;ale !
+&nbsp;
+&nbsp;
+&nbsp;
+Une tr&egrave;s belle semaine &agrave; vous,
+l'&eacute;quipe Ensemble Ici - Baronnies                Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici. Il vous est ais&eacute; d'en ajouter via les formulaires du site. Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d'info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles! 
+contact@ensembleici.fr
+        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Crestois Pays de Saillans                        
+                    
+                    Et ta soeur, elle fait de la radio ? (r.saint-fé)
+                    Manifestation , CREST
+                    Jeudi 16 février 2017
+                    
+
+                    &nbsp;Hautes Baronnies                        
+                    
+                    concert World festif Namogodine !!
+                    Concert , MONTBRUN-LES-BAINS
+                    du vendredi 17 au samedi 18 février 2017
+                    
+
+                    &nbsp;Pays de Buis-les-Baronnies                        
+                    
+                    DESIRELESS chante Apollinaire
+                    Concert , BUIS-LES-BARONNIES
+                    du mercredi 15 au samedi 18 février 2017
+                    
+
+                                            
+                    
+                    Ciné-goûter
+                    Projection , BUIS-LES-BARONNIES
+                    Mercredi 22 février 2017
+                    
+
+                                            
+                    
+                    La vallée des loups
+                    Projection , BUIS-LES-BARONNIES
+                    Vendredi 24 février 2017
+                    
+
+                    Pays de Rémuzat                        
+                    
+                    Frizaplat et Djulius
+                    Concert , MONTREAL-LES-SOURCES
+                    Samedi 25 février 2017
+                    
+
+                    &nbsp;Val d'Eygues                        
+                    
+                    Partir en vacances
+                    journée d'information , CURNIER
+                    du lundi 13 février au vendredi 19 mai 2017
+                    
+
+                                            
+                    
+                    Chants Partagés
+                    Fête , LES PILLES
+                    Jeudi 16 février 2017
+                    
+
+                                            
+                    
+                    Goûter Spectacle Aubres
+                    Spectacle , AUBRES
+                    Samedi 18 février 2017
+                    
+
+                                            
+                    
+                    Dédicace de Max Ponce à la Librairie de l'Olivier
+                    Rencontre , NYONS
+                    Samedi 18 février 2017
+                    
+
+                                            
+                    
+                    Ouverture de la nouvelle friperie de LA FABRIQUE
+                    Marché , NYONS
+                    Mardi 21 février 2017
+                    
+
+                                            
+                    
+                    MEDITATION
+                    Atelier , NYONS
+                    Vendredi 24 février 2017
+                    
+
+                                            
+                    
+                    FESTIVAL des Cultures Numériques et Manga
+                    Festival , NYONS
+                    du vendredi 24 au samedi 25 février 2017
+                    
+
+                    &nbsp;Ailleurs dans le coin                        
+                    
+                    Stage de Clown
+                    Stage , SEGURET
+                    du lundi 13 au mercredi 15 février 2017
+                    
+
+                    
+                    Concert NAMOGODINE
+                    Concert , BARRET-SUR-MEOUGE
+                    Samedi 18 février 2017
+                    
+
+                                            
+                    
+                    Stage Théâtre et arts plastiques
+                    Stage , SEGURET
+                    du lundi 20 au vendredi 24 février 2017
+                    
+
+                    
+                    Exposition Lynn Pook
+                    Exposition , MONTELIMAR
+                    du jeudi 23 février au samedi 04 mars 2017
+                    
+
+                                            
+                    
+                    Exposition de sortie de résidence de Lynn Pook
+                    Exposition , VALAURIE
+                    du jeudi 23 février au samedi 04 mars 2017
+                    
+
+                    Retrouvez l'agenda complet sur www.ensembleici.fr...            
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            DECOR recherche un service civique pour 6 mois !
+                
+                    
+                    
+                                                        LES PILLES
+                    
+                    
+                
+                                    table bois massif
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        BUIS-LES-BARONNIES
+                    
+                    
+                
+                                    appartement t3 a louer la motte chalancon
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        LA MOTTE-CHALANCON
+                    
+                    
+                
+                                    Soirée dansante Couscous
+                
+                    
+                    
+                                                        AUBRES
+                    
+                    
+                
+                                    Améliorer ses relations aux autres et sa relation à soi
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    TINY HOUSE
+                
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    recherche location terrain
+                
+                    
+                    
+                                                        BUIS-LES-BARONNIES
+                    
+                    
+                
+                                    Le CEDER recrute 1 directeur(trice) en CDI
+                
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    remplacement CDD poste
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        VENTEROL
+                    
+                    
+                
+                                    S.E.L. (Système d'Échange Local)
+                
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    Recherche créateurs et artistes
+                
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    Cherche chambre pour 3 mois
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    Recherche Atelier
+                
+                    
+                    
+                                                        SAINTE-JALLE
+                    
+                    
+                
+                                    table chevet bois massif
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        BUIS-LES-BARONNIES
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            AVENTIC
+                Espaces Publics Numériques
+                
+                                        REMUZAT
+                        Association                
+                
+                
+                            3R La Triade
+                Ressourcerie des Baronnies
+                
+                                        NYONS
+                        Association                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+    Le collectif "Ensemble ici" :
+
+        
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

@@ -1,0 +1,961 @@
+
+
+    
+        
+        Ensemble ici | Newsletter # 4 : l'actualite "Ensemble ici" partagee par les habitants et les acteurs des Baronnies provencales
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 18 au 28/07/2013
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						Qui se cache derri&egrave;re le projet &quot;Ensemble ici&quot; ?&nbsp;
+Un collectif d&#39;associations (Africultures, DECOR, l&#39;Association pour l&#39;animation sociale du Haut-nyonsais, le Tam-Tam des baronnies)&nbsp;compos&eacute; d&#39;animateurs locaux et de techniciens informatiques.
+
+L&#39;&eacute;t&eacute; est riche d&#39;&eacute;v&eacute;nements et &ccedil;a se bouscule ce week-end. Nos coups de coeur vont &agrave; &quot;En attendant&quot;:&nbsp; sous un impressionnant chapiteau, un spectacle de cirque magique aux Pilles, mais aussi aux Rencontres des cin&eacute;mas du monde de Ste Jalle qui invitent cette ann&eacute;e le Qu&eacute;bec.
+
+Faites conna&icirc;tre cette newsletter &agrave; vos amis, entrez vos infos et vos annonces, vivons ensemble avec &quot;Ensemble ici&quot; !&nbsp;
+
+
+			Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici. Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site. Tous ensemble, solidaires, b&acirc;tissons cet outil d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, et bient&ocirc;t forums.		
+	
+
+	
+		
+			
+				
+			
+		
+	
+	
+		
+			
+				
+				Hautes Baronnies							
+								Concert des choeurs lauréats
+								Concert , MONTBRUN-LES-BAINS
+								Lundi 22 juillet 2013
+						
+
+												
+								Défilé de mode
+								Performance , MONTBRUN-LES-BAINS
+								Vendredi 26 juillet 2013
+						
+
+					Pays de Buis-les-Baronnies							
+													
+								Programme jeunesse de l'été à Buis-les-Baronnies
+								Manifestation , BUIS-LES-BARONNIES
+								du lundi 01 juillet au vendredi 30 août 2013
+						
+
+												
+													
+								Stages céramique RAKU
+								Stage , MOLLANS-SUR-OUVEZE
+								du dimanche 14 juillet au dimanche 01 septembre 2013
+						
+
+												
+													
+								Sérénades en Baronnies 2013
+								Concert , BUIS-LES-BARONNIES
+								du lundi 15 au vendredi 19 juillet 2013
+						
+
+												
+								Brocante à Buis
+								Vide-grenier , BUIS-LES-BARONNIES
+								Jeudi 18 juillet 2013
+						
+
+												
+													
+								Rurban session 2013
+								Manifestation , BUIS-LES-BARONNIES
+								du vendredi 19 au samedi 20 juillet 2013
+						
+
+												
+													
+								Les Peintres dans la Rue
+								Exposition , MOLLANS-SUR-OUVEZE
+								du samedi 20 au dimanche 21 juillet 2013
+						
+
+												
+								spectacle de marionnettes "Guignol"
+								Spectacle , BUIS-LES-BARONNIES
+								du dimanche 21 au lundi 22 juillet 2013
+						
+
+												
+													
+								Repas et contes
+								repas , ROCHEBRUNE
+								Mardi 23 juillet 2013
+						
+
+												
+													
+								Albertine en cinq temps
+								Spectacle , BUIS-LES-BARONNIES
+								du mardi 23 au lundi 29 juillet 2013
+						
+
+												
+													
+								Représentations du Théâtre Ecole de la Lance et des Baronnies
+								Spectacle , BUIS-LES-BARONNIES
+								du mardi 23 juillet au vendredi 02 août 2013
+						
+
+												
+													
+								Les Diablogues
+								Spectacle , BUIS-LES-BARONNIES
+								du mercredi 24 au mardi 30 juillet 2013
+						
+
+												
+								concert "La Bringuebale"
+								Concert , BUIS-LES-BARONNIES
+								Jeudi 25 juillet 2013
+						
+
+												
+													
+								Deux petites dames vers le nord
+								Spectacle , BUIS-LES-BARONNIES
+								du jeudi 25 au mercredi 31 juillet 2013
+						
+
+												
+													
+								Poil de carotte 
+								Spectacle , BUIS-LES-BARONNIES
+								du vendredi 26 juillet au jeudi 01 août 2013
+						
+
+												
+													
+								Poil de carotte
+								Spectacle , BUIS-LES-BARONNIES
+								du vendredi 26 juillet au jeudi 01 août 2013
+						
+
+												
+								Fête votive
+								Fête , MOLLANS-SUR-OUVEZE
+								Samedi 27 juillet 2013
+						
+
+					&nbsp;Pays de Rémuzat							
+													
+								"Suissa" en concert
+								Atelier , CORNILLON-SUR-L'OULE
+								Vendredi 19 juillet 2013
+						
+
+												
+													
+								FESTIVAL MUSIQUE SUR LA COLLINE
+								Festival , VERCLAUSE
+								Samedi 20 juillet 2013
+						
+
+												
+								Marché artisanat
+								Marché , REMUZAT
+								Vendredi 26 juillet 2013
+						
+
+					Val d'Eygues							
+													
+								Concert gratuit Nyons Festiv'été 
+								Concert , NYONS
+								du mardi 09 juillet au samedi 24 août 2013
+						
+
+												
+													
+								L'été de l'AASHN
+								Manifestation , CURNIER
+								du mardi 09 juillet au mercredi 28 août 2013
+						
+
+												
+								Concert Quatuor Kunibert 
+								Concert , NYONS
+								Jeudi 18 juillet 2013
+						
+
+												
+													
+								Quator Kunibert 
+								Concert , NYONS
+								Jeudi 18 juillet 2013
+						
+
+												
+								Observation du ciel
+								Rencontre , SAINTE-JALLE
+								Jeudi 18 juillet 2013
+						
+
+												
+								Nuit divinique
+								Rencontre , VINSOBRES
+								Jeudi 18 juillet 2013
+						
+
+												
+								Fêtes des Olivades - 51ème édition
+								Fête , NYONS
+								du jeudi 18 au dimanche 21 juillet 2013
+						
+
+												
+													
+								Les rencontres des cinémas du monde 
+								Atelier , SAINTE-JALLE
+								du jeudi 18 au dimanche 21 juillet 2013
+						
+
+												
+													
+								Scène ouverte
+								Spectacle , CONDORCET
+								Vendredi 19 juillet 2013
+						
+
+												
+													
+								Concert de la chorale du Delta 
+								Concert , NYONS
+								Vendredi 19 juillet 2013
+						
+
+												
+													
+								 Le Condor
+								Atelier , NYONS
+								Samedi 20 juillet 2013
+						
+
+												
+								Repas du village 
+								Rencontre , POET-SIGILLAT
+								Samedi 20 juillet 2013
+						
+
+												
+													
+								La Fête à St-fé !
+								Fête , SAINT-FERREOL-TRENTE-PAS
+								Samedi 20 juillet 2013
+						
+
+												
+								Loto nocturne
+								jeux , SAINT-MAURICE-SUR-EYGUES
+								Samedi 20 juillet 2013
+						
+
+												
+								Concert par la Chorale du Delta
+								Concert , VINSOBRES
+								Samedi 20 juillet 2013
+						
+
+												
+													
+								En attendant...
+								Spectacle , LES PILLES
+								du samedi 20 au dimanche 21 juillet 2013
+						
+
+												
+								Week-end Beach Tennis 
+								Performance , NYONS
+								du samedi 20 au dimanche 21 juillet 2013
+						
+
+												
+								Concert du Volkalna Akademija Ljubljana
+								Concert , NYONS
+								Dimanche 21 juillet 2013
+						
+
+												
+								Concert des chœurs Lauréats 
+								Concert , NYONS
+								Dimanche 21 juillet 2013
+						
+
+												
+								Course de la côte, montée historique
+								Performance , VINSOBRES
+								Dimanche 21 juillet 2013
+						
+
+												
+													
+								Festivolt : Stetch Impro 
+								Spectacle , NYONS
+								Lundi 22 juillet 2013
+						
+
+												
+								Musique de chambre aux Baronnies
+								Concert , SAINTE-JALLE
+								Lundi 22 juillet 2013
+						
+
+												
+													
+								Papycool Jazz band
+								Concert , NYONS
+								Mardi 23 juillet 2013
+						
+
+												
+													
+								Les 6 maisons de Lulu Baluchon
+								Spectacle , NYONS
+								Mercredi 24 juillet 2013
+						
+
+												
+								Soirée Vino'concert
+								Fête , VINSOBRES
+								Mercredi 24 juillet 2013
+						
+
+												
+													
+								Alain Tremblay
+								Concert , NYONS
+								Jeudi 25 juillet 2013
+						
+
+												
+													
+								Vente de bijoux touaregs
+								Atelier , POET-SIGILLAT
+								Jeudi 25 juillet 2013
+						
+
+												
+								Repas Provencal
+								repas , MIRABEL-AUX-BARONNIES
+								Samedi 27 juillet 2013
+						
+
+												
+													
+								"Un fil à la patte" de Georges Feydeau
+								Spectacle , NYONS
+								Samedi 27 juillet 2013
+						
+
+												
+													
+								POP en concert
+								Concert , NYONS
+								Samedi 27 juillet 2013
+						
+
+												
+								Fête du Vieux Village 
+								Fête , SAHUNE
+								Samedi 27 juillet 2013
+						
+
+					&nbsp;Ailleurs dans le coin							
+								Exposition d'un artiste barogniard
+								Exposition , CABRIERES-D'AVIGNON
+								du mercredi 10 au mercredi 31 juillet 2013
+						
+
+												
+													
+								Festival Vaison Danses 2013
+								Festival , VAISON-LA-ROMAINE
+								du samedi 13 au dimanche 28 juillet 2013
+						
+
+												
+													
+								Concerts au resto "Chez mon Jules"
+								Concert , VESC
+								du samedi 13 juillet au samedi 24 août 2013
+						
+
+												
+													
+								Saoû chante Mozart 
+								Concert , SUZE-LA-ROUSSE
+								Vendredi 19 juillet 2013
+						
+
+												
+													
+								Festival de spectacles vivants
+								Festival , BOURG-DE-PEAGE
+								du vendredi 19 au dimanche 21 juillet 2013
+						
+
+												
+													
+								Festival de Marionnettes 2013
+								Festival , POET-LAVAL
+								du vendredi 19 au dimanche 21 juillet 2013
+						
+
+												
+								Musifolies
+								Concert , GRILLON
+								du vendredi 19 au mercredi 24 juillet 2013
+						
+
+												
+													
+								Liane Edward
+								Concert , GRIGNAN
+								Samedi 20 juillet 2013
+						
+
+												
+													
+								Concert Hervé Christiani : Festival Off de Montélimar Sésame  
+								Concert , TOUCHE
+								Samedi 20 juillet 2013
+						
+
+												
+													
+								Fête de la piscine
+								Fête , TULETTE
+								Samedi 20 juillet 2013
+						
+
+												
+								Antiquité-Brocante 
+								Vide-grenier , DIEULEFIT
+								du samedi 20 au dimanche 21 juillet 2013
+						
+
+												
+													
+								Fête du Rhône
+								Fête , DONZERE
+								du samedi 20 au dimanche 21 juillet 2013
+						
+
+												
+													
+								Festival les 12ème Musicales en Tricastin 
+								Festival , SAINT-PAUL-TROIS-CHATEAUX
+								du samedi 20 au vendredi 26 juillet 2013
+						
+
+												
+								Concet d'orgue 
+								Concert , GRIGNAN
+								Dimanche 21 juillet 2013
+						
+
+												
+								Music' o kiosque : Montelo chante 
+								Concert , MONTELIMAR
+								Dimanche 21 juillet 2013
+						
+
+												
+								La Nuit du Violon
+								Concert , SUZE-LA-ROUSSE
+								Dimanche 21 juillet 2013
+						
+
+												
+													
+								11ème Festival de Jazz de Serres
+								Festival , SERRES
+								du lundi 22 au dimanche 28 juillet 2013
+						
+
+												
+													
+								Concert Théodore Paul et Gabriel : Festival off Montélimar Sésame
+								Concert , SAVASSE
+								Mardi 23 juillet 2013
+						
+
+												
+													
+								Les Valauripailles 
+								Marché , VALAURIE
+								Mardi 23 juillet 2013
+						
+
+												
+													
+								Concert Diana Quintett : Festival Off Montélimar Sésame
+								Concert , COUCOURDE
+								Mercredi 24 juillet 2013
+						
+
+												
+								Dieulefit Plage 
+								Manifestation , DIEULEFIT
+								du mercredi 24 au vendredi 26 juillet 2013
+						
+
+												
+													
+								Chœur Mixte Oreya de Jitomir (Ukraine)
+								Concert , MONTELIMAR
+								Jeudi 25 juillet 2013
+						
+
+												
+													
+								Concert "Divano Dromensa" : Festival Off de Montélimar Sésame 
+								Concert , MONTELIMAR
+								Jeudi 25 juillet 2013
+						
+
+												
+													
+								Spectacle : "Les Misérables"
+								Spectacle , ALLAN
+								du jeudi 25 au mercredi 31 juillet 2013
+						
+
+												
+								Les années de jeunesse de Guiseppe Verdi
+								Conférence , SAINT-PAUL-TROIS-CHATEAUX
+								Vendredi 26 juillet 2013
+						
+
+												
+								Concert Hommage à Claude Nougaro 
+								Concert , TULETTE
+								Vendredi 26 juillet 2013
+						
+
+												
+								Choeur des musicales de Grillon
+								Concert , VALREAS
+								Vendredi 26 juillet 2013
+						
+
+												
+													
+								Nouvelles du conte
+								Festival , BOURDEAUX
+								du vendredi 26 juillet au samedi 10 août 2013
+						
+
+												
+								Choeur des musicales de Grillon
+								Concert , GRIGNAN
+								Samedi 27 juillet 2013
+						
+
+												
+													
+								Festival des 100 guitares Gipsy 
+								Festival , MONTELIMAR
+								Samedi 27 juillet 2013
+						
+
+												
+								Fête au village 
+								Fête , ROCHEFORT-EN-VALDAINE
+								Samedi 27 juillet 2013
+						
+
+												
+								Fête votive
+								Fête , ROUSSET-LES-VIGNES
+								du samedi 27 au dimanche 28 juillet 2013
+						
+
+												
+								Fête Votive
+								Fête , SAINT-PANTALEON-LES-VIGNES
+								du samedi 27 au dimanche 28 juillet 2013
+						
+
+												
+													
+								Foulée de la marquise
+								Performance , GRIGNAN
+								Dimanche 28 juillet 2013
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Hydro poële à granulés de bois
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+					
+													Vends billet TGV Prems Valence Nantes
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													L'Association Familiale du Nyonsais recrute pour la rentrée !
+							
+						
+						
+														NYONS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Abeille vinsobraise
+								
+								
+							
+							
+															VINSOBRES
+								Association							
+							
+						
+						
+														Ébénisterie Desrochers
+								
+								Éco-design meubles & bois
+							
+							
+															MONTAUBAN-SUR-L'OUVEZE
+								Auto-entrepreneur							
+							
+						
+						
+														Chez mon Jules Resto
+								
+								
+							
+							
+															VESC
+								Etablissement privé							
+							
+						
+						
+														Provence Recording Studio
+								
+								Studio d'enregistrement
+							
+							
+															SAINTE-JALLE
+								société privée							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+			
+				
+			
+				
+			
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

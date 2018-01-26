@@ -1,0 +1,141 @@
+/* =============================================================================
+   styles de formulaires
+   ========================================================================== */
+input, select {
+	line-height: 1.4em;
+	margin-bottom: 0.2em;
+}
+.form-enligne {
+	display: inline;
+}
+.formA ul {
+	padding: 0;
+	margin: 0;
+}
+.formA li {
+	list-style: none;
+	padding: 1px 0;
+	margin: 0;
+	clear: left;
+}
+.formA label {
+	display: inline-block;
+	float: left;
+	margin: 0;
+	padding: 5px 5px 0 0;
+	width: 190px;
+	font-weight: bold;
+	text-align: right;
+}
+.formA label span, .obligat{
+	font-size:.9em;
+	color:#23AADD;
+}
+.formA .labellarge {
+	width: 100%;
+	display: block;
+	text-align: left;
+	margin: 5px 0;
+}
+.formA .note {
+	font-size: .8em;
+	width: 100%;
+	display: block;
+	margin: 5px 0;
+}
+.formA input, .formA textarea, .formA select{
+	padding: 4px;
+	margin: 0 0 5px 0;
+	background-color: #FFF;
+	border: 1px solid #E3D6C7;
+	-moz-border-radius: 3px; 
+	-webkit-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	border-radius: 3px;
+}
+.formA .verouille{
+	border: none;
+	background-color: #F0EDEA;
+}
+.formA .verouille:focus,
+.formA .verouille:hover{
+	border: none;
+	background-color: #F0EDEA;
+}
+.formA .a_partir_du{
+	padding: 2px;
+	width: 51px;
+}
+.formA input:hover,
+.formA textarea:hover,
+.formA select:hover,
+.formA input:focus,
+.formA textarea:focus,
+.formA select:focus{
+	border: #d6c2ad 1px solid;
+	background-color: #f2f7f9;
+	color: #000;
+}
+.formA fieldset{
+	margin: 10px;
+	-webkit-border-radius: 7px;
+	 -khtml-border-radius: 7px;
+	   -moz-border-radius: 7px;
+	        border-radius: 7px;
+	border: 1px solid #E3D6C7;
+	background-color: #F0EDEA;
+	padding: 15px;
+}
+.formA legend{
+	background-color: #FFF;
+	border: 1px solid #E3D6C7;
+	padding: 5px;
+}
+.formA input[type=radio] {
+	margin-left:5px;
+	border: 0;
+	background-color: transparent;
+ }
+.captchaDiv{
+	vertical-align: top;
+	margin-left: 195px;
+	margin-top: 5px;
+}
+.captchaDiv .captcha{
+	border: 1px solid #E3D6C7;
+	background-color:  #FFF;
+	-moz-border-radius: 3px; 
+	-webkit-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	border-radius: 3px;
+	padding: 4px;
+}
+.captchaDiv .renew{
+	cursor: pointer;
+}
+.formA h2
+{
+	text-align: center;
+	margin: 20px 0 10px 0;
+	padding: 50px 0 10px 0;
+	color: #2DABDA;
+	text-transform: uppercase;
+	background-image: url('../img/puce-titre.png');
+	background-repeat: no-repeat;
+	background-position: top center;
+	min-height: 28px;
+	vertical-align: middle;
+	border-bottom: 1px solid #f7f2ee;
+}
+.formA p {
+	text-align: center;
+	margin: 20px;
+	color: #2DABDA;
+	font-weight: bold;
+}
+.calendrier{
+	margin: 0 0 0 8px;	
+}
+.filtre-actif{
+	color: #E75B33;
+}

@@ -1,0 +1,646 @@
+
+
+
+    
+        
+        Ensemble ici | La Lettre Ensemble Ici Pays de Dieulefit-Bourdeaux-Marsanne 2017#24
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Bonjour &agrave; toutes et &agrave; tous,
+&nbsp;
+Bienvenues dans cette nouvelle ann&eacute;e que nous vous souhaitons dynamique et engag&eacute;e !
+&nbsp;
+Voici votre lettre d'informations pour les deux prochaines semaines, n'h&eacute;sitez pas &agrave; partager et &agrave; parler d'Ensemble Ici autour de vous, nous avons besoin de vous pour faire connaitre cette initiative qui permet &agrave; tous et &agrave; chacun.e de partager des infos et de devenir ainsi acteur.trice de notre vie locale.
+&nbsp;
+Notre association Ici et Ailleurs (RadioL&agrave; et Ensemble Ici Pays de Dieulefit-Bourdeaux et Marsanne) organise son Assembl&eacute;e G&eacute;n&eacute;rale le mercredi 31 janvier &agrave; 18h &agrave; Dieulefit, toutes les infos sont &agrave; retrouver ICI, prenez part &agrave; un m&eacute;dia local r&eacute;alis&eacute; par et pour les habitants !
+Nous sommes &eacute;galement &agrave; la recherche d'un(e) jeune en mission de service civique afin de valoriser la parole citoyenne sur notre territoire, vous pouvez retrouver l'annonce ICI. Merci de nous aider en faisant suivre l'information.
+&nbsp;
+En vous souhaitant un tr&egrave;s beau d&eacute;but d'ann&eacute;e.
+L'&Eacute;quipe d'Ensemble Ici-Pays de Dieulefit-Bourdeaux et Marsanne
+&nbsp;                
+Voici les infos des prochaines semaines dont vous trouvez le d&eacute;tail sur le site Ensemble ici. 
+La lettre d'info les petites annonces du territoire sont t&eacute;l&eacute;chargeables en PDF dans ce mail. 
+Il vous est ais&eacute; d'en ajouter via les formulaires du site.
+
+&nbsp;
+C'est vous qui publiez et alimentez les rubriques du site : ajoutez, modifier, compl&eacute;tez vos informations locales !
+
+
+Ensemble Ici : l'information par et pour les habitants du pays de Dieulefit-Bourdeaux et Marsanne.
+&nbsp;
+
+L'assocation Ici et Ailleurs est la structure juridique qui porte les projets Ensemble Ici - Pays de Dieulefit-Bourdeaux-Marsanne et RadioL&agrave;, la web-radio du pays de Dieulefit-Bourdeaux. 
+Nous avons besoin de votre soutien pour continuer nos actions: adh&eacute;rer
+
+
+&nbsp;
+Merci de nous &eacute;crire &agrave; icietailleurs26@gmail.com
+&nbsp;
+        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Pays de Dieulefit-Bourdeaux et Marsanne                        
+                    
+                    Les vendredis Latino
+                    Fête , CRUPIES
+                    du vendredi 25 août 2017 au dimanche 24 juin 2018
+                    
+
+                                            
+                    
+                     YOGA PRENATAL A MONTBRISON SUR LEZ
+                    Cours , MONTBRISON-SUR-LEZ
+                    du vendredi 15 septembre 2017 au samedi 30 juin 2018
+                    
+
+                                            
+                    
+                     Cadeau de Noël  - Au Plus Pré - La Laupie 
+                    Exposition , PONT-DE-BARRET
+                    du mardi 05 décembre 2017 au mercredi 31 janvier 2018
+                    
+
+                                            
+                    
+                    Yoga, souffle et méditation
+                    Atelier , REAUVILLE
+                    du jeudi 18 janvier au jeudi 28 juin 2018
+                    
+
+                                            
+                    
+                    Les Rencontres Hivernales du Documentaire
+                    Rencontre , GRIGNAN
+                    du vendredi 19 au samedi 27 janvier 2018
+                    
+
+                                            
+                    
+                    Accordéon et chanson
+                    Stage , DIEULEFIT
+                    du samedi 20 janvier au samedi 12 mai 2018
+                    
+
+                    Ailleurs dans le coin                        
+                    
+                    PSY TOI AUSSI TU M’ABANDONNES - samedi
+                    Spectacle , VAISON-LA-ROMAINE
+                    Samedi 27 janvier 2018
+                    
+
+                                            
+                    
+                    Rythm'and Bouffe
+                    Repas , SEGURET
+                    du samedi 27 au dimanche 28 janvier 2018
+                    
+
+                                            
+                    
+                    ROUBION # 4 
+                    Exposition , MONTELIMAR
+                    du samedi 27 janvier au dimanche 18 février 2018
+                    
+
+                    Pays de Buis-les-Baronnies                        
+                    
+                    "LA BOUTIKODON"
+                    Visite , MOLLANS-SUR-OUVEZE
+                    du samedi 20 janvier au samedi 24 février 2018
+                    
+
+                    &nbsp;Val d'Eygues                        
+                    
+                     YOGA A VENTEROL
+                    Cours , VENTEROL
+                    du jeudi 30 novembre 2017 au samedi 30 juin 2018
+                    
+
+                                            
+                    
+                    Ateliers de pratique radiophonique
+                    Atelier , LES PILLES
+                    du mardi 09 janvier au samedi 21 avril 2018
+                    
+
+                                            
+                    
+                    Lâcher de mots
+                    Performance , NYONS
+                    Jeudi 18 janvier 2018
+                    
+
+                                            
+                    
+                    Yvonne, princesse de Bourgogne
+                    Spectacle , NYONS
+                    Vendredi 19 janvier 2018
+                    
+
+                                            
+                    
+                    Conférence-projection
+                    Conférence , LES PILLES
+                    Samedi 20 janvier 2018
+                    
+
+                                            
+                    
+                    Atelier Cuisine 25.01.18
+                    Atelier , NYONS
+                    Jeudi 25 janvier 2018
+                    
+
+                    Crestois Pays de Saillans                        
+                    
+                    MOUV'MÔMES
+                    Cours , PIEGROS-LA-CLASTRE
+                    du mercredi 20 septembre 2017 au mercredi 20 juin 2018
+                    
+
+                                            
+                    
+                    Flux Riflo #5
+                    Concert , SAILLANS
+                    Vendredi 19 janvier 2018
+                    
+
+                                            
+                    
+                    formation à la Créativité et Gestion de projet
+                    Stage , CREST
+                    du vendredi 26 au samedi 27 janvier 2018
+                    
+
+                    Diois                        
+                    
+                    Le Vol des Vautours Vaut le Détour
+                    Randonnée , DIE
+                    Mercredi 24 janvier 2018
+                    
+
+                                            
+                    
+                    Les XVIèmes Rencontres citoyennes de Die
+                    Festival , DIE
+                    du mercredi 24 janvier au dimanche 04 février 2018
+                    
+
+                    Val de Drôme                        
+                    
+                    LE COFFRE DU TEMPS
+                    Spectacle , LIVRON-SUR-DROME
+                    Dimanche 21 janvier 2018
+                    
+
+                    &nbsp;Chabeuil                        
+                    
+                    GILLES POIZAT // DIRECTION SURVET' // FRISETTE
+                    Concert , BAUME-CORNILLANE
+                    du samedi 20 au dimanche 21 janvier 2018
+                    
+
+                    Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...            
+        
+    
+    
+            
+                        
+    
+
+
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            adopter chaton
+                
+                    
+                    
+                                                        BESIGNAN
+                    
+                    
+                
+                                    Vend Renaudt Express
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        VACHERES-EN-QUINT
+                    
+                    
+                
+                                    à vendre
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        MARIGNAC-EN-DIOIS
+                    
+                    
+                
+                                    stage clownez conte juillet 2018
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Partage Atelier d'Artistes
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Appel à projet Château de Montfroc
+                
+                    
+                    
+                                                        MONTFROC
+                    
+                    
+                
+                                    RECHERCHE BALANCOIRE
+                
+                    
+                    
+                                                        CONDORCET
+                    
+                    
+                
+                                    La Ressource : URGENCE Financement participatif
+                
+                    
+                    
+                                                        FELINES-SUR-RIMANDOULE
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            PMH
+                Patrimoine, Mémoire et Histoire du Pays de Dieulefit
+                
+                                        DIEULEFIT
+                        Association                
+                
+                
+                            Le Vin Poète  Dieulefit
+                cave
+                
+                                        DIEULEFIT
+                                        
+                
+                
+                            Création de site web à Dieulefit
+                site web, réseaux sociaux, aide ponctuelle
+                
+                                        DIEULEFIT
+                                        
+                
+                
+                            OFFICE DE TOURISME DIEULEFIT-BOURDEAUX
+                
+                
+                                        DIEULEFIT
+                        Association                
+                
+                
+                            SuccèS YOGA
+                L'alchimie entre la spiritualité laïque et la science quantique
+                
+                                        REAUVILLE
+                        Association                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+    Le collectif "Ensemble ici" :
+
+        
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

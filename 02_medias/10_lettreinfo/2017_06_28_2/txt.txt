@@ -1,0 +1,692 @@
+
+
+
+    
+        
+        Ensemble ici | Lettre d'Ensemble Ici - Vallee de la Drome Diois. 2017 #26 - 28 Juin
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Bonjour &agrave; toutes et &agrave; tous,
+retrouvez ci-dessous toutes les informations, &eacute;v&eacute;nements et petites annonces jusqu'au dimanche 9 juillet, ainsi que les deux structures r&eacute;f&eacute;renc&eacute;es cette semaine : Namkha (massage bien-&ecirc;tre &agrave; ALLEX) et l'Atelier les Arts Verre &agrave; DIE.
+Bonne lecture et &agrave; bient&ocirc;t.
+Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me/Diois.                
+Rappel T&eacute;l&eacute;chargeable depuis cette lettre, en fichier PDF, depuis le haut des 2 rubriques : - tous les &eacute;v&eacute;nements jusqu'au 2e WE &agrave; venir, - toutes les annonces de ces 30 derniers jours
+C'est vous qui publiez, modifier, compl&eacute;tez vos informations locales !
+Ensemble Ici : l'information par et pour les habitants de la Vall&eacute;e de la Dr&ocirc;me / Diois
+
+Si vous appr&eacute;ciez Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois :
+&nbsp;"abonnement volontaire" / don mensuel&nbsp;
+Nous ne touchons aucune subvention. Pour que l'animation du site puisse continuer,merci de votre soutien
+Adh&eacute;sion
+&nbsp;        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Crestois Pays de Saillans                        
+                    
+                    Voyage Solidaire en Grèce
+                    Projection , CREST
+                    Vendredi 30 juin 2017
+                    
+
+                                            
+                    
+                    Concert de Morice Benin
+                    Concert , ESPENEL
+                    Vendredi 30 juin 2017
+                    
+
+                                            
+                    
+                    atelier chocolat et plantes du vercors
+                    Atelier , AOUSTE-SUR-SYE
+                    du vendredi 30 juin au jeudi 17 août 2017
+                    
+
+                                            
+                    
+                    CREATIVITE ET SOI
+                    Atelier , CREST
+                    Samedi 01 juillet 2017
+                    
+
+                    
+                    Conférence-Débat sur le salaire à vie selon Bernard Friot
+                    Débat , CREST
+                    Samedi 01 juillet 2017
+                    
+
+                                            
+                    
+                    Regards Croisés : En route pour la transformation sociale et citoyenne
+                    Manifestation , SAILLANS
+                    du samedi 01 au dimanche 02 juillet 2017
+                    
+
+                                            
+                    
+                    Exposition A.  Reynaud - P.  Guideau - M. Reynaud
+                    Exposition , AUREL
+                    du samedi 01 au dimanche 09 juillet 2017
+                    
+
+                                            
+                    
+                    Atelier de co-réparation
+                    Atelier , CREST
+                    Jeudi 06 juillet 2017
+                    
+
+                    Diois                        
+                    
+                    Concert CANTAVITA
+                    Concert , DIE
+                    Vendredi 30 juin 2017
+                    
+
+                                            
+                    
+                    THEATRE AU MONASTERE
+                    Spectacle , SAINTE-CROIX
+                    Vendredi 30 juin 2017
+                    
+
+                                            
+                    
+                    Cuir & Moustaches #4
+                    Concert , BARNAVE
+                    du samedi 01 au dimanche 02 juillet 2017
+                    
+
+                                            
+                    
+                    Hildegarde de Bingen
+                    Stage , DIE
+                    du samedi 01 au lundi 03 juillet 2017
+                    
+
+                                            
+                    
+                    Diète naturopathique 
+                    Atelier , DIE
+                    du lundi 03 au mardi 11 juillet 2017
+                    
+
+                                            
+                    
+                    PRESS START
+                    Atelier , DIE
+                    Mardi 04 juillet 2017
+                    
+
+                    
+                    Le P'tit Marché de Menglon
+                    Marché , MENGLON
+                    Jeudi 06 juillet 2017
+                    
+
+                                            
+                    
+                    Concert Patrick Kabré
+                    Concert , DIE
+                    Vendredi 07 juillet 2017
+                    
+
+                                            
+                    
+                    Journée Sortie Famille Parc Aquatique
+                    Rencontre , DIE
+                    Samedi 08 juillet 2017
+                    
+
+                                            
+                    
+                    Fête de l'été 
+                    Fête , DIE
+                    Samedi 08 juillet 2017
+                    
+
+                                            
+                    
+                    The Boogie Ramblers
+                    Concert , VALDROME
+                    Samedi 08 juillet 2017
+                    
+
+                                            
+                    
+                    stage cannage-rempaillage
+                    Stage , DIE
+                    du samedi 08 au dimanche 09 juillet 2017
+                    
+
+                                            
+                    
+                    steady swagger
+                    Concert , BEAUMONT-EN-DIOIS
+                    du dimanche 09 au lundi 10 juillet 2017
+                    
+
+                    &nbsp;Val de Drôme                        
+                    
+                    SEMINAIRE GRAINE DE JOIE - LE REVEIL
+                    Stage , MIRMANDE
+                    du vendredi 30 juin au dimanche 02 juillet 2017
+                    
+
+                                            
+                    
+                    Inauguration de L'Evidence - Bar à vin d'émotions 
+                    Fête , SUZE
+                    du samedi 01 au dimanche 02 juillet 2017
+                    
+
+                                            
+                    
+                    Vide Grenier
+                    Vide-grenier , LIVRON-SUR-DROME
+                    Dimanche 02 juillet 2017
+                    
+
+                                            
+                    
+                    AE - Les Années à Cliousclat
+                    Spectacle , CLIOUSCLAT
+                    Jeudi 06 juillet 2017
+                    
+
+                                            
+                    
+                    10 ans du Cafébib'
+                    Fête , CHABRILLAN
+                    Vendredi 07 juillet 2017
+                    
+
+                                            
+                    
+                    Cycle d'accompagnement à la parentalité
+                    Stage , ROCHE-SUR-GRANE
+                    du vendredi 07 au dimanche 09 juillet 2017
+                    
+
+                                
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Séjours de pleine nature enfant
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Cherche a acceder a un composte en centre ville de crest 
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    vehicule pret
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    ensemble home cinéma / téléviseur 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    malle en fer à céder
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        SAILLANS
+                    
+                    
+                
+                                    Viande Bovine Biologique
+                
+                    
+                    
+                                                        EYGLUY-ESCOULIN
+                    
+                    
+                
+                                    Cherche congélateurs-coffre hors-Service
+                
+                    
+                    
+                                                        VACHERES-EN-QUINT
+                    
+                    
+                
+                                    équipement pour élevage et potager, petit bricolage
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Billet de train de nuit : Die / Paris, lundi 26 juin. 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    nom de la fiche
+                
+                    
+                    
+                                                        EYGLUY-ESCOULIN
+                    
+                    
+                
+                                    Cours de vitraille, fusing, mozaique ....
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    petite annonce
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Vend petite draisienne
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        ROMEYER
+                    
+                    
+                
+                                    Eléments décoratifs en verre de Murano
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Lit en bois pour enfant
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        PONTAIX
+                    
+                    
+                
+                                    vends camion
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        MONTLAUR-EN-DIOIS
+                    
+                    
+                
+                                    Service photographie
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        PONTAIX
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Atelier Les Arts Verre
+                Réveillez l'artiste qui est en vous!
+                
+                                        DIE
+                        Auto-entrepreneur                
+                
+                
+                            Namkha
+                Massage bien-être dans le sud Drôme
+                
+                                        ALLEX
+                        Auto-entrepreneur                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

@@ -1,0 +1,679 @@
+
+
+    
+        
+        Ensemble ici | # 2015-13 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 26/03 au 05/04/2015
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous,
+
+	
+	Cette semaine, dans l&#39;&eacute;ditorial Ensemble Ici, focus sur deux initiatives artistiques et culturelles :
+	
+	&quot; De l&#39;id&eacute;e au projet &quot; 
+	Un portrait audio qui pr&eacute;sente tout aussi bien l&#39;initiative originale d&#39;une habitante de Sahune que les obstacles li&eacute;s au montage financier et administratif de certains projets...
+	
+	&quot; La Bolha: une association qui fait du bruit ! &quot;
+	Un groupe de sept personnes r&eacute;unies autour d&#39;une passion commune, la batucada, cr&eacute;ent &quot;La Bolha&quot; en juillet 2014. Aude - co-pr&eacute;sidente, tr&eacute;sori&egrave;re et percussionniste - raconte...
+	
+	
+	
+		Et pour suivre les &eacute;lection dans le Nyonsais et les Baronnies:
+	
+		
+		&quot;Elections d&eacute;partementales : Une triangulaire dans les Baronnies.&quot;
+
+
+	
+	
+	Belle semaine,
+	
+	L&#39;&eacute;quipe Ensemble Ici.
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								Randonnée printanière
+								Randonnée , MONTBRUN-LES-BAINS
+								Dimanche 29 mars 2015
+						
+
+												
+													
+								Marché aux Fromages et à l'artisanat
+								Atelier , MONTBRUN-LES-BAINS
+								Dimanche 05 avril 2015
+						
+
+					Pays de Buis-les-Baronnies							
+													
+								Concert - Fatum Fatras
+								Concert , BUIS-LES-BARONNIES
+								Vendredi 27 mars 2015
+						
+
+												
+													
+								Carnaval Buis les Baronnies le 27 mars 2015
+								Fête , BUIS-LES-BARONNIES
+								Vendredi 27 mars 2015
+						
+
+												
+													
+								Ensemble vocal Les Jubil's à sons
+								Concert , SAINT-SAUVEUR-GOUVERNET
+								Vendredi 27 mars 2015
+						
+
+												
+													
+								STAGE Théâtre Improvisation
+								Atelier , PIERRELONGUE
+								Samedi 28 mars 2015
+						
+
+												
+													
+								Exposition de peintures
+								Exposition , BUIS-LES-BARONNIES
+								du samedi 28 mars au mercredi 22 avril 2015
+						
+
+												
+													
+								Lecture de poèmes
+								Lecture , BUIS-LES-BARONNIES
+								Mercredi 01 avril 2015
+						
+
+												
+													
+								Marius de Marcel Pagnol
+								Spectacle , MOLLANS-SUR-OUVEZE
+								Vendredi 03 avril 2015
+						
+
+												
+													
+								Atelier Volupté Yoga/Calligraphie
+								Stage , LA ROCHE-SUR-LE-BUIS
+								du samedi 04 au lundi 06 avril 2015
+						
+
+					Pays de Rémuzat							
+													
+								Magasin de producteur à Rémuzat: "Le Local"
+								Rencontre , REMUZAT
+								Mardi 31 mars 2015
+						
+
+					&nbsp;Val d'Eygues							
+													
+								Exposition "Drômes de dames"
+								Exposition , VENTEROL
+								du samedi 21 mars au lundi 06 avril 2015
+						
+
+												
+													
+								Physioscan et détoxination plantaire
+								Conférence , LES PILLES
+								Jeudi 26 mars 2015
+						
+
+												
+													
+								TAFTA C'EST QUOI ?
+								Conférence , VENTEROL
+								Jeudi 26 mars 2015
+						
+
+												
+													
+								SOOM T + L’ENTOURLOOP
+								Concert , NYONS
+								Vendredi 27 mars 2015
+						
+
+												
+													
+								Rencontre-dédicace avec André BUCHER écrivain-paysan
+								Rencontre , NYONS
+								Samedi 28 mars 2015
+						
+
+												
+													
+								Finale Nationale de Catch impro
+								Spectacle , NYONS
+								Samedi 28 mars 2015
+						
+
+												
+													
+								Contes et Rencontres du printemps
+								Manifestation , VINSOBRES
+								Samedi 28 mars 2015
+						
+
+												
+													
+								Rencontres du printemps
+								Rencontre , VINSOBRES
+								Samedi 28 mars 2015
+						
+
+												
+													
+								Ateliers Massage en Famille
+								Atelier , CURNIER
+								du samedi 28 mars au vendredi 25 décembre 2015
+						
+
+												
+													
+								Déstockage massif !!!
+								Manifestation , NYONS
+								du lundi 30 mars au samedi 30 mai 2015
+						
+
+												
+													
+								"Les monnaies de la provence antique"
+								Conférence , NYONS
+								Mardi 31 mars 2015
+						
+
+												
+													
+								Connaissance du monde
+								Conférence , NYONS
+								Mercredi 01 avril 2015
+						
+
+												
+													
+								LA MAISON TELLIER + DAMIEN JOURDAN 
+								Concert , NYONS
+								Vendredi 03 avril 2015
+						
+
+												
+													
+								Dédicace rencontre avec Claire ARNOT
+								Rencontre , NYONS
+								Samedi 04 avril 2015
+						
+
+												
+													
+								Les balades du tambourinaïre
+								Atelier , NYONS
+								Dimanche 05 avril 2015
+						
+
+					Ailleurs dans le coin							
+													
+								Projection "Mon lapin bleu"
+								Projection , PORTES-EN-VALDAINE
+								Vendredi 27 mars 2015
+						
+
+												
+													
+								Histoires de vies, regards de clowns
+								Rencontre , POET-LAVAL
+								Samedi 28 mars 2015
+						
+
+												
+													
+								Jason Carter en concert
+								Concert , SABLET
+								Samedi 28 mars 2015
+						
+
+												
+													
+								Histoires jubilatoires pour auditoire méritoire.
+								Spectacle , POET-LAVAL
+								Vendredi 03 avril 2015
+						
+
+												
+													
+								Spectacle "une heure et demi de retard"
+								Spectacle , TULETTE
+								Vendredi 03 avril 2015
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Appel à fournitures pour un festival de cirque
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													A vendre / Habitat groupé participatif
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIEULEFIT
+						
+						
+					
+					
+													Cours d'anglais
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														CONDORCET
+						
+						
+					
+					
+													Vente de terres à Aube Nouvelle
+							
+						
+						
+														CONDORCET
+						
+						
+					
+					
+													Vente de matériel agricole à Aube Nouvelle
+							
+						
+						
+														CONDORCET
+						
+						
+					
+					
+													La Cave du Troc, votre Boutik' gratuite
+							
+						
+						
+														MOLLANS-SUR-OUVEZE
+						
+						
+					
+					
+													Vend ordinateur portable Mac Book
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+					
+													cherche bottes de paille
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													STAGE DANSE ET NATURE
+							
+						
+						
+														ROCHEBRUNE
+						
+						
+					
+					
+													Caillette party !
+							
+						
+						
+														NYONS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Ferme de la Fauchère
+								
+								BOUDES Remi
+							
+							
+															SAINTE-JALLE
+								SCOP							
+							
+						
+						
+														Divinessence
+								
+								
+							
+							
+															LA ROCHE-SUR-LE-BUIS
+															
+							
+						
+						
+														La Bolha
+								
+								
+							
+							
+															CURNIER
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

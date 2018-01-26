@@ -1,0 +1,840 @@
+
+
+    
+        
+        Ensemble ici | # 2016-25 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 16 au 26/06/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Ensemble ici f&ecirc;te la musique !
+	&nbsp;
+
+La ville de Nyons abandonne rues et ruelles aux artistes de tout bord ce 21 Juin pour c&eacute;l&eacute;brer la f&ecirc;te de la musique comme il se doit. Amateurs passionn&eacute;s donneront le La des festivit&eacute;s avant de laisser le pav&eacute; au groupe n&icirc;mois &laquo;&nbsp;L&rsquo;Homme parle&nbsp;&raquo;.
+
+	Demandez le programme !
+
+La Zone des Laurons prendra un air de f&ecirc;te &agrave; l&rsquo;heure de la sortie des bureaux ! La Cigale lancera le tempo avec de nombreux concerts !
+
+
+Retrouvez dans notre agenda toute la symphonie des &eacute;v&eacute;nements musicaux: de Venterol, &agrave; Buis les Baronnies, en passant par les carri&egrave;res de Grignan ou Marsanne. Choisissez votre partition !
+
+
+Enfin, Radi&#39;Olive et Ensemble ici se mettent au diapason pour retransmettre, en direct, ce lundi &agrave; 18h, le concert du groupe Bobosapiens depuis la Buvette du March&eacute; des producteurs des Pilles.
+
+Et le temps d&#39;accorder vos violons, retrouvez l&#39;&eacute;mission sur les r&eacute;sidences artistiques en Baronnies avec la compagnie Antiquarks et le slameur &quot; Mix &ocirc; ma prose &quot;. 
+
+	C&#39;est par ici!
+
+
+C&rsquo;est donc au rythme du partage et de la convivialit&eacute; que la 35e &eacute;dition de la F&ecirc;te de la Musique se jouera sur tout le territoire.
+
+
+
+	Alors, tr&egrave;s bonne semaine &agrave; vous,
+	
+	Musicalement v&ocirc;tre,
+	
+	L&#39;&eacute;quipe d&#39;ensemble ici
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+                Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+                
+        
+		
+			
+				
+				Hautes Baronnies							
+													
+								Concert "Ombre trio"
+								Concert , MONTBRUN-LES-BAINS
+								Samedi 18 juin 2016
+						
+
+												
+													
+								Fête de la musique à Montbrun les bains
+								Fête , MONTBRUN-LES-BAINS
+								Mardi 21 juin 2016
+						
+
+					Pays de Buis-les-Baronnies							
+													
+								3e défi culinaire amateur
+								Manifestation , BUIS-LES-BARONNIES
+								du lundi 13 juin au samedi 15 octobre 2016
+						
+
+												
+													
+								Réunion Publique et Soirée jeu
+								Réunion , BUIS-LES-BARONNIES
+								Jeudi 16 juin 2016
+						
+
+												
+													
+								NOTES EN BULLES
+								Concert , BUIS-LES-BARONNIES
+								Samedi 18 juin 2016
+						
+
+												
+													
+								La Cave du Troc, Votre Boutik' gratuite de Prêt à Porter et articles en tout genre!
+								Visite , MOLLANS-SUR-OUVEZE
+								du samedi 18 au samedi 25 juin 2016
+						
+
+												
+													
+								Tournoi de foot
+								Tournoi , BUIS-LES-BARONNIES
+								Dimanche 19 juin 2016
+						
+
+												
+													
+								Torunoi de Sixte
+								Tournoi , BUIS-LES-BARONNIES
+								Dimanche 19 juin 2016
+						
+
+												
+													
+								Fête de la musique au Buis !!
+								Concert , BUIS-LES-BARONNIES
+								Mardi 21 juin 2016
+						
+
+												
+													
+								Eh bien ... dansez maintenant!
+								Concert , BEAUVOISIN
+								du mercredi 22 au samedi 25 juin 2016
+						
+
+												
+													
+								Soirée indienne, histoires de femmes
+								Projection , BUIS-LES-BARONNIES
+								Jeudi 23 juin 2016
+						
+
+												
+													
+								Animation musicale... autour de la Chanson Française
+								Concert , BUIS-LES-BARONNIES
+								Samedi 25 juin 2016
+						
+
+					&nbsp;Pays de Rémuzat							
+													
+								Week-end Fée-Rit et d'enchantement
+								Stage , LA MOTTE-CHALANCON
+								du vendredi 17 au dimanche 19 juin 2016
+						
+
+												
+													
+								Rigodons et Traditions 
+								Concert , REMUZAT
+								Dimanche 19 juin 2016
+						
+
+												
+													
+								Villipendrix Market Show
+								Marché , VILLEPERDRIX
+								Samedi 25 juin 2016
+						
+
+												
+													
+								Stage pratique de Communication
+								Stage , LA MOTTE-CHALANCON
+								du samedi 25 au dimanche 26 juin 2016
+						
+
+					&nbsp;Val d'Eygues							
+													
+								SOIREE FOOT
+								Repas , CURNIER
+								du vendredi 10 au dimanche 19 juin 2016
+						
+
+												
+													
+								Venez goûter...  Le  COWORKING
+								Rencontre , NYONS
+								du mercredi 15 juin au mercredi 17 août 2016
+						
+
+												
+													
+								Exposition
+								Exposition , VENTEROL
+								du jeudi 16 au dimanche 26 juin 2016
+						
+
+												
+													
+								L'air de rien
+								Concert , AUBRES
+								Vendredi 17 juin 2016
+						
+
+												
+													
+								Assemblée générale d'Aventic
+								Rencontre , SAHUNE
+								Vendredi 17 juin 2016
+						
+
+												
+													
+								Du bon cochon à voir et à manger !
+								Visite , SAINT-FERREOL-TRENTE-PAS
+								Samedi 18 juin 2016
+						
+
+												
+													
+								Dimanches des Arts
+								Exposition , NYONS
+								Dimanche 19 juin 2016
+						
+
+												
+													
+								Fête de la musique à Sainte-Jalle
+								Fête , SAINTE-JALLE
+								Dimanche 19 juin 2016
+						
+
+												
+													
+								Venterol fête la musique!
+								Fête , VENTEROL
+								Dimanche 19 juin 2016
+						
+
+												
+													
+								RADIO BUVETTE
+								Atelier , LES PILLES
+								Lundi 20 juin 2016
+						
+
+												
+													
+								Soirée musicale à Montaulieu
+								Concert , MONTAULIEU
+								Lundi 20 juin 2016
+						
+
+												
+													
+								"Quand l'Amérique était française : La Louisiane"
+								Conférence , NYONS
+								Lundi 20 juin 2016
+						
+
+												
+													
+								Fête de la musique à Nyons !
+								Fête , NYONS
+								Mardi 21 juin 2016
+						
+
+												
+													
+								La Zone fête la musique
+								Concert , NYONS
+								Mardi 21 juin 2016
+						
+
+												
+													
+								Fête de la musique
+								Concert , NYONS
+								Mardi 21 juin 2016
+						
+
+												
+													
+								LES INSTANTS MUSICALES
+								Concert , LES PILLES
+								Vendredi 24 juin 2016
+						
+
+												
+													
+								Scène ouverte, 1ere partie avec Bobosapiens
+								Concert , SAINTE-JALLE
+								Samedi 25 juin 2016
+						
+
+												
+													
+								BERGAMASQUE
+								Concert , CHATEAUNEUF-DE-BORDETTE
+								Dimanche 26 juin 2016
+						
+
+					Ailleurs dans le coin							
+													
+								Ces troubles qui nous troublent 
+								Conférence , SUZE-LA-ROUSSE
+								Jeudi 16 juin 2016
+						
+
+												
+													
+								Sur les chemins de l'Oasis 
+								Spectacle , CHAROLS
+								Vendredi 17 juin 2016
+						
+
+												
+													
+								Fête de la musique de Taulignan
+								Fête , TAULIGNAN
+								Vendredi 17 juin 2016
+						
+
+												
+													
+								Fête de la musique à Cairanne
+								Fête , CAIRANNE
+								Samedi 18 juin 2016
+						
+
+												
+													
+								"Match d'impro"
+								Spectacle , GRIGNAN
+								Samedi 18 juin 2016
+						
+
+												
+													
+								Fête de la musique à Grillon
+								Fête , GRILLON
+								Samedi 18 juin 2016
+						
+
+												
+													
+								Fête de la musique à Marsanne
+								Fête , MARSANNE
+								Samedi 18 juin 2016
+						
+
+												
+													
+								Fête de la musique à Saint-Pantaléon-les-Vignes
+								Fête , SAINT-PANTALEON-LES-VIGNES
+								Samedi 18 juin 2016
+						
+
+												
+													
+								BOB'S NOT DEAD +  CRYSTAL PULSE
+								Concert , GRIGNAN
+								Dimanche 19 juin 2016
+						
+
+												
+													
+								Concert exceptionnel sur l'orgue Ahrend
+								Concert , VAISON-LA-ROMAINE
+								Dimanche 19 juin 2016
+						
+
+												
+													
+								Fête de la musique à Pierrelatte
+								Fête , PIERRELATTE
+								Mardi 21 juin 2016
+						
+
+												
+													
+								Théâtre P. Vaillant au Théâtre du Nymphé
+								Spectacle , VAISON-LA-ROMAINE
+								Jeudi 23 juin 2016
+						
+
+												
+													
+								Jazz dans les vignes
+								Concert , CAIRANNE
+								Samedi 25 juin 2016
+						
+
+												
+													
+								Fête de fin d'année du CAEM
+								Concert , DIEULEFIT
+								Dimanche 26 juin 2016
+						
+
+												
+													
+								Théâtre P. Vaillant au 2 Mondes
+								Spectacle , VAISON-LA-ROMAINE
+								Dimanche 26 juin 2016
+						
+
+												
+													
+								Théâtre P. Vaillant au 2 Mondes N°2
+								Spectacle , VAISON-LA-ROMAINE
+								Dimanche 26 juin 2016
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+                
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Cherche meubles et objets pour l'accueil d'une famille de réfugiés
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Recherche bénévoles pour le FestiVolt
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													COWORKING à BUIS 
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													appel à l'aide
+							
+						
+						
+														AUBRES
+						
+						
+					
+					
+													La Compagnie S recrute danseur ou danseuse
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													location
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													LIVRES SCOLAIRES D'OCCASION ET NEUF POUR RENTREE 2016/17 : REPRISE ET VENTE A LA LIBRAIRIE DE L'OLIVIER NYONS
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Collecte alimentaire
+							
+						
+						
+														NYONS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Éditions du Bon Pied
+								
+								
+							
+							
+															SAINTE-JALLE
+								Association							
+							
+						
+						
+														Le Cochon Rustique des Baronnies
+								
+								élevage en plein air de porcs rustiques
+							
+							
+															SAINT-FERREOL-TRENTE-PAS
+								Etablissement privé							
+							
+						
+						
+														Ordi'contact
+								
+								Dépannage et assistance informatique à domicile
+							
+							
+															ARPAVON
+								Auto-entrepreneur							
+							
+						
+						
+														Lili Forgas Création CUir
+								
+								Artisan Maroquinier
+							
+							
+															ROCHEBAUDIN
+								Auto-entrepreneur							
+							
+						
+						
+														WinWinWeb
+								
+								Olivier Cussac
+							
+							
+															ROMEYER
+								Auto-entrepreneur							
+							
+						
+						
+														Renc'Arts
+								
+								
+							
+							
+															AOUSTE-SUR-SYE
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+    
+	Le collectif "Ensemble ici" :
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+        
+
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

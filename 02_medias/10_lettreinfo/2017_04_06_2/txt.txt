@@ -1,0 +1,932 @@
+
+
+
+    
+        
+        Ensemble ici | Lettre d'Ensemble Ici - Vallee de la Drome / Diois, 2017 #1 - 18 Avril
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Bonjour &agrave; toutes et tous
+Voici la premi&egrave;re lettre d'information de ce beau mois de d'Avril et de ce d&eacute;but de printemps,
+C'est l'occasion de f&ecirc;ter la 1&egrave;re&nbsp;ann&eacute;e d'existence de notre portail d'informations sur la vall&eacute;e de la Dr&ocirc;me et le Diois,
+Comme vous le savez "Ensemble Ici" d&eacute;pend principalement de votre soutien et contribution personnelle ou collective afin de p&eacute;renniser cet outil de communication au service de toutes et tous.
+Pour en savoir plus vous pouvez &eacute;couter notre dernier interview sur Rdwa, voir le lien ci-dessous:
+http://www.rdwa.fr/Vers-la-perennite-de-Ensemble-Ici-Vallee-de-la-Drome-Diois_a6816.html
+Tr&egrave;s bonne &eacute;coute et bonne lecture.
+Bien &agrave; vous
+&nbsp;
+L'&eacute;quipe d'Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me et du Dois
+&nbsp;
+Pour nous soutenir sur Lilo :
+https://www.lilo.org/fr/ensemble-ici/
+Pour nous soutenir sur Hello Asso par une Adh&eacute;sion (individuelle ou collective) ou un Don :
+https://www.helloasso.com/associations/ensemble-ici-vallee-de-la-drome-diois/adhesions/adhesion-ensemble-ici-vallee-de-la-drome-diois-2017
+&nbsp;                
+Rappel T&eacute;l&eacute;chargeable depuis cette lettre, en fichier PDF, depuis le haut des 2 rubriques : - tous les &eacute;v&eacute;nements jusqu'au 3e WE &agrave; venir, - toutes les annonces de ces 30 derniers jours
+C'est vous qui publiez, modifier, compl&eacute;tez vos informations locales !
+Ensemble Ici : l'information par et pour les habitants de la Vall&eacute;e de la Dr&ocirc;me / Diois
+
+Si vous appr&eacute;ciez Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois :
+&nbsp;"abonnement volontaire" / don mensuel&nbsp;
+Nous ne touchons aucune subvention. Pour que l'animation du site puisse continuer avec notre salari&eacute;,merci de votre soutien
+Adh&eacute;sion
+&nbsp;        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Crestois Pays de Saillans                        
+                    
+                    Jean Louis GUERMANN - Jardins
+                    Exposition , CREST
+                    du dimanche 19 mars au dimanche 30 avril 2017
+                    
+
+                                            
+                    
+                    Projection 
+                    Projection , CREST
+                    Jeudi 06 avril 2017
+                    
+
+                                            
+                    
+                    film "Pas res nos arresta"
+                    Projection , SAILLANS
+                    Jeudi 06 avril 2017
+                    
+
+                                            
+                    
+                    FILM - DU PAYSAGE AU PAYS SAGE
+                    Projection , SAILLANS
+                    Jeudi 06 avril 2017
+                    
+
+                                            
+                    
+                    Rencontre avec Jo SPIEGEL
+                    Conférence , SAILLANS
+                    Vendredi 07 avril 2017
+                    
+
+                                            
+                    
+                    Atelier chocolaté et fleurs du Vercors
+                    Atelier , AOUSTE-SUR-SYE
+                    Samedi 08 avril 2017
+                    
+
+                                            
+                    
+                    Carnaval à Crest
+                    Manifestation , CREST
+                    Samedi 08 avril 2017
+                    
+
+                                            
+                    
+                    De fil en Usine
+                    Fête , CREST
+                    Samedi 08 avril 2017
+                    
+
+                    
+                    Bourse aux Vélos
+                    Manifestation , CREST
+                    Samedi 08 avril 2017
+                    
+
+                                            
+                    
+                    Carnaval Saillans 2017
+                    Fête , SAILLANS
+                    Samedi 08 avril 2017
+                    
+
+                                            
+                    
+                    Nouveau média, local, libre et participatif : réunion publique et appel à contribution
+                    Réunion , CREST
+                    Dimanche 09 avril 2017
+                    
+
+                                            
+                    
+                    Compétition Kayak
+                    Manifestation , SAILLANS
+                    Dimanche 09 avril 2017
+                    
+
+                                            
+                    
+                    Atelier Découverte Communication Consciente
+                    Atelier , CREST
+                    Mercredi 12 avril 2017
+                    
+
+                                            
+                    
+                    stage danse & musique
+                    Stage , AOUSTE-SUR-SYE
+                    du mercredi 12 au vendredi 14 avril 2017
+                    
+
+                                            
+                    
+                    festival ET PENDANT CE TEMPS LES AVIONS #1
+                    Festival , SAILLANS
+                    du vendredi 14 au dimanche 16 avril 2017
+                    
+
+                                            
+                    
+                    Musique et Utopie
+                    Projection , SAILLANS
+                    du samedi 15 au dimanche 16 avril 2017
+                    
+
+                                            
+                    
+                    Stage Jeux D'acteur et de Clown avec Todd Leger
+                    Stage , AUREL
+                    du dimanche 16 au lundi 24 avril 2017
+                    
+
+                    Diois                        
+                    
+                    EXPOSITION - La Déstructuration du Temps
+                    Exposition , SAINTE-CROIX
+                    du samedi 01 au jeudi 27 avril 2017
+                    
+
+                                            
+                    
+                    P'tit Bal Folk avec Mattman
+                    Concert , DIE
+                    Jeudi 06 avril 2017
+                    
+
+                                            
+                    
+                    Atelier Découverte Communication Consciente 
+                    Atelier , DIE
+                    Vendredi 07 avril 2017
+                    
+
+                                            
+                    
+                    PAUSE Parents ADOS - Le tabac
+                    Rencontre , DIE
+                    Vendredi 07 avril 2017
+                    
+
+                                            
+                    
+                    Trio Karumanta en concert
+                    Concert , DIE
+                    Samedi 08 avril 2017
+                    
+
+                                            
+                    
+                    L'Energie, la nature et nous : Balade géologique au Claps
+                    Promenade , LUC-EN-DIOIS
+                    Samedi 08 avril 2017
+                    
+
+                                            
+                    
+                    L'energie, la nature et nous : Faune, flore et géologie du Diois
+                    Conférence , LUC-EN-DIOIS
+                    Samedi 08 avril 2017
+                    
+
+                                            
+                    
+                     Visite de la centrale hydroélectrique de Luc en D.
+                    Visite , LUC-EN-DIOIS
+                    Samedi 08 avril 2017
+                    
+
+                                            
+                    
+                    NOLA RADIO
+                    Spectacle , SAINTE-CROIX
+                    Samedi 08 avril 2017
+                    
+
+                                            
+                    
+                    PROGRAMME CULTUREL AU MONASTERE DE SAINTE CROIX
+                    Spectacle , SAINTE-CROIX
+                    Samedi 08 avril 2017
+                    
+
+                                            
+                    
+                    Concert The Sex Organs
+                    Concert , DIE
+                    du samedi 08 au dimanche 09 avril 2017
+                    
+
+                                            
+                    
+                    Atelier danses folk - Initiation pour tous !
+                    Atelier , DIE
+                    Lundi 10 avril 2017
+                    
+
+                                            
+                    
+                    2ème Réunion des propriétaires
+                    Réunion , DIE
+                    Lundi 10 avril 2017
+                    
+
+                                            
+                    
+                    6 cinés-débats à Menglon
+                    Débat , MENGLON
+                    Lundi 10 avril 2017
+                    
+
+                                            
+                    
+                    Ateliers d'Ecriture
+                    Atelier , DIE
+                    Mardi 11 avril 2017
+                    
+
+                                            
+                    
+                    Tremplin Découverte Chanson Française (13e édition)
+                    Concert , DIE
+                    Mardi 11 avril 2017
+                    
+
+                                            
+                    
+                    Atelier découverte des élixirs floraux BACH et DEVA
+                    Atelier , DIE
+                    Mercredi 12 avril 2017
+                    
+
+                                            
+                    
+                    Randonnée  "Alpage de Borne" 310 m dénivelé
+                    Randonnée , DIE
+                    Mercredi 12 avril 2017
+                    
+
+                                            
+                    
+                    Prouve-le
+                    Spectacle , LUS-LA-CROIX-HAUTE
+                    Mercredi 12 avril 2017
+                    
+
+                                            
+                    
+                    Festival de Conférences Gesticulées #1
+                    Conférence , DIE
+                    du vendredi 14 au lundi 17 avril 2017
+                    
+
+                                            
+                    
+                    Marché du Savoir-Faire à Menglon
+                    Marché , MENGLON
+                    Samedi 15 avril 2017
+                    
+
+                                            
+                    
+                    Concert : "Bøcal uP"
+                    Concert , VALDROME
+                    Samedi 15 avril 2017
+                    
+
+                                            
+                    
+                    Stage cirque et nature 
+                    Stage , BOULC
+                    du dimanche 16 au samedi 22 avril 2017
+                    
+
+                    Val de Drôme                        
+                    
+                    La démocratie en danger : opportunités et dangers - Pierre Rosanvallon
+                    Conférence , EURRE
+                    Jeudi 06 avril 2017
+                    
+
+                                            
+                    
+                    Déjeuner-atelier : protégez votre équipement et sécurisez vos données
+                    Atelier , LIVRON-SUR-DROME
+                    Jeudi 06 avril 2017
+                    
+
+                                            
+                    
+                    Trio Chacun son Sud
+                    Concert , CHABRILLAN
+                    Vendredi 07 avril 2017
+                    
+
+                                            
+                    
+                    Exposition OPP
+                    Exposition , SAOU
+                    du vendredi 07 au dimanche 16 avril 2017
+                    
+
+                                            
+                    
+                    Voyage au coeur de l'Homme - 8ème édition
+                    Festival , LIVRON-SUR-DROME
+                    Samedi 08 avril 2017
+                    
+
+                                            
+                    
+                    Retraite - De l'eau & du silence
+                    Stage , GIGORS-ET-LOZERON
+                    du lundi 10 au samedi 15 avril 2017
+                    
+
+                                            
+                    
+                    Forum "Éduquer pour élever les consciences"
+                    Conférence , ROCHE-SUR-GRANE
+                    du mardi 11 au dimanche 16 avril 2017
+                    
+
+                                            
+                    
+                    Biodynamie, Agroécologie, Permaculture : similitudes et singularités
+                    Rencontre , COBONNE
+                    Mercredi 12 avril 2017
+                    
+
+                                            
+                    
+                    Scène ouverte
+                    Festival , LORIOL-SUR-DROME
+                    Vendredi 14 avril 2017
+                    
+
+                                            
+                    
+                    Conférence 
+                    Conférence , ROCHE-SUR-GRANE
+                    Samedi 15 avril 2017
+                    
+
+                                            
+                    
+                    Stage/ retraite - Eprouver sa nature
+                    Stage , GIGORS-ET-LOZERON
+                    du samedi 15 au lundi 17 avril 2017
+                    
+
+                                            
+                    
+                    atelier de constellations familiales
+                    Atelier , SUZE
+                    Dimanche 16 avril 2017
+                    
+
+                                
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Cherche Caravane
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        MENGLON
+                    
+                    
+                
+                                    Logement
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    location appartement 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Appartement à Die
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Projet Petite Enfance
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    colocation maisonnette die
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Echange de massages 
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Colocation temporaire
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        ROMEYER
+                    
+                    
+                
+                                    recherche terrain
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Cherche logement
+                
+                    
+                    
+                                                        VALDROME
+                    
+                    
+                
+                                    cherche maison
+                
+                    
+                    
+                                                        SAINT-ANDEOL
+                    
+                    
+                
+                                    Recherche location de maison 2 ou 3 chambres
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    habitat groupe  sur DIE
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Maison meublée en colocation
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    logement
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    frigidaire congélateur 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Me luna 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    GRASSOUL
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    lampe de sel
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    huiles essentielles 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Recherche logement à louer
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        LUC-EN-DIOIS
+                    
+                    
+                
+                                    employé(e) polyvalent de ferme
+                
+                    
+                    
+                                                        PENNES-LE-SEC
+                    
+                    
+                
+                                    petit camion
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            imprimerie papeterie VEZIANT
+                papeterie et imprimerie
+                
+                                        CREST
+                        société privée                
+                
+                
+                            Allemand et français
+                Traduction et cours de langue
+                
+                                        DIE
+                        Auto-entrepreneur                
+                
+                
+                            Houp n'co
+                spectacles et ateliers pour le jeune public
+                
+                                        CHABRILLAN
+                        Association                
+                
+                
+                            EVADIE
+                Evasion en Terre Dioise
+                
+                                        DIE
+                                        
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

@@ -1,0 +1,808 @@
+
+
+    
+        
+        Ensemble ici | # 2016-13 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 24/03 au 03/04/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	C&#39;est le printemps, profitons-en pour &eacute;changer et pour se rencontrer !
+
+Apr&egrave;s le march&eacute;, retrouvons-nous !
+
+	Depuis quelques semaines Ensemble Ici et RadiO&#39;live sont pr&eacute;sents au c&ocirc;t&eacute; d&#39;un collectif citoyen tous les jeudis &agrave; partir de 11h00 sur le march&eacute; de Nyons : l&#39;occasion de se rencontrer, de s&#39;informer et m&ecirc;me de participer si vous le souhaitez...
+
+	Une page Forum est consacr&eacute;e &agrave; ce rendez-vous : la voici.
+
+Vous pouvez aussi discuter directement sur le site Ensemble ici !
+Exprimez-vous, covoiturez, &eacute;changez ou proposez vos id&eacute;es sur les Forums (par ici) et/ou en laissant vos commentaires sur les autres pages du site.
+
+
+Belle semaine &agrave; toutes et &agrave; tous,
+L&#39;&eacute;quipe Ensemble Ici.
+
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+                
+        
+		
+			
+				
+				Crestois Pays de Saillans							
+													
+								Stage de construction d'une imprimante 3D
+								Stage , CREST
+								du samedi 26 au dimanche 27 mars 2016
+						
+
+												
+								Bal sous chapiteau
+								Concert , AUREL
+								Samedi 02 avril 2016
+						
+
+					Diois							
+													
+								Gamal en concert
+								Concert , DIE
+								Vendredi 25 mars 2016
+						
+
+												
+													
+								le Carnaval de Luc en Diois
+								Fête , LUC-EN-DIOIS
+								Samedi 26 mars 2016
+						
+
+					Pays de Buis-les-Baronnies							
+													
+								Merci Patron ! 
+								Projection , BUIS-LES-BARONNIES
+								Vendredi 01 avril 2016
+						
+
+												
+													
+								La vie prodigieuse de Marthe Robin
+								Projection , BUIS-LES-BARONNIES
+								Samedi 02 avril 2016
+						
+
+												
+													
+								Yonige - Nous fuirons loin de Tokyo
+								Spectacle , BUIS-LES-BARONNIES
+								Samedi 02 avril 2016
+						
+
+					Val d'Eygues							
+													
+								L'ogre et l'enfant 
+								Spectacle , VINSOBRES
+								Jeudi 24 mars 2016
+						
+
+												
+													
+								les plantes comestibles
+								Randonnée , NYONS
+								Samedi 26 mars 2016
+						
+
+												
+													
+								menu du week end de pâques
+								Repas , CURNIER
+								du samedi 26 au lundi 28 mars 2016
+						
+
+												
+													
+								Stage jardinage et cueillette de printemps
+								Cours , NYONS
+								du samedi 26 au lundi 28 mars 2016
+						
+
+												
+													
+								LES INSTANTS MUSICALES
+								Concert , MONTAULIEU
+								Dimanche 27 mars 2016
+						
+
+												
+													
+								Conférence : 'Saint Louis'
+								Atelier , NYONS
+								Jeudi 31 mars 2016
+						
+
+												
+													
+								Soirée Tartes Flambées
+								Repas , NYONS
+								Samedi 02 avril 2016
+						
+
+												
+													
+								Concert TZARIK
+								Concert , AUBRES
+								Dimanche 03 avril 2016
+						
+
+												
+													
+								La Vie au village dans les années 40
+								Conte , LES PILLES
+								Dimanche 03 avril 2016
+						
+
+												
+													
+								Musique autour de Philis de La Charce 
+								Concert , NYONS
+								Dimanche 03 avril 2016
+						
+
+												
+													
+								18ème BOURSE - EXPO TOUTES COLLECTIONS
+								Exposition , NYONS
+								Dimanche 03 avril 2016
+						
+
+												
+													
+								Sortie programme des expositions de l'association "LE TEMPLE"
+								Exposition , VENTEROL
+								Dimanche 03 avril 2016
+						
+
+												
+													
+								Atelier broderie
+								Atelier , VENTEROL
+								Lundi 11 avril 2016
+						
+
+												
+													
+								Stage de Chants et danses grecs
+								Stage , VENTEROL
+								du jeudi 14 au samedi 16 avril 2016
+						
+
+												
+													
+								Repas Grec
+								Repas , VENTEROL
+								Samedi 16 avril 2016
+						
+
+					Ailleurs dans le coin							
+													
+								Art public ?
+								Conférence , SERRES
+								Vendredi 25 mars 2016
+						
+
+												
+													
+								Conférence "Nordeste : une clé pour le Brésil"
+								Projection , TAULIGNAN
+								Vendredi 25 mars 2016
+						
+
+												
+													
+								Atelier Qi-Qong
+								Cours , VALREAS
+								Vendredi 25 mars 2016
+						
+
+												
+													
+								Concert de Pâques
+								Manifestation , GRIGNAN
+								Dimanche 27 mars 2016
+						
+
+												
+													
+								SOIREE ESPAGNOLE
+								Concert , SAINT-PANTALEON-LES-VIGNES
+								Samedi 02 avril 2016
+						
+
+												
+													
+								Yoga du rire
+								Cours , VALREAS
+								Samedi 02 avril 2016
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													L'association familiale recherche un volontaire en service civique
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Lieu à Louer.
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													La Cigale recherche un volontaire en service civique
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													RECHERCHE DE LIEU / Ecole Montessori Les Cotyledons
+							
+						
+						
+														CREST
+						
+						
+					
+					
+													cherche voiture de prêt
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													Soutien à l'épicerie des Pilles pour le carburant
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													Cherche musiciens
+							
+						
+						
+														VENTEROL
+						
+						
+					
+					
+													Cherche Serre d'Occasion
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Séance de REIKI
+							
+						
+						
+														MONTAULIEU
+						
+						
+					
+					
+													Recherche de location Diois
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													2 Boisseaux Terre cuite 
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													Tentures/ Couvres canapé  
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													Nounou à Domiciles ou Garde d'Animaux 
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														VINSOBRES
+						
+						
+					
+					
+													cherche terrain
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													LOGEMENT et dépendance
+							
+						
+						
+														VILLEURBANNE
+						
+						
+					
+					
+													Drôme en danse 
+							
+						
+						
+														COBONNE
+						
+						
+					
+					
+													cherche pré pour cheval
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													REFLEXOLOGIE PLANTAIRE A DOMICILE
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													rencontres méditation
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													recycle gants de toilette
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													Recherche fils de coton et de laine
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Terre pour acceuillir animaux de ferme pédagogique itinérante
+							
+						
+						
+														MENGLON
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														CHEMINS SINGULIERS
+								
+								Accompagnement Biographique - Médiation CNV
+							
+							
+															AOUSTE-SUR-SYE
+								Auto-entrepreneur							
+							
+						
+						
+														Gaïa du Rivau
+								
+								Artiste plasticienne
+							
+							
+															NYONS
+								Auto-entrepreneur							
+							
+						
+						
+														Médias Citoyens Diois
+								
+								
+							
+							
+															DIE
+								Association							
+							
+						
+						
+														ACTES en Val de Drôme
+								
+								
+							
+							
+															CREST
+								Association							
+							
+						
+						
+														Au Tour du Cycle
+								
+								Atelier participatif et solidaire de mécanique et solutions vélos
+							
+							
+															CREST
+								Association							
+							
+						
+						
+														PROD26
+								
+								
+							
+							
+															DIE
+								Association							
+							
+						
+						
+														Conseil Local de Développement de la Vallée de la Drôme
+								
+								
+							
+							
+															EURRE
+								Institutions							
+							
+						
+						
+														C.L.C.V. Antenne de Die
+								
+								Association de défense des locataires et usagers
+							
+							
+															DIE
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

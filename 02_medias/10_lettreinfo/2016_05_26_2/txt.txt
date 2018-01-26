@@ -1,0 +1,612 @@
+
+
+    
+        
+        Ensemble ici | Lettre de EnsembleIci - Vallée de la Drôme / Diois, 2016 #11 - 26 mai
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 26/05 au 05/06/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						Bonjour &agrave; toutes et tous,
+
+Cette semaine vous ne manquerez pas de choix pour r&eacute;veiller vos corps : danse, ta&iuml;chi, v&eacute;lo, atelier genre et corps, Rendez-vous au jardin, bols de cristal, balade sur les plantes m&eacute;dicinales,...
+
+Vous pourrez nous rencontrer lors d&#39;atelier de pr&eacute;sentation et r&eacute;ponses &agrave; vos questions sur l&#39;utilisation du site, &agrave; l&#39;occasion de la F&ecirc;te de l&#39;internet, en ce moment, et bien s&ucirc;r apr&egrave;s aussi.
+
+L&#39;&eacute;quipe a le plaisir de vous annoncer l&#39;Assembl&eacute;e G&eacute;n&eacute;rale fondatrice de notre nouvelle Association &quot;Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois&quot; qui aura lieu le
+
+	6 Juin 2016 &agrave; Saillans de 17h30 - 20h, au th&eacute;&acirc;tre du temple.
+Cette soir&eacute;e sera le lancement officiel d&#39;Ensemble Ici dans la Vall&eacute;e de la Dr&ocirc;me / le Diois. Plus vous serez nombreux, plus nous serons heureux.
+
+N&#39;h&eacute;sitez pas &agrave; publier des informations, vous aussi.
+
+Bonne lecture,
+Avec l&#39;enthousiasme et le plaisir d&#39;&ecirc;tre Ensemble, Ici, dans la Vall&eacute;e de la Dr&ocirc;me / Diois, avec vous,
+
+
+	Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois
+
+	
+			
+	
+		Rappel
+		Tous les &eacute;v&eacute;nements &agrave; venir dans les 10 jours, list&eacute;s en PDF : en haut des &eacute;v&eacute;nements cliquez sur &quot;l&#39;agenda complet des &eacute;v&eacute;nements au format PDF&quot; ,
+		Toutes les derni&egrave;res annonces, list&eacute;es en PDF : en haut des annonces cliquez sur &quot;la liste compl&egrave;te des petites annonces au format PDF&quot;
+
+Contributeurs / publieurs d&#39;info : ne pas mettre son adresse courriel dans les descriptifs mais dans les champs pr&eacute;vus &agrave; cet effet.		
+	
+
+
+
+	
+                Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+                
+        
+		
+			
+				
+				Crestois Pays de Saillans							
+													
+								Atelier Ensemble Ici - à Crest
+								Atelier , CREST
+								Vendredi 27 mai 2016
+						
+
+												
+													
+								Stage de danse de femmes : entre force et douceur
+								Stage , CREST
+								Dimanche 29 mai 2016
+						
+
+												
+													
+								Banquet Club César
+								Repas , PIEGROS-LA-CLASTRE
+								Mercredi 01 juin 2016
+						
+
+												
+													
+								Une soirée-rencontre  avec Tim Guénard
+								Rencontre , PIEGROS-LA-CLASTRE
+								Vendredi 03 juin 2016
+						
+
+												
+													
+								Bols de Cristal
+								Concert , CREST
+								Dimanche 05 juin 2016
+						
+
+					Diois							
+													
+								Café des assos
+								Rencontre , DIE
+								Lundi 30 mai 2016
+						
+
+												
+													
+								Yoga en famille
+								Atelier , DIE
+								Mardi 31 mai 2016
+						
+
+												
+													
+								Atelier sur les Roses
+								Atelier , DIE
+								Mardi 31 mai 2016
+						
+
+												
+								Ballade sur les plantes médicinales du printemps
+								Promenade , DIE
+								Mercredi 01 juin 2016
+						
+
+												
+								ATELIER CORPS-VOIX-TEXTE
+								Atelier , DIE
+								Vendredi 03 juin 2016
+						
+
+												
+													
+								Contes de la Pampa
+								Spectacle , RECOUBEAU-JANSAC
+								Vendredi 03 juin 2016
+						
+
+												
+								Je p(d)anse donc je su(b)is
+								Spectacle , DIE
+								Samedi 04 juin 2016
+						
+
+												
+													
+								Fête du Vélo 
+								Exposition , DIE
+								Samedi 04 juin 2016
+						
+
+												
+													
+								Stage Chi-kong, Taï-Chi
+								Stage , BOULC
+								du samedi 04 au dimanche 05 juin 2016
+						
+
+												
+													
+								Stage "danse en pleine nature" sur le plateau de Solaure
+								Stage , DIE
+								du samedi 04 au dimanche 05 juin 2016
+						
+
+												
+													
+								Rendez-vous au jardin
+								Visite , DIE
+								du samedi 04 au dimanche 05 juin 2016
+						
+
+												
+													
+								SPECTACLE MUSICAL TRAJET SPECTACLE
+								Concert , DIE
+								du samedi 04 au dimanche 05 juin 2016
+						
+
+												
+								Corps, mouvement et genre
+								Atelier , DIE
+								Dimanche 05 juin 2016
+						
+
+												
+													
+								Libérez vos potentiels !  
+								Conférence , DIE
+								du dimanche 05 au mardi 07 juin 2016
+						
+
+					Val de Drôme							
+													
+								re-mise au monde
+								Stage , COBONNE
+								du vendredi 03 au dimanche 05 juin 2016
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+                
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Massage bien-être
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														ESPENEL
+						
+						
+					
+					
+													Les Incroyables Voyages - week-ends d'immersion nature au printemps 2016
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													Billets de train-Paris/Valence Ville
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAILLANS
+						
+						
+					
+					
+													Billet de train-Valence ville/Paris
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAILLANS
+						
+						
+					
+					
+													Appuis de fenêtre Terre Cuite 
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAILLANS
+						
+						
+					
+					
+													cuisinière bois charbon émaillée
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														PIEGROS-LA-CLASTRE
+						
+						
+					
+					
+													poussette Peg Perego
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													Recherce canapé ou clic-clac
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														CREST
+						
+						
+					
+					
+													Recherche garde meuble garage pour période estival
+							
+						
+						
+														CREST
+						
+						
+					
+					
+													SAXOPHONE 
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													Lampe luminothérapie 
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													emploi sur ferme familiale
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														PENNES-LE-SEC
+						
+						
+					
+					
+													bottes de paille
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														MOLIERES-GLANDAZ
+						
+						
+					
+					
+													Appel à bénévoles
+							
+						
+						
+														DIE
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														ACCORDERIE DU PAYS DIOIS
+								
+								
+							
+							
+															DIE
+								Association							
+							
+						
+						
+														LoadingZone
+								
+								Agence de communication par l'image
+							
+							
+															DIE
+								Association							
+							
+						
+						
+														La terrasse d'Eva
+								
+								Snack-Restaurant
+							
+							
+															SAILLANS
+								Etablissement privé							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

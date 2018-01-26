@@ -1,0 +1,784 @@
+
+
+    
+        
+        Ensemble ici | # 2014-40: Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 09 au 19/10/2014
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et tous,
+	&nbsp;
+
+	&nbsp;
+
+	Ce week end c&#39;est la f&ecirc;te de l&#39;&eacute;nergie&nbsp;!
+	&nbsp;
+
+	Venez faire le plein d&#39;infos sur les &eacute;conomies d&#39;&eacute;nergie en mati&egrave;re d&#39;habitat.
+	Et relevez le d&eacute;fi de r&eacute;duire votre impact &eacute;cologique tout en faisant des &eacute;conomies !
+	
+	Retrouvez aussi un aper&ccedil;u des acteurs locaux qui oeuvrent en faveur de l&#39;environnement dans le r&eacute;pertoire d&#39;Ensemble Ici !
+	
+	&nbsp;
+
+	Belle semaine,
+	
+	L&#39;&eacute;quipe Ensemble Ici !&nbsp;
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums, et bient&ocirc;t articles!
+	
+	
+		contact@ensembleici.fr
+
+		
+	
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								Jambalaya en concert
+								Concert , MONTBRUN-LES-BAINS
+								Samedi 11 octobre 2014
+						
+
+												
+													
+								Les Craquettes de Luxe
+								Spectacle , SEDERON
+								Mardi 14 octobre 2014
+						
+
+												
+													
+								Plantes et recettes paysannes
+								Randonnée , MONTBRUN-LES-BAINS
+								Mercredi 15 octobre 2014
+						
+
+					Pays de Buis-les-Baronnies							
+													
+								Des occupants allemands en France pendant l'occupation Nazie
+								Exposition , BUIS-LES-BARONNIES
+								du vendredi 10 au jeudi 16 octobre 2014
+						
+
+												
+													
+								LA SOURCE
+								Spectacle , BESIGNAN
+								Dimanche 12 octobre 2014
+						
+
+												
+													
+								Forum des associations à Buis
+								Rencontre , BUIS-LES-BARONNIES
+								Samedi 18 octobre 2014
+						
+
+												
+													
+								Anniversaire d'Intervalle
+								Concert , BUIS-LES-BARONNIES
+								Samedi 18 octobre 2014
+						
+
+												
+													
+								Ils exposent ensemble...
+								Exposition , BUIS-LES-BARONNIES
+								du samedi 18 au jeudi 30 octobre 2014
+						
+
+												
+													
+								STAGE théâtre improvisation
+								Stage , PROPIAC
+								du samedi 18 octobre au samedi 06 décembre 2014
+						
+
+					Pays de Rémuzat							
+													
+								Lune d'Ailes Parmi Toutes
+								Stage , CORNILLON-SUR-L'OULE
+								du vendredi 10 au dimanche 12 octobre 2014
+						
+
+												
+													
+								Fête des champignons
+								Promenade , LA MOTTE-CHALANCON
+								Dimanche 12 octobre 2014
+						
+
+					Val d'Eygues							
+													
+								Atelier percussions/batucada
+								Atelier , NYONS
+								du samedi 04 octobre au samedi 20 décembre 2014
+						
+
+												
+													
+								Concert YELLE M
+								Concert , LES PILLES
+								Vendredi 10 octobre 2014
+						
+
+												
+													
+								"1914: la grande illusion"
+								Conférence , NYONS
+								Vendredi 10 octobre 2014
+						
+
+												
+													
+								Présentation de la saison culturelle "Nyons en scène" 2014-2015
+								Rencontre , NYONS
+								Vendredi 10 octobre 2014
+						
+
+												
+													
+								Concert de MICMAC JAZZ
+								Concert , VINSOBRES
+								Vendredi 10 octobre 2014
+						
+
+												
+													
+								Fête de l'énergie à Nyons
+								Fête , NYONS
+								Samedi 11 octobre 2014
+						
+
+												
+													
+								Rendez vous à l'atelier
+								Rencontre , NYONS
+								du samedi 11 au dimanche 12 octobre 2014
+						
+
+												
+													
+								Grande braderie du vestiaire
+								Marché , NYONS
+								du samedi 11 au dimanche 12 octobre 2014
+						
+
+												
+													
+								Salon du Bien Etre Nature
+								Salon , NYONS
+								Dimanche 12 octobre 2014
+						
+
+												
+													
+								Soupe paysanne !
+								Repas , SAINT-FERREOL-TRENTE-PAS
+								Dimanche 12 octobre 2014
+						
+
+												
+													
+								Soirée 100% vigneron
+								Projection , NYONS
+								Lundi 13 octobre 2014
+						
+
+												
+													
+								Semaine nationale des retraîtés et personnes âgées
+								Rencontre , NYONS
+								du lundi 13 au dimanche 19 octobre 2014
+						
+
+												
+													
+								Goûter lecture à Curnier
+								Lecture , CURNIER
+								Mercredi 15 octobre 2014
+						
+
+												
+													
+								Repas partagé tiré du sac!
+								Rencontre , NYONS
+								Jeudi 16 octobre 2014
+						
+
+												
+													
+								STAGE DE CALLIGRAPHIE ET ENLUMINURE
+								Stage , PIEGON
+								du jeudi 16 au dimanche 19 octobre 2014
+						
+
+												
+													
+								CHLOÉ CHARLES 
+								Concert , CONDORCET
+								Vendredi 17 octobre 2014
+						
+
+												
+													
+								"Marius" de Marcel Pagnol
+								Spectacle , VINSOBRES
+								Vendredi 17 octobre 2014
+						
+
+												
+													
+								Animations pour la fête de la science: Conférence sur l'énergie
+								Conférence , NYONS
+								Samedi 18 octobre 2014
+						
+
+												
+													
+								NADI YOGA
+								Atelier , NYONS
+								Samedi 18 octobre 2014
+						
+
+												
+													
+								Toupetituli
+								Atelier , NYONS
+								Samedi 18 octobre 2014
+						
+
+												
+													
+								Défi culinaire le climat dans nos assiettes
+								Repas , VENTEROL
+								Samedi 18 octobre 2014
+						
+
+												
+													
+								LA BOLHA EN FETE!
+								Fête , LES PILLES
+								du samedi 18 au dimanche 19 octobre 2014
+						
+
+												
+													
+								Bulles Douces pour Maman
+								Atelier , CURNIER
+								du samedi 18 octobre 2014 au samedi 01 août 2015
+						
+
+												
+													
+								Fête de la moto
+								Fête , NYONS
+								Dimanche 19 octobre 2014
+						
+
+												
+													
+								Concerts solidaires
+								Concert , NYONS
+								Dimanche 19 octobre 2014
+						
+
+												
+													
+								Fête des associations et du bénévolat
+								Fête , VINSOBRES
+								Dimanche 19 octobre 2014
+						
+
+												
+													
+								Exposition "De vigne en vigne"
+								Exposition , VENTEROL
+								du dimanche 19 octobre au dimanche 16 novembre 2014
+						
+
+					Ailleurs dans le coin							
+													
+								Formation découverte de l'osiériculture-vannerie
+								Atelier , EOURRES
+								du lundi 06 au vendredi 10 octobre 2014
+						
+
+												
+													
+								Zaza la sorcière
+								Spectacle , VALREAS
+								Vendredi 10 octobre 2014
+						
+
+												
+													
+								Fête de l'énergie - Salon de l'habitat
+								Fête , MONTELIMAR
+								du vendredi 10 au dimanche 12 octobre 2014
+						
+
+												
+													
+								Fête de l'énergie à Grillon
+								Fête , GRILLON
+								Samedi 11 octobre 2014
+						
+
+												
+													
+								Festival du film
+								Festival , SAINT-PAUL-TROIS-CHATEAUX
+								du samedi 11 au samedi 18 octobre 2014
+						
+
+												
+													
+								Un chemin de dame
+								Spectacle , SERRES
+								Dimanche 12 octobre 2014
+						
+
+												
+													
+								Marché du goût
+								Marché , TULETTE
+								Lundi 13 octobre 2014
+						
+
+												
+													
+								Concours de belote
+								Rencontre , BOUVIERES
+								Samedi 18 octobre 2014
+						
+
+												
+													
+								Sortie patrimoine : le tour du Riable (visite guidée)
+								Randonnée , LACHAU
+								Samedi 18 octobre 2014
+						
+
+												
+													
+								Contes en musique
+								Conte , SAINT-DIZIER-EN-DIOIS
+								Samedi 18 octobre 2014
+						
+
+												
+													
+								Randonnée "Le Cougoir"
+								Randonnée , SEGURET
+								Dimanche 19 octobre 2014
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Cherche cours d'accordéon !
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													Ateliers BATUCADA
+							
+						
+						
+														CURNIER
+						
+						
+					
+					
+													Cuisinière à bois
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														EYGALIERS
+						
+						
+					
+					
+													Atelier percussions corporelles
+							
+						
+						
+														VENTEROL
+						
+						
+					
+					
+													Poële à granulés
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+					
+													Cherche batteur
+							
+						
+						
+														TAULIGNAN
+						
+						
+					
+					
+													Avis de recherche: Protagonistes pour les DUELS DE SOUPES
+							
+						
+						
+														MOLLANS-SUR-OUVEZE
+						
+						
+					
+					
+													Devenez journaliste citoyen !
+							
+						
+						
+														SAHUNE
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+		
+			
+				
+			
+		
+	
+		
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														CEDER
+								
+								Centre pour l'Environnement et le Développement des Energies Renouvelables
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														PLACES LIBRES
+								
+								covoiturage
+							
+							
+															CONDORCET
+								Association							
+							
+						
+						
+														Ecoravie
+								
+								Habitat groupé
+							
+							
+															DIEULEFIT
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

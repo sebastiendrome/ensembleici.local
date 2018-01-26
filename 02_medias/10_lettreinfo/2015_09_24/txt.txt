@@ -1,0 +1,697 @@
+
+
+    
+        
+        Ensemble ici | # 2015-39 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 24/09 au 04/10/2015
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous,
+
+	
+	En attendant la &quot;Rencontr&#39;Action&quot; de samedi &agrave; Curnier, deux nouvelles &eacute;missions &agrave; &eacute;couter en exclusivit&eacute; sur Ensemble Ici :
+	&nbsp;
+
+	L&#39;implication locale en question !
+	Micro-trottoirs et interview de Patrick Labaune...
+
+	&nbsp;
+
+	Pour en parler, se rencontrer et agir ensemble, rendez-vous ce samedi 26 septembre &agrave; Curnier.
+
+	
+	Plus d&#39;infos en cliquant ici !
+	&nbsp;
+
+	Bonne &eacute;coute et &agrave; samedi !
+	&nbsp;
+
+	L&#39;&eacute;quipe Ensemble Ici.
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								A l'assaut du Fort
+								Randonnée , SEDERON
+								Dimanche 27 septembre 2015
+						
+
+					&nbsp;Pays de Buis-les-Baronnies							
+													
+								Atelier théâtre pour enfants et ados
+								Cours , BUIS-LES-BARONNIES
+								du mardi 22 septembre 2015 au mardi 28 juin 2016
+						
+
+												
+													
+								Inauguration du cinéma le Reg'Art
+								Projection , BUIS-LES-BARONNIES
+								Vendredi 25 septembre 2015
+						
+
+												
+													
+								La ronde des baronnies
+								Randonnée , BUIS-LES-BARONNIES
+								Dimanche 27 septembre 2015
+						
+
+												
+													
+								Concert Heidi Serenidadj & Cochia 
+								Concert , BUIS-LES-BARONNIES
+								Vendredi 02 octobre 2015
+						
+
+					&nbsp;Pays de Rémuzat							
+													
+								Concert Blues / Rock: the CrackDrivers
+								Spectacle , CORNILLON-SUR-L'OULE
+								Samedi 26 septembre 2015
+						
+
+					&nbsp;Val d'Eygues							
+													
+								Itinérances. Parcours Photographique en pays de Nyons
+								Exposition , CURNIER
+								du jeudi 17 au dimanche 27 septembre 2015
+						
+
+												
+													
+								Itinérances : Photographies d'Anna Puig Rosado
+								Exposition , VENTEROL
+								du jeudi 17 au dimanche 27 septembre 2015
+						
+
+												
+													
+								Chorale des oliviers à Nyons
+								Concert , NYONS
+								du vendredi 18 septembre au mercredi 18 novembre 2015
+						
+
+												
+													
+								LOU YONG TAO TO QI
+								Cours , NYONS
+								du vendredi 18 septembre 2015 au lundi 04 juillet 2016
+						
+
+												
+													
+								LAHORE NADI YOGA 
+								Cours , NYONS
+								du vendredi 18 septembre 2015 au lundi 04 juillet 2016
+						
+
+												
+													
+								Le Retour de Yoga et Shiatsu aux Pilles
+								Cours , LES PILLES
+								du lundi 21 septembre 2015 au mercredi 29 juin 2016
+						
+
+												
+													
+								Soirée 100% campagne
+								Projection , NYONS
+								Vendredi 25 septembre 2015
+						
+
+												
+													
+								Weekend artistique au Mas de la Mochatte
+								Rencontre , NYONS
+								du vendredi 25 au dimanche 27 septembre 2015
+						
+
+												
+													
+								Se rencontrer pour agir !
+								Rencontre , CURNIER
+								Samedi 26 septembre 2015
+						
+
+												
+													
+								Concert de "Couleur Black"
+								Spectacle , NYONS
+								Samedi 26 septembre 2015
+						
+
+												
+													
+								les poulets fritent
+								Manifestation , NYONS
+								Samedi 26 septembre 2015
+						
+
+												
+													
+								5e festival "Polar à Nyons"
+								Lecture , NYONS
+								Samedi 26 septembre 2015
+						
+
+												
+													
+								balade-lecture
+								Promenade , SAHUNE
+								Dimanche 27 septembre 2015
+						
+
+												
+													
+								Trail
+								Manifestation , SAINT-MAURICE-SUR-EYGUES
+								Dimanche 27 septembre 2015
+						
+
+												
+													
+								Séjour dessin aquarelle
+								Stage , NYONS
+								du lundi 28 septembre au vendredi 02 octobre 2015
+						
+
+												
+													
+								FEUILLE
+								Concert , MONTAULIEU
+								Samedi 03 octobre 2015
+						
+
+					&nbsp;Ailleurs dans le coin							
+													
+								Exposition de peintures Jean-Marc Boyer
+								Exposition , VISAN
+								du samedi 12 au mercredi 30 septembre 2015
+						
+
+												
+													
+								Est-Ouest
+								Festival , DIE
+								du samedi 19 au lundi 28 septembre 2015
+						
+
+												
+													
+								Installation d'oeuvres de Carl Hurtin
+								Exposition , VISAN
+								du samedi 19 au mardi 29 septembre 2015
+						
+
+												
+													
+								Les Z'agriculturelles
+								Festival , DIEULEFIT
+								du samedi 19 septembre au samedi 10 octobre 2015
+						
+
+												
+													
+								Desproges n'est pas mort
+								Spectacle , VAISON-LA-ROMAINE
+								Jeudi 24 septembre 2015
+						
+
+												
+													
+								Fête des vendanges
+								Promenade , RASTEAU
+								Samedi 26 septembre 2015
+						
+
+												
+													
+								Opéra Don Juan
+								Spectacle , VAISON-LA-ROMAINE
+								Samedi 26 septembre 2015
+						
+
+												
+													
+								Fête du sport et des associations
+								Fête , VISAN
+								Samedi 26 septembre 2015
+						
+
+												
+													
+								La Source
+								Spectacle , VAISON-LA-ROMAINE
+								Dimanche 27 septembre 2015
+						
+
+												
+													
+								Thé dansant
+								Rencontre , VAISON-LA-ROMAINE
+								Jeudi 01 octobre 2015
+						
+
+												
+													
+								Festival de Théâtres Voyageurs
+								Atelier , LARAGNE-MONTEGLIN
+								du jeudi 01 au dimanche 11 octobre 2015
+						
+
+												
+													
+								Le Bourgeois Gentilhomme, Molière
+								Spectacle , VALREAS
+								Vendredi 02 octobre 2015
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													YOGA en Joie et en douceur ! Les Pilles / Nyons 
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													Recherche bénévole
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Atelier Théâtre Adultes ou Enfants à Nyons
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Donne pour pieces NISSAN 100 NX
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													vends meubles divers
+							
+						
+						
+														VINSOBRES
+						
+						
+					
+					
+													Opération "les ptits plaisirs cochons"
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAINT-FERREOL-TRENTE-PAS
+						
+						
+					
+					
+													Offre de services domestiques (ménage, nettoyage,entretien., garde d'enfants...)
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													URGENT
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													vends canapé d'angle urgent!
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													Recherche bénévoles pour ateliers français langue étrangère
+							
+						
+						
+														NYONS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Les Amis de Jeanne
+								
+								Promouvoir et favoriser le développement rural local afin de créer le lien social
+							
+							
+															LA MOTTE-CHALANCON
+								Association							
+							
+						
+						
+														Vocalises Buissonnières 
+								
+								Promotion du chant et de la vocalité sous toutes ses formes
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														Association IN'A'NA
+								
+								KUNDALINI YOGA
+							
+							
+															BUIS-LES-BARONNIES
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

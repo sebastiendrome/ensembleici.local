@@ -1,0 +1,672 @@
+
+
+
+    
+        
+        Ensemble ici | 	La Lettre Ensemble Ici Pays de Dieulefit-Bourdeaux-Marsanne 2017#17
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Bonjour &agrave; toutes et &agrave; tous, 
+Voici votre lettre d'info du Pays de Dieulefit-Bourdeaux et Marsanne pour les 2 semaines &agrave; venir....
+Rendez-vous ce samedi &agrave; Dieulefit pour le 2nd festival M&ocirc;mes et Merveilles, une programmation pens&eacute;e enti&egrave;rement pour les petits , &agrave; partir de 18 mois...mais aussi leurs parents. Toutes les infos &agrave; retrouver ici.
+La ch&egrave;vre qui sao&ucirc;rit vous attend samedi 30 &agrave; 16h pour une interpr&eacute;tation dans&eacute;e de la pr&eacute;sence et de l'&eacute;nergie caprine. 
+Photovoltaique et autoconsommation, le CEDER vous accueille &agrave; Grignan et &agrave; Venterol pour vous faire visiter des maisons aux excellentes performances &eacute;nerg&eacute;tiques....Les infos sont ici.
+Et pour continuer &agrave; recycler, donnez ce que vous voulez, ou m&ecirc;me rien, repartez avec ce qui vous int&eacute;resse, &agrave; la gratiferia de Taulignan, ce dimance 1er octobre.
+Retrouvez &agrave; ce sujet un reportage sur le tri porteur de Dieulefit, mardi et jeudi prochain, &agrave; 12H10 et 19h10, sur www.radiola.media.
+Rien ne se perd, et ains on se retrouve tous ! En vous souhaitant un tr&egrave;s beau week-end.
+L'&Eacute;quipe d'Ensemble Ici Pays de Dieulefit-Bourdeaux et Marsannne                
+Voici les infos des prochaines semaines dont vous trouvez le d&eacute;tail sur le site Ensemble ici. 
+La lettre d'info les petites annonces du territoire sont t&eacute;l&eacute;chargeables en PDF dans ce mail. 
+Il vous est ais&eacute; d'en ajouter via les formulaires du site.
+
+&nbsp;
+C'est vous qui publiez et alimentez les rubriques du site : ajoutez, modifier, compl&eacute;tez vos informations locales !
+
+
+Ensemble Ici : l'information par et pour les habitants du pays de Dieulefit-Bourdeaux et Marsanne.
+&nbsp;
+
+L'assocation Ici et Ailleurs est la structure juridique qui porte les projets Ensemble Ici - Pays de Dieulefit-Bourdeaux-Marsanne et RadioL&agrave;, la web-radio du pays de Dieulefit-Bourdeaux. 
+Nous avons besoin de votre soutien pour continuer nos actions: adh&eacute;rer
+
+
+&nbsp;
+Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d'info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, petites annonces, forums et articles! 
+Si vous souhaitez participer &agrave; la diffusion d&rsquo;Ensemble Ici sur le territoire de Dieulefit-Bourdeaux et Marsanne, merci de nous &eacute;crire &agrave; contact.pdb@ensembleici.fr
+&nbsp;
+        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Pays de Dieulefit-Bourdeaux et Marsanne
+                    Marché de La Touche
+                    Marché , LA TOUCHE
+                    du jeudi 01 juin au jeudi 21 décembre 2017
+                    
+
+                                            
+                    
+                    Gratiferia
+                    Marché , TAULIGNAN
+                    Dimanche 01 octobre 2017
+                    
+
+                                            
+                    
+                    ETRE HUMAIN UNE SACRÉE AVENTURE
+                    Atelier , GRIGNAN
+                    Samedi 07 octobre 2017
+                    
+
+                                            
+                    
+                    A la croisée des gestes et des traces 
+                    Cours , PONT-DE-BARRET
+                    du samedi 07 au dimanche 08 octobre 2017
+                    
+
+                    &nbsp;Ailleurs dans le coin                        
+                    
+                    Soirée Brame du Cerf
+                    Promenade , AUREL
+                    Samedi 30 septembre 2017
+                    
+
+                                            
+                    
+                    Piano en Liberté
+                    Fête , VALREAS
+                    Samedi 30 septembre 2017
+                    
+
+                                            
+                    
+                    Vaison Rires : Alex VIZOREK
+                    Spectacle , VAISON-LA-ROMAINE
+                    Dimanche 08 octobre 2017
+                    
+
+                    Pays de Buis-les-Baronnies                        
+                    
+                    Bonne Pomme
+                    Projection , BUIS-LES-BARONNIES
+                    Lundi 02 octobre 2017
+                    
+
+                                            
+                    
+                    Notes pour un quatuor
+                    Projection , BUIS-LES-BARONNIES
+                    Vendredi 06 octobre 2017
+                    
+
+                    Pays de Rémuzat                        
+                    
+                    Fete des Simples 2017
+                    Fête , ROSANS
+                    du samedi 30 septembre au dimanche 01 octobre 2017
+                    
+
+                    &nbsp;Val d'Eygues                        
+                    
+                    Développez votre activité sur Internet
+                    Cours , NYONS
+                    du lundi 18 septembre au lundi 18 décembre 2017
+                    
+
+                                            
+                    
+                    Les 8 jours de la ville de Nyons
+                    Tournoi , NYONS
+                    du mardi 26 septembre au lundi 02 octobre 2017
+                    
+
+                                            
+                    
+                    La Puissance et la Grâce
+                    Exposition , LES PILLES
+                    du vendredi 29 septembre au jeudi 16 novembre 2017
+                    
+
+                                            
+                    
+                    Photovoltaïque et autoconsommation
+                    Rencontre , VENTEROL
+                    Samedi 30 septembre 2017
+                    
+
+                    &nbsp;Crestois Pays de Saillans                        
+                    
+                    L'Oignon fête l'automne
+                    Concert , SAILLANS
+                    Samedi 30 septembre 2017
+                    
+
+                                            
+                    
+                    STAGE DE GÉOBIOLOGIE
+                    Stage , ESPENEL
+                    Samedi 07 octobre 2017
+                    
+
+                    Diois                        
+                    
+                    Bulle de femmes
+                    Fête , AUCELON
+                    Samedi 30 septembre 2017
+                    
+
+                                            
+                    
+                    Fête paysanne
+                    Fête , DIE
+                    Samedi 30 septembre 2017
+                    
+
+                                            
+                    
+                    Souffler sur les braises de l'inspiration ..
+                    Atelier , DIE
+                    Mardi 03 octobre 2017
+                    
+
+                                            
+                    
+                    Qi Gong et Sons
+                    Stage , SAINTE-CROIX
+                    du vendredi 06 au dimanche 08 octobre 2017
+                    
+
+                    &nbsp;Val de Drôme                        
+                    
+                    La Chèvre et le Chou 
+                    Spectacle , SAOU
+                    Samedi 30 septembre 2017
+                    
+
+                                            
+                    
+                    Vide Grenier
+                    Vide-grenier , LIVRON-SUR-DROME
+                    Dimanche 01 octobre 2017
+                    
+
+                    Chabeuil                        
+                    
+                    Théâtre Pisser dans l'herbe
+                    Spectacle , CHABEUIL
+                    Dimanche 01 octobre 2017
+                    
+
+                    &nbsp;Pays de Romans                        
+                    
+                    Du neuf avec du vieux
+                    Atelier , ROMANS-SUR-ISERE
+                    Jeudi 05 octobre 2017
+                    
+
+                    Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...            
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Vends Seat Inca 1.9L SDI
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        SAINT-ANDEOL
+                    
+                    
+                
+                                    stage de céramique
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        VALOUSE
+                    
+                    
+                
+                                    Cours de C.A.F. et STEP
+                
+                    
+                    
+                                                        LA ROCHE-SAINT-SECRET-BECONNE
+                    
+                    
+                
+                                    Vends poêle de masse ancien
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Four Panasonic pro
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    AMPLIFICATEUR HIFI SONY STRDH130
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    poêle à pétrole électronique
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        AUREL
+                    
+                    
+                
+                                    BABY SITTING
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIEULEFIT
+                    
+                    
+                
+                                    Restauration de l'Eglise de Chateauneuf-de-Bordette
+                
+                    
+                    
+                                                        CHATEAUNEUF-DE-BORDETTE
+                    
+                    
+                
+                                    Chaton
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Vends cuisinière mixte excellent état
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    Location T2 meublé Vieux Nyons
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    Recherche 2 Postes en Service Civique
+                
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                             Bienvenue sur le site de la Compagnie Samildanach    
+                 FESTIVAL DE LA MARIONNETTE
+                
+                                        POET-LAVAL
+                        Association                
+                
+                
+                            CHACUN SON SUD - Trio
+                Entre musiques du monde et jazz
+                
+                                        PONT-DE-BARRET
+                        Association                
+                
+                
+                            Graphiste Print à Dieulefit
+                Florence Couturier
+                
+                                        DIEULEFIT
+                                        
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+    Le collectif "Ensemble ici" :
+
+        
+            
+                
+            
+        
+            
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

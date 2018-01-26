@@ -1,0 +1,772 @@
+
+
+
+    
+        
+        Ensemble ici | # 2017-38 : Ensemble Ici, tous acteurs de la vie locale !
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                &nbsp;
+&clubs; RADIO'LIVE F&Ecirc;TE SES 1 000 ECOUTES &clubs;
+ C'est un grand moment pour ce projet qui se d&eacute;ploie peu &agrave; peu. RadiO'live c'est un espace o&ugrave; on exp&eacute;rimente un nouveau moyen d'expression. La radio est un outil que l'on s'approprie. Depuis plus deux ans RadiO'live est une radio locale tant&ocirc;t cr&eacute;ative (RadioScop'Art) ou tr&egrave;s s&eacute;rieuse (La prise en charge des r&eacute;fugi&eacute;s), engag&eacute;e (racisme de vitrine ou de comptoir ?) ou beaucoup plus l&eacute;g&egrave;re (Carte postale sonore), qui prend le temps d'expliquer (Le Parc Naturel R&eacute;gional des Baronnies Proven&ccedil;ales) ou de savourer (Du climat dans nos assiettes !).
+Au fil des productions le jingle tambourinant retentit, les voix s'installent, se r&eacute;pondent, le son s'harmonise, se propage, se diffuse, mais l'intention reste inchang&eacute;e : donner la parole et aller &agrave; la rencontre de ces personnes qui font notre territoire.
+RadiO'live existe et reste &agrave; l'&eacute;coute de vos projets, de vos envies.
+&nbsp;
+Dans son actualit&eacute; : 
+
+
+
+
+
+RadiO'live vous accompagne dans les coulisses de La Cigale.
+Des fourmis dans les mains, Julien All&egrave;gre, Damien Jourdan, Degiheugi, Pitt Poule, Skarra Mucci, Ewe Gang, Djulian... Il encore temps pour vous inscrire et pr&eacute;parer vos interviews !
+
+
+
+
+&nbsp;
+L'&eacute;quipe d'Ensemble Ici - Baronnies et de RadiO'live vous souhaite de belles ballades sonores,A la semaine prochaine !
+&nbsp;
+
+&nbsp;
+Pour les curieux, nous envoyons un mail d'actualit&eacute; tout les deux mois.Cliquez ici pour vous inscrire.                Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici. Il vous est ais&eacute; d'en ajouter via les formulaires du site. Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d'info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles! 
+contact@ensembleici.fr
+&nbsp;
+L'assocation DECOR est la structure juridique qui porte les projets Ensemble Ici - Baronnies et RadiO'live, webradio init&eacute;rante. Elle a besoin de votre soutien pour continuer d'exercer ses missions. 
+Pensez &agrave; l'adh&eacute;sion
+        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Hautes Baronnies                        
+                    
+                    Lecture de paysages
+                    journée d'information , EOURRES
+                    Dimanche 24 septembre 2017
+                    
+
+                                            
+                    
+                    les P'tits bals
+                    Fête , MONTBRUN-LES-BAINS
+                    Dimanche 24 septembre 2017
+                    
+
+                    Pays de Buis-les-Baronnies
+                    NEWSLETTERS MOIS DE SEPTEMBRE INTERVALLE BUIS LES BARONNIES
+                    Manifestation , BUIS-LES-BARONNIES
+                    du vendredi 01 au samedi 30 septembre 2017
+                    
+
+                                            
+                    
+                    Concerts // Hyacinth Days + An Eagle In Your Mind
+                    Concert , MOLLANS-SUR-OUVEZE
+                    Jeudi 21 septembre 2017
+                    
+
+                                            
+                    
+                    TOUT POUR TOUS 
+                    Festival , BUIS-LES-BARONNIES
+                    du vendredi 22 au dimanche 24 septembre 2017
+                    
+
+                                            
+                    
+                    Concert : L'unique femme orchestre
+                    Concert , MOLLANS-SUR-OUVEZE
+                    Samedi 23 septembre 2017
+                    
+
+                                            
+                    
+                    WILD IV LIFE #3 / Sam 23 Septembre
+                    Concert , SAINT-SAUVEUR-GOUVERNET
+                    Samedi 23 septembre 2017
+                    
+
+                                            
+                    
+                    12ième Ronde des Baronnies
+                    Randonnée , BUIS-LES-BARONNIES
+                    Dimanche 24 septembre 2017
+                    
+
+                                            
+                    
+                    Repas Indien
+                    Repas , MOLLANS-SUR-OUVEZE
+                    Vendredi 29 septembre 2017
+                    
+
+                    &nbsp;Pays de Rémuzat                        
+                    
+                    Atelier batucada
+                    Atelier , ROSANS
+                    du mardi 19 septembre 2017 au mardi 26 juin 2018
+                    
+
+                                            
+                    
+                    Fete des Simples 2017
+                    Fête , SAINT-ANDRE-DE-ROSANS
+                    du samedi 30 septembre au dimanche 01 octobre 2017
+                    
+
+                    Val d'Eygues                        
+                    
+                    la Guinguette (Sahune) hors saison
+                    Repas , SAHUNE
+                    du samedi 09 septembre au mardi 31 octobre 2017
+                    
+
+                                            
+                    
+                    Expo photo itinérances
+                    Exposition , CHATEAUNEUF-DE-BORDETTE
+                    du vendredi 15 au dimanche 24 septembre 2017
+                    
+
+                                            
+                    
+                    Expo photo itinérances
+                    Exposition , LES PILLES
+                    du vendredi 15 au dimanche 24 septembre 2017
+                    
+
+                                            
+                    
+                    Expo photo itinérances
+                    Exposition , MIRABEL-AUX-BARONNIES
+                    du vendredi 15 au dimanche 24 septembre 2017
+                    
+
+                                            
+                    
+                    Expo photo itinérances
+                    Exposition , NYONS
+                    du vendredi 15 au dimanche 24 septembre 2017
+                    
+
+                                            
+                    
+                    Expo photo itinérances
+                    Exposition , SAINTE-JALLE
+                    du vendredi 15 au dimanche 24 septembre 2017
+                    
+
+                                            
+                    
+                    Expo photo itinérances
+                    Exposition , SAINTE-JALLE
+                    du vendredi 15 au dimanche 24 septembre 2017
+                    
+
+                                            
+                    
+                    Expo photo itinérances
+                    Exposition , VENTEROL
+                    du vendredi 15 au dimanche 24 septembre 2017
+                    
+
+                                            
+                    
+                    une MSAP, c'est quoi ?
+                    Atelier , LES PILLES
+                    du lundi 18 au jeudi 21 septembre 2017
+                    
+
+                                            
+                    
+                    SOPHROLOGIE
+                    Atelier , LES PILLES
+                    Jeudi 21 septembre 2017
+                    
+
+                                            
+                    
+                    Soirée Jeux du monde au REPERE-Nyons
+                    Jeux , NYONS
+                    Vendredi 22 septembre 2017
+                    
+
+                                            
+                    
+                    Rencontre autour du jardinage
+                    Stage , NYONS
+                    du vendredi 22 au dimanche 24 septembre 2017
+                    
+
+                                            
+                    
+                    Portes ouvertes
+                    journée d'information , LES PILLES
+                    Samedi 23 septembre 2017
+                    
+
+                                            
+                    
+                    Les virades de l'espoir
+                    Manifestation , CURNIER
+                    du samedi 23 au dimanche 24 septembre 2017
+                    
+
+                                            
+                    
+                    Stage de Tango pour débutants
+                    Stage , NYONS
+                    du samedi 23 au dimanche 24 septembre 2017
+                    
+
+                                            
+                    
+                    LES INSTANTS MUSICALES
+                    Concert , MONTAULIEU
+                    Dimanche 24 septembre 2017
+                    
+
+                                            
+                    
+                    CERCLE DE PARDON
+                    Atelier , LES PILLES
+                    Jeudi 28 septembre 2017
+                    
+
+                                            
+                    
+                    Apero-Concert Vince Burnett
+                    Concert , NYONS
+                    Vendredi 29 septembre 2017
+                    
+
+                                            
+                    
+                    MEDITATION
+                    Atelier , NYONS
+                    du vendredi 29 septembre 2017 au vendredi 06 juillet 2018
+                    
+
+                                            
+                    
+                    Puces des Couturières 2017
+                    Vide-grenier , CURNIER
+                    Samedi 30 septembre 2017
+                    
+
+                                            
+                    
+                    Photovoltaïque et autoconsommation
+                    Rencontre , VENTEROL
+                    Samedi 30 septembre 2017
+                    
+
+                                            
+                    
+                    "(Re)-Parle moi d'amour"
+                    Spectacle , LES PILLES
+                    Dimanche 01 octobre 2017
+                    
+
+                    &nbsp;Crestois Pays de Saillans                        
+                    
+                    Open bidouille & Repair café
+                    Atelier , CREST
+                    Jeudi 21 septembre 2017
+                    
+
+                    &nbsp;Val de Drôme                        
+                    
+                    Fête des Amanins: Semons ensemble des possibles
+                    Fête , LA ROCHE-SUR-GRANE
+                    Samedi 23 septembre 2017
+                    
+
+                    &nbsp;Pays de Romans                        
+                    
+                    Atelier Radio 
+                    Atelier , ROMANS-SUR-ISERE
+                    Jeudi 21 septembre 2017
+                    
+
+                    &nbsp;Pays de Dieulefit-Bourdeaux et Marsanne                        
+                    
+                    Soirée Astronomie Musiflore
+                    Atelier , CRUPIES
+                    Vendredi 22 septembre 2017
+                    
+
+                    Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...            
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Cours de yoga
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        MIRABEL-AUX-BARONNIES
+                    
+                    
+                
+                                    Cours de musique , modelage , chorale et arts plastiques à Venterol
+                
+                    
+                    
+                                                        VENTEROL
+                    
+                    
+                
+                                    stage de céramique
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        VALOUSE
+                    
+                    
+                
+                                    Armoires Dressing grande capacité
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        VILLEPERDRIX
+                    
+                    
+                
+                                    AMPLIFICATEUR HIFI SONY STRDH130
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    Volontaire en Service Civique - Carrefour des Habitants
+                
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    Viens chanter à la CAVE !
+                
+                    
+                    
+                                                        SAHUNE
+                    
+                    
+                
+                                    Appartement à louer aux Pilles
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        LES PILLES
+                    
+                    
+                
+                                    Déménagement 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    Recherche maison pour colocation
+                
+                    
+                    
+                                                        VENTEROL
+                    
+                    
+                
+                                    Restauration de l'Eglise de Chateauneuf-de-Bordette
+                
+                    
+                    
+                                                        CHATEAUNEUF-DE-BORDETTE
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Les Lectures du Poët
+                une association pour promouvoir le débat autour des livres
+                
+                                        POET-SIGILLAT
+                        Association                
+                
+                
+                            Ecoloc
+                Le repère solidaire de la méouge: Hébergement, animations, services de proximité 
+                
+                                        BARRET-SUR-MEOUGE
+                        Association                
+                
+                
+                            Mistigri, la ludothèque des Baronnies
+                
+                
+                                        RIOMS
+                        Association                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+    Le collectif "Ensemble ici" :
+
+        
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

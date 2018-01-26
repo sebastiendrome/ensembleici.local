@@ -1,0 +1,701 @@
+
+
+    
+        
+        Ensemble ici | # 2016-21 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 19 au 29/05/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous,
+	&nbsp;
+
+Cette semaine, d&eacute;couvrez &quot;Radio Enfants&quot;: t&eacute;moignages touchants et plein d&#39;humour recueillis lors de la journ&eacute;e &quot;Jouons Ensemble&quot; du 16 Avril.&nbsp;
+
+
+
+	Et pour les plus grands, RadiO&#39;live diffusera, en direct, &agrave; l&#39;occasion du festival &quot;Les Lointaines&quot; &agrave; Buis-les-Baronnies ce samedi 21 Mai.
+	&nbsp;
+
+	Au programme:
+	
+	Musiques du monde, discussions et &eacute;changes entre musiciens &agrave; &eacute;couter en live ! directement sur la page d&#39;accueil d&#39;ensembleici.fr
+	(Diffusion &agrave; partir de 11h)
+
+	
+	Bonne &eacute;coute !
+	
+	L&#39;&eacute;quipe d&#39;Ensemble ici - Baronnies
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+                Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+                
+        
+		
+			
+				
+				Hautes Baronnies							
+													
+								Fête de la Nature
+								Manifestation , AULAN
+								Vendredi 20 mai 2016
+						
+
+					&nbsp;Pays de Buis-les-Baronnies							
+													
+								LES LOINTAINES
+								Festival , BUIS-LES-BARONNIES
+								Jeudi 19 mai 2016
+						
+
+												
+													
+								LES LOINTAINES
+								Festival , BEAUVOISIN
+								Vendredi 20 mai 2016
+						
+
+												
+													
+								LES LOINTAINES
+								Festival , BUIS-LES-BARONNIES
+								Samedi 21 mai 2016
+						
+
+												
+													
+								Fête de la Nature
+								Fête , POET-EN-PERCIP
+								Samedi 21 mai 2016
+						
+
+												
+													
+								Stage chant lyrique et placement de la voix animé par Catherine BOURGEOIS
+								Cours , LA ROCHE-SUR-LE-BUIS
+								du samedi 21 au dimanche 22 mai 2016
+						
+
+												
+													
+								La Cave du Troc, Votre Boutik' gratuite de Prêt à Porter et articles en tout genre!
+								Visite , MOLLANS-SUR-OUVEZE
+								du samedi 21 au samedi 28 mai 2016
+						
+
+												
+													
+								Ciné-Séniors
+								Projection , BUIS-LES-BARONNIES
+								Lundi 23 mai 2016
+						
+
+												
+													
+								 ATELIER TRICOT NOMADE 
+								Atelier , BUIS-LES-BARONNIES
+								Samedi 28 mai 2016
+						
+
+												
+													
+								 A LA RENCONTRE DES OISEAUX
+								Stage , PLAISIANS
+								du samedi 28 au dimanche 29 mai 2016
+						
+
+					Pays de Rémuzat							
+													
+								CARRte blanche à ALEXIA CARR
+								Spectacle , MONTREAL-LES-SOURCES
+								Samedi 21 mai 2016
+						
+
+												
+													
+								Stage résidentiel "de la Voix à la Voie":
+								Stage , LA MOTTE-CHALANCON
+								du vendredi 27 au dimanche 29 mai 2016
+						
+
+					Val d'Eygues							
+													
+								Dimanches des Arts
+								Marché , NYONS
+								du dimanche 08 mai au dimanche 21 août 2016
+						
+
+												
+													
+								Exposition NID D'ART
+								Exposition , NYONS
+								du dimanche 08 mai au dimanche 18 septembre 2016
+						
+
+												
+													
+								e-révisions
+								Atelier , SAHUNE
+								du mercredi 18 mai au jeudi 07 juillet 2016
+						
+
+												
+													
+								A L'ECOLE de la FORET
+								Projection , MONTAULIEU
+								Jeudi 19 mai 2016
+						
+
+												
+													
+								Frizaplat & Djulius
+								Concert , NYONS
+								Vendredi 20 mai 2016
+						
+
+												
+													
+								circuit Vélo Electrique de Randonnée
+								Randonnée , NYONS
+								Vendredi 20 mai 2016
+						
+
+												
+													
+								gouter-lecture
+								Lecture , LES PILLES
+								Samedi 21 mai 2016
+						
+
+												
+													
+								VIDE GRENIER DE LA MAISON CONSTANTIN
+								Vide-grenier , NYONS
+								Samedi 21 mai 2016
+						
+
+												
+													
+								MEDITATION PLEINE PRESENCE
+								Atelier , NYONS
+								Samedi 21 mai 2016
+						
+
+												
+													
+								La Nuit des musées
+								Exposition , NYONS
+								Samedi 21 mai 2016
+						
+
+												
+													
+								"Le Sacre du Printemps" et "Shéhérazade"
+								Spectacle , NYONS
+								Samedi 21 mai 2016
+						
+
+												
+													
+								Bhadjans 
+								Concert , LES PILLES
+								Jeudi 26 mai 2016
+						
+
+												
+													
+								Soirée rétrogaming
+								Jeux , NYONS
+								Vendredi 27 mai 2016
+						
+
+												
+													
+								ATELIER BODYMUSIC
+								Atelier , CURNIER
+								Samedi 28 mai 2016
+						
+
+												
+													
+								LES INSTANTS MUSICALES
+								Concert , MONTAULIEU
+								Samedi 28 mai 2016
+						
+
+					Val de Drôme							
+													
+								Soirée CONCERT à Suze 
+								Concert , SUZE
+								du samedi 21 au dimanche 22 mai 2016
+						
+
+					&nbsp;Ailleurs dans le coin							
+													
+								"Face au changement de climat Conservation du patrimoine culturel et naturel du monde entier »
+								Conférence , ROCHE-SAINT-SECRET-BECONNE
+								Vendredi 20 mai 2016
+						
+
+												
+													
+								Concert Emily Tissot
+								Concert , VALREAS
+								Vendredi 20 mai 2016
+						
+
+												
+													
+								MONALISA
+								Concert , TAULIGNAN
+								Samedi 21 mai 2016
+						
+
+												
+													
+								"LA VOIX HUMAINE" - Francis Poulenc 
+								Spectacle , VAISON-LA-ROMAINE
+								Samedi 21 mai 2016
+						
+
+												
+													
+								Les Compagnons de la Pierre Blanche
+								Festival , SUZE-LA-ROUSSE
+								du vendredi 27 au dimanche 29 mai 2016
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+                
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													recherche bottes de paille pour potager
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Récupèration essaim abeille
+							
+						
+						
+														MIRABEL-AUX-BARONNIES
+						
+						
+					
+					
+													Velo enfant
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													Villipendrix Market Show
+							
+						
+						
+														VILLEPERDRIX
+						
+						
+					
+					
+													CHALLENGE MOBILITE REGIONAL 2016
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Guide du routard PORTUGAL
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Recherche consoles et jeux soirée rétrogaming
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													location maison meublée pour 3 mois minimum, octobre à décembre 2016
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														LES PILLES
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Notes en bulles
+								
+								Ecole de musique de buis-les-baronnies
+							
+							
+															BUIS-LES-BARONNIES
+								Association							
+							
+						
+						
+														Service jeunesse 
+								
+								Ville de Nyons
+							
+							
+															NYONS
+								Collectivité locale							
+							
+						
+						
+														A saute-page
+								
+								Contes et lectures
+							
+							
+															CURNIER
+								Association							
+							
+						
+						
+														Comité Citoyen de Nyons pour les Réfugiés
+								
+								
+							
+							
+															NYONS
+															
+							
+						
+						
+														LA GUINGUETTE
+								
+								Restauration et animation, itinérante en Baronnies
+							
+							
+															SAINTE-JALLE
+								Auto-entrepreneur							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+    
+	Le collectif "Ensemble ici" :
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+        
+
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

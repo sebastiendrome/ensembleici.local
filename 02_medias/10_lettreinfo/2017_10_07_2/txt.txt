@@ -1,0 +1,780 @@
+
+
+
+    
+        
+        Ensemble ici | 	Lettre d'Ensemble Ici - Vallee de la Drome Diois. 2017 #39 - 7 octobre
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Bonjour &agrave; toutes et &agrave; tous,
+Retrouvez ci-dessous les &eacute;v&eacute;nements et petites annonces pr&eacute;vus jusqu'au 22 octobre.
+Suite &agrave; un bug de notre syst&egrave;me d'envoi, la lettre du 29 septembre n'a pu &ecirc;tre envoy&eacute;e. Nous vous prions de nous excuser pour la g&egrave;ne occasionn&eacute;e.
+Bonne lecture et &agrave; bient&ocirc;t !
+&nbsp;
+Etienne - Ensemble Ici Vall&eacute;e de la Dr&ocirc;me / Diois.
+&nbsp;
+Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois
+
+
+&nbsp;                
+Rappel T&eacute;l&eacute;chargeable depuis cette lettre, en fichier PDF, depuis le haut des 2 rubriques : - tous les &eacute;v&eacute;nements jusqu'au 2e WE &agrave; venir, - toutes les annonces de ces 30 derniers jours
+C'est vous qui publiez, modifier, compl&eacute;tez vos informations locales !
+Ensemble Ici : l'information par et pour les habitants de la Vall&eacute;e de la Dr&ocirc;me / Diois
+
+Vous&nbsp;appr&eacute;ciez Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois :
+&nbsp;"abonnement volontaire" / don mensuel&nbsp;
+Pour que l'animation du site puisse continuer,merci de votre soutien&nbsp;
+Adh&eacute;sion
+&nbsp;        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Crestois Pays de Saillans                        
+                    
+                    S'écouter vraiment pour mieux coopérer
+                    Atelier , CREST
+                    Samedi 07 octobre 2017
+                    
+
+                                            
+                    
+                    STAGE DE GÉOBIOLOGIE
+                    Stage , ESPENEL
+                    Samedi 07 octobre 2017
+                    
+
+                                            
+                    
+                     Initiation kayak spécial adulte 
+                    Manifestation , SAILLANS
+                    Samedi 07 octobre 2017
+                    
+
+                                            
+                    
+                    Canoe kayak initiation 
+                    Manifestation , SAILLANS
+                    Samedi 07 octobre 2017
+                    
+
+                                            
+                    
+                    Nettoyage citoyen des bords de Drôme
+                    Manifestation , CREST
+                    Dimanche 08 octobre 2017
+                    
+
+                                            
+                    
+                    Journée de Biodanza
+                    Stage , CREST
+                    Dimanche 08 octobre 2017
+                    
+
+                                            
+                    
+                    Ciné-débat "L'intérêt général et moi"
+                    Projection , AOUSTE-SUR-SYE
+                    Mardi 10 octobre 2017
+                    
+
+                                            
+                    
+                    Soirée PLOUF
+                    Débat , AOUSTE-SUR-SYE
+                    Mardi 10 octobre 2017
+                    
+
+                                            
+                    
+                    Atelier découverte "Libérer sa Voix et son Corps"
+                    Atelier , CREST
+                    Mardi 10 octobre 2017
+                    
+
+                                            
+                    
+                    CHACUN SON SUD
+                    Concert , CREST
+                    Jeudi 12 octobre 2017
+                    
+
+                                            
+                    
+                    OpenBidouille  & Repair Café
+                    Atelier , CREST
+                    Jeudi 12 octobre 2017
+                    
+
+                                            
+                    
+                    Formation en Psychologie Energétique
+                    Atelier , CREST
+                    Vendredi 13 octobre 2017
+                    
+
+                                            
+                    
+                    Cercle de Femmes
+                    Atelier , SAILLANS
+                    Vendredi 13 octobre 2017
+                    
+
+                                            
+                    
+                    Journée Cercle de Femmes
+                    Atelier , SAILLANS
+                    Samedi 14 octobre 2017
+                    
+
+                                            
+                    
+                    spectacle jazz
+                    Concert , SAILLANS
+                    Samedi 14 octobre 2017
+                    
+
+                                            
+                    
+                    découverte du clown
+                    Stage , CREST
+                    du samedi 14 au dimanche 15 octobre 2017
+                    
+
+                                            
+                    
+                    ciné casse-croute
+                    Projection , AOUSTE-SUR-SYE
+                    Dimanche 15 octobre 2017
+                    
+
+                    Diois                        
+                    
+                    Tambouille 7 octobre 2017
+                    Manifestation , DIE
+                    Samedi 07 octobre 2017
+                    
+
+                                            
+                    
+                    Présentation de la saison 2017/2018 du Théâtre de Die
+                    journée d'information , DIE
+                    Samedi 07 octobre 2017
+                    
+
+                                            
+                    
+                    Échecs et Mâts
+                    Spectacle , DIE
+                    Samedi 07 octobre 2017
+                    
+
+                                            
+                    
+                    Les Espoirs de Coronthie
+                    Concert , DIE
+                    Samedi 07 octobre 2017
+                    
+
+                                            
+                    
+                    Encore Plus
+                    Spectacle , DIE
+                    Samedi 07 octobre 2017
+                    
+
+                                            
+                    
+                    Co plateau chansons : Carole Jacques et Marco Polio
+                    Concert , SAINT-JULIEN-EN-QUINT
+                    Samedi 07 octobre 2017
+                    
+
+                                            
+                    
+                    JEUX DE SOCIETE AUX DEUX MONDES
+                    Jeux , CHATILLON-EN-DIOIS
+                    Dimanche 08 octobre 2017
+                    
+
+                                            
+                    
+                    Atelier Danses Folk - Initiation pour tous !
+                    Atelier , DIE
+                    Lundi 09 octobre 2017
+                    
+
+                                            
+                    
+                    Atelier d'introduction au Jardinage Ecologique
+                    Atelier , DIE
+                    Mardi 10 octobre 2017
+                    
+
+                                            
+                    
+                    Conseil coopératif n°3 - Spécial financment
+                    Réunion , DIE
+                    Jeudi 12 octobre 2017
+                    
+
+                                            
+                    
+                    Spectacle de danse: Focus
+                    Spectacle , LUS-LA-CROIX-HAUTE
+                    Jeudi 12 octobre 2017
+                    
+
+                                            
+                    
+                     Danse au Féminin
+                    Stage , DIE
+                    Dimanche 15 octobre 2017
+                    
+
+                    Val de Drôme                        
+                    
+                    foire d'automne
+                    Foire , BEAUFORT-SUR-GERVANNE
+                    Dimanche 08 octobre 2017
+                    
+
+                                            
+                    
+                    Vin & Piano
+                    Concert , CHABRILLAN
+                    Vendredi 13 octobre 2017
+                    
+
+                                            
+                    
+                    S'asseoir ensemble à l'Oasis de Serendip
+                    Manifestation , EURRE
+                    Vendredi 13 octobre 2017
+                    
+
+                                            
+                    
+                    « Eco-construction et rénovation performante : Biovallée, un territoire école »
+                    Débat , EURRE
+                    Vendredi 13 octobre 2017
+                    
+
+                                            
+                    
+                    Hertzienne une parenthèse chantée
+                    Spectacle , LIVRON-SUR-DROME
+                    Samedi 14 octobre 2017
+                    
+
+                                            
+                    
+                    Braderie de la poterie du Fer Rouge
+                    Marché , CLIOUSCLAT
+                    Dimanche 15 octobre 2017
+                    
+
+                                            
+                    
+                    Sketch&Move
+                    Atelier , GRANE
+                    Dimanche 15 octobre 2017
+                    
+
+                    Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...            
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            TROC ou VEND  PLAN DE TRAVAIL
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Le nouveau cours de Danse Bolas
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Appels aux bénévoles
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Récoltes en Création : stage Qi Gong, Marche et Arts Plastiques
+                
+                    
+                    
+                                                        BOULC
+                    
+                    
+                
+                                    Trajet Diois - MFR de Châteauneuf-sur-Isère
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Roller Derby
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Guitariste
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Vends poêle de masse ancien
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Meuble en bambou
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Pierres
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Garde vos enfants
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Sommier
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    veste montagne Schoeffel
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Gilet doudoune sans manche
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Offre emploi ADMR LE VELLAN
+                
+                    
+                    
+                                                        MIRABEL-ET-BLACONS
+                    
+                    
+                
+                                    Doudoune sans manche
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    stage de clown
+                
+                    
+                    
+                                                        MARIGNAC-EN-DIOIS
+                    
+                    
+                
+                                    Partitions de piano à donner
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Baladeur CD
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Des mots pour soi
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Livres - romans
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    sous loue appt à Die de mi Nov à fin déc
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Vends Cajon LaRosa
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

@@ -1,0 +1,774 @@
+
+
+
+    
+        
+        Ensemble ici | La Lettre Ensemble Ici Pays de Dieulefit-Bourdeaux-Marsanne 2017#14
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Cahiers, papiers ciseaux
+Mais non ce n'est pas la fin de l'&eacute;t&eacute;!! On sait bien pourtant que quand passe le 15 Ao&ucirc;t il faut se concentrer &agrave; nouveau sur la remont&eacute;e vers la rentr&eacute;e. Alors la rentr&eacute;e c'est quoi? C'est surtout la rentr&eacute;e scolaire, les derniers pr&eacute;paratifs pour les enfants: penser &agrave; l'inscription &agrave; la restauration scolaire, aux activit&eacute;s, acheter les fournitures et bien verifier que tout est en ordre...
+&nbsp;
+Par exemple...Vous pouvez vous assurer d'ecouter RadioL&agrave; la nouvelle Web-radio&nbsp; du pays Dieulelit-Marasanne-Bourdeaux et du monde entier!Et le site d'ensemble ici est l&agrave; pour vous informer et vous permettre de poster de l'information.
+&nbsp;
+Pour ceux qui sont encore en vacances dans le pays Dieulefit-Marsanne-Bourdeaux, la f&ecirc;te n'est pas termin&eacute;e au mini golf de Po&euml;t Laval. L'association les peuples li&eacute;s vous reserve encore de belles surprises le week end 19/20 Ao&ucirc;t et ne ratez pas la journ&eacute;e de cloture le 31 Ao&ucirc;t. C'est 195 route des hubacs &agrave; Po&euml;t Laval. Le 25 Ao&ucirc;t d&eacute;marrerons &agrave; Crupie les Vendredis Latino pour l'ann&eacute;e, de quoi se pr&eacute;parer &agrave; danser pour l'hiver. Une heure d'initiation salsa et bachata...suivi d'un DJ suave. Le 27 Ao&ucirc;t l'association ART CHEVAL vous propose "le bal des masques" au centre &eacute;questre de Po&euml;t Laval. Et puis il ya toujours les merveileux restaurants, bars, caf&eacute;s, march&eacute;s du territoire pour se croiser et se rencontrer. Ce n'est pas la fin du soleil et viens ensuite l'&eacute;t&eacute; indien !
+&nbsp;
+Merci pour votre attention. Bonne fin de semaine sous le soleil.
+
+&nbsp;                
+Voici les infos des prochaines semaines dont vous trouvez le d&eacute;tail sur le site Ensemble ici. 
+La lettre d'info les petites annonces du territoire sont t&eacute;l&eacute;chargeables en PDF dans ce mail. 
+Il vous est ais&eacute; d'en ajouter via les formulaires du site.
+
+&nbsp;
+C'est vous qui publiez et alimentez les rubriques du site : ajoutez, modifier, compl&eacute;tez vos informations locales !
+
+
+Ensemble Ici : l'information par et pour les habitants du pays de Dieulefit-Bourdeaux et Marsanne.
+&nbsp;
+
+L'assocation Ici et Ailleurs est la structure juridique qui porte les projets Ensemble Ici - Pays de Dieulefit-Bourdeaux-Marsanne et RadioL&agrave;, la web-radio du pays de Dieulefit-Bourdeaux. 
+Nous avons besoin de votre soutien pour continuer nos actions: adh&eacute;rer
+
+
+&nbsp;
+Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d'info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, petites annonces, forums et articles! 
+Si vous souhaitez participer &agrave; la diffusion d&rsquo;Ensemble Ici sur le territoire de Dieulefit-Bourdeaux et Marsanne, merci de nous &eacute;crire &agrave; contact.pdb@ensembleici.fr
+&nbsp;
+        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Pays de Dieulefit-Bourdeaux et Marsanne                        
+                    
+                    Expo-peinture
+                    Exposition , BOURDEAUX
+                    du mardi 01 au samedi 19 août 2017
+                    
+
+                                            
+                    
+                    Jean Soubeyran Delalande "atelier un autre regard"
+                    Exposition , POET-LAVAL
+                    du vendredi 04 au dimanche 20 août 2017
+                    
+
+                                            
+                    
+                    Antipodes
+                    Exposition , POET-LAVAL
+                    du vendredi 04 au dimanche 27 août 2017
+                    
+
+                                            
+                    
+                    Samuel Guille "Portrait de paysage"
+                    Exposition , DIEULEFIT
+                    du vendredi 04 août au mercredi 13 septembre 2017
+                    
+
+                                            
+                    
+                    Les fêtes nocturnes
+                    Spectacle , GRIGNAN
+                    du mardi 08 au samedi 19 août 2017
+                    
+
+                                            
+                    
+                    STAGE D'AIKIDO un  été à Dieulefit   août 2017
+                    Stage , DIEULEFIT
+                    du lundi 14 au samedi 19 août 2017
+                    
+
+                                            
+                    
+                    Grandes rencontres musicales
+                    Concert , DIEULEFIT
+                    Dimanche 20 août 2017
+                    
+
+                                            
+                    
+                    La Vieille Mule
+                    Concert , SOUSPIERRE
+                    Jeudi 24 août 2017
+                    
+
+                                            
+                    
+                    Les vendredis Latino
+                    Fête , CRUPIES
+                    du vendredi 25 août 2017 au dimanche 24 juin 2018
+                    
+
+                                            
+                    
+                    Spectacle équestre : MASUKU DANSU -  la danse des masques
+                    Spectacle , POET-LAVAL
+                    Dimanche 27 août 2017
+                    
+
+                    &nbsp;Ailleurs dans le coin                        
+                    
+                    Le marché des Puces des couturières 
+                    Marché , BOUCHET
+                    Dimanche 20 août 2017
+                    
+
+                                            
+                    
+                    Concert - Soul Addict Singers
+                    Concert , MONTFROC
+                    Mercredi 23 août 2017
+                    
+
+                                            
+                    
+                    Fête d'hUe Vin - Séguret
+                    Fête , SEGURET
+                    Samedi 26 août 2017
+                    
+
+                    Hautes Baronnies                        
+                    
+                    Spiderman
+                    Projection , SEDERON
+                    Vendredi 18 août 2017
+                    
+
+                                            
+                    
+                    Mehmet Polat Trio
+                    Concert , MONTBRUN-LES-BAINS
+                    Samedi 19 août 2017
+                    
+
+                                            
+                    
+                    Course de caisse à savon
+                    Jeux , SEDERON
+                    Dimanche 20 août 2017
+                    
+
+                                            
+                    
+                    Aqua poney
+                    Manifestation , MONTBRUN-LES-BAINS
+                    Lundi 21 août 2017
+                    
+
+                                            
+                    
+                    Stage de chant
+                    Concert , BARRET-DE-LIOURE
+                    du lundi 21 au vendredi 25 août 2017
+                    
+
+                                            
+                    
+                    La balade des artisans - marché artisanal
+                    Marché , MONTBRUN-LES-BAINS
+                    Mercredi 23 août 2017
+                    
+
+                                            
+                    
+                    Exposition de peinture Francis Macard
+                    Exposition , MONTBRUN-LES-BAINS
+                    du samedi 26 au mardi 29 août 2017
+                    
+
+                    &nbsp;Pays de Buis-les-Baronnies                        
+                    
+                    Atelier cosmétiques maison
+                    Atelier , MOLLANS-SUR-OUVEZE
+                    Samedi 19 août 2017
+                    
+
+                                            
+                    
+                    "La BOUTIKODON" 
+                    Visite , MOLLANS-SUR-OUVEZE
+                    du samedi 19 au samedi 26 août 2017
+                    
+
+                                            
+                    
+                    Tutti en Baronnies
+                    Manifestation , BUIS-LES-BARONNIES
+                    du samedi 19 au mardi 29 août 2017
+                    
+
+                                            
+                    
+                    Concert // Bégayer
+                    Concert , MOLLANS-SUR-OUVEZE
+                    Samedi 26 août 2017
+                    
+
+                    &nbsp;Val d'Eygues                        
+                    
+                    Journée citoyenne de lutte contre l'ambroisie
+                    Atelier , NYONS
+                    Samedi 19 août 2017
+                    
+
+                                            
+                    
+                    LA GRAN URSULA (CUMBIA)
+                    Concert , NYONS
+                    Samedi 19 août 2017
+                    
+
+                                            
+                    
+                    Vide-grenier de Ste-Jalle
+                    Vide-grenier , SAINTE-JALLE
+                    Dimanche 20 août 2017
+                    
+
+                                            
+                    
+                    LES PETITS COCHONS (ROCK ANGLO AMÉRICAIN)
+                    Concert , NYONS
+                    Mardi 22 août 2017
+                    
+
+                                            
+                    
+                    Visite et repas à la ferme
+                    Visite , SAINT-FERREOL-TRENTE-PAS
+                    Mardi 22 août 2017
+                    
+
+                                            
+                    
+                    Expo de peinture
+                    Exposition , NYONS
+                    du mardi 22 août au samedi 02 septembre 2017
+                    
+
+                                            
+                    
+                    Sylvie JACQUEMIN et Armel RIFFEL en concert
+                    Concert , SAINTE-JALLE
+                    Mercredi 23 août 2017
+                    
+
+                                            
+                    
+                    Le Ptit festoch des Jeudis de la Guinguette
+                    Concert , SAHUNE
+                    Jeudi 24 août 2017
+                    
+
+                                            
+                    
+                    Atelier Repair Café à la foire de Sahune
+                    Atelier , SAHUNE
+                    Dimanche 27 août 2017
+                    
+
+                    Crestois Pays de Saillans                        
+                    
+                    Stage Clown et Jeux D'acteur 21-27 Aout 2017 avec Todd Legler
+                    Stage , AUREL
+                    du lundi 21 au dimanche 27 août 2017
+                    
+
+                    &nbsp;Diois                        
+                    
+                    Socket dans la place #4
+                    Concert , DIE
+                    Samedi 19 août 2017
+                    
+
+                                            
+                    
+                    Le p'tit marché de Menglon
+                    Marché , MENGLON
+                    Jeudi 24 août 2017
+                    
+
+                                            
+                    
+                    L'OCTUOR COSMOPOLITE
+                    Concert , SAINTE-CROIX
+                    Jeudi 24 août 2017
+                    
+
+                                            
+                    
+                    Soirée resto - concert à Saint Julien en Quint
+                    Concert , SAINT-JULIEN-EN-QUINT
+                    Vendredi 25 août 2017
+                    
+
+                                            
+                    
+                    à table!
+                    Spectacle , MARIGNAC-EN-DIOIS
+                    Samedi 26 août 2017
+                    
+
+                                            
+                    
+                    Stage de tango -été
+                    Stage , BELLEGARDE-EN-DIOIS
+                    du samedi 26 août au samedi 02 septembre 2017
+                    
+
+                    Val de Drôme                        
+                    
+                    plantes à couleurs 
+                    Stage , LA ROCHE-SUR-GRANE
+                    Samedi 19 août 2017
+                    
+
+                                            
+                    
+                    stage de théâtre 
+                    Stage , LIVRON-SUR-DROME
+                    du lundi 21 au samedi 26 août 2017
+                    
+
+                    Pays de Romans                        
+                    
+                    Soirée du lavoir en chanson
+                    Concert , ROMANS-SUR-ISERE
+                    Vendredi 25 août 2017
+                    
+
+                    Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...            
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Vente galerie de voiture Berelingo
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Atelier thérapeutique de Constellations
+                
+                    
+                    
+                                                        MONTELIMAR
+                    
+                    
+                
+                                    Echange de maison Diois- Grenoble (vacances de Noël 2017)
+                
+                    
+                    
+                                                        SAINT-ROMAN
+                    
+                    
+                
+                                    RECHERCHE LIEU DE TRAVAIL
+                
+                    
+                    
+                                                        CHAROLS
+                    
+                    
+                
+                                    vide grenier maison
+                
+                    
+                    
+                                                        BARSAC
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Lili Forgas Création CUir
+                Artisan Maroquinier
+                
+                                        ROCHEBAUDIN
+                        Auto-entrepreneur                
+                
+                
+                            Apiculture Fred Bourgeaud
+                production et vente de miel
+                
+                                        CORNILLAC
+                                        
+                
+                
+                            Association de la Médiathèque du pays de Bourdeaux
+                
+                
+                                        BOURDEAUX
+                        Association                
+                
+                
+                            Café de Vesc
+                
+                
+                                        VESC
+                        Association                
+                
+                
+                            RadioLà
+                Écouter et mémoriser la station sur votre player media
+                
+                                        DIEULEFIT
+                        Association                
+                
+                
+                            Asso ZAMM
+                Zacade Action Musique Marsanne
+                
+                                        MARSANNE
+                        Association                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+    Le collectif "Ensemble ici" :
+
+        
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

@@ -1,0 +1,244 @@
+body{
+	overflow: hidden;
+}
+
+#header{
+	width:100%;
+	position:relative;
+	height: 180px;
+	overflow:hidden;
+}
+	#header #bandeau{
+		position: absolute;
+		max-width: 690px;
+		width: 100%;
+		height: 100%;
+		top: 0px;
+		right: 0px;
+	}
+	#header #logo{
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		z-index: 1;
+		opacity: 0.8;
+		width: 20%;
+		max-width: 187px;
+	}
+		/*#header #logo>img{
+			width: 100%;
+			background-color: rgba(255,255,255,0.8);
+			border-radius: 10%;
+			padding: 10%;
+		}*/
+		
+		#header #logo>img{
+			width: 100%;
+			background-image: radial-gradient( circle at center, white, transparent),linear-gradient( to bottom, transparent, rgba(255,255,255,0.7) 90%, transparent);
+			padding: 10%;
+		}
+	
+	#bandeau #diaporama{
+		position: relative;
+		width: 100%;
+		height: 100%;
+	}
+		
+		#bandeau #diaporama>img{
+			position: absolute;
+			left: 0px;
+			top: 0px;
+			
+			-webkit-transition: opacity 1000ms ease-out;
+			-moz-transition: opacity 1000ms ease-out;
+			-o-transition: opacity 1000ms ease-out;
+			-ms-transition: opacity 1000ms ease-out;
+			transition: opacity 1000ms ease-out;
+		}
+	
+	#bandeau #cache{
+		display: none;
+	}
+	
+	#menuSmartphone{
+		width: 100%;
+		display: block;
+		height: 60px;
+		position: relative;
+		z-index: 100;
+		vertical-align: top;
+		box-shadow: 0px 0px 20px rgba(0, 0, 0,0.8);
+	}
+		#menuSmartphone>div{
+			padding: 0px;
+			margin: 0px;
+		}
+	
+	#menuSmartphone_utilisateur{
+		width: 60px;
+		height: 60px;
+		display: inline-block;
+		background-color: rgb(68, 81, 88);
+		vertical-align: top;
+	}
+	
+	#menu_utilisateur{
+		left: -80%;
+		width: 80%;
+		top: 0px;
+		background-color: rgb(68, 81, 88);
+		height: 100%;
+		
+		transition: left 300ms ease-out;
+		-moz-transition: left 300ms ease-out;
+	}
+	
+	#page{
+		left: 0%;
+		transition: left 300ms ease-out;
+		-moz-transition: left 300ms ease-out;
+	}
+	
+	#page.menu_utilisateur_ouvert{
+		left: 80%;
+	}
+	
+	#menu_utilisateur.ouvert{
+		left: 0%;
+		box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.8);
+	}
+	
+	
+	/*#page.menu_utilisateur_ouvert #menu_utilisateur, #page.menu_utilisateur_ouvert #filtre, #page.menu_utilisateur_ouvert #header, , #page.menu_utilisateur_ouvert #contenu{
+		left: 80%;
+	}*/
+	#page.menu_utilisateur_ouvert #menu_utilisateur{
+		z-index: 102;
+	}
+	
+		/*#menuSmartphone_utilisateur>img{
+			width:80px;
+			height:80px;
+			position:absolute;
+			padding-top:15px;
+			padding-left:15px;
+			padding-right:5px;
+			padding-bottom:5px;
+			background-color:white;
+			border-radius:50px;
+			left:-20px;
+			top:-20px;
+			cursor:pointer;
+			box-shadow:0px 0px 10px rgb(68, 81, 88), 0px 0px 10px white;
+			z-index: 100;
+		}*/
+		
+		#menuSmartphone_utilisateur>img{
+			width:56px;
+			height:56px;
+			position:absolute;
+			top: 2px;
+			left: 2px;
+		}
+	
+	#menuSmartphone_pages{
+		display: inline-block;
+		height: 60px;
+		overflow:hidden;
+		position: relative;
+		
+		transition: height 300ms ease-out;
+	}
+	
+		#menuSmartphone_pages a{
+			pointer-events: none;
+		}
+		#menuSmartphone_pages.ouvert{
+			overflow:auto;
+		}
+		#menuSmartphone_pages.ouvert a{
+			pointer-events: auto;
+		}
+	
+	#menu{
+		display: block;
+		transition: top 300ms ease-out;
+	}
+	
+	
+	#menu_agenda, #menu_forum, #menu_structure, #menu_petiteannonce, #menu_editorial{
+		width: 100%;
+	}
+	
+	
+	div.item_menu{
+		cursor: pointer;
+		background-image: none;
+	}
+	a.item_menu, div.item_menu{
+		display: block;
+		width: 100%;
+	}
+	.item_menu.rouge{
+		border-top: 1px solid rgb(197, 78, 44);
+		border-bottom: 1px solid rgb(197, 78, 44);
+	}
+	.item_menu.bleu{
+		border-top: 1px solid rgb(43, 151, 191);
+		border-bottom: 1px solid rgb(43, 151, 191);
+	}
+	.item_menu.vert{
+		/*border-top: 1px solid rgb(12, 90, 50);
+		border-bottom: 1px solid rgb(12, 90, 50);*/
+		border-top: 1px solid rgb(90, 160, 90);
+		border-bottom: 1px solid rgb(90, 160, 90);
+	}
+	.item_menu.pomme{
+		border-top: 1px solid rgb(184, 185, 55);
+		border-bottom: 1px solid rgb(184, 185, 55);
+	}
+	.item_menu.orange{
+		border-top: 1px solid rgb(215, 153, 66);
+		border-bottom: 1px solid rgb(215, 153, 66);
+	}
+	
+	#menuSmartphone_pages #fleche_deplier{
+		display: block;
+		position: absolute;
+		bottom: -7px;
+		width: 50px;
+		height: 35px;
+		left: -4px;
+		background-image: url("../ico_deplier.png");
+		z-index: 1;
+	}
+	#menuSmartphone_pages.ouvert #fleche_deplier{
+		top: 15px;
+		transform: rotate(180deg);
+	}
+	#menuSmartphone_pages.ouvert #menu{
+		top: 0px;
+	}
+	
+	.item_menu:hover{
+		background-image: none;
+	}
+	
+	.item_menu_utilisateur{
+		height: 60px;
+		font-size: 1.5em;
+		vertical-align: middle;
+		line-height: 60px;
+		color: white;
+		position: relative;
+		top: 60px;
+		padding-left: 60px;
+		border-bottom: 1px solid rgb(60,75,80);
+	}
+	.item_menu_utilisateur:hover{
+		background-color: rgb(60,75,80);
+	}
+	
+	
+	
+	

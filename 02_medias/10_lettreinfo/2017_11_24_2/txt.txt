@@ -1,0 +1,947 @@
+
+
+
+    
+        
+        Ensemble ici | 	Lettre d'Ensemble Ici - Vallee de la Drome Diois. 2017 #46 - 24 novembre
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Bonjour &agrave; toutes et &agrave; tous,
+Retrouvez ci-dessous les &eacute;v&eacute;nements et petites annonces pr&eacute;vus jusqu'au 10 d&eacute;cembre.
+Bonne lecture et &agrave; bient&ocirc;t !
+&nbsp;
+Etienne - Ensemble Ici Vall&eacute;e de la Dr&ocirc;me / Diois.
+&nbsp;
+Ensemble Ici Vall&eacute;e de la Dr&ocirc;me / Diois                
+Rappel T&eacute;l&eacute;chargeable depuis cette lettre, en fichier PDF, depuis le haut des 2 rubriques : - tous les &eacute;v&eacute;nements jusqu'au 2e WE &agrave; venir, - toutes les annonces de ces 30 derniers jours
+C'est vous qui publiez, modifiez, compl&eacute;tez vos informations locales !
+Ensemble Ici : l'information par et pour les habitants de la Vall&eacute;e de la Dr&ocirc;me / Diois
+
+Vous&nbsp;appr&eacute;ciez Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois :
+&nbsp;"abonnement volontaire" / don mensuel&nbsp;
+Pour que l'animation du site puisse continuer,merci de votre soutien&nbsp;
+Adh&eacute;sion
+&nbsp;        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Crestois Pays de Saillans                        
+                    
+                    Projection du film: Les Invisibles
+                    Projection , CREST
+                    Vendredi 24 novembre 2017
+                    
+
+                                            
+                    
+                     SPIRALE propose une conférence animée par Danielle Ribe
+                    Conférence , CREST
+                    Vendredi 24 novembre 2017
+                    
+
+                                            
+                    
+                    Magie de la laine feutrée
+                    Atelier , PIEGROS-LA-CLASTRE
+                    Vendredi 24 novembre 2017
+                    
+
+                                            
+                    
+                    "Naissance", 8 femmes racontent
+                    Spectacle , AOUSTE-SUR-SYE
+                    Samedi 25 novembre 2017
+                    
+
+                                            
+                    
+                    RDV arbres fruitiers au marché de Crest
+                    Rencontre , CREST
+                    Samedi 25 novembre 2017
+                    
+
+                    
+                    Concert de soutien à Amnesty International
+                    Concert , MIRABEL-ET-BLACONS
+                    Dimanche 26 novembre 2017
+                    
+
+                                            
+                    
+                    Projection du film « L’An 01 »
+                    Projection , CREST
+                    Mardi 28 novembre 2017
+                    
+
+                                            
+                    
+                    Féérie de Noël
+                    Atelier , CREST
+                    Mardi 28 novembre 2017
+                    
+
+                                            
+                    
+                    Représentation "Pisser dans l'herbe"
+                    Spectacle , SAILLANS
+                    Mercredi 29 novembre 2017
+                    
+
+                                            
+                    
+                    OpenBidouille  & Repair Café
+                    Atelier , CREST
+                    Jeudi 30 novembre 2017
+                    
+
+                                            
+                    
+                    Féérie de Noël  - 2-
+                    Atelier , CREST
+                    Jeudi 30 novembre 2017
+                    
+
+                                            
+                    
+                    Apprendre les bases du dessin en 3D
+                    Atelier , CREST
+                    Vendredi 01 décembre 2017
+                    
+
+                                            
+                    
+                    Féérie de Noël - 3 -
+                    Atelier , CREST
+                    Samedi 02 décembre 2017
+                    
+
+                                            
+                    
+                    tai chi chuan / qi-gong / meditation
+                    Stage , SAILLANS
+                    Samedi 02 décembre 2017
+                    
+
+                                            
+                    
+                    Atelier d'expression - goûter
+                    Atelier , CREST
+                    Dimanche 03 décembre 2017
+                    
+
+                                            
+                    
+                    Atelier CONSTELLATIONS FAMILIALES
+                    Stage , CREST
+                    Dimanche 03 décembre 2017
+                    
+
+                    &nbsp;Diois                        
+                    
+                    Création d'un livre audio
+                    Atelier , DIE
+                    du mercredi 15 novembre 2017 au mercredi 30 mai 2018
+                    
+
+                                            
+                    
+                    Le Réveillon de Châtillon !   * Billetterie ouverte ! *
+                    Concert , CHATILLON-EN-DIOIS
+                    du samedi 18 novembre au dimanche 31 décembre 2017
+                    
+
+                                            
+                    
+                    Burn Baby Burn
+                    Spectacle , DIE
+                    Vendredi 24 novembre 2017
+                    
+
+                                            
+                    
+                    Journée internationale pour l'élimination des violences faites aux femmes à Die
+                    Débat , DIE
+                    Vendredi 24 novembre 2017
+                    
+
+                                            
+                    
+                    PROJECTION GRATUITE
+                    Projection , PONET-ET-SAINT-AUBAN
+                    Vendredi 24 novembre 2017
+                    
+
+                                            
+                    
+                    Portes Ouvertes à l'Espace Barral
+                    Visite , DIE
+                    Samedi 25 novembre 2017
+                    
+
+                                            
+                    
+                    Gratiferia 
+                    Foire , DIE
+                    Samedi 25 novembre 2017
+                    
+
+                                            
+                    
+                    rdv de la Grande Famille
+                    Atelier , DIE
+                    Samedi 25 novembre 2017
+                    
+
+                                            
+                    
+                    Fête dioise du jeu
+                    Jeux , DIE
+                    du samedi 25 au dimanche 26 novembre 2017
+                    
+
+                                            
+                    
+                    Spectacle
+                    Spectacle , VALDROME
+                    du samedi 25 au dimanche 26 novembre 2017
+                    
+
+                                            
+                    
+                    Danse au Féminin
+                    Stage , DIE
+                    Dimanche 26 novembre 2017
+                    
+
+                                            
+                    
+                    Vide jouets, puériculture, ski repas partagé et jouons
+                    Manifestation , LUS-LA-CROIX-HAUTE
+                    Dimanche 26 novembre 2017
+                    
+
+                                            
+                    
+                    Mines de rien
+                    Spectacle , LUC-EN-DIOIS
+                    Lundi 27 novembre 2017
+                    
+
+                                            
+                    
+                    Mines de rien
+                    Spectacle , CHATILLON-EN-DIOIS
+                    Mardi 28 novembre 2017
+                    
+
+                                            
+                    
+                    P'tit Déj' de novembre
+                    Rencontre , DIE
+                    Mardi 28 novembre 2017
+                    
+
+                                            
+                    
+                    Alliance Educative à l'école Primaire
+                    Réunion , DIE
+                    Mercredi 29 novembre 2017
+                    
+
+                                            
+                    
+                    Manifestation : Une école de 11 classes sans administratrice ?
+                    Manifestation , DIE
+                    Mercredi 29 novembre 2017
+                    
+
+                                            
+                    
+                    L'enfance à l'oeuvre
+                    Spectacle , DIE
+                    Mercredi 29 novembre 2017
+                    
+
+                                            
+                    
+                    Echange de Pratiques Numériques
+                    Atelier , DIE
+                    Mercredi 29 novembre 2017
+                    
+
+                                            
+                    
+                    Représentation "Pisser dans l'herbe" à Luc en diois
+                    Spectacle , LUC-EN-DIOIS
+                    Jeudi 30 novembre 2017
+                    
+
+                                            
+                    
+                    Entre Mers "Wooo" au Tchaï walla
+                    Concert , DIE
+                    Vendredi 01 décembre 2017
+                    
+
+                                            
+                    
+                    Mines de Rien
+                    Spectacle , DIE
+                    Vendredi 01 décembre 2017
+                    
+
+                                            
+                    
+                    Concert du Groupe Vocal Entre Mers
+                    Concert , DIE
+                    Vendredi 01 décembre 2017
+                    
+
+                                            
+                    
+                    Contes et chants des humains, des arbres et de la forêt
+                    Conte , SAINT-JULIEN-EN-QUINT
+                    Vendredi 01 décembre 2017
+                    
+
+                                            
+                    
+                    Le Festicule 3
+                    Festival , LUS-LA-CROIX-HAUTE
+                    du vendredi 01 au dimanche 03 décembre 2017
+                    
+
+                                            
+                    
+                    expo/concertnom de la fiche
+                    Manifestation , PONET-ET-SAINT-AUBAN
+                    Dimanche 03 décembre 2017
+                    
+
+                    Val de Drôme                        
+                    
+                    Poterie : Les petits pots dans les grandss
+                    Exposition , CHABRILLAN
+                    du vendredi 24 novembre au samedi 23 décembre 2017
+                    
+
+                                            
+                    
+                    marché de Noël à PARUEL
+                    Marché , GIGORS-ET-LOZERON
+                    Samedi 25 novembre 2017
+                    
+
+                                            
+                    
+                    Clair-Obscur
+                    Lecture , LIVRON-SUR-DROME
+                    Samedi 25 novembre 2017
+                    
+
+                                            
+                    
+                    Ces satellites qui scrutent notre planète
+                    Conférence , SOYANS
+                    Samedi 25 novembre 2017
+                    
+
+                                            
+                    
+                    NOBILE FRIVOLA
+                    Concert , EURRE
+                    du samedi 25 au dimanche 26 novembre 2017
+                    
+
+                                            
+                    
+                    Week end d'introduction à la méthode Rosen
+                    Stage , GIGORS-ET-LOZERON
+                    du samedi 25 au dimanche 26 novembre 2017
+                    
+
+                                            
+                    
+                    Atelier du Pendule
+                    Atelier , GIGORS-ET-LOZERON
+                    Dimanche 26 novembre 2017
+                    
+
+                                            
+                    
+                    Ciné-Débat
+                    Projection , SAOU
+                    Dimanche 26 novembre 2017
+                    
+
+                                            
+                    
+                    Stage "Créer son Eco-projet"
+                    Stage , LA ROCHE-SUR-GRANE
+                    du lundi 27 novembre au dimanche 03 décembre 2017
+                    
+
+                                            
+                    
+                    Exposition de  Lydia Parat
+                    Exposition , CHABRILLAN
+                    du mardi 28 novembre au samedi 23 décembre 2017
+                    
+
+                                            
+                    
+                    Spectacle Théâtre-forum
+                    Spectacle , EURRE
+                    Mercredi 29 novembre 2017
+                    
+
+                                            
+                    
+                    Récital Lyrique
+                    Concert , GRANE
+                    Vendredi 01 décembre 2017
+                    
+
+                                            
+                    
+                    Vies à vies - Fantaisie pour piano par Mam'zèle Fa
+                    Spectacle , POET-CELARD
+                    Samedi 02 décembre 2017
+                    
+
+                                            
+                    
+                    Sound Painting
+                    Concert , CHABRILLAN
+                    Dimanche 03 décembre 2017
+                    
+
+                    Retrouvez l'agenda complet sur www.ensembleici.fr...            
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            cherche bocaux
+                
+                    
+                    
+                                                        MONTLAUR-EN-DIOIS
+                    
+                    
+                
+                                    cherche cyclo
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    guitare à vendre 
+                
+                    
+                    
+                                                        CHATILLON-EN-DIOIS
+                    
+                    
+                
+                                    guitare classique
+                
+                    
+                    
+                                                        CHATILLON-EN-DIOIS
+                    
+                    
+                
+                                    frigo
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    nom de la fiche
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    vente maison
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        MOLIERES-GLANDAZ
+                    
+                    
+                
+                                    Recherche Mère de Vinaigre de cidre
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    coup de main pour lave-linge
+                
+                    
+                    
+                                                        RECOUBEAU-JANSAC
+                    
+                    
+                
+                                    pneus neige
+                
+                    
+                    
+                                                        BARNAVE
+                    
+                    
+                
+                                    Lits à vende
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        AIX-EN-DIOIS
+                    
+                    
+                
+                                    frigo   congélateur
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    poteaux
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    SCANNER A PLAT EPSON GT 7000 USB
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Donne chiots
+                
+                    
+                    
+                                                        AIX-EN-DIOIS
+                    
+                    
+                
+                                    Revente de bbox internet-telephone 
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Cours de Violon
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Vends Twingo
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        LAVAL-D'AIX
+                    
+                    
+                
+                                    Vends guitare classique de concert
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        LUC-EN-DIOIS
+                    
+                    
+                
+                                    Cours d'accordéon diatonique
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Petits travaux
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    stage clown et gestalt thérapie
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Propose Trajet Die Lyon mercredi 8 Novembre
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Giss-Laine Pinel - Ecriture et Corps Créativité
+                
+                
+                                        DIE
+                        Auto-entrepreneur                
+                
+                
+                            Espace Barral
+                De l'économie collaborative dans un nouvel espace de travail partagé, à Die, dans la Drôme
+                
+                                        DIE
+                        Association                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

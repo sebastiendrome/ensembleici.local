@@ -1,0 +1,850 @@
+
+
+    
+        
+        Ensemble ici | # 2014-19 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 15 au 25/05/2014
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; tous,&nbsp;
+	&nbsp;
+
+	
+
+	
+		Beaucoup d&#39;&eacute;v&eacute;nements ont lieu ce week-end dans nos vall&eacute;es&nbsp;!
+	
+		Parmi eux et pour la 23e ann&eacute;e, la foire &eacute;co-biologique Naturellement ! vous propose de d&eacute;couvrir de nombreux stands, animations et conf&eacute;rences &agrave; Nyons !
+	
+		L&#39;&eacute;co-consommation et les &eacute;conomies d&#39;&eacute;nergie vous int&eacute;ressent ?
+	
+		Pr&egrave;s de chez vous, des voisins et voisines proposent ou demandent des trajets de covoiturage local...
+	
+	D&eacute;couvrez et inscrivez vos annonces sur&nbsp;www.ecovoiturage0726.fr *
+	
+	
+	
+	Belle semaine &agrave; tous !
+	L&#39;Equipe Ensemble ici
+	
+	
+	&nbsp;
+
+	*Une proposition relay&eacute;e par&nbsp;Places Libres, une association d&#39;information et de sensibilisation au covoiturage de nos vall&eacute;es.
+			Voici les infos de la semaine dont vous trouvez le détail sur le site Ensemble ici.
+Il vous est aisé d'en ajouter via les formulaires du site.Tous ensemble, solidaires, bâtissons cet outil de partage et d'info autogéré pour mieux vivre sur notre territoire : événements, activités, annonces, projets, et bientôt forums!contact@ensembleici.fr		
+	
+
+
+	
+		
+			
+				
+				Pays de Buis-les-Baronnies							
+													
+								Exposition "Dimanche Sans"
+								Exposition , BUIS-LES-BARONNIES
+								du vendredi 02 au samedi 24 mai 2014
+						
+
+												
+													
+								Lampes magiques
+								Marché , BUIS-LES-BARONNIES
+								du mercredi 14 mai au mercredi 01 octobre 2014
+						
+
+												
+													
+								LA SALLE DE REPET, ET APRES ?
+								Atelier , BUIS-LES-BARONNIES
+								Samedi 17 mai 2014
+						
+
+												
+													
+								Lampes magiques atelier vente
+								Atelier , BUIS-LES-BARONNIES
+								Dimanche 18 mai 2014
+						
+
+												
+													
+								Tout ce que vous avez toujours voulu savoir sur l'EUROPE sans savoir à qui vous adresser...
+								Débat , BUIS-LES-BARONNIES
+								Mercredi 21 mai 2014
+						
+
+												
+													
+								Les Lointaines
+								Festival , BUIS-LES-BARONNIES
+								du vendredi 23 au samedi 24 mai 2014
+						
+
+					Pays de Rémuzat							
+													
+								Vide grenier
+								Vide-grenier , CORNILLON-SUR-L'OULE
+								Dimanche 25 mai 2014
+						
+
+					&nbsp;Val d'Eygues							
+													
+								Les Ateliers
+								Atelier , NYONS
+								du mardi 13 mai au dimanche 31 août 2014
+						
+
+												
+													
+								LECTURES COMMUNES
+								Repas , VINSOBRES
+								du mercredi 14 au vendredi 30 mai 2014
+						
+
+												
+													
+								"Exercice de style" de Raymond Queneau
+								Spectacle , CONDORCET
+								Jeudi 15 mai 2014
+						
+
+												
+													
+								Groupe Musical du Nyonsais
+								Concert , NYONS
+								Vendredi 16 mai 2014
+						
+
+												
+													
+								Concert "Entre France et Italie"
+								Concert , CHATEAUNEUF-DE-BORDETTE
+								Samedi 17 mai 2014
+						
+
+												
+													
+								Chorale de Mirabel aux baronnies
+								Concert , NYONS
+								Samedi 17 mai 2014
+						
+
+												
+													
+								Les skateurs de l'Ennuyé
+								Manifestation , SAINTE-JALLE
+								Samedi 17 mai 2014
+						
+
+												
+													
+								Vous allez à la foire éco-bio de Nyons ?
+								Foire , NYONS
+								du samedi 17 au dimanche 18 mai 2014
+						
+
+												
+													
+								23 ème foire éco-biologique Naturellement!
+								Foire , NYONS
+								du samedi 17 au dimanche 18 mai 2014
+						
+
+												
+													
+								Fest-Oc Journées de l'Occitanie
+								Spectacle , NYONS
+								du samedi 17 au dimanche 18 mai 2014
+						
+
+												
+													
+								Brocante de l'école Les Pilles-Aubres
+								Vide-grenier , LES PILLES
+								Dimanche 18 mai 2014
+						
+
+												
+													
+								Fête du printemps 
+								Fête , POET-SIGILLAT
+								Dimanche 18 mai 2014
+						
+
+												
+													
+								Repas-spectacle nono et moi
+								Spectacle , SAHUNE
+								Dimanche 18 mai 2014
+						
+
+												
+													
+								Concert du Choeur Européen
+								Concert , NYONS
+								Lundi 19 mai 2014
+						
+
+												
+													
+								"Christine de Pisan"
+								Conférence , NYONS
+								Lundi 19 mai 2014
+						
+
+												
+													
+								Atelier d'écriture
+								Atelier , LES PILLES
+								Mardi 20 mai 2014
+						
+
+												
+													
+								On va voir les cochons !
+								Visite , SAINT-FERREOL-TRENTE-PAS
+								Mardi 20 mai 2014
+						
+
+												
+													
+								Assemblée générale 
+								Réunion , LES PILLES
+								Mercredi 21 mai 2014
+						
+
+												
+													
+								Gymnastique pilate
+								Performance , LES PILLES
+								Mercredi 21 mai 2014
+						
+
+												
+													
+								L'idée du progrès a-t-elle encore un sens?
+								Conférence , NYONS
+								Jeudi 22 mai 2014
+						
+
+												
+													
+								Uirapuru
+								Concert , NYONS
+								Vendredi 23 mai 2014
+						
+
+												
+													
+								Exposition peinture poésie
+								Exposition , MONTAULIEU
+								du vendredi 23 au dimanche 25 mai 2014
+						
+
+												
+													
+								Yoga et Alimentation Vivante en Baronnies
+								Rencontre , SAINTE-JALLE
+								du vendredi 23 au dimanche 25 mai 2014
+						
+
+												
+													
+								Digue dondaine
+								Spectacle , NYONS
+								Samedi 24 mai 2014
+						
+
+												
+													
+								Fête votive
+								Fête , CURNIER
+								du samedi 24 au dimanche 25 mai 2014
+						
+
+												
+													
+								Week end découverte 
+								Stage , VENTEROL
+								du samedi 24 au dimanche 25 mai 2014
+						
+
+												
+													
+								Vide grenier
+								Vide-grenier , AUBRES
+								Dimanche 25 mai 2014
+						
+
+												
+													
+								"Dis-moi" 
+								Atelier , VENTEROL
+								Dimanche 25 mai 2014
+						
+
+					&nbsp;Ailleurs dans le coin							
+													
+								Expostion de "Atelier sur cour"
+								Exposition , VALREAS
+								du lundi 12 au samedi 31 mai 2014
+						
+
+												
+													
+								Théâtre Forum
+								Spectacle , VALREAS
+								Jeudi 15 mai 2014
+						
+
+												
+													
+								"Génération Céramistes"
+								Exposition , DIEULEFIT
+								du jeudi 15 mai au dimanche 29 juin 2014
+						
+
+												
+													
+								Gala de danse Les Arts
+								Spectacle , SAINT-PAUL-TROIS-CHATEAUX
+								Vendredi 16 mai 2014
+						
+
+												
+													
+								Exposition "La grotte à Grillon"
+								Exposition , GRILLON
+								du vendredi 16 mai au dimanche 01 juin 2014
+						
+
+												
+													
+								Ateliers Danse Inter-Générationnels
+								Atelier , DIEULEFIT
+								Samedi 17 mai 2014
+						
+
+												
+													
+								Concert à l'Atelier The Steam box
+								Concert , MARSANNE
+								Samedi 17 mai 2014
+						
+
+												
+													
+								Nuit européenne des musées - Musée de la ville Musée de la miniature
+								Visite , MONTELIMAR
+								Samedi 17 mai 2014
+						
+
+												
+													
+								Nuit européenne des musées
+								Visite , MONTELIMAR
+								Samedi 17 mai 2014
+						
+
+												
+													
+								Gala de danse Les Arts
+								Spectacle , SAINT-PAUL-TROIS-CHATEAUX
+								Samedi 17 mai 2014
+						
+
+												
+													
+								Nuit Européenne des musées
+								Visite , SUZE-LA-ROUSSE
+								Samedi 17 mai 2014
+						
+
+												
+													
+								Rencontres du IIème Titre
+								Rencontre , GRIGNAN
+								du samedi 17 au dimanche 18 mai 2014
+						
+
+												
+													
+								Vide grenier -La marelle
+								Vide-grenier , DIEULEFIT
+								Dimanche 18 mai 2014
+						
+
+												
+													
+								Montélimar Côté jardin
+								Foire , MONTELIMAR
+								Dimanche 18 mai 2014
+						
+
+												
+													
+								Rallye Promenade auto moto
+								Manifestation , SUZE-LA-ROUSSE
+								Dimanche 18 mai 2014
+						
+
+												
+													
+								Requiem Mozart- Choeur et sollistes de l'Opéra de Prague
+								Concert , MONTELIMAR
+								Vendredi 23 mai 2014
+						
+
+												
+													
+								La veillée des carriers (VTT)
+								Performance , SAINT-RESTITUT
+								Vendredi 23 mai 2014
+						
+
+												
+													
+								Eveil à la biodiversité- Fête de la nature
+								Fête , BATIE-ROLLAND
+								Samedi 24 mai 2014
+						
+
+												
+													
+								Marché artisanal "Saveur et créateur"
+								Marché , PUYGIRON
+								Samedi 24 mai 2014
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Vend livres de recettes
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Location saisonnière
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														AUBRES
+						
+						
+					
+					
+													Covoiturage jour du marché
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													Location gîte saisonnier
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Cherche transporteur colis Bruxelles
+							
+						
+						
+														SAINT-AUBAN-SUR-L'OUVEZE
+						
+						
+					
+					
+													Location T4 St Ferreol
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAINT-FERREOL-TRENTE-PAS
+						
+						
+					
+					
+													Plots terrasse bois
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														ROUSSET-LES-VIGNES
+						
+						
+					
+					
+													Ballots de paille bio
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														ROUSSET-LES-VIGNES
+						
+						
+					
+					
+													Recherche LOCATION maison
+							
+						
+						
+														DIEULEFIT
+						
+						
+					
+					
+													Donne tuiles
+							
+						
+						
+														AUBRES
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														La petite Herboristerie
+								
+								Vente de produits naturels et biologiques
+							
+							
+															BUIS-LES-BARONNIES
+								société privée							
+							
+						
+						
+														Le Fond & La Forme
+								
+								
+							
+							
+															BUIS-LES-BARONNIES
+								Association							
+							
+						
+						
+														Petite maison de charme à Nyons
+								
+								Location vacances
+							
+							
+															NYONS
+								Etablissement privé							
+							
+						
+						
+														Les Sonnailles de Chauvac
+								
+								élevage de brebis mourerous
+							
+							
+															CHAUVAC-LAUX-MONTAUX
+															
+							
+						
+						
+														La Berlue
+								
+								l'étape des sportifs et des reveurs
+							
+							
+															BUIS-LES-BARONNIES
+								Auto-entrepreneur							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

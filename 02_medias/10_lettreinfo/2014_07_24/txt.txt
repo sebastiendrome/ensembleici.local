@@ -1,0 +1,907 @@
+
+
+    
+        
+        Ensemble ici | # 2014-29 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 24/07 au 03/08/2014
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; tous,
+
+C&#39;est l&#39;&eacute;t&eacute;, et &ccedil;a bouge dans nos vall&eacute;es !
+
+Les &eacute;v&eacute;nements en tout genre et les id&eacute;es de sortie ne manquent pas...
+
+Pour s&#39;y retrouver, un calendrier imprimable regroupe tous les &eacute;v&eacute;nements partag&eacute;s sur Ensemble Ici, pour les dix prochains jours !
+
+Vous pouvez y acc&eacute;der en cliquant [ici] !
+
+
+	Belle semaine,
+	
+	L&#39;&eacute;quipe Ensemble ici.
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums, et bient&ocirc;t articles!
+	
+	
+		contact@ensembleici.fr
+
+		
+	
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								Au Fil de Lec'riture
+								Rencontre , SEDERON
+								Vendredi 25 juillet 2014
+						
+
+					&nbsp;Pays de Buis-les-Baronnies							
+													
+								Exposition dans le village
+								Atelier , SAINT-AUBAN-SUR-L'OUVEZE
+								du dimanche 20 juillet au samedi 20 septembre 2014
+						
+
+												
+													
+								Cinéma plein air
+								Projection , BUIS-LES-BARONNIES
+								Jeudi 24 juillet 2014
+						
+
+												
+													
+								Expo vente
+								Exposition , BUIS-LES-BARONNIES
+								Jeudi 24 juillet 2014
+						
+
+												
+													
+								"Marius" de Marcel Pagnol
+								Spectacle , BUIS-LES-BARONNIES
+								Vendredi 25 juillet 2014
+						
+
+												
+													
+								"Marius" de Marcel Pagnol
+								Spectacle , BUIS-LES-BARONNIES
+								Dimanche 27 juillet 2014
+						
+
+												
+													
+								Deux petites dames vers le nord
+								Spectacle , BUIS-LES-BARONNIES
+								Lundi 28 juillet 2014
+						
+
+												
+													
+								"Marius" de Marcel Pagnol
+								Spectacle , BUIS-LES-BARONNIES
+								Mercredi 30 juillet 2014
+						
+
+												
+													
+								Expo vente
+								Exposition , BUIS-LES-BARONNIES
+								Jeudi 31 juillet 2014
+						
+
+												
+													
+								"Marius" de Marcel Pagnol
+								Spectacle , BUIS-LES-BARONNIES
+								Vendredi 01 août 2014
+						
+
+					Pays de Rémuzat							
+													
+								Les balades du Tambourinaire
+								Promenade , LA MOTTE-CHALANCON
+								du dimanche 29 juin au dimanche 12 octobre 2014
+						
+
+												
+													
+								Peintures à l'huile et sculptures sur pierre
+								Exposition , REMUZAT
+								du mercredi 23 juillet au lundi 04 août 2014
+						
+
+												
+													
+								Marché nocturne
+								Marché , LA MOTTE-CHALANCON
+								Jeudi 24 juillet 2014
+						
+
+												
+													
+								« Concerto Forestier »
+								Concert , LA MOTTE-CHALANCON
+								Vendredi 25 juillet 2014
+						
+
+												
+													
+								Musique et danse
+								Concert , LA MOTTE-CHALANCON
+								Vendredi 25 juillet 2014
+						
+
+												
+													
+								Concours de pétanque
+								Atelier , LA MOTTE-CHALANCON
+								Vendredi 25 juillet 2014
+						
+
+												
+													
+								Aventic - Soirée conviviale
+								Rencontre , REMUZAT
+								Vendredi 25 juillet 2014
+						
+
+												
+													
+								Chants Gospel
+								Concert , LA MOTTE-CHALANCON
+								Samedi 26 juillet 2014
+						
+
+												
+													
+								La fête du Tambourinaïre
+								Fête , LA MOTTE-CHALANCON
+								Dimanche 27 juillet 2014
+						
+
+												
+													
+								Vide grenier
+								Vide-grenier , LA MOTTE-CHALANCON
+								Mercredi 30 juillet 2014
+						
+
+												
+													
+								Trio Vocal Tzarik
+								Concert , LA MOTTE-CHALANCON
+								Mercredi 30 juillet 2014
+						
+
+					Val d'Eygues							
+													
+								Ateliers d'été
+								Atelier , NYONS
+								du mardi 01 au jeudi 31 juillet 2014
+						
+
+												
+													
+								Exposition métal
+								Exposition , MIRABEL-AUX-BARONNIES
+								du samedi 12 juillet au samedi 02 août 2014
+						
+
+												
+													
+								Asoft
+								Atelier , NYONS
+								du mercredi 16 juillet au mardi 30 septembre 2014
+						
+
+												
+													
+								"Terres d'ici et d'ailleurs"
+								Exposition , VENTEROL
+								du samedi 19 juillet au dimanche 03 août 2014
+						
+
+												
+													
+								Ensemble Ingenium
+								Concert , NYONS
+								Jeudi 24 juillet 2014
+						
+
+												
+													
+								La Belle époque à Nyons
+								Manifestation , NYONS
+								Jeudi 24 juillet 2014
+						
+
+												
+													
+								FESTIVAL TANGRAM
+								Atelier , NYONS
+								Vendredi 25 juillet 2014
+						
+
+												
+													
+								Marché des producteurs
+								Marché , SAINTE-JALLE
+								Vendredi 25 juillet 2014
+						
+
+												
+													
+								Concours de boules semi nocturne et nocturne 
+								Performance , SAINTE-JALLE
+								Vendredi 25 juillet 2014
+						
+
+												
+													
+								Sculpture Céramique
+								Exposition , LES PILLES
+								du vendredi 25 au dimanche 27 juillet 2014
+						
+
+												
+													
+								Tango Submarine
+								Stage , NYONS
+								du vendredi 25 au dimanche 27 juillet 2014
+						
+
+												
+													
+								Messe d'été dans l'Eglise
+								Réunion , LES PILLES
+								Samedi 26 juillet 2014
+						
+
+												
+													
+								FETE DE MONTAULIEU
+								Fête , MONTAULIEU
+								Samedi 26 juillet 2014
+						
+
+												
+													
+								Ensemble à Montaulieu !
+								Fête , MONTAULIEU
+								Samedi 26 juillet 2014
+						
+
+												
+													
+								Duo Cedron & Gudino
+								Concert , NYONS
+								Samedi 26 juillet 2014
+						
+
+												
+													
+								Fête du vieux viillage
+								Fête , SAHUNE
+								Samedi 26 juillet 2014
+						
+
+												
+													
+								Stage de danse et Feldenkrais®
+								Stage , NYONS
+								du samedi 26 juillet au samedi 02 août 2014
+						
+
+												
+													
+								Marché des potiers
+								Marché , NYONS
+								Dimanche 27 juillet 2014
+						
+
+												
+													
+								La Gran Ursula
+								Concert , NYONS
+								Dimanche 27 juillet 2014
+						
+
+												
+													
+								La Gloire de mon Père - Festivolt 2014
+								Spectacle , NYONS
+								Lundi 28 juillet 2014
+						
+
+												
+													
+								Observation du ciel
+								Manifestation , SAINTE-JALLE
+								Lundi 28 juillet 2014
+						
+
+												
+													
+								Ateliers pour enfants
+								Atelier , NYONS
+								du lundi 28 juillet au vendredi 01 août 2014
+						
+
+												
+													
+								King Tao
+								Concert , NYONS
+								Mardi 29 juillet 2014
+						
+
+												
+													
+								On va voir les cochons !
+								Visite , SAINT-FERREOL-TRENTE-PAS
+								Mardi 29 juillet 2014
+						
+
+												
+													
+								Les 6 maisons de Lulu Baluchon
+								Spectacle , NYONS
+								Mercredi 30 juillet 2014
+						
+
+												
+													
+								Jazz AOC
+								Atelier , NYONS
+								Jeudi 31 juillet 2014
+						
+
+												
+													
+								"Frizaplat & Djulius"
+								Concert , CURNIER
+								Vendredi 01 août 2014
+						
+
+												
+													
+								La Chorale du Delta
+								Concert , LES PILLES
+								Vendredi 01 août 2014
+						
+
+												
+													
+								La Chorale du Delta
+								Concert , NYONS
+								Vendredi 01 août 2014
+						
+
+												
+													
+								Degustation des vins et visite guidée
+								Manifestation , PIEGON
+								Vendredi 01 août 2014
+						
+
+												
+													
+								Marché des producteurs
+								Marché , SAINTE-JALLE
+								Vendredi 01 août 2014
+						
+
+												
+													
+								Concours de boules semi nocturne et nocturne 
+								Performance , SAINTE-JALLE
+								Vendredi 01 août 2014
+						
+
+												
+													
+								LES SACRIFIES
+								Spectacle , SAINTE-JALLE
+								Dimanche 03 août 2014
+						
+
+					Ailleurs dans le coin							
+													
+								Vaison Danses 2014
+								Spectacle , VAISON-LA-ROMAINE
+								du vendredi 11 au dimanche 27 juillet 2014
+						
+
+												
+													
+								Exposition "Centenaire au Pays de Grignan" du 14 juillet au 17 août 2014
+								Exposition , GRIGNAN
+								du lundi 14 juillet au dimanche 17 août 2014
+						
+
+												
+													
+								Exposition
+								Exposition , SERRES
+								du mardi 15 au dimanche 27 juillet 2014
+						
+
+												
+													
+								La Chorale du Delta
+								Concert , ROUSSET-LES-VIGNES
+								Dimanche 27 juillet 2014
+						
+
+												
+													
+								BARBE A PAPA (Paper moon) de Peter Bogdanovich
+								Festival , SAINT-RESTITUT
+								Lundi 28 juillet 2014
+						
+
+												
+													
+								«Vertigo » par Élodie Sablier, pianiste, compositeur, interprète
+								Concert , CLANSAYES
+								Mardi 29 juillet 2014
+						
+
+												
+													
+								BONNIE AND CLYDE de Arthur Penn
+								Festival , CLANSAYES
+								Mardi 29 juillet 2014
+						
+
+												
+													
+								Visites guidées
+								Visite , VISAN
+								Mardi 29 juillet 2014
+						
+
+												
+													
+								Cinq villages font leur cinéma
+								Projection , CHANTEMERLE-LES-GRIGNAN
+								Mercredi 30 juillet 2014
+						
+
+												
+													
+								HONKYTONK MAN de Clint Eastwood
+								Festival , CHANTEMERLE-LES-GRIGNAN
+								Mercredi 30 juillet 2014
+						
+
+												
+													
+								EASY RIDER de Peter Fonda et Dennis Hopper
+								Festival , CHAMARET
+								Jeudi 31 juillet 2014
+						
+
+												
+													
+								Pro Musica
+								Festival , TAULIGNAN
+								du jeudi 31 juillet au dimanche 03 août 2014
+						
+
+												
+													
+								SUNCHASER de Michael Cimino
+								Festival , VALAURIE
+								Vendredi 01 août 2014
+						
+
+												
+													
+								POINT LIMITE ZÉRO ( Vanishing Point) de R.C Safarian
+								Festival , VALAURIE
+								Vendredi 01 août 2014
+						
+
+												
+													
+								Scène d'été
+								Festival , DIEULEFIT
+								du vendredi 01 au samedi 02 août 2014
+						
+
+												
+													
+								Crest Jazz Vocal
+								Festival , CREST
+								du vendredi 01 au samedi 09 août 2014
+						
+
+												
+													
+								SERRES CLASSIC FESTIVAL
+								Festival , SERRES
+								Samedi 02 août 2014
+						
+
+												
+													
+								Balade "Fontaines et bassins"
+								Promenade , DIEULEFIT
+								Dimanche 03 août 2014
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Vend canapé BZ neuf
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													APPART A LOUER
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAINT-FERREOL-TRENTE-PAS
+						
+						
+					
+					
+													URGENT - Offre d'emploi - Animateur/Animatrice
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Stage théâtre dans le Vercors
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														GLANDAGE
+						
+						
+					
+					
+													Brade cougettes !
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAINTE-JALLE
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Gîte: La maison des calades
+								
+								LOCATION SAISONNIERE
+							
+							
+															LA MOTTE-CHALANCON
+															
+							
+						
+						
+														Le22
+								
+								édition / design graphique / expositions
+							
+							
+															TAULIGNAN
+								Association							
+							
+						
+						
+														ACSVE
+								
+								Association Culturelle et Sportive de la Vallée de l'Ennuyé
+							
+							
+															SAINTE-JALLE
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

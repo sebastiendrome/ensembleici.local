@@ -1,0 +1,716 @@
+
+
+
+    
+        
+        Ensemble ici | Lettre d'Ensemble Ici - Vallee de la Drome / Diois, 2017 #04 - 27 janvier
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Chers habitants et acteurs de la Vall&eacute;e, du Diois, toutes et tous acteurs locaux,
+Prochaine &eacute;mission Mais Qu'est-ce Qui S'Passe ? : la Grande f&ecirc;te des &eacute;changes et de la convivialit&eacute; de l'antenne Luc en Diois de L'Accorderie du Diois, le 12 f&eacute;vrier
+Annonces :&nbsp; ouvrez le PDF des annonces, joint en haut de la rubrique : vous verrez plus que la s&eacute;lection.
+Agenda :&nbsp; Le PDF Agenda = plus de 2 semaines de RdV qui vous sont faits, &agrave; vos agendas... 
+
+Ce 27 janvier au soir : AG de Val de Dr&ocirc;me Accueil R&eacute;fugi&eacute;s : posez toutes vos questions pour savoir o&ugrave; en est la situation (ind&eacute;pendant d'Allex). 
+Les XVes Rencontres de Die et de la Biovall&eacute;e / Ecologie au quotidien : c'est maintenant. 
+Samedi : porte ouverte de l'ancien Monast&egrave;re de Ste Croix / explications du chantier en cours. 
+Vendredi 3 f&eacute;vrier : 1&egrave;re Nuit de la Po&egrave;sie &agrave; Crest. 
+Lundi 6 : prochaine rencontre du groupe D&eacute;bat sur l'eau (participation au futur plan de gestion de la rivi&egrave;re Dr&ocirc;me), &agrave; Barsac.
+
+&nbsp; Bonne lecture,
+&nbsp;
+Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois
+                
+Rappel T&eacute;l&eacute;chargeable depuis cette lettre, en fichier PDF : - tous les &eacute;v&eacute;nements jusqu'au 3e WE &agrave; venir, - toutes les annonces de ces derniers jours
+C'est vous qui publiez et alimentez les rubriques du site : ajoutez, modifier, compl&eacute;tez vos informations locales !
+Ensemble Ici : l'information par et pour les habitants de la Vall&eacute;e de la Dr&ocirc;me / Diois
+
+Possible que nous ne soyons pas dans vos spams mais dans un onglet de votre Boite de r&eacute;ception qui n'est pas celui ouvert par d&eacute;faut (Promotions ?) : glisser le dernier mail de nous que vous y trouverez vers votre dossier par d&eacute;faut pour nous y retrouver &agrave; l'avenir.
+Si vous appr&eacute;ciez Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois :
+Pour que l'animation du site puisse continuer gr&acirc;ce &agrave; notre salari&eacute; : merci d'avance de votre soutien ( don / adh&eacute;sion )        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Crestois Pays de Saillans
+                    AG Val de Drôme Accueil Réfugiés
+                    Débat , AOUSTE-SUR-SYE
+                    Vendredi 27 janvier 2017
+                    
+
+                                            
+                    
+                    Atelier couture, venez retoucher/transformer vos vêtements
+                    Atelier , CREST
+                    Vendredi 27 janvier 2017
+                    
+
+                    
+                    Atelier decouverte communication consciente
+                    Atelier , CREST
+                    Vendredi 27 janvier 2017
+                    
+
+                                            
+                    
+                    Projection Cinéma Jeune Public au Temple de Saillans
+                    Projection , SAILLANS
+                    Samedi 28 janvier 2017
+                    
+
+                                            
+                    
+                    David Myriam expose pour la Nuit de la Poésie à Crest
+                    Exposition , CREST
+                    Vendredi 03 février 2017
+                    
+
+                                            
+                    
+                    1ère Nuit de la Poésie
+                    Rencontre , CREST
+                    Vendredi 03 février 2017
+                    
+
+                                            
+                    
+                    OLD FISH JAZZ BAND
+                    Concert , AUREL
+                    Samedi 04 février 2017
+                    
+
+                                            
+                    
+                    conf gesticulée sur la critique des médias
+                    Spectacle , CREST
+                    Samedi 04 février 2017
+                    
+
+                    Diois                        
+                    
+                    Aligator
+                    Concert , DIE
+                    Vendredi 27 janvier 2017
+                    
+
+                                            
+                    
+                    Rdv Grande Famille : l'allaitement
+                    Conférence , DIE
+                    Samedi 28 janvier 2017
+                    
+
+                                            
+                    
+                    Portes Ouvertes à l'Ancien Monastère de Sainte-Croix
+                    journée d'information , SAINTE-CROIX
+                    Samedi 28 janvier 2017
+                    
+
+                    
+                    stage d'initiation aux pédagogies Montessori et Nuyts
+                    Stage , DIE
+                    du samedi 28 au dimanche 29 janvier 2017
+                    
+
+                                            
+                    
+                    Nouveau : Création d’un atelier d’écriture à Chatillon en D.
+                    Atelier , CHATILLON-EN-DIOIS
+                    Lundi 30 janvier 2017
+                    
+
+                                            
+                    
+                    Atelier d'Ecriture : Ecrire donne corps
+                    Atelier , DIE
+                    Mardi 31 janvier 2017
+                    
+
+                                            
+                    
+                    Ouverture-Rencontre : Cabinet de réflexologie plantaire et d'accompagnement à la santé des femmes
+                    journée d'information , DIE
+                    Mardi 31 janvier 2017
+                    
+
+                    
+                    Passer son Paseport Internet Multimédia - Test préalable (EPN)
+                    Atelier , DIE
+                    Mercredi 01 février 2017
+                    
+
+                                            
+                    
+                    Stage Hildegarde de Bingen
+                    Stage , DIE
+                    du vendredi 03 au dimanche 05 février 2017
+                    
+
+                                            
+                    
+                    STAGES autour de la PHOTOGRAPHIE
+                    Atelier , DIE
+                    du samedi 04 au dimanche 05 février 2017
+                    
+
+                                            
+                    
+                    Rencontre du RADISEL
+                    Rencontre , DIE
+                    Dimanche 05 février 2017
+                    
+
+                    Val de Drôme                        
+                    
+                    Soirée Jeux
+                    Jeux , CHABRILLAN
+                    Samedi 28 janvier 2017
+                    
+
+                                            
+                    
+                    Stage de Tambour Taïko
+                    Stage , EURRE
+                    du samedi 28 au dimanche 29 janvier 2017
+                    
+
+                                            
+                    
+                    Les Constellations familiales - autrement
+                    Stage , GIGORS-ET-LOZERON
+                    du samedi 28 au dimanche 29 janvier 2017
+                    
+
+                                            
+                    
+                     Damz'elles
+                    Concert , CHABRILLAN
+                    Dimanche 29 janvier 2017
+                    
+
+                    Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...            
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            vend mezzanine 2 places
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Colocation
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        AOUSTE-SUR-SYE
+                    
+                    
+                
+                                    Recherche Prêt d'accordéon diatonique
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Traductions néerlandaises
+                
+                    
+                    
+                                                        SAOU
+                    
+                    
+                
+                                    Service civique
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    vends poules pondeuses
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        SAINT-SAUVEUR-EN-DIOIS
+                    
+                    
+                
+                                    Recherche Non-sco sur le Diois
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    dégustation de vins bio
+                
+                    
+                    
+                                                        ALLEX
+                    
+                    
+                
+                                    coaching sportif
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        ALLEX
+                    
+                    
+                
+                                    logement à louer
+                
+                    
+                    
+                                                        MONTMAUR-EN-DIOIS
+                    
+                    
+                
+                                    Meilleurs voeux pour 2017 !
+                
+                    
+                    
+                                                        ESPENEL
+                    
+                    
+                
+                                    Massage bien-être destiné aux personnes âgées
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Recherche voiture 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    raquettes neige
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Cherche formation Sketchup
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Colocation
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Lit articulé matelas mémoire de forme
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        MARIGNAC-EN-DIOIS
+                    
+                    
+                
+                                    jardinier passionné
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        MIRABEL-ET-BLACONS
+                    
+                    
+                
+                                    Veste montagne Schöffel
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Gilet polaire sans manches
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    GARDE CHAT DIABETIQUE
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        LUC-EN-DIOIS
+                    
+                    
+                
+                                    Cercle de guérison : Om Chanting
+                
+                    
+                    
+                                                        PIEGROS-LA-CLASTRE
+                    
+                    
+                
+                                    carrelage à fleurs
+                
+                    
+                    
+                                                        SAILLANS
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Santé naturelle et féminité
+                
+                
+                                        DIE
+                        Coopérative                
+                
+                
+                            Laurent Musnier - coaching sportif Optisport
+                préparation physique coaching santé
+                
+                                        ALLEX
+                        Auto-entrepreneur                
+                
+                
+                            Miriam Lemmens - Traductrice néerlandais
+                (NL-FR-ES)
+                
+                                        SAOU
+                        Auto-entrepreneur                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

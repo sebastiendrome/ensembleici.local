@@ -1,0 +1,778 @@
+
+
+
+    
+        
+        Ensemble ici | Lettre d'Ensemble Ici - Vallee de la Drome / Diois, 2017 #18 - 5 Mai
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Chers habitants et acteurs de la Vall&eacute;e, du Diois, toutes et tous acteurs locaux,
+Une belle initiative avec Isra&euml;l-Palestine : Mains tendues, pour la paix en action avec les familles des 2 peuples &agrave; soutenir, c'est &agrave; Crest et cela r&eacute;confortera du r&eacute;sultat des &eacute;lections qui pr&eacute;sage violences sociales et &eacute;conomiques.
+Agenda : &agrave; noter,
+
+le 6 mai : Ca m'casse les urnes, &agrave; La Griotte &agrave; Die
+le&nbsp;7 mai au soir :&nbsp;
+
+Assembl&eacute;e populaire, place de l'Eglise &agrave; Crest
+LaTraverse prend l'aire, pour f&ecirc;ter ses 2 ans (&agrave; Sao&ucirc;)
+
+
+9 mai : 3e soir&eacute;e d'&eacute;laboration collective du projet radio de radio Saint-Ferr&eacute;ol, &agrave; L'Arr&ecirc;t public &agrave; Crest
+10 mai : Le tour &agrave; v&eacute;lo Alternatiba passe dans la vall&eacute;e en juillet prochain, et &ccedil;a se pr&eacute;pare maintenant avec qui veux
+11 mai : 4e anniversaire de Autour du Cycle &agrave; Crest
+12 mai : 1&egrave;re AG de l'Epicerie Gervanne Sye depuis son ouverture l'&eacute;t&eacute; dernier
+13 mai : la d&eacute;marche participative du projet SPARE pour le futur usage de la rivi&egrave;re Dr&ocirc;me, &ccedil;a continue
+
+&nbsp;
+&nbsp; Bonne lecture, et restons lucide...
+Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois
+                
+Rappel T&eacute;l&eacute;chargeable depuis cette lettre, en fichier PDF, depuis le haut des 2 rubriques : - tous les &eacute;v&eacute;nements jusqu'au 2e WE &agrave; venir, - toutes les annonces de ces 30 derniers jours
+C'est vous qui publiez, modifier, compl&eacute;tez vos informations locales !
+Ensemble Ici : l'information par et pour les habitants de la Vall&eacute;e de la Dr&ocirc;me / Diois
+
+Si vous appr&eacute;ciez Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois :
+&nbsp;"abonnement volontaire" / don mensuel&nbsp;
+Nous ne touchons aucune subvention. Pour que l'animation du site puisse continuer avec notre salari&eacute;,merci de votre soutien
+Adh&eacute;sion
+&nbsp;        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Crestois Pays de Saillans                        
+                    
+                    Clémence et Chän Chän
+                    Spectacle , AUREL
+                    Samedi 06 mai 2017
+                    
+
+                                            
+                    
+                    Initiation danses palestiniennes et israëliennes
+                    Atelier , CREST
+                    Samedi 06 mai 2017
+                    
+
+                                            
+                    
+                    Rencontre autour du livre Israël-Palestine, les mains tendues
+                    Rencontre , CREST
+                    Samedi 06 mai 2017
+                    
+
+                                            
+                    
+                    STAGE DE GÉOBIOLOGIE
+                    Stage , ESPENEL
+                    Samedi 06 mai 2017
+                    
+
+                                            
+                    
+                    Canoe kayak initiation 
+                    Manifestation , SAILLANS
+                    Samedi 06 mai 2017
+                    
+
+                                            
+                    
+                    Israël-Palestine, Mains Tendues
+                    Spectacle , CREST
+                    du samedi 06 au dimanche 07 mai 2017
+                    
+
+                                            
+                    
+                    Contes palestiniens et israëliens
+                    Conte , CREST
+                    Dimanche 07 mai 2017
+                    
+
+                                            
+                    
+                    Rassemblement le soir des élections du 7 mai
+                    Manifestation , CREST
+                    Dimanche 07 mai 2017
+                    
+
+                                            
+                    
+                    Et ta chatte, elle fait de la radio?
+                    Réunion , CREST
+                    Mardi 09 mai 2017
+                    
+
+                                            
+                    
+                    Jeu de peindre
+                    Atelier , CREST
+                    Mercredi 10 mai 2017
+                    
+
+                                            
+                    
+                    4eme Anniversaire de l'Atelier Vélo de Crest !!
+                    Fête , CREST
+                    Jeudi 11 mai 2017
+                    
+
+                                            
+                    
+                    Squat, la ville est à nous !
+                    Projection , AOUSTE-SUR-SYE
+                    Vendredi 12 mai 2017
+                    
+
+                                            
+                    
+                    Cercle de Femmes
+                    Rencontre , SAILLANS
+                    Vendredi 12 mai 2017
+                    
+
+                                            
+                    
+                    La femme Vibrante
+                    Atelier , SAILLANS
+                    Samedi 13 mai 2017
+                    
+
+                                            
+                    
+                    Forum de lancement SPARE
+                    Réunion , SAILLANS
+                    Samedi 13 mai 2017
+                    
+
+                                            
+                    
+                    Campagne Ramasse ta rivière
+                    Randonnée , SAILLANS
+                    du samedi 13 mai au samedi 10 juin 2017
+                    
+
+                    &nbsp;Diois                        
+                    
+                    Balade guidée à vélo électrique  de la ville de Die
+                    Promenade , DIE
+                    Samedi 06 mai 2017
+                    
+
+                                            
+                    
+                    Duo Max Cambrousse
+                    Concert , DIE
+                    Samedi 06 mai 2017
+                    
+
+                                            
+                    
+                    ÇA M'CASSE LES URNES !
+                    Fête , DIE
+                    Samedi 06 mai 2017
+                    
+
+                                            
+                    
+                    Concert : NU chanson
+                    Concert , VALDROME
+                    Samedi 06 mai 2017
+                    
+
+                                            
+                    
+                    Stage d'aïkido à Die
+                    Stage , DIE
+                    du samedi 06 au dimanche 07 mai 2017
+                    
+
+                                            
+                    
+                    Stage enfants ~ cirque, feutrage de la laine, vannerie sauvage, land art ~
+                    Stage , RECOUBEAU-JANSAC
+                    du samedi 06 au lundi 08 mai 2017
+                    
+
+                                            
+                    
+                    RANDO-REPAS
+                    Randonnée , SAINTE-CROIX
+                    Lundi 08 mai 2017
+                    
+
+                                            
+                    
+                    Tour Vélo à Energie Positive
+                    Réunion , DIE
+                    Mercredi 10 mai 2017
+                    
+
+                                            
+                    
+                    MEDITATION sous le Zome
+                    Rencontre , MISCON
+                    Mercredi 10 mai 2017
+                    
+
+                                            
+                    
+                    Désaffectés
+                    Spectacle , DIE
+                    Vendredi 12 mai 2017
+                    
+
+                                            
+                    
+                    Yoga Ayurveda avec Yogi Alexander
+                    Stage , BOULC
+                    du vendredi 12 au dimanche 14 mai 2017
+                    
+
+                                            
+                    
+                    Modes de garde et réseaux parentaux - La Grande Famille
+                    Débat , DIE
+                    Samedi 13 mai 2017
+                    
+
+                                            
+                    
+                    RENCONTRE BIS USUS 
+                    Marché , DIE
+                    Samedi 13 mai 2017
+                    
+
+                                            
+                    
+                    Atelier Accordéon Chromatique
+                    Atelier , ARNAYON
+                    Dimanche 14 mai 2017
+                    
+
+                                            
+                    
+                    Journée ouverte du Groupement forestier de Soubreroche (Boulc)
+                    Rencontre , BOULC
+                    Dimanche 14 mai 2017
+                    
+
+                                            
+                    
+                    VIDE-GRENIER FESTIF
+                    Vide-grenier , MARIGNAC-EN-DIOIS
+                    Dimanche 14 mai 2017
+                    
+
+                                            
+                    
+                    One Mario Show
+                    Spectacle , SAINTE-CROIX
+                    Dimanche 14 mai 2017
+                    
+
+                    Val de Drôme                        
+                    
+                    The St. Pierre Snake Invasion, Broker et Dead Arms au CBGC's
+                    Concert , GIGORS-ET-LOZERON
+                    du samedi 06 au dimanche 07 mai 2017
+                    
+
+                                            
+                    
+                    LaTraverse prend l'aire
+                    Fête , SAOU
+                    Dimanche 07 mai 2017
+                    
+
+                                            
+                    
+                    Assemblée Générale Association Epicerie Beaufort
+                    Réunion , BEAUFORT-SUR-GERVANNE
+                    Vendredi 12 mai 2017
+                    
+
+                                            
+                    
+                    SEMINAIRE GRAINE DE JOIE - LE REVEIL
+                    Stage , MIRMANDE
+                    du vendredi 12 au dimanche 14 mai 2017
+                    
+
+                                            
+                    
+                    Spécial Cumbia
+                    Concert , EURRE
+                    du samedi 13 au dimanche 14 mai 2017
+                    
+
+                                            
+                    
+                    Le Grand Déballage de Printemps
+                    Festival , MIRMANDE
+                    du samedi 13 au dimanche 14 mai 2017
+                    
+
+                                
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            vends velux 114x118 avec abergement alu
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        LUC-EN-DIOIS
+                    
+                    
+                
+                                    Appel à bénévoles pour WE Mains Tendues
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    vend armoire et lit chambre
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    matelas 160x190
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        LUC-EN-DIOIS
+                    
+                    
+                
+                                    Tour Vélo à Energie Positive : bénévoles ?
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Ecole Terres d'enfance recherche site mutualisé 
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    volet et portail en bois
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    RECHERCHE AMEUBLEMENT ET ÉLECTROMÉNAGER URGENT
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        REPARA-AURIPLES
+                    
+                    
+                
+                                    Bourse aux vélos
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Vente logements "cohabitat" à Die
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Kangoo cherche propriétaire 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Appel à bénévoles: randonnées partagées avec joëlettes
+                
+                    
+                    
+                                                        MENGLON
+                    
+                    
+                
+                                    Initiation au Pendule
+                
+                    
+                    
+                                                        EYGLUY-ESCOULIN
+                    
+                    
+                
+                                    vends cage à rongeurs Indoor Zolux
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    dîner concert avec Lula Maria & Quando
+                
+                    
+                    
+                                                        SAILLANS
+                    
+                    
+                
+                                    bocal up : concert et bal salsa
+                
+                    
+                    
+                                                        SAILLANS
+                    
+                    
+                
+                                    Séjurs nature enfants dans le Haut Diois
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        BONNEVAL EN DIOIS
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            BUVETTE DE SAINTE CROIX
+                CHEZ VE-RO
+                
+                                        SAINTE-CROIX
+                        Auto-entrepreneur                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

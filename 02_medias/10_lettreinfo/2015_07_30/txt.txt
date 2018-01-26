@@ -1,0 +1,829 @@
+
+
+    
+        
+        Ensemble ici | # 2015-31 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 30/07 au 09/08/2015
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	RadiOLive pr&eacute;sent sur le festival Tangram !
+	
+	&nbsp;
+
+	Vendredi 31 Juillet, de 20h &agrave; 21h30, Promenade de la Digue
+	
+	&nbsp;
+
+	Pendant le festival, participez et assistez &agrave; deux &eacute;missions propos&eacute;es par Radi&#39;O&#39;Live :
+	
+	- une &eacute;mission Mare Nostrum sur la Croatie et l&#39;Albanie - Invit&eacute;s : Association Mare Nostrum
+
+	- une &eacute;mission Tangram - Invit&eacute;s : Temenik Electric &amp; Vaudou Game (en concert le m&ecirc;me soir) - Animateurs Julius &amp; Olivier Barlet
+	&nbsp;
+
+	en partenariat avec Ensemble Ici et La Cigale
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								Concert à l'église de St Léger
+								Concert , REILHANETTE
+								Vendredi 31 juillet 2015
+						
+
+												
+													
+								Nature des hautes Baronnies
+								Manifestation , SEDERON
+								du samedi 08 au dimanche 09 août 2015
+						
+
+					Pays de Buis-les-Baronnies							
+													
+								"Knock" de Jules ROMAINS
+								Spectacle , BUIS-LES-BARONNIES
+								Jeudi 30 juillet 2015
+						
+
+												
+													
+								"La femme du boulanger" de Jean GIONO- Mise en scène: Roland PEYRON
+								Spectacle , BUIS-LES-BARONNIES
+								Vendredi 31 juillet 2015
+						
+
+												
+													
+								"Etonnant non?" d'après des textes de Pierre DESPROGES
+								Spectacle , BUIS-LES-BARONNIES
+								Samedi 01 août 2015
+						
+
+												
+								La Cave du Troc, votre Boutik' gratuite
+								Visite , MOLLANS-SUR-OUVEZE
+								du samedi 01 au samedi 29 août 2015
+						
+
+												
+													
+								"La femme du boulanger" de Jean GIONO - Mise en scène: Roland PEYRON
+								Spectacle , BUIS-LES-BARONNIES
+								Dimanche 02 août 2015
+						
+
+												
+													
+								"La femme du boulanger" de Jean GIONO Mise en scène: Roland PEYRON
+								Spectacle , LA ROCHE-SUR-LE-BUIS
+								Vendredi 07 août 2015
+						
+
+												
+													
+								"La femme du boulanger" de Jean GIONO Mise en scène: Roland PEYRON
+								Spectacle , LA ROCHE-SUR-LE-BUIS
+								Vendredi 07 août 2015
+						
+
+												
+													
+								Le Buis j'aime, j'y cours
+								Manifestation , BUIS-LES-BARONNIES
+								Dimanche 09 août 2015
+						
+
+					Pays de Rémuzat							
+								Eveil des Sens et Pleine Conscience
+								Stage , LA MOTTE-CHALANCON
+								du samedi 01 au dimanche 02 août 2015
+						
+
+												
+													
+								Blue Motte Jazz
+								Festival , LA MOTTE-CHALANCON
+								du lundi 03 au mardi 04 août 2015
+						
+
+												
+													
+								Rock on the l'Oule
+								Festival , LA MOTTE-CHALANCON
+								du mercredi 05 au jeudi 06 août 2015
+						
+
+												
+													
+								APERO CONCERT "MINUIT SPECIAL"
+								Concert , LA MOTTE-CHALANCON
+								Jeudi 06 août 2015
+						
+
+												
+													
+								Exposition peinture et sculpture
+								Exposition , VILLEPERDRIX
+								du dimanche 09 au dimanche 23 août 2015
+						
+
+					Val d'Eygues							
+													
+								Exposition Simone BIGOT MOONENS
+								Exposition , NYONS
+								du mardi 21 juillet au samedi 29 août 2015
+						
+
+												
+													
+								Soul River en concert à Nyons
+								Concert , NYONS
+								Jeudi 30 juillet 2015
+						
+
+												
+													
+								Sous les étoiles - domaine du Rieu frais à Ste Jalle
+								Manifestation , SAINTE-JALLE
+								Jeudi 30 juillet 2015
+						
+
+												
+													
+								FESTIVAL TANGRAM #2 // EXPOS - CONCERTS - PETITE REST'O - CHILL OUT
+								Festival , NYONS
+								Vendredi 31 juillet 2015
+						
+
+												
+													
+								Balade  au clair de lune
+								Randonnée , NYONS
+								Vendredi 31 juillet 2015
+						
+
+												
+													
+								Découvrir l'agriculture des Baronnies
+								Promenade , SAINTE-JALLE
+								Vendredi 31 juillet 2015
+						
+
+												
+													
+								Azilis
+								Concert , VENTEROL
+								Vendredi 31 juillet 2015
+						
+
+												
+													
+								Big Ukulélé Syndicate en concert à Nyons
+								Concert , NYONS
+								Samedi 01 août 2015
+						
+
+												
+													
+								Azilis
+								Concert , SAINTE-JALLE
+								Samedi 01 août 2015
+						
+
+												
+													
+								soirée rock
+								Concert , CURNIER
+								du samedi 01 au dimanche 02 août 2015
+						
+
+												
+													
+								Stage de masque et clown avec Mario Gonzales
+								Stage , NYONS
+								du samedi 01 au samedi 08 août 2015
+						
+
+												
+													
+								Sketches à la carte
+								Spectacle , NYONS
+								Lundi 03 août 2015
+						
+
+												
+													
+								stage de théâtre enfant
+								Stage , NYONS
+								du lundi 03 au vendredi 07 août 2015
+						
+
+												
+													
+								Découvrir l'agriculture des Baronnies
+								Promenade , MONTAULIEU
+								Mardi 04 août 2015
+						
+
+												
+								Découvrir l'agriculture des Baronnies
+								Promenade , MONTAULIEU
+								Mardi 04 août 2015
+						
+
+												
+													
+								Observation du ciel nocturne
+								Visite , NYONS
+								Mardi 04 août 2015
+						
+
+												
+													
+								Multi-sports Beach
+								Manifestation , NYONS
+								Mardi 04 août 2015
+						
+
+												
+													
+								No Vibrato en concert à Nyons
+								Concert , NYONS
+								Mardi 04 août 2015
+						
+
+												
+													
+								"La femme du boulanger" de Jean GIONO
+								Spectacle , SAINTE-JALLE
+								Mardi 04 août 2015
+						
+
+												
+													
+								"L'avare" de Molière
+								Spectacle , SAINTE-JALLE
+								Mercredi 05 août 2015
+						
+
+												
+													
+								Chorale du Delta
+								Concert , VENTEROL
+								Mercredi 05 août 2015
+						
+
+												
+													
+								 Ecriture de Chansons et Polyphonie
+								Stage , LES PILLES
+								du mercredi 05 au samedi 08 août 2015
+						
+
+												
+													
+								Amapola en concert à Nyons
+								Concert , NYONS
+								Jeudi 06 août 2015
+						
+
+												
+													
+								Chorale du Delta
+								Concert , LES PILLES
+								Vendredi 07 août 2015
+						
+
+												
+													
+								Chorale du Delta
+								Concert , NYONS
+								Vendredi 07 août 2015
+						
+
+												
+													
+								Quatuor Archinto - quatuor à cordes
+								Concert , SAINTE-JALLE
+								Vendredi 07 août 2015
+						
+
+												
+													
+								Tango Magnolia en concert à Nyons
+								Concert , NYONS
+								Samedi 08 août 2015
+						
+
+												
+													
+								Vente Emmaüs
+								Manifestation , NYONS
+								Samedi 08 août 2015
+						
+
+												
+													
+								Exposition dessins nomades
+								Exposition , LES PILLES
+								du samedi 08 au mercredi 12 août 2015
+						
+
+												
+													
+								George Hailing
+								Exposition , VENTEROL
+								du samedi 08 au dimanche 23 août 2015
+						
+
+					Ailleurs dans le coin							
+													
+								Marché dominical
+								Marché , BOUCHET
+								du dimanche 26 juillet au dimanche 30 août 2015
+						
+
+												
+													
+								 Stage Zen Taichi Chuan Qiqong   Aikido Calligraphie 
+								Stage , DIEULEFIT
+								du lundi 27 juillet au samedi 01 août 2015
+						
+
+												
+													
+								MUSIQUES A SEGURET
+								Concert , SEGURET
+								Jeudi 30 juillet 2015
+						
+
+												
+													
+								Nouveau cirque
+								Spectacle , SUZE-LA-ROUSSE
+								du jeudi 30 juillet au mercredi 05 août 2015
+						
+
+												
+													
+								Initiation tournage à la Maison de la céramique du pays de Dieulefit
+								Atelier , DIEULEFIT
+								du jeudi 30 juillet au lundi 31 août 2015
+						
+
+												
+													
+								Atelier terre enfants à la Maison de la céramique du pays de Dieulefit
+								Atelier , DIEULEFIT
+								du jeudi 30 juillet au lundi 31 août 2015
+						
+
+												
+													
+								Stage terre adultes à la Maison de la céramique du pays de Dieulefit
+								Atelier , DIEULEFIT
+								du jeudi 30 juillet au lundi 31 août 2015
+						
+
+												
+													
+								Exposition de la Maison de la céramique du pays de Dieulefit
+								Exposition , DIEULEFIT
+								du jeudi 30 juillet au dimanche 27 septembre 2015
+						
+
+												
+													
+								Fête votive
+								Fête , FAUCON
+								du vendredi 31 juillet au lundi 03 août 2015
+						
+
+												
+													
+								Jazz dans les vignes
+								Concert , VISAN
+								Samedi 01 août 2015
+						
+
+												
+													
+								Gestes et savoirs d'autrefois
+								Exposition , LABOREL
+								Dimanche 02 août 2015
+						
+
+												
+													
+								Marché de potiers
+								Marché , GRIGNAN
+								Mercredi 05 août 2015
+						
+
+												
+													
+								Chorale du Delta
+								Concert , VALREAS
+								Mercredi 05 août 2015
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Stages d'éveil musical pour enfants
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+					
+													Le Piano Voyageur au coeur du vignoble
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														MIRABEL-AUX-BARONNIES
+						
+						
+					
+					
+													Atelier tricot Nomade
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													armoire penderie
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														CONDORCET
+						
+						
+					
+					
+													ABRICOTS BIO pour CONFITURE
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Du bon cochon pour fin août !
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAINT-FERREOL-TRENTE-PAS
+						
+						
+					
+					
+													candidatures au forum des associations de Venterol
+							
+						
+						
+														VENTEROL
+						
+						
+					
+					
+													Cours de peinture expression artistique 
+							
+						
+						
+														VALREAS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														La Catananche
+								
+								Connaissance et présentation de la flore locale.
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														Association "Rock on the l'Oule"
+								
+								
+							
+							
+															LA MOTTE-CHALANCON
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

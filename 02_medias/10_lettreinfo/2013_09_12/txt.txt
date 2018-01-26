@@ -1,0 +1,614 @@
+
+
+    
+        
+        Ensemble ici | #12 : Ensemble ici en Baronnies
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 12 au 22/09/2013
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						Vous n&#39;avez pas peur du vendredi 13 ?
+Alors rendez-vous au th&eacute;&acirc;tre de l&#39;Aube de Condorcet pour un spectacle de cirque &agrave; ne pas rater !
+
+Et samedi, le Cri Cri de la Cigale au th&eacute;&acirc;tre de Verdure &agrave; Nyons !
+
+Et un peu partout, les journ&eacute;es du patrimoine ce week-end... L&acirc;chez la t&eacute;l&eacute; : &ccedil;a bouge en Baronnies !
+			Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici. Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site. Tous ensemble, solidaires, b&acirc;tissons cet outil d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, et bient&ocirc;t forums.		
+	
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								Exposition "Paysages de la vallée et alentours"
+								Exposition , MONTBRUN-LES-BAINS
+								du jeudi 04 juillet au dimanche 15 septembre 2013
+						
+
+												
+								Les journées européennes du patrimoine à Montbrun
+								Manifestation , MONTBRUN-LES-BAINS
+								Samedi 14 septembre 2013
+						
+
+					Pays de Buis-les-Baronnies							
+								Exposition à la Maison des Plantes Aromatiques
+								Atelier , BUIS-LES-BARONNIES
+								du mercredi 14 août au mercredi 18 septembre 2013
+						
+
+												
+													
+								Journées du patrimoine: le Buis des Mévouillons
+								Manifestation , BUIS-LES-BARONNIES
+								Samedi 14 septembre 2013
+						
+
+												
+								Les Chantiers funambules 
+								Atelier , PIERRELONGUE
+								Samedi 14 septembre 2013
+						
+
+												
+													
+								Fête marocaine 
+								Atelier , BUIS-LES-BARONNIES
+								du samedi 21 au dimanche 22 septembre 2013
+						
+
+												
+													
+								La ronde des Baronnies
+								promenade /  randonnée , BUIS-LES-BARONNIES
+								Dimanche 22 septembre 2013
+						
+
+												
+								Journée du cheval
+								Manifestation , BUIS-LES-BARONNIES
+								Dimanche 22 septembre 2013
+						
+
+												
+								Vide-greniers
+								Vide-grenier , MOLLANS-SUR-OUVEZE
+								Dimanche 22 septembre 2013
+						
+
+					&nbsp;Pays de Rémuzat							
+								Brocante et vide greniers
+								Vide-grenier , REMUZAT
+								Samedi 14 septembre 2013
+						
+
+					&nbsp;Val d'Eygues							
+													
+								Portraits de Parc en Baronnies Provençales
+								Exposition , NYONS
+								du jeudi 01 août au lundi 30 septembre 2013
+						
+
+												
+													
+								Ateliers de salsa
+								Manifestation , NYONS
+								du mardi 03 septembre 2013 au lundi 30 juin 2014
+						
+
+												
+								Jeux divers et goûter
+								Rencontre , NYONS
+								Jeudi 12 septembre 2013
+						
+
+												
+													
+								Tournoi des Oliviers - open seniors 
+								Tournoi , NYONS
+								du jeudi 12 au dimanche 29 septembre 2013
+						
+
+												
+													
+								Spectacle de cirque : Basar - D2
+								Spectacle , CONDORCET
+								Vendredi 13 septembre 2013
+						
+
+												
+								Vide-grenier 
+								Vide-grenier , NYONS
+								Samedi 14 septembre 2013
+						
+
+												
+													
+								Portes Ouvertes @soft
+								Manifestation , NYONS
+								Samedi 14 septembre 2013
+						
+
+												
+								Journée "Portes Ouvertes" à l'UNTL
+								Rencontre , NYONS
+								Samedi 14 septembre 2013
+						
+
+												
+													
+								Le Cri cri de la Cigale 
+								Manifestation , NYONS
+								Samedi 14 septembre 2013
+						
+
+												
+								visite commentée du chantier de réhabilitation du 3 septembre
+								Atelier , NYONS
+								Samedi 14 septembre 2013
+						
+
+												
+													
+								Scène ouverte et projection en plein air
+								Projection , SAINT-FERREOL-TRENTE-PAS
+								Samedi 14 septembre 2013
+						
+
+												
+													
+								Les Journées européennes du Patrimoine
+								Manifestation , NYONS
+								du samedi 14 au dimanche 15 septembre 2013
+						
+
+												
+													
+								Poteries de Patricia Cohen
+								Exposition , NYONS
+								du mardi 17 au dimanche 29 septembre 2013
+						
+
+												
+								Forum des associations du Haut-Nyonsais
+								Salon , CURNIER
+								Samedi 21 septembre 2013
+						
+
+												
+								Milonga de los olivos
+								Manifestation , NYONS
+								Samedi 21 septembre 2013
+						
+
+												
+								Vide-grenier
+								Marché , MIRABEL-AUX-BARONNIES
+								Dimanche 22 septembre 2013
+						
+
+					&nbsp;Ailleurs dans le coin							
+													
+								2 ème Festival musical Buëch-Durance
+								Atelier , SERRES
+								du vendredi 30 août au dimanche 22 septembre 2013
+						
+
+												
+								Exposition - Gia TO
+								Exposition , LA MOTTE-CHALANCON
+								du lundi 02 au lundi 30 septembre 2013
+						
+
+												
+													
+								Festival d'automne du THV Théâtre de la Haute Ville
+								Festival , VAISON-LA-ROMAINE
+								du vendredi 06 septembre au dimanche 27 octobre 2013
+						
+
+												
+													
+								Exposition sur les recherches historiques
+								Exposition , SERRES
+								du lundi 09 au mardi 17 septembre 2013
+						
+
+												
+								Soirée spectaculaire
+								Spectacle , TAULIGNAN
+								Vendredi 13 septembre 2013
+						
+
+												
+													
+								Figures d'effroi : photos de Catherine De Clippel
+								Exposition , VAISON-LA-ROMAINE
+								du vendredi 13 septembre au vendredi 18 octobre 2013
+						
+
+												
+								Choeur féminin Calliopée
+								Concert , ROUSSET-LES-VIGNES
+								Samedi 14 septembre 2013
+						
+
+												
+													
+								Journées du patrimoine à Vaison-la-Romaine
+								Manifestation , VAISON-LA-ROMAINE
+								du samedi 14 au dimanche 15 septembre 2013
+						
+
+												
+													
+								ley ménestrié de provence
+								Concert , VISAN
+								Dimanche 15 septembre 2013
+						
+
+												
+													
+								Ze Fiestival 2013
+								Festival , MARSANNE
+								du mercredi 18 au samedi 21 septembre 2013
+						
+
+												
+													
+								expositions d'art contemporain
+								Exposition , SERRES
+								du mercredi 18 au dimanche 29 septembre 2013
+						
+
+												
+								DUO DES FRERES BOUCLIER -concert d'exception !
+								Concert , CLANSAYES
+								Samedi 21 septembre 2013
+						
+
+												
+													
+								récital de guitare
+								Concert , VISAN
+								Samedi 21 septembre 2013
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Recherche outils de cuisine pour collectif
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													cherche maison
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														ARPAVON
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Provence Recording Studio
+								
+								Studio d'enregistrement
+							
+							
+															SAINTE-JALLE
+								société privée							
+							
+						
+						
+														Radio Retro FM
+								
+								
+							
+							
+															BUIS-LES-BARONNIES
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+			
+				
+			
+				
+			
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

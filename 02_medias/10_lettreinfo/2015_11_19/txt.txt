@@ -1,0 +1,884 @@
+
+
+    
+        
+        Ensemble ici | # 2015-47 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 19 au 29/11/2015
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous, 
+	&nbsp;
+
+	Suite &agrave; une forte baisse des subventions accord&eacute;es par le Conseil D&eacute;partemental de la Dr&ocirc;me &agrave; la Sauvegarde de l&#39;Enfance et de l&#39;Adolescence, celui-ci a d&eacute;cid&eacute; de diviser par deux le nombre d&#39;&eacute;ducateurs de rue sur le d&eacute;partement.
+	Concr&egrave;tement, ces professionnels rattach&eacute;s &agrave; la protection de l&#39;enfance&nbsp; dispara&icirc;tront totalement des zones rurales, dont le Nyonsais, ou seront diminu&eacute;s ailleurs...
+	
+	Et ceci au 31 d&eacute;cembre !
+	&nbsp;
+
+	Ensemble Ici publie un communiqu&eacute; &eacute;manant du collectif des &eacute;ducateurs de pr&eacute;vention de la Dr&ocirc;me et une p&eacute;tition en ligne, tous deux accessibles en cliquant ici !
+	&nbsp;
+Le rassemblement qui devait avoir lieu ce samedi a &eacute;t&eacute; annul&eacute; en raison des &eacute;v&egrave;nements tragiques du 13 novembre.
+
+Cependant, un collectif de citoyen r&eacute;uni lors des repas partag&eacute;s du march&eacute; &agrave; Nyons propose d&#39;en parler jeudi prochain devant l&#39;espace Roumanille d&eacute;s 10h, puis devant la mairie &agrave; partir de midi !
+
+
+
+
+	*** Ensemble, ici comme partout, pour la paix et contre la folie humaine... ***
+
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+		
+			
+				
+				Pays de Buis-les-Baronnies							
+													
+								Apero vins nouveaux
+								Manifestation , SAINT-SAUVEUR-GOUVERNET
+								Jeudi 19 novembre 2015
+						
+
+												
+													
+								CONCERT HEIDI SERENIDADJ & COCHIA
+								Concert , BUIS-LES-BARONNIES
+								Vendredi 20 novembre 2015
+						
+
+												
+													
+								Dernier Sillon et Fleur de Cimetière
+								Spectacle , BUIS-LES-BARONNIES
+								Samedi 21 novembre 2015
+						
+
+												
+													
+								Tricot Nomade
+								Atelier , BUIS-LES-BARONNIES
+								Samedi 21 novembre 2015
+						
+
+												
+													
+								Repas des vendanges
+								Repas , PROPIAC
+								Samedi 21 novembre 2015
+						
+
+												
+													
+								Vide grenier
+								Vide-grenier , BUIS-LES-BARONNIES
+								Dimanche 22 novembre 2015
+						
+
+												
+													
+								Soirée Arménie
+								Projection , BUIS-LES-BARONNIES
+								Dimanche 22 novembre 2015
+						
+
+												
+													
+								L'écume des Mots
+								Spectacle , LA ROCHETTE-DU-BUIS
+								Samedi 28 novembre 2015
+						
+
+												
+													
+								Voyage en Italie - première partie
+								Spectacle , MOLLANS-SUR-OUVEZE
+								Samedi 28 novembre 2015
+						
+
+												
+													
+								CONQUERING SOUND Feat. PATKO & SIR JEAN + LMK
+								Concert , BUIS-LES-BARONNIES
+								du samedi 28 au dimanche 29 novembre 2015
+						
+
+												
+													
+								Journée de soutien au carnaval 2016
+								Manifestation , BUIS-LES-BARONNIES
+								Dimanche 29 novembre 2015
+						
+
+					Pays de Rémuzat							
+													
+								Dires de Martegau
+								Spectacle , VILLEPERDRIX
+								Samedi 28 novembre 2015
+						
+
+					&nbsp;Val d'Eygues							
+													
+								Chorale des Oliviers
+								Concert , NYONS
+								du mercredi 11 au lundi 30 novembre 2015
+						
+
+												
+													
+								Chorale des Oliviers
+								Concert , NYONS
+								du dimanche 15 au dimanche 22 novembre 2015
+						
+
+												
+													
+								Au cinéma : Marcel Conche, La nature d'un philosophe 
+								Projection , NYONS
+								du lundi 16 au jeudi 19 novembre 2015
+						
+
+												
+													
+								Journée Mondiale des Toilettes
+								Manifestation , NYONS
+								du mardi 17 au jeudi 19 novembre 2015
+						
+
+												
+													
+								SOIREE BEAUJOLAIS
+								Repas , CURNIER
+								Vendredi 20 novembre 2015
+						
+
+												
+													
+								La femme du boulanger de Jean Giono
+								Spectacle , NYONS
+								Vendredi 20 novembre 2015
+						
+
+												
+													
+								La Virade
+								Spectacle , VINSOBRES
+								Vendredi 20 novembre 2015
+						
+
+												
+													
+								FESTIVAL "CONTES ET RENCONTRES" AU PAYS DE NYONS
+								Spectacle , NYONS
+								du vendredi 20 novembre au dimanche 20 décembre 2015
+						
+
+												
+													
+								Des moutons et des hommes
+								Rencontre , ARPAVON
+								Samedi 21 novembre 2015
+						
+
+												
+													
+								Concert de la Ste Cécile
+								Concert , NYONS
+								Samedi 21 novembre 2015
+						
+
+												
+													
+								Ca m'dit Musique
+								Concert , NYONS
+								Samedi 21 novembre 2015
+						
+
+												
+													
+								Rassemblement de soutien pour le maintien des financements départementaux sur le Service de Prévention Spécialisée
+								Manifestation , NYONS
+								Samedi 21 novembre 2015
+						
+
+												
+													
+								MEDITATION et/ou GYMNASTIQUE SENSORIELLE
+								Atelier , NYONS
+								Samedi 21 novembre 2015
+						
+
+												
+													
+								Fête des primeurs 
+								Fête , VENTEROL
+								Samedi 21 novembre 2015
+						
+
+												
+													
+								Braderie d'Automne
+								Marché , SAHUNE
+								du samedi 21 au dimanche 22 novembre 2015
+						
+
+												
+													
+								Un safari Arctique 
+								Conte , CHATEAUNEUF-DE-BORDETTE
+								Dimanche 22 novembre 2015
+						
+
+												
+													
+								Un Safari Arctique
+								Spectacle , CHATEAUNEUF-DE-BORDETTE
+								Dimanche 22 novembre 2015
+						
+
+												
+													
+								Marché de Noël 
+								Marché , SAINTE-JALLE
+								Dimanche 22 novembre 2015
+						
+
+												
+													
+								MARE NOSTRUM épisode 2
+								Rencontre , VINSOBRES
+								Dimanche 22 novembre 2015
+						
+
+												
+													
+								Connaissance du monde " La Suisse" Au Coeur des Alpes 
+								Conférence , NYONS
+								Mercredi 25 novembre 2015
+						
+
+												
+													
+								Pour tous les conteurs ou raconteurs, contes ou histoires brèves… 
+								Conte , CHATEAUNEUF-DE-BORDETTE
+								Jeudi 26 novembre 2015
+						
+
+												
+													
+								"La femme du boulanger" de Jean GIONO
+								Spectacle , VINSOBRES
+								Jeudi 26 novembre 2015
+						
+
+												
+													
+								La Vigne, haut lieu culturel dans tous les sens du terme
+								Conférence , VINSOBRES
+								Jeudi 26 novembre 2015
+						
+
+												
+													
+								GRATIFERIA
+								Marché , NYONS
+								Samedi 28 novembre 2015
+						
+
+												
+													
+								Stage auprès de Robert Seven Crows
+								Stage , MONTAULIEU
+								du samedi 28 au dimanche 29 novembre 2015
+						
+
+												
+													
+								LES OUATES en concert
+								Concert , LES PILLES
+								Dimanche 29 novembre 2015
+						
+
+												
+													
+								Contes au son du tambour
+								Spectacle , MONTAULIEU
+								Dimanche 29 novembre 2015
+						
+
+					Ailleurs dans le coin							
+													
+								Repas et concert - Jambalaya
+								Repas , CUREL
+								Vendredi 20 novembre 2015
+						
+
+												
+													
+								« Une heure et demie de retard » de Gérald Sibleyras et Jean Dell
+								Spectacle , GRIGNAN
+								Vendredi 20 novembre 2015
+						
+
+												
+													
+								Les Contes du Placard
+								Spectacle , ROSANS
+								Vendredi 20 novembre 2015
+						
+
+												
+													
+								ciné-débat Noëlle Châtelet
+								Débat , VAISON-LA-ROMAINE
+								Vendredi 20 novembre 2015
+						
+
+												
+													
+								Concert groupe Plan B + repas
+								Concert , VISAN
+								Vendredi 20 novembre 2015
+						
+
+												
+													
+								Nathalie Quintane à  la Bibliothèque d'Eourres
+								Atelier , EOURRES
+								Samedi 21 novembre 2015
+						
+
+												
+													
+								Atelier/Stage Initiation Danse Ragga Dance Hall
+								Stage , REAUVILLE
+								Samedi 21 novembre 2015
+						
+
+												
+													
+								Castagnade en musique
+								Concert , VISAN
+								Samedi 21 novembre 2015
+						
+
+												
+													
+								Bourse aux skis
+								Marché , VISAN
+								du samedi 21 au dimanche 22 novembre 2015
+						
+
+												
+													
+								Gratiferia Livres et jeux
+								Marché , TAULIGNAN
+								Dimanche 22 novembre 2015
+						
+
+												
+													
+								Contes au son du tambour
+								Spectacle , BEAUMES-DE-VENISE
+								Vendredi 27 novembre 2015
+						
+
+												
+													
+								 « La tête des autres » de Marcel Aymé
+								Spectacle , MONTSEGUR-SUR-LAUZON
+								Vendredi 27 novembre 2015
+						
+
+												
+													
+								Cornes de Brume
+								Spectacle , VALREAS
+								Vendredi 27 novembre 2015
+						
+
+												
+													
+								Concours de belote
+								Jeux , VISAN
+								Vendredi 27 novembre 2015
+						
+
+												
+													
+								GRATIFERIA AUREL
+								Manifestation , AUREL
+								Dimanche 29 novembre 2015
+						
+
+												
+													
+								Voyage en Italie - deuxième partie
+								Spectacle , ROUSSET-LES-VIGNES
+								Dimanche 29 novembre 2015
+						
+
+												
+													
+								Quartett de Heiner Müller
+								Atelier , TAULIGNAN
+								Dimanche 29 novembre 2015
+						
+
+												
+													
+								Concert de Noël du Condor
+								Spectacle , VAISON-LA-ROMAINE
+								Dimanche 29 novembre 2015
+						
+
+												
+													
+								10ème Marché de Noël au Domaine de Lucena
+								Marché , VISAN
+								Dimanche 29 novembre 2015
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													petite maison avec jardin
+							
+						
+						
+														SEDERON
+						
+						
+					
+					
+													Atelier d'écriture
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Location
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Du cerveau à la pensée- le Monde de l'opéra - Art, culture et création
+							
+						
+						
+														VAISON-LA-ROMAINE
+						
+						
+					
+					
+													Vends Ensemble douche sans travaux wc broyeur lavabo pour personnes à mobilité réduite
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														LA ROCHE-SUR-LE-BUIS
+						
+						
+					
+					
+													Stage de chant et balades en raquettes
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														BENQUE-DESSOUS-ET-DESSUS
+						
+						
+					
+					
+													Cherche guitare sèche
+							
+						
+						
+														VENTEROL
+						
+						
+					
+					
+													3 chatons abandonnés
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Petits bonnets Grande Cause
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													tricoteuse
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Mare Nostrum
+								
+								
+							
+							
+															VINSOBRES
+								Association							
+							
+						
+						
+														RadiO'live
+								
+								Webradio itinérante
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														Le Local
+								
+								
+							
+							
+															REMUZAT
+								Association							
+							
+						
+						
+														Maison de la Tour
+								
+								
+							
+							
+															VALAURIE
+								Association							
+							
+						
+						
+														TOC TOC
+								
+								pièce théâtre
+							
+							
+															REAUVILLE
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

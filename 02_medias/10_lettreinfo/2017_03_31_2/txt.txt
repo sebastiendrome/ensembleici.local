@@ -1,0 +1,866 @@
+
+
+
+    
+        
+        Ensemble ici | Lettre d'Ensemble Ici - Vallee de la Drome / Diois, 2017 #13 - 31 mars
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Chers habitants et acteurs de la Vall&eacute;e, du Diois, toutes et tous acteurs locaux,
+Prochaine &eacute;mission Mais Qu'est-ce Qui S'Passe ? :&nbsp;Les Controverses du Campus Biovall&eacute;e - soir&eacute;e d&eacute;bat "La d&eacute;mocratie en devenir : opportunit&eacute;s et dangers", toujours anim&eacute;e par Ph.Fr&eacute;meaux (Alternatives Economiques), invit&eacute; exceptionnel : Pierre Rosanvallon
+Nous avons toujours besoin de votre soutien par vos adh&eacute;sions (bouton ci-dessous) : merci.
+Agenda : &agrave; noter,
+
+ce WE :
+
+2e &eacute;dition des Transversales&nbsp;dans diff&eacute;rents lieux de Crest, manifestation/festival d'arts contemporains. Th&egrave;me : "L'Insurg&eacute;"
+soir&eacute;e d&eacute;bat "Imagine l'Europe que nous voulons" &agrave; Crest
+concert de solidarit&eacute; au&nbsp;Centre d'Accueil et d'Orientation des r&eacute;fugi&eacute;s, &agrave; Allex
+festival Voyage au coeur de l'Homme, 8e &eacute;dition, &agrave; Mirmande
+
+
+&agrave; partir de lundi : Cylcle de Formation Guide composteur
+du 3 au 8 avril &agrave; Luc en Diois&nbsp;: L'Energie, la Nature et nous, une semaine d'&eacute;v&eacute;nements sur des th&egrave;mes tr&egrave;s vari&eacute;s
+mardi 4 avril : conf&eacute;rence / pr&eacute;sentation financement participatif du film Et je choisis de vivre, &agrave; La Roche sur Gr&acirc;ne
+jeudi 6 avril&nbsp;:&nbsp;
+
+Pierre Rosanvallon est l'invit&eacute; des Controverses &agrave; Eurre, pour une soir&eacute;e d&eacute;bat "La D&eacute;mocratie en devenir : opportunit&eacute; et danger"
+Film "Du paysage au pays sage" sur la Vall&eacute;e de la Dr&ocirc;me, en pr&eacute;sence du r&eacute;alisateur, &agrave; Saillans
+
+
+vendredi 7 avril : rencontre avec Jo Spiegel (maire de Kingersheim) &agrave; Saillans
+
+&nbsp; Bonne lecture,
+Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois
+
+&nbsp;
+&nbsp;                
+Rappel T&eacute;l&eacute;chargeable depuis cette lettre, en fichier PDF, depuis le haut des 2 rubriques : - tous les &eacute;v&eacute;nements jusqu'au 3e WE &agrave; venir, - toutes les annonces de ces 30 derniers jours
+C'est vous qui publiez, modifier, compl&eacute;tez vos informations locales !
+Ensemble Ici : l'information par et pour les habitants de la Vall&eacute;e de la Dr&ocirc;me / Diois
+
+Si vous appr&eacute;ciez Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois :
+&nbsp;"abonnement volontaire" / don mensuel&nbsp;
+Nous ne touchons aucune subvention. Pour que l'animation du site puisse continuer avec notre salari&eacute;,merci de votre soutien
+Adh&eacute;sion
+&nbsp;        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Crestois Pays de Saillans                        
+                    
+                    ateliers carnaval Saillans 2017
+                    Atelier , SAILLANS
+                    du mercredi 22 mars au samedi 08 avril 2017
+                    
+
+                                            
+                    
+                    Atelier Ecriture - Poésie
+                    Atelier , CREST
+                    Jeudi 30 mars 2017
+                    
+
+                                            
+                    
+                    Les Musiciens de Brême 
+                    Spectacle , AOUSTE-SUR-SYE
+                    Vendredi 31 mars 2017
+                    
+
+                                            
+                    
+                    Soiree Débat Imagine l'Europe que nous voulons
+                    Débat , CREST
+                    Vendredi 31 mars 2017
+                    
+
+                                            
+                    
+                    "Mal-hêtre", film documentaire enquête sur la forêt française
+                    Projection , SAILLANS
+                    Dimanche 02 avril 2017
+                    
+
+                                            
+                    
+                    FÊTE DU PRINTEMPS à VÉRONNE
+                    Fête , VERONNE
+                    Dimanche 02 avril 2017
+                    
+
+                                            
+                    
+                    Contempler, dessiner, célébrer le printemps 
+                    Atelier , CREST
+                    Lundi 03 avril 2017
+                    
+
+                                            
+                    
+                    Séance découverte du jeu de peindre
+                    Atelier , CREST
+                    Mercredi 05 avril 2017
+                    
+
+                                            
+                    
+                    film "Pas res nos arresta"
+                    Projection , SAILLANS
+                    Jeudi 06 avril 2017
+                    
+
+                                            
+                    
+                    FILM - DU PAYSAGE AU PAYS SAGE
+                    Projection , SAILLANS
+                    Jeudi 06 avril 2017
+                    
+
+                                            
+                    
+                    Rencontre avec Jo SPIEGEL
+                    Conférence , SAILLANS
+                    Vendredi 07 avril 2017
+                    
+
+                                            
+                    
+                     Grand carnaval populaire à Crest !
+                    Fête , CREST
+                    Samedi 08 avril 2017
+                    
+
+                    
+                    Bourse aux Vélos
+                    Manifestation , CREST
+                    Samedi 08 avril 2017
+                    
+
+                                            
+                    
+                    De fil en Usine
+                    Fête , CREST
+                    Samedi 08 avril 2017
+                    
+
+                                            
+                    
+                    Compétition Kayak
+                    Manifestation , SAILLANS
+                    Dimanche 09 avril 2017
+                    
+
+                    Diois                        
+                    
+                    Film In Transition 2.0
+                    Projection , DIE
+                    Vendredi 31 mars 2017
+                    
+
+                                            
+                    
+                    La Forêt des heures
+                    Spectacle , DIE
+                    Vendredi 31 mars 2017
+                    
+
+                                            
+                    
+                    Stage de Tango Argentin
+                    Stage , BARNAVE
+                    du samedi 01 au dimanche 02 avril 2017
+                    
+
+                                            
+                    
+                    Harmonie de Roiffieux
+                    Concert , DIE
+                    Dimanche 02 avril 2017
+                    
+
+                                            
+                    
+                    Goûter-concert pour l'école de St Julien en Quint
+                    Concert , SAINT-JULIEN-EN-QUINT
+                    Dimanche 02 avril 2017
+                    
+
+                                            
+                    
+                    film "Dolpo, les enfants de la montagne" de pierre Combroux
+                    Projection , LUC-EN-DIOIS
+                    Lundi 03 avril 2017
+                    
+
+                                            
+                    
+                    Contempler, dessiner, célébrer le printemps 
+                    Atelier , DIE
+                    Mardi 04 avril 2017
+                    
+
+                                            
+                    
+                    L'Energie, la nature et nous : Transition énergétique
+                    Conférence , LUC-EN-DIOIS
+                    Mardi 04 avril 2017
+                    
+
+                                            
+                    
+                    En habit de printemps
+                    Randonnée , DIE
+                    Mercredi 05 avril 2017
+                    
+
+                                            
+                    
+                    Rencontre-atelier : L'Harmonie avec la nature, une démarche personnelle , un projet de société
+                    Atelier , LUC-EN-DIOIS
+                    Mercredi 05 avril 2017
+                    
+
+                                            
+                    
+                    Trio Karumanta en concert
+                    Concert , DIE
+                    Samedi 08 avril 2017
+                    
+
+                                            
+                    
+                    L'Energie, la nature et nous : Balade géologique au Claps
+                    Promenade , LUC-EN-DIOIS
+                    Samedi 08 avril 2017
+                    
+
+                                            
+                    
+                    L'energie, la nature et nous : Faune, flore et géologie du Diois
+                    Conférence , LUC-EN-DIOIS
+                    Samedi 08 avril 2017
+                    
+
+                                            
+                    
+                     Visite de la centrale hydroélectrique de Luc en D.
+                    Visite , LUC-EN-DIOIS
+                    Samedi 08 avril 2017
+                    
+
+                                            
+                    
+                    Concert The Sex Organs
+                    Concert , DIE
+                    du samedi 08 au dimanche 09 avril 2017
+                    
+
+                    Val de Drôme                        
+                    
+                    Concert de solidarité
+                    Concert , ALLEX
+                    Samedi 01 avril 2017
+                    
+
+                                            
+                    
+                    visite guidée habitat groupé et pépinière agro forestière
+                    journée d'information , COBONNE
+                    Samedi 01 avril 2017
+                    
+
+                                            
+                    
+                    Balade Plantes sauvages comestibles
+                    Randonnée , MIRMANDE
+                    Samedi 01 avril 2017
+                    
+
+                                            
+                    
+                    Stage de danse
+                    Stage , EURRE
+                    du samedi 01 au dimanche 02 avril 2017
+                    
+
+                                            
+                    
+                    Cycle de Formation au compostage
+                    Stage , EURRE
+                    Lundi 03 avril 2017
+                    
+
+                    
+                    Café-atelier : augmentez votre visibilité sur les moteurs de recherche
+                    Atelier , LIVRON-SUR-DROME
+                    Lundi 03 avril 2017
+                    
+
+                                            
+                    
+                    "Et je choisis de vivre"
+                    Conférence , ROCHE-SUR-GRANE
+                    Mardi 04 avril 2017
+                    
+
+                    
+                    "Ce que Livron doit à ses canaux"
+                    Conférence , LIVRON-SUR-DROME
+                    Mercredi 05 avril 2017
+                    
+
+                                            
+                    
+                    La démocratie en danger : opportunités et dangers - Pierre Rosanvallon
+                    Conférence , EURRE
+                    Jeudi 06 avril 2017
+                    
+
+                                            
+                    
+                    Déjeuner-atelier : protégez votre équipement et sécurisez vos données
+                    Atelier , LIVRON-SUR-DROME
+                    Jeudi 06 avril 2017
+                    
+
+                                            
+                    
+                    Trio Chacun son Sud
+                    Concert , CHABRILLAN
+                    Vendredi 07 avril 2017
+                    
+
+                                            
+                    
+                    Voyage au coeur de l'Homme - 8ème édition
+                    Festival , LIVRON-SUR-DROME
+                    Samedi 08 avril 2017
+                    
+
+                                            
+                    
+                    athénaïs
+                    Concert , EURRE
+                    du samedi 08 au dimanche 09 avril 2017
+                    
+
+                                            
+                    
+                    Zu et In Zaire au CBGC
+                    Concert , GIGORS-ET-LOZERON
+                    du dimanche 09 au lundi 10 avril 2017
+                    
+
+                    Retrouvez l'agenda complet sur www.ensembleici.fr...            
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Naturopathe recherche cabinet partagé
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Donne grains de kéfir
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    cartes randonnées 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    radiateur electrique 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    accordeur chromatique numerique 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Blender
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Plantes verte
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    museliere 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Garde d'enfant 6 ans
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    tondeuse cheveux 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    elephant serre livres 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Cercle Om Chanting
+                
+                    
+                    
+                                                        PIEGROS-LA-CLASTRE
+                    
+                    
+                
+                                    Stage tango été
+                
+                    
+                    
+                                                        BELLEGARDE-EN-DIOIS
+                    
+                    
+                
+                                    Garde d'enfants à domicile
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    achat maison à partager
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    6 Ciné-débats à Menglon
+                
+                    
+                    
+                                                        MENGLON
+                    
+                    
+                
+                                    employé(e) polyvalent de ferme
+                
+                    
+                    
+                                                        PENNES-LE-SEC
+                    
+                    
+                
+                                    vend kangoo II expression 1500 DCI 85
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    classeur
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Recherche imprimeur écolo
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    vend un pot lasure bois 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    materiel peinture et platre 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    lot de 5 verres en grés 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Réenchanterre Jardinage Ecologique
+                Création, entretien de jardins,  techniques issues de la Permaculture et de l'Agroécologie
+                
+                                        DIE
+                                        
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

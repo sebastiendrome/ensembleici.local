@@ -1,0 +1,772 @@
+
+
+    
+        
+        Ensemble ici | # 2014-39 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 02 au 12/10/2014
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	&nbsp;
+
+	Devenez journaliste citoyen !
+
+	
+	Ensemble Ici ajoute progressivement les m&eacute;dias (articles et webradio) &agrave; son activit&eacute;.
+	
+	Vous souhaitez &ecirc;tre acteur de l&rsquo;information locale en r&eacute;alisant des articles sur des sujets qui vous int&eacute;ressent&nbsp;?
+	
+	Nous vous proposons une&nbsp;formation gratuite &agrave; l&rsquo;&eacute;criture d&rsquo;articles et au &laquo;&nbsp;journalisme citoyen&nbsp;&raquo;&nbsp;en novembre et d&eacute;cembre 2014.
+	
+	Durant des s&eacute;ances de deux heures en soir&eacute;e, venez vous initer &agrave; la prise en main informatique, aux rep&eacute;rages, &agrave; la r&eacute;colte d&rsquo;informations sur le terrain, &agrave; l&#39;&eacute;criture...
+	
+	Les participants pourront ainsi participer &agrave; l&rsquo;information de nos vall&eacute;es&nbsp;et publier leurs articles sur Ensemble Ici !
+	
+	Inscriptions et renseignements&nbsp;:contact@ensembleici.fr&nbsp;/ 04 75 27 74 80
+	
+	&nbsp;
+
+	Belle semaine,&nbsp;
+	
+	L&#39;&eacute;quipe Ensemble Ici !
+	&nbsp;
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums, et bient&ocirc;t articles!
+	
+	
+		contact@ensembleici.fr
+
+		
+	
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								Rencontre de bienvenue
+								Rencontre , MONTBRUN-LES-BAINS
+								Mercredi 08 octobre 2014
+						
+
+												
+													
+								Jambalaya en concert
+								Concert , MONTBRUN-LES-BAINS
+								Samedi 11 octobre 2014
+						
+
+					Pays de Buis-les-Baronnies							
+													
+								Exposition "Pastel... à savourer" 
+								Exposition , BUIS-LES-BARONNIES
+								du vendredi 19 septembre au vendredi 14 novembre 2014
+						
+
+												
+													
+								Les couleurs du monde- en noir et blanc
+								Exposition , BUIS-LES-BARONNIES
+								du samedi 27 septembre au mardi 07 octobre 2014
+						
+
+												
+													
+								Théâtre "1793", l'histoire mouvementée des sans culottes
+								Spectacle , BUIS-LES-BARONNIES
+								Samedi 04 octobre 2014
+						
+
+												
+													
+								La Ronde des Baronnies
+								Randonnée , BUIS-LES-BARONNIES
+								Dimanche 05 octobre 2014
+						
+
+												
+													
+								Les Oubliés [enquête]
+								Spectacle , MOLLANS-SUR-OUVEZE
+								Mercredi 08 octobre 2014
+						
+
+												
+													
+								Des occupants allemands en France pendant l'occupation Nazie
+								Exposition , BUIS-LES-BARONNIES
+								du vendredi 10 au jeudi 16 octobre 2014
+						
+
+					Pays de Rémuzat							
+													
+								Lune d'Ailes Parmi Toutes
+								Stage , CORNILLON-SUR-L'OULE
+								du vendredi 10 au dimanche 12 octobre 2014
+						
+
+												
+													
+								Fête des champignons
+								Promenade , LA MOTTE-CHALANCON
+								Dimanche 12 octobre 2014
+						
+
+					Val d'Eygues							
+													
+								Exposition de peintures de Chantal Namysl et sculptures de Gaby et Monique Martin
+								Exposition , NYONS
+								du samedi 06 septembre au jeudi 13 novembre 2014
+						
+
+												
+													
+								La Légende noire des soldats du Midi
+								Conférence , NYONS
+								Vendredi 03 octobre 2014
+						
+
+												
+													
+								"Albert Camus au delà de la philosophie de l'absurde"
+								Conférence , NYONS
+								Vendredi 03 octobre 2014
+						
+
+												
+													
+								L'hiver sous la table
+								Spectacle , CHATEAUNEUF-DE-BORDETTE
+								Samedi 04 octobre 2014
+						
+
+												
+													
+								Journée Portes Ouvertes de l'IFMBE84 à la Vivandière
+								Rencontre , NYONS
+								Samedi 04 octobre 2014
+						
+
+												
+													
+								Concert de l'Ensemble Vocal Syracuse
+								Concert , NYONS
+								Samedi 04 octobre 2014
+						
+
+												
+													
+								Ateliers BATUCADA
+								Atelier , CURNIER
+								du samedi 04 octobre au samedi 20 décembre 2014
+						
+
+												
+													
+								Eloge de soi
+								Atelier , LES PILLES
+								du samedi 04 octobre 2014 au mardi 30 juin 2015
+						
+
+												
+													
+								CONCERT IRLANDAIS
+								Concert , AUBRES
+								Dimanche 05 octobre 2014
+						
+
+												
+													
+								FIGURE LIBRE
+								Stage , LES PILLES
+								Dimanche 05 octobre 2014
+						
+
+												
+													
+								« La Guerre 1914-1918 et le pays de l’Oule »
+								Conférence , NYONS
+								Lundi 06 octobre 2014
+						
+
+												
+													
+								"Les Oubliés [enquête]"
+								Spectacle , VINSOBRES
+								Mardi 07 octobre 2014
+						
+
+												
+													
+								Concert YELLE M
+								Concert , LES PILLES
+								Vendredi 10 octobre 2014
+						
+
+												
+													
+								Présentation de la saison culturelle "Nyons en scène" 2014-2015
+								Rencontre , NYONS
+								Vendredi 10 octobre 2014
+						
+
+												
+													
+								Concert de MICMAC JAZZ
+								Concert , VINSOBRES
+								Vendredi 10 octobre 2014
+						
+
+												
+													
+								Fête de l'énergie à Nyons
+								Fête , NYONS
+								Samedi 11 octobre 2014
+						
+
+												
+													
+								Salon du Bien Etre Nature
+								Salon , NYONS
+								Dimanche 12 octobre 2014
+						
+
+												
+													
+								Soupe paysanne !
+								Repas , SAINT-FERREOL-TRENTE-PAS
+								Dimanche 12 octobre 2014
+						
+
+					Ailleurs dans le coin							
+													
+								"À Moly-Sabata" Josephine Halvorson
+								Exposition , SAINT-PAUL-TROIS-CHATEAUX
+								du mercredi 17 septembre au samedi 08 novembre 2014
+						
+
+												
+													
+								BARBARA FURTUNA
+								Concert , VALREAS
+								Jeudi 02 octobre 2014
+						
+
+												
+													
+								Rencontres citoyennes
+								Rencontre , DIEULEFIT
+								du jeudi 02 au dimanche 05 octobre 2014
+						
+
+												
+													
+								"La femme dans tous ses états"
+								Spectacle , GRIGNAN
+								Vendredi 03 octobre 2014
+						
+
+												
+													
+								Encres de chine
+								Exposition , VISAN
+								du vendredi 03 au vendredi 31 octobre 2014
+						
+
+												
+													
+								Vide greniers
+								Vide-grenier , PIERRELATTE
+								Samedi 04 octobre 2014
+						
+
+												
+													
+								Exposition: Confluences
+								Exposition , DIEULEFIT
+								du samedi 04 octobre au mercredi 31 décembre 2014
+						
+
+												
+													
+								Marché Festif
+								Marché , BONLIEU-SUR-ROUBION
+								Dimanche 05 octobre 2014
+						
+
+												
+													
+								Vide greniers
+								Vide-grenier , PIERRELATTE
+								Dimanche 05 octobre 2014
+						
+
+												
+													
+								Exposition "Encres"
+								Exposition , GRIGNAN
+								du dimanche 05 octobre au dimanche 02 novembre 2014
+						
+
+												
+													
+								Formation découverte de l'osiériculture-vannerie
+								Atelier , EOURRES
+								du lundi 06 au vendredi 10 octobre 2014
+						
+
+												
+													
+								La tête des autres
+								Spectacle , SAINT-PAUL-TROIS-CHATEAUX
+								Vendredi 10 octobre 2014
+						
+
+												
+													
+								Zaza la sorcière
+								Spectacle , VALREAS
+								Vendredi 10 octobre 2014
+						
+
+												
+													
+								Fête de l'énergie - Salon de l'habitat
+								Fête , MONTELIMAR
+								du vendredi 10 au dimanche 12 octobre 2014
+						
+
+												
+													
+								Fête de l'énergie à Grillon
+								Fête , GRILLON
+								Samedi 11 octobre 2014
+						
+
+												
+													
+								Festival du film
+								Festival , SAINT-PAUL-TROIS-CHATEAUX
+								du samedi 11 au samedi 18 octobre 2014
+						
+
+												
+													
+								Un chemin de dame
+								Spectacle , SERRES
+								Dimanche 12 octobre 2014
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Cherche cours d'accordéon !
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													Massage-Bien-Etre
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Ne jetez plus vos transformateurs électriques !
+							
+						
+						
+														SAHUNE
+						
+						
+					
+					
+													Cherche emploi vente vin ou produits dérivés
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													RECHERCHE GARDE D’ENFANTS / BABY-SITTER
+							
+						
+						
+														ROCHEBRUNE
+						
+						
+					
+					
+													Abri caravane
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Vends Citroen Xantia break
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														LACHAU
+						
+						
+					
+					
+													Ateliers BATUCADA
+							
+						
+						
+														CURNIER
+						
+						
+					
+					
+													Cuisinière à bois
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														EYGALIERS
+						
+						
+					
+					
+													Les carnets de Julie sur la Drôme Provençale
+							
+						
+						
+														LES PILLES
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Les petits plats d'Antaram
+								
+								
+							
+							
+															NYONS
+															
+							
+						
+						
+														AVENTIC
+								
+								Espaces Publics Numériques
+							
+							
+															REMUZAT
+								Association							
+							
+						
+						
+														Les agités du vocal
+								
+								Choeur vocal
+							
+							
+															VAISON-LA-ROMAINE
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

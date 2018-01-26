@@ -1,0 +1,748 @@
+
+
+    
+        
+        Ensemble ici | # 2014-44 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 06 au 16/11/2014
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et tous,
+	&nbsp;
+
+	Ce soir, &agrave; partir de 20h, venez partager un moment convivial avec les membres de la toute nouvelle association RadiO&#39;live !
+
+L&#39;occasion de se rencontrer, de discuter et pourquoi pas de rejoindre cette belle aventure :
+Un projet de radio participative et itin&eacute;rante qui diffusera des &eacute;missions sur notre site d&egrave;s cet hiver...
+Cela annonce aussi l&#39;arriv&eacute;e tr&egrave;s prochaine des m&eacute;dias sur Ensemble Ici (articles et webradio) !
+
+Nous vous rappelons d&#39;ailleurs qu&#39;il ne reste que quelques jours pour vous inscrire &agrave; la formation gratuite au journalisme citoyen !&nbsp;
+
+Plus d&#39;infos:
+Inauguration de l&#39;association de Radio&#39;live
+Devenez journaliste citoyen&nbsp;!
+
+
+	Belle semaine,
+	
+	L&#39;&eacute;quipe Ensemble Ici !
+	&nbsp;
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums, et bient&ocirc;t articles!
+	
+	
+		contact@ensembleici.fr
+
+		
+	
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								Cultiver le quinoa en Provence, pourquoi pas ?
+								Spectacle , MONTBRUN-LES-BAINS
+								Mardi 11 novembre 2014
+						
+
+												
+													
+								Les Gorges de la Nesque
+								Promenade , MONTBRUN-LES-BAINS
+								Dimanche 16 novembre 2014
+						
+
+					Pays de Buis-les-Baronnies							
+													
+								Exposition OXALIDE 
+								Exposition , BUIS-LES-BARONNIES
+								du mardi 04 novembre au vendredi 05 décembre 2014
+						
+
+												
+													
+								Concours de tartes et confitures
+								Rencontre , PROPIAC
+								Samedi 08 novembre 2014
+						
+
+												
+													
+								Foire aux livres
+								Foire , BUIS-LES-BARONNIES
+								du samedi 08 au dimanche 09 novembre 2014
+						
+
+												
+													
+								Commémoration du 11 novembre
+								Manifestation , BUIS-LES-BARONNIES
+								Mardi 11 novembre 2014
+						
+
+												
+													
+								Les instants musicales
+								Concert , BESIGNAN
+								Vendredi 14 novembre 2014
+						
+
+												
+													
+								Polar au Buis
+								Rencontre , BUIS-LES-BARONNIES
+								du vendredi 14 au samedi 15 novembre 2014
+						
+
+												
+													
+								Norvège, Le Chemin du nord
+								Projection , MOLLANS-SUR-OUVEZE
+								Dimanche 16 novembre 2014
+						
+
+					&nbsp;Val d'Eygues							
+													
+								"Le travail des femmes durant la guerre 14-18"
+								Exposition , NYONS
+								du lundi 27 octobre au dimanche 30 novembre 2014
+						
+
+												
+													
+								Jaurès: le parcours
+								Exposition , NYONS
+								du mardi 04 au mercredi 19 novembre 2014
+						
+
+												
+													
+								Inauguration de l'association RadiO'live !
+								Rencontre , NYONS
+								Jeudi 06 novembre 2014
+						
+
+												
+													
+								1921: la guerre n'est pas finie
+								Spectacle , NYONS
+								Vendredi 07 novembre 2014
+						
+
+												
+													
+								Le malade imaginaire
+								Spectacle , NYONS
+								Vendredi 07 novembre 2014
+						
+
+												
+													
+								Exposition de peintures AFIDOL-IMO
+								Exposition , NYONS
+								du vendredi 07 novembre 2014 au mardi 03 février 2015
+						
+
+												
+													
+								Le neveu de rameau de Diderot
+								Spectacle , NYONS
+								Dimanche 09 novembre 2014
+						
+
+												
+													
+								Vide grenier spécial enfant
+								Vide-grenier , NYONS
+								Dimanche 09 novembre 2014
+						
+
+												
+													
+								Cérémonie patriotique
+								Rencontre , NYONS
+								Mardi 11 novembre 2014
+						
+
+												
+													
+								Femme Verticale
+								Spectacle , VINSOBRES
+								Mercredi 12 novembre 2014
+						
+
+												
+													
+								PIGALLE + The Wicks
+								Concert , NYONS
+								Samedi 15 novembre 2014
+						
+
+												
+													
+								Toupetituli
+								Atelier , NYONS
+								Samedi 15 novembre 2014
+						
+
+												
+													
+								Stage de lecture à haute voix
+								Stage , MONTAULIEU
+								du samedi 15 au dimanche 16 novembre 2014
+						
+
+												
+													
+								Amnesty International
+								Marché , NYONS
+								du samedi 15 au dimanche 16 novembre 2014
+						
+
+												
+													
+								Rando VTT
+								Performance , NYONS
+								Dimanche 16 novembre 2014
+						
+
+					Ailleurs dans le coin							
+													
+								"Prendre corps"
+								Spectacle , BONLIEU-SUR-ROUBION
+								Vendredi 07 novembre 2014
+						
+
+												
+													
+								Jazz au château: Concert Musica Nuda
+								Concert , GRIGNAN
+								Vendredi 07 novembre 2014
+						
+
+												
+													
+								Cercle de Lecture
+								Lecture , SAINT-PAUL-TROIS-CHATEAUX
+								Vendredi 07 novembre 2014
+						
+
+												
+													
+								D' EVOLUTION(S)
+								Spectacle , VALREAS
+								Vendredi 07 novembre 2014
+						
+
+												
+													
+								Nilda Fernandez
+								Concert , VILLEDIEU
+								Vendredi 07 novembre 2014
+						
+
+												
+													
+								Jazz à Grignan
+								Concert , GRIGNAN
+								du vendredi 07 au vendredi 28 novembre 2014
+						
+
+												
+													
+								"Qui donc maintenant me dira je t'aime?"
+								Spectacle , DIEULEFIT
+								Samedi 08 novembre 2014
+						
+
+												
+													
+								Jazz au château: Concert Musica Nuda
+								Concert , GRIGNAN
+								Samedi 08 novembre 2014
+						
+
+												
+													
+								Mariages forcés, et caetera
+								Spectacle , GRILLON
+								Samedi 08 novembre 2014
+						
+
+												
+													
+								Course d'endurance quads & motos
+								Manifestation , VISAN
+								du samedi 08 au dimanche 09 novembre 2014
+						
+
+												
+													
+								Vide grenier et Foire Saint Martin
+								Foire , VALAURIE
+								Mardi 11 novembre 2014
+						
+
+												
+													
+								Jazz au château:  Concert Jacky Terrasson et Stéphane Belmondo
+								Concert , GRIGNAN
+								Jeudi 13 novembre 2014
+						
+
+												
+													
+								Jazz au château: Concert de Jacky Terrasson Solo
+								Concert , GRIGNAN
+								Vendredi 14 novembre 2014
+						
+
+												
+													
+								Le Trail des Truffières
+								Performance , PIERRELATTE
+								Dimanche 16 novembre 2014
+						
+
+												
+													
+								Randonnée "Autour de Fontaine de Vaucluse "
+								Randonnée , SEGURET
+								Dimanche 16 novembre 2014
+						
+
+												
+													
+								Bourse aux jouets de l'amicale laïque
+								Foire , TULETTE
+								Dimanche 16 novembre 2014
+						
+
+												
+													
+								Concert Mozart
+								Concert , VAISON-LA-ROMAINE
+								Dimanche 16 novembre 2014
+						
+
+												
+													
+								LOTO de l'ECOLE
+								Jeux , VILLEDIEU
+								Dimanche 16 novembre 2014
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Poële à granulés
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+					
+													Cherche batteur
+							
+						
+						
+														TAULIGNAN
+						
+						
+					
+					
+													Avis de recherche: Protagonistes pour les DUELS DE SOUPES
+							
+						
+						
+														MOLLANS-SUR-OUVEZE
+						
+						
+					
+					
+													Devenez journaliste citoyen !
+							
+						
+						
+														SAHUNE
+						
+						
+					
+					
+													Cherche cours de yoga à Buis et aux environs
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Cherche terrain ou cabane
+							
+						
+						
+														CONDORCET
+						
+						
+					
+					
+													Participez au marché de Noël la Motte Chalancon
+							
+						
+						
+														CORNILLAC
+						
+						
+					
+					
+													Location
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+					
+													La bricothèque de SolidarNyons !
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Défi Familles à Energie Positive
+							
+						
+						
+														NYONS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														La cigale
+								
+								Scène de Musique actuelle
+							
+							
+															NYONS
+								Etablissement privé							
+							
+						
+						
+														AVAM
+								
+								Association Venterolaise des Amis de la Musique
+							
+							
+															VENTEROL
+								Association							
+							
+						
+						
+														AVENTIC
+								
+								Espaces Publics Numériques
+							
+							
+															REMUZAT
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

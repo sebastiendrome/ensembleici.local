@@ -1,0 +1,751 @@
+
+
+    
+        
+        Ensemble ici | # 2015-32 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 06 au 16/08/2015
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Enqu&ecirc;te participative !
+
+L&#39;association familiale du Nyonsais engage une enqu&ecirc;te participative&nbsp;aupr&egrave;s des habitants du Nyonsais.
+Vos retours lui permettront d&#39;adapter son projet associatif (Espace de Vie Sociale) en lien avec les constats et propositions qui seront faits.
+
+Ensemble Ici relaie cette enqu&ecirc;te sur son site:
+
+Retrouvez l&agrave; en cliquant ici ou discutez-en sur les forums citoyens !			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								Nature des hautes Baronnies
+								Manifestation , SEDERON
+								du samedi 08 au dimanche 09 août 2015
+						
+
+												
+													
+								Balivernes, Amours et Bagatelle
+								Spectacle , SEDERON
+								Jeudi 13 août 2015
+						
+
+					Pays de Buis-les-Baronnies							
+													
+								Intervalle - Activités du mois d'août
+								Manifestation , BUIS-LES-BARONNIES
+								du mercredi 05 au lundi 31 août 2015
+						
+
+												
+													
+								"La femme du boulanger" de Jean GIONO Mise en scène: Roland PEYRON
+								Spectacle , LA ROCHE-SUR-LE-BUIS
+								Vendredi 07 août 2015
+						
+
+												
+													
+								"La femme du boulanger" de Jean GIONO Mise en scène: Roland PEYRON
+								Spectacle , LA ROCHE-SUR-LE-BUIS
+								Vendredi 07 août 2015
+						
+
+												
+													
+								La Cave du Troc, votre Boutik' gratuite
+								Visite , MOLLANS-SUR-OUVEZE
+								du samedi 08 au samedi 29 août 2015
+						
+
+												
+													
+								Le Buis j'aime, j'y cours
+								Manifestation , BUIS-LES-BARONNIES
+								Dimanche 09 août 2015
+						
+
+												
+													
+								Parfum de Jazz
+								Festival , BUIS-LES-BARONNIES
+								du mardi 11 au samedi 15 août 2015
+						
+
+												
+													
+								Jazz et cinéma nouvelle vague
+								Festival , BUIS-LES-BARONNIES
+								Samedi 15 août 2015
+						
+
+												
+													
+								Cinéma en plein air
+								Spectacle , SAINT-AUBAN-SUR-L'OUVEZE
+								Samedi 15 août 2015
+						
+
+												
+													
+								Flûtes en Baronnies
+								Festival , BUIS-LES-BARONNIES
+								du samedi 15 au mardi 25 août 2015
+						
+
+					Pays de Rémuzat							
+													
+								APERO CONCERT "MINUIT SPECIAL"
+								Concert , LA MOTTE-CHALANCON
+								Jeudi 06 août 2015
+						
+
+												
+													
+								Soirée sous les étoiles
+								Concert , CORNILLAC
+								Vendredi 07 août 2015
+						
+
+												
+													
+								Les promenades du Tambourinaïre
+								Randonnée , LA MOTTE-CHALANCON
+								Dimanche 09 août 2015
+						
+
+												
+													
+								Exposition peinture et sculpture
+								Exposition , VILLEPERDRIX
+								du dimanche 09 au dimanche 23 août 2015
+						
+
+												
+													
+								Concert de piano avec Marc VELLA
+								Concert , LA MOTTE-CHALANCON
+								Dimanche 16 août 2015
+						
+
+												
+													
+								Stage piano"intuitif" avec Marc VELLA
+								Stage , LA MOTTE-CHALANCON
+								du dimanche 16 au vendredi 21 août 2015
+						
+
+					Val d'Eygues							
+													
+								"Esquisse d'un Nuage"
+								Exposition , SAHUNE
+								du mercredi 15 juillet au samedi 15 août 2015
+						
+
+												
+													
+								Stage de masque et clown avec Mario Gonzales
+								Stage , NYONS
+								du samedi 01 au samedi 08 août 2015
+						
+
+												
+													
+								stage de théâtre enfant
+								Stage , NYONS
+								du lundi 03 au vendredi 07 août 2015
+						
+
+												
+													
+								 Ecriture de Chansons et Polyphonie
+								Stage , LES PILLES
+								du mercredi 05 au samedi 08 août 2015
+						
+
+												
+													
+								Amapola en concert à Nyons
+								Concert , NYONS
+								Jeudi 06 août 2015
+						
+
+												
+													
+								Chorale du Delta
+								Concert , LES PILLES
+								Vendredi 07 août 2015
+						
+
+												
+													
+								Animation écriture à Esquiss - Vendredis des arts
+								Atelier , NYONS
+								Vendredi 07 août 2015
+						
+
+												
+													
+								Chorale du Delta
+								Concert , NYONS
+								Vendredi 07 août 2015
+						
+
+												
+													
+								Quatuor Archinto - quatuor à cordes
+								Concert , SAINTE-JALLE
+								Vendredi 07 août 2015
+						
+
+												
+													
+								Tango Magnolia en concert à Nyons
+								Concert , NYONS
+								Samedi 08 août 2015
+						
+
+												
+													
+								Vente Emmaüs
+								Manifestation , NYONS
+								Samedi 08 août 2015
+						
+
+												
+													
+								Exposition dessins nomades
+								Exposition , LES PILLES
+								du samedi 08 au mercredi 12 août 2015
+						
+
+												
+													
+								George Hailing
+								Exposition , VENTEROL
+								du samedi 08 au dimanche 23 août 2015
+						
+
+												
+													
+								la malle aux secrets
+								Spectacle , NYONS
+								Lundi 10 août 2015
+						
+
+												
+													
+								Frizaplat & Djulius en concert à Nyons
+								Concert , NYONS
+								Mardi 11 août 2015
+						
+
+												
+													
+								Beach Flag
+								Manifestation , NYONS
+								Mardi 11 août 2015
+						
+
+												
+													
+								Kairn en concert à Nyons
+								Concert , NYONS
+								Jeudi 13 août 2015
+						
+
+												
+													
+								Fête Votive de Venterol
+								Fête , VENTEROL
+								du vendredi 14 au dimanche 16 août 2015
+						
+
+												
+													
+								La Bande à Bruzzo en concert à Nyons
+								Concert , NYONS
+								Samedi 15 août 2015
+						
+
+												
+													
+								Randonne en fête
+								Fête , NYONS
+								Samedi 15 août 2015
+						
+
+												
+													
+								Stage de fabrication de marionnettes
+								Stage , NYONS
+								du samedi 15 au samedi 22 août 2015
+						
+
+					Ailleurs dans le coin							
+													
+								Marché dominical
+								Marché , BOUCHET
+								du dimanche 26 juillet au dimanche 30 août 2015
+						
+
+												
+													
+								Initiation tournage à la Maison de la céramique du pays de Dieulefit
+								Atelier , DIEULEFIT
+								du jeudi 30 juillet au lundi 31 août 2015
+						
+
+												
+													
+								Atelier terre enfants à la Maison de la céramique du pays de Dieulefit
+								Atelier , DIEULEFIT
+								du jeudi 30 juillet au lundi 31 août 2015
+						
+
+												
+													
+								Stage terre adultes à la Maison de la céramique du pays de Dieulefit
+								Atelier , DIEULEFIT
+								du jeudi 30 juillet au lundi 31 août 2015
+						
+
+												
+													
+								Exposition de la Maison de la céramique du pays de Dieulefit
+								Exposition , DIEULEFIT
+								du jeudi 30 juillet au dimanche 27 septembre 2015
+						
+
+												
+													
+								Comité des Orgues de GRIGNAN
+								Concert , GRIGNAN
+								Dimanche 09 août 2015
+						
+
+												
+													
+								La Source
+								Spectacle , GRIGNAN
+								Mercredi 12 août 2015
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Atelier tricot Nomade
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													armoire penderie
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														CONDORCET
+						
+						
+					
+					
+													ABRICOTS BIO pour CONFITURE
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Du bon cochon pour fin août !
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAINT-FERREOL-TRENTE-PAS
+						
+						
+					
+					
+													candidatures au forum des associations de Venterol
+							
+						
+						
+														VENTEROL
+						
+						
+					
+					
+													Cours de peinture expression artistique 
+							
+						
+						
+														VALREAS
+						
+						
+					
+					
+													2ème défi culinaire "le climat dans nos assiettes" - Participez !!!
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Toilettes Du Monde recrute 2 services civiques
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Enquête participative (Association familiale du nyonsais)
+							
+						
+						
+														NYONS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Association Familiale du Nyonsais
+								
+								
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														RadiO'live
+								
+								Webradio itinérante
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														Université buissonnière la vie en oeuvre
+								
+								Nomade dans les hautes Baronnies
+							
+							
+															VERS-SUR-MEOUGE
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

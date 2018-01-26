@@ -1,0 +1,599 @@
+
+
+
+    
+        
+        Ensemble ici | # 2017-51 : Ensemble Ici, tous acteurs de la vie locale !
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                &hearts; JOYEUSES F&Ecirc;TES ! &hearts;
+&nbsp;
+Plaisir d'hiver.Contes et Rencontres c'est un mois d'histoires merveilleuses ou saisissantes pour petits et grands enfants.&nbsp;Au mois d'avril 2017 dans la salle de f&ecirc;tes de Montaulieu, Luigi Rignanese, conteur, &eacute;tait venu soutenir ce festival. Sophie l'a rencontr&eacute; pour nous.&nbsp; Et en plus il y a m&ecirc;me des vrais bouts de spectacle dedans !
+Partages en vue !Le 11 janvier 2018, nous c&eacute;l&egrave;brerons les 40 ans de l'association DECOR.Venez avec vos r&eacute;cits et vos anedoctes, on en raffolent !
+&nbsp;
+Nous vous souhaitons de tr&egrave;s belles f&ecirc;tes &agrave; toutes et &agrave; tous, L'&eacute;quipe Ensemble Ici - Baronnies
+&hearts;&hearts;                Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici. Il vous est ais&eacute; d'en ajouter via les formulaires du site. Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d'info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles! 
+contact@ensembleici.fr
+&nbsp;
+L'assocation DECOR est la structure juridique qui porte les projets Ensemble Ici - Baronnies et RadiO'live, webradio init&eacute;rante. Elle a besoin de votre soutien pour continuer d'exercer ses missions. 
+Pensez &agrave; l'adh&eacute;sion
+        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Hautes Baronnies                        
+                    
+                    Brantes dans les étoiles
+                    Marché , BRANTES
+                    du mercredi 27 au vendredi 29 décembre 2017
+                    
+
+                    &nbsp;Pays de Buis-les-Baronnies                        
+                    
+                    Casse-noisette
+                    Projection , BUIS-LES-BARONNIES
+                    Vendredi 22 décembre 2017
+                    
+
+                                            
+                    
+                    Ciné-goûter
+                    Projection , BUIS-LES-BARONNIES
+                    Mercredi 27 décembre 2017
+                    
+
+                                            
+                    
+                    Concert Tout en Mesure en Drôme provencale
+                    Concert , BUIS-LES-BARONNIES
+                    Jeudi 28 décembre 2017
+                    
+
+                                            
+                    
+                    Concert "Tout en mesure"
+                    Concert , BUIS-LES-BARONNIES
+                    Jeudi 28 décembre 2017
+                    
+
+                                            
+                    
+                    Retraite du Nouvel An
+                    Stage , POET-EN-PERCIP
+                    du jeudi 28 décembre 2017 au lundi 01 janvier 2018
+                    
+
+                                            
+                    
+                    Reveillon DISCO
+                    Repas , BUIS-LES-BARONNIES
+                    Dimanche 31 décembre 2017
+                    
+
+                                            
+                    
+                    Réveillon du Nouvel An 2018
+                    Repas , MOLLANS-SUR-OUVEZE
+                    du dimanche 31 décembre 2017 au lundi 01 janvier 2018
+                    
+
+                    &nbsp;Val d'Eygues                        
+                    
+                    Concert de Noël
+                    Concert , NYONS
+                    Vendredi 22 décembre 2017
+                    
+
+                                            
+                    
+                    Repas de noël
+                    Fête , SAINTE-JALLE
+                    Lundi 25 décembre 2017
+                    
+
+                                            
+                    
+                    rencontre pour enfants
+                    Fête , CURNIER
+                    Mardi 26 décembre 2017
+                    
+
+                                            
+                    
+                    Ciné-gouter de Noël
+                    Manifestation , NYONS
+                    Mardi 26 décembre 2017
+                    
+
+                                            
+                    
+                    Atelier laine feutrée
+                    Atelier , CURNIER
+                    Mercredi 27 décembre 2017
+                    
+
+                                            
+                    
+                    Journée Pop Art
+                    Visite , CURNIER
+                    Jeudi 28 décembre 2017
+                    
+
+                                            
+                    
+                    Les tribulations d'Aristide
+                    Spectacle , NYONS
+                    Jeudi 28 décembre 2017
+                    
+
+                                            
+                    
+                    Réveillon de la saint sylvestre
+                    Repas , CURNIER
+                    du dimanche 31 décembre 2017 au lundi 01 janvier 2018
+                    
+
+                                            
+                    
+                    reveillon
+                    Repas , SAINTE-JALLE
+                    du dimanche 31 décembre 2017 au lundi 01 janvier 2018
+                    
+
+                    Crestois Pays de Saillans                        
+                    
+                    Une idée cadeau originale
+                    Atelier , AOUSTE-SUR-SYE
+                    du samedi 23 au dimanche 24 décembre 2017
+                    
+
+                    &nbsp;Pays de Dieulefit-Bourdeaux et Marsanne                        
+                    
+                    Balade de Noël
+                    Spectacle , DIEULEFIT
+                    Samedi 23 décembre 2017
+                    
+
+                                            
+                    
+                    Réveillon Bizz'Art • 31 décembre 2017
+                    Concert , MARSANNE
+                    du dimanche 31 décembre 2017 au lundi 01 janvier 2018
+                    
+
+                    Retrouvez l'agenda complet sur www.ensembleici.fr...            
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Service Civique
+                
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    formation sur la taille des arbres fruitiers
+                
+                    
+                    
+                                                        MONTREAL-LES-SOURCES
+                    
+                    
+                
+                                    2 PNEUS NEIGE 175/65 R14 90 T
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        MONTGUERS
+                    
+                    
+                
+                                    CHAUSSURES SKI - Pointure 42 (Mondopoint 27cm)
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        MONTGUERS
+                    
+                    
+                
+                                    CHERCHE CONGÉLATEUR COFFRE
+                
+                    
+                    
+                                                        VENTEROL
+                    
+                    
+                
+                                    CHERCHE AGNELLES OU JEUNES BREBIS
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        VENTEROL
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Le LUMINAÏRE
+                Entre Muou, Pare, Chabre
+                
+                                        LACHAU
+                        Association                
+                
+                
+                            Baronnies.net
+                Le point Net sur nos vallées
+                
+                                        LACHAU
+                        société privée                
+                
+                
+                            Restaurant bio du lézard vert
+                
+                
+                                        EOURRES
+                                        
+                
+                
+                            Gîte du Lapin Voyageur
+                
+                
+                                        LACHAU
+                        Etablissement privé                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+    Le collectif "Ensemble ici" :
+
+        
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

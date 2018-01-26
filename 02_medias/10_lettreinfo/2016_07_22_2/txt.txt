@@ -1,0 +1,555 @@
+
+
+    
+        
+        Ensemble ici | Lettre d'Ensemble Ici - Vallee de la Drome / Diois, 2016 #19 - 21 Juillet
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 22/07 au 01/08/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						Bonjour &agrave; toutes et tous,
+
+Cette semaine, &agrave; l&#39;agenda c&#39;est &quot;un petit peu de tout&quot;
+Les annonces : logement, musique, et de la &quot;garde&quot;
+
+Merci d&#39;&ecirc;tre toujours plus nombreux &agrave; suivre l&#39;information participative dans la Vall&eacute;e de la Dr&ocirc;me / Diois.
+Demain, &agrave; la mi-journ&eacute;e, retrouvez un compl&eacute;ment d&#39;information avec l&#39;&eacute;mission Mais Qu&#39;est-ce Qui S&#39;Passe ? Ecoutable sur radio St Ferr&eacute;ol (94.2 FM), RDwa (107.5 FM) et sur le site ensembleici.fr
+
+Bonne lecture, bonnes festivit&eacute;s estivales et bonne semaine,
+
+
+	Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois
+
+	
+
+			
+	
+		Rappel
+		T&eacute;l&eacute;chargeable depuis cette lettre, en fichier PDF :
+		- tous les &eacute;v&eacute;nements &agrave; venir dans les 10 jours,
+		- toutes les annonces des 30 derniers jours
+
+		
+	
+
+
+
+	
+                Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+                
+        
+		
+			
+				
+				Crestois Pays de Saillans							
+													
+								RAPIDO à la Terrasse d'Eva
+								Concert , SAILLANS
+								du vendredi 22 au samedi 23 juillet 2016
+						
+
+												
+													
+								Les Talents d'Aurel
+								Exposition , AUREL
+								du dimanche 24 au lundi 25 juillet 2016
+						
+
+												
+													
+								MON'A à La Terrasse d'Eva
+								Concert , SAILLANS
+								du vendredi 29 au samedi 30 juillet 2016
+						
+
+												
+								Exposition aquarelles et sculptures à Aurel
+								Exposition , AUREL
+								du vendredi 29 juillet au dimanche 07 août 2016
+						
+
+					&nbsp;Diois							
+													
+								Tchava Genza au Tchaïwalla
+								Concert , DIE
+								Vendredi 22 juillet 2016
+						
+
+												
+													
+								Arnito au Tchaïwalla
+								Concert , DIE
+								Samedi 23 juillet 2016
+						
+
+												
+													
+								Pique-Nique de l'Accorderie
+								Fête , DIE
+								Samedi 23 juillet 2016
+						
+
+												
+													
+								Concert tango et folklore d'Argentine
+								Concert , DIE
+								Jeudi 28 juillet 2016
+						
+
+												
+													
+								Concert POÉTIQUE HENRY MICHAUX (au chapeau)
+								Concert , DIE
+								Vendredi 29 juillet 2016
+						
+
+												
+													
+								expo aquarelles de Véronique Godding
+								Exposition , PONET-ET-SAINT-AUBAN
+								du vendredi 29 juillet au dimanche 07 août 2016
+						
+
+					Val de Drôme							
+								marché nocturne de LIVRON
+								Marché , LIVRON-SUR-DROME
+								Samedi 23 juillet 2016
+						
+
+												
+													
+								Marieonnettes des bois 
+								Manifestation , CHABRILLAN
+								du samedi 23 au dimanche 24 juillet 2016
+						
+
+												
+													
+								Atelier imprimante 3D
+								Atelier , LIVRON-SUR-DROME
+								Mercredi 27 juillet 2016
+						
+
+												
+													
+								Le Marché du Coin
+								Marché , CLIOUSCLAT
+								Jeudi 28 juillet 2016
+						
+
+												
+													
+								Être Chemin de Paix
+								Stage , OMBLEZE
+								du samedi 30 juillet au samedi 06 août 2016
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+                
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Séjours nature enfants/ados
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													SAXOPHONE 
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													balance 
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													recherche Frigo Combi Congelateur
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													Je vends ma Clio Be Bop 
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													Traductrice
+							
+						
+						
+														BEAUFORT-SUR-GERVANNE
+						
+						
+					
+					
+													cherche randonneurs / pilotes de joelettes
+							
+						
+						
+														MENGLON
+						
+						
+					
+					
+													Bureau d'écolier ancien
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														GIGORS-ET-LOZERON
+						
+						
+					
+					
+													mobylette
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														LUC-EN-DIOIS
+						
+						
+					
+					
+													Location-gardiennage
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													Feng Shui
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													RECHERCHE PROF DE GUITARE
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAILLANS
+						
+						
+					
+					
+													recherche pour garder mon enfant de 7 ans
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														ROMEYER
+						
+						
+					
+					
+													Stage "Apprendre à construire des projets ensemble" 27 et 28 aout
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Galgal Escapade
+								
+								
+							
+							
+															VAUNAVEYS-LA-ROCHETTE
+								Auto-entrepreneur							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

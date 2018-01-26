@@ -1,0 +1,728 @@
+
+
+    
+        
+        Ensemble ici | # 2016-07 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 11 au 21/02/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	
+
+	
+	Soutenons l&#39;accueil de r&eacute;fugi&eacute;s &agrave; Nyons !
+	&nbsp;
+
+	Plusieurs collectifs se sont cr&eacute;&eacute;s sur le territoire des Baronnies proven&ccedil;ales pour accueillir des r&eacute;fugi&eacute;s du Proche Orient. Tous ont besoin de collecter des fonds pour g&eacute;rer ou simplement am&eacute;liorer le quotidien des familles concern&eacute;es. Le comit&eacute; d&rsquo;accueil cr&eacute;&eacute; &agrave; Nyons &agrave; l&rsquo;initiative de la mairie n&rsquo;&eacute;chappe pas &agrave; cette n&eacute;cessit&eacute;.&nbsp;
+	Plus d&#39;infos en cliquant ICI
+
+Rendez-vous ce soir (jeudi) &agrave; la maison de pays d&egrave;s 19h30 pour un ap&eacute;ro Concert D&icirc;natoire en soutien aux r&eacute;fugi&eacute;s avec le Duo Antiquarks !
+
+
+
+
+
+	&nbsp;
+
+	Ensemble ici change de num&eacute;ro ! Pour nous contacter appelez au 04 75 27 12 14
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								"EN QUÊTE DE SENS"
+								Projection , MONTBRUN-LES-BAINS
+								Vendredi 12 février 2016
+						
+
+												
+													
+								Soirée Karaokée
+								Spectacle , SEDERON
+								Vendredi 19 février 2016
+						
+
+												
+													
+								Concert Jazz/Blues Dayna Kurtz en duo (USA)
+								Concert , MONTBRUN-LES-BAINS
+								Samedi 20 février 2016
+						
+
+												
+													
+								Stage de jazz vocal #2 avec Laure Donnat
+								Stage , MONTBRUN-LES-BAINS
+								Samedi 20 février 2016
+						
+
+					&nbsp;Pays de Buis-les-Baronnies							
+													
+								Prix littéraire des Baronnies
+								Performance , BUIS-LES-BARONNIES
+								du jeudi 28 janvier au samedi 27 février 2016
+						
+
+												
+													
+								Soirée Magic'Ole
+								Spectacle , BUIS-LES-BARONNIES
+								Vendredi 12 février 2016
+						
+
+												
+													
+								Conférence sur l'agriculture
+								Conférence , PIERRELONGUE
+								Vendredi 12 février 2016
+						
+
+												
+													
+								Conférence "Le pastoralisme aux XVII et XVIIIème siècle"
+								Conférence , BUIS-LES-BARONNIES
+								Samedi 13 février 2016
+						
+
+												
+													
+								Soirée Magic'Ole
+								Spectacle , MOLLANS-SUR-OUVEZE
+								Samedi 13 février 2016
+						
+
+												
+													
+								Cinéma à partir de 8 ans
+								Projection , BUIS-LES-BARONNIES
+								Mercredi 17 février 2016
+						
+
+												
+													
+								BLICK BASSY + Nyna Loren [Musiques du monde]
+								Concert , BUIS-LES-BARONNIES
+								Samedi 20 février 2016
+						
+
+												
+													
+								Théâtre des deux mondes
+								Spectacle , BUIS-LES-BARONNIES
+								Dimanche 21 février 2016
+						
+
+					Pays de Rémuzat							
+													
+								ateliers ludiques peinture et dessin 
+								Cours , CORNILLON-SUR-L'OULE
+								du vendredi 29 janvier au vendredi 24 juin 2016
+						
+
+												
+													
+								découverte de la  méditation de la Pleine Conscience
+								Atelier , CORNILLON-SUR-L'OULE
+								du mardi 02 février au mardi 14 juin 2016
+						
+
+					Val d'Eygues							
+													
+								Concert de soutien
+								Concert , NYONS
+								Jeudi 11 février 2016
+						
+
+												
+													
+								 Spectacle d'impro théâtrale de l'atelier VOLT
+								Spectacle , NYONS
+								Jeudi 11 février 2016
+						
+
+												
+													
+								Contes et chants d'Amour avec Estelan 
+								Concert , MIRABEL-AUX-BARONNIES
+								Vendredi 12 février 2016
+						
+
+												
+													
+								Soirée saint valentin
+								Repas , CURNIER
+								Samedi 13 février 2016
+						
+
+												
+													
+								L’ANIMALERIE + Metamec + Open Mic [Hip Hop]
+								Concert , NYONS
+								Samedi 13 février 2016
+						
+
+												
+													
+								Nicolas AYME aux Gourmandines
+								Concert , NYONS
+								Samedi 13 février 2016
+						
+
+												
+													
+								Concert Swing Crooners
+								Concert , VINSOBRES
+								Samedi 13 février 2016
+						
+
+												
+													
+								Projection de film et débat "Un vélo en Himalaya" 
+								Projection , NYONS
+								Lundi 15 février 2016
+						
+
+												
+													
+								Gérer son budget et améliorer la relation avec sa banque
+								Réunion , NYONS
+								du mardi 16 février au mardi 08 mars 2016
+						
+
+												
+													
+								Concert RAP.
+								Concert , LES PILLES
+								Mercredi 17 février 2016
+						
+
+												
+													
+								Vacances en familles
+								Réunion , NYONS
+								Mercredi 17 février 2016
+						
+
+												
+													
+								Lecture théâtralisée 'Nous les filles" 
+								Lecture , NYONS
+								Vendredi 19 février 2016
+						
+
+												
+													
+								MEDITATION PLEINE PRESENCE
+								Atelier , NYONS
+								Samedi 20 février 2016
+						
+
+					&nbsp;Ailleurs dans le coin							
+													
+								Exposition des peintures de Elizardo Plumer Morales au Hang'Art
+								Atelier , SERRES
+								du mercredi 20 janvier au mardi 08 mars 2016
+						
+
+												
+													
+								Exposition Sylvie Garraud, structures etc...
+								Exposition , VALAURIE
+								du vendredi 29 janvier au dimanche 13 mars 2016
+						
+
+												
+													
+								"Vice Versa" - Comédie
+								Spectacle , VESC
+								Samedi 13 février 2016
+						
+
+												
+													
+								Stage Vannerie Sauvage - Vannerie spiralée de paille et de ronce
+								Atelier , BARRET-SUR-MEOUGE
+								du samedi 13 au dimanche 14 février 2016
+						
+
+												
+													
+								La Tribu des Femmes
+								Concert , CHAROLS
+								Dimanche 14 février 2016
+						
+
+												
+													
+								STAGE DE DANSE ADOS
+								Stage , VAISON-LA-ROMAINE
+								du lundi 15 au mardi 16 février 2016
+						
+
+												
+													
+								Transition, biens communs, financiarisation de la société et de la nature
+								Conférence , VAISON-LA-ROMAINE
+								Vendredi 19 février 2016
+						
+
+												
+													
+								Des croisades au djihad, les religions prêchent les guerres tout en se réclamant de la paix.
+								Conférence , DIEULEFIT
+								Samedi 20 février 2016
+						
+
+												
+													
+								SUPER LOTO
+								Jeux , LACHAU
+								Samedi 20 février 2016
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													RECHERCHE LOGEMENT
+							
+						
+						
+														BEAUVOISIN
+						
+						
+					
+					
+													Soutenez l'accueil de réfugiés à Nyons !
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													recherche guitariste
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													jardin communautaire
+							
+						
+						
+														VAISON-LA-ROMAINE
+						
+						
+					
+					
+													Recherche de mobilier !
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Loft à Nyons
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													STAGE DANSE ADOS
+							
+						
+						
+														VAISON-LA-ROMAINE
+						
+						
+					
+					
+													musicienne cherche logement
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Le Festin des Poètes
+							
+						
+						
+														BEAUVOISIN
+						
+						
+					
+					
+													REUNION ALOE VERA 
+							
+						
+						
+														NYONS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Art Ensemble ici !
+								
+								
+							
+							
+															LES PILLES
+															
+							
+						
+						
+														So Provence, So Alps !
+								
+								Agence locale de tourisme authentique
+							
+							
+															NYONS
+								société privée							
+							
+						
+						
+														BATUCABUIS
+								
+								
+							
+							
+															BUIS-LES-BARONNIES
+								Association							
+							
+						
+						
+														cinéma Le reg'Art
+								
+								
+							
+							
+															BUIS-LES-BARONNIES
+								Association							
+							
+						
+						
+														CATHERINE VAUDAINE
+								
+								CONSEIL EN RELATION HUMAINE et SPIRITUEL
+							
+							
+															NYONS
+								Auto-entrepreneur							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

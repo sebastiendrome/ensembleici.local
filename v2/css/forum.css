@@ -1,0 +1,45 @@
+#forumlocal.blocB h1{
+	font-size: 3em;
+	border-bottom: 0px none;
+	padding: 0px 0px 5px;
+	border-radius: 0px;
+	color: #15AA9E;
+	font-family: 'Yanone Kaffeesatz',sans-serif;
+	font-weight: normal;
+	letter-spacing: 1px;
+	position: relative;
+	text-transform: uppercase;
+	text-align: right;
+	margin-bottom: 5px;
+	text-shadow: none;
+	min-height: 28px;
+	vertical-align: middle;
+}
+
+#forumlocal.blocB h2{
+	color: #15AA9E;
+}
+
+.un-forum{
+	margin: 30px;
+	padding-bottom: 20px;
+}
+
+.case_lien, .case_lien_citoyen{
+	text-decoration: none;	
+}
+
+#forumlocal.blocB .case_lien:hover h2{
+	color: rgb(227, 214, 199);
+}
+
+#forumlocal.blocB .case_lien_citoyen:hover h2{
+	text-decoration: underline;
+}
+
+#forumlocal.blocB .case_lien:hover .genre_ville{
+	background-color: rgb(227, 214, 199);
+}
+#forumlocal.blocB .case_lien:hover .illustr{
+	box-shadow: 0px 0px 3px rgb(85, 85, 85);
+}

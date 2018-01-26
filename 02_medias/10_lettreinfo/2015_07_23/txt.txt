@@ -1,0 +1,727 @@
+
+
+    
+        
+        Ensemble ici | # 2015-30 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 23/07 au 02/08/2015
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						Nouvelle &eacute;mission de Radiolive en ligne : Mare Nostrum 1 : le Maroc
+Sept mois de voyage, de l&rsquo;Espagne &agrave; la Turquie, &agrave; la d&eacute;couverte des cultures m&eacute;diterran&eacute;ennes.
+Premier &eacute;pisode&nbsp;: Descente vers le Sud !
+
+Un grand merci &agrave; tous ceux qui rentrent leurs infos directement sur le site : c&#39;est ainsi que nous r&eacute;alisons ensemble cet outil d&#39;information et de liens au service de tous dans les Baronnies proven&ccedil;ales !
+C&#39;est aussi ainsi que vous pouvez &ecirc;tre s&ucirc;r que votre information sera bien en ligne apr&egrave;s validation et pr&eacute;sente dans cette lettre hebdomadaire qui atteint de plus en plus de monde.
+Justement, n&#39;h&eacute;sitez pas &agrave; en parler autour de vous : c&#39;est par le bouche &agrave; oreille qu&#39;Ensemble ici se d&eacute;veloppera.
+Devenez correspondant local : entrez les informations de votre localit&eacute;, et tous seront au courant !
+
+Et qu&#39;on se le dise aussi : nous cherchons un service civique pour remplacer Yann qui poursuit son parcours, fort de son exp&eacute;rience &agrave; Ensemble ici. D&eacute;tails [ici].
+
+Ensemble ici est une initiative citoyenne ind&eacute;pendante. Pour nous soutenir, c&#39;est [ici]. Merci !
+
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								GRATIFERIA St Jean de Sault
+								Vide-grenier , MONTBRUN-LES-BAINS
+								Dimanche 26 juillet 2015
+						
+
+												
+													
+								Concert à l'église de St Léger
+								Concert , REILHANETTE
+								Vendredi 31 juillet 2015
+						
+
+					Pays de Buis-les-Baronnies							
+													
+								"YES FUTUR "
+								Spectacle , BUIS-LES-BARONNIES
+								du lundi 20 au vendredi 24 juillet 2015
+						
+
+												
+													
+								Festival Musiques Futées ! Escale à Buis les Baronnies
+								Concert , BUIS-LES-BARONNIES
+								Jeudi 23 juillet 2015
+						
+
+												
+													
+								Peintres dans les ruelles à Sainte Euphémie sur Ouvèze
+								Exposition , SAINTE-EUPHEMIE-SUR-OUVEZE
+								du samedi 25 au dimanche 26 juillet 2015
+						
+
+												
+													
+								Découverte botanique accompagnée
+								Promenade , BUIS-LES-BARONNIES
+								Dimanche 26 juillet 2015
+						
+
+												
+													
+								"La femme du boulanger" de Jean GIONO Mise en scène: Roland PEYRON
+								Spectacle , BUIS-LES-BARONNIES
+								Mardi 28 juillet 2015
+						
+
+												
+													
+								"Knock" de Jules ROMAINS
+								Spectacle , BUIS-LES-BARONNIES
+								Jeudi 30 juillet 2015
+						
+
+												
+													
+								"Femme du boulanger" de Jean GIONO
+								Spectacle , BUIS-LES-BARONNIES
+								Vendredi 31 juillet 2015
+						
+
+												
+													
+								"Etonnant non?" d'après des textes de Pierre DESPROGES
+								Spectacle , BUIS-LES-BARONNIES
+								Samedi 01 août 2015
+						
+
+												
+													
+								"La femme du boulanger" de Jean GIONO
+								Spectacle , BUIS-LES-BARONNIES
+								Dimanche 02 août 2015
+						
+
+					Pays de Rémuzat							
+													
+								SOIREE CONCERT "MINUIT SPECIAL"
+								Concert , LA MOTTE-CHALANCON
+								Vendredi 24 juillet 2015
+						
+
+												
+													
+								DIBOUK
+								Concert , LA MOTTE-CHALANCON
+								Samedi 25 juillet 2015
+						
+
+												
+													
+								La fête du Tambourinaïre
+								Fête , LA MOTTE-CHALANCON
+								Dimanche 26 juillet 2015
+						
+
+												
+													
+								Chorale du Delta
+								Concert , VILLEPERDRIX
+								Lundi 27 juillet 2015
+						
+
+					&nbsp;Val d'Eygues							
+													
+								Exposition Simone BIGOT MOONENS
+								Exposition , NYONS
+								du mardi 21 juillet au samedi 29 août 2015
+						
+
+												
+													
+								Sofia Vokalensemble en concert à Nyons
+								Concert , NYONS
+								Jeudi 23 juillet 2015
+						
+
+												
+													
+								Soirée contes
+								Conte , NYONS
+								Jeudi 23 juillet 2015
+						
+
+												
+													
+								DIBOUK
+								Concert , NYONS
+								Vendredi 24 juillet 2015
+						
+
+												
+													
+								Projection l'Indompté
+								Projection , VINSOBRES
+								Vendredi 24 juillet 2015
+						
+
+												
+													
+								Soirée karaoké
+								Repas , CURNIER
+								Samedi 25 juillet 2015
+						
+
+												
+													
+								Son Trinitario en concert à Nyons
+								Concert , NYONS
+								Samedi 25 juillet 2015
+						
+
+												
+													
+								Dos Amigos & Co en concert
+								Concert , NYONS
+								Dimanche 26 juillet 2015
+						
+
+												
+													
+								le château de ma mère
+								Spectacle , NYONS
+								Lundi 27 juillet 2015
+						
+
+												
+													
+								Chorale du Delta
+								Concert , SAINTE-JALLE
+								Lundi 27 juillet 2015
+						
+
+												
+													
+								Beach Volley
+								Manifestation , NYONS
+								Mardi 28 juillet 2015
+						
+
+												
+													
+								"Une touche d'optimisme" en concert à Nyons
+								Concert , NYONS
+								Mardi 28 juillet 2015
+						
+
+												
+													
+								Musique de chambre aux Baronnies
+								Concert , SAINTE-JALLE
+								Mardi 28 juillet 2015
+						
+
+												
+													
+								North Gospel Quartet
+								Concert , ARPAVON
+								Mercredi 29 juillet 2015
+						
+
+												
+													
+								La Source
+								Spectacle , CURNIER
+								Mercredi 29 juillet 2015
+						
+
+												
+													
+								Soul River en concert à Nyons
+								Concert , NYONS
+								Jeudi 30 juillet 2015
+						
+
+												
+													
+								Balade  au clair de lune
+								Randonnée , NYONS
+								Vendredi 31 juillet 2015
+						
+
+												
+													
+								Découvrir l'agriculture des Baronnies
+								Promenade , SAINTE-JALLE
+								Vendredi 31 juillet 2015
+						
+
+												
+													
+								FESTIVAL TANGRAM #2 // EXPOS - CONCERTS - PETITE REST'O - CHILL OUT
+								Festival , NYONS
+								du vendredi 31 juillet au samedi 01 août 2015
+						
+
+												
+													
+								Big Ukulélé Syndicate en concert à Nyons
+								Concert , NYONS
+								Samedi 01 août 2015
+						
+
+					Ailleurs dans le coin							
+													
+								Stage céramique Raku
+								Stage , CHAMARET
+								du lundi 20 juillet au samedi 31 octobre 2015
+						
+
+												
+													
+								Nuits de l'Enclave "Les Misérables"
+								Festival , VISAN
+								Jeudi 23 juillet 2015
+						
+
+												
+													
+								Festival Musiques Futées ! de Volvent
+								Concert , VOLVENT
+								Vendredi 24 juillet 2015
+						
+
+												
+													
+								Nouvelles du conte
+								Conte , BOURDEAUX
+								du vendredi 24 juillet au samedi 08 août 2015
+						
+
+												
+													
+								Concert d'orgues à la Collégiale
+								Concert , GRIGNAN
+								Dimanche 26 juillet 2015
+						
+
+												
+													
+								 Stage Zen Taichi Chuan Qiqong   Aikido Calligraphie 
+								Stage , DIEULEFIT
+								du lundi 27 juillet au samedi 01 août 2015
+						
+
+												
+													
+								Christian Jeanmart lit Jay Mcinerney : « Moi tout craché »
+								Spectacle , BOUVIERES
+								Mercredi 29 juillet 2015
+						
+
+												
+													
+								MUSIQUES A SEGURET
+								Concert , SEGURET
+								Jeudi 30 juillet 2015
+						
+
+												
+													
+								Nouveau cirque
+								Spectacle , SUZE-LA-ROUSSE
+								du jeudi 30 juillet au mercredi 05 août 2015
+						
+
+												
+													
+								Jazz dans les vignes
+								Concert , VISAN
+								Samedi 01 août 2015
+						
+
+												
+													
+								Gestes et savoirs d'autrefois
+								Exposition , LABOREL
+								Dimanche 02 août 2015
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Appel à témoignage "habitat groupé"
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Revend billet pour les fêtes nocturnes de Grignan
+							
+						
+						
+														CURNIER
+						
+						
+					
+					
+													Stages d'éveil musical pour enfants
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+					
+													Le Piano Voyageur au coeur du vignoble
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														MIRABEL-AUX-BARONNIES
+						
+						
+					
+					
+													Atelier tricot Nomade
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														TerresDeMusique / Festival Musiques Futées !
+								
+								concerts et rencontres musiques du monde
+							
+							
+															VOLVENT
+								Association							
+							
+						
+						
+														Cyclos nyonsais
+								
+								
+							
+							
+															CONDORCET
+								Association							
+							
+						
+						
+														Croches Pattes
+								
+								Eveil musical
+							
+							
+															NYONS
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

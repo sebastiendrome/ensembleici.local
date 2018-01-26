@@ -1,0 +1,587 @@
+
+
+    
+        
+        Ensemble ici | # 18 : Ensemble Ici en Baronnies
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 24/10 au 02/11/2013
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						Bonjour,
+
+Il y a deux semaines, nous vous avions avis&eacute;s des difficult&eacute;s rencontr&eacute;es par le Th&eacute;&acirc;tre de l&#39;Aube et des menaces qui p&egrave;sent sur le secteur associatif et culturel.
+
+Un collectif de soutien se mobilise depuis le 21 septembre dans le but d&#39;interpeller les &eacute;lus locaux sur la situation et sur la n&eacute;cessit&eacute; de leur engagement financier et moral, pour que ce Th&eacute;&acirc;tre subsiste et pour que l&#39;action culturelle en milieu rural ne s&#39;&eacute;teigne pas.
+
+Vous pouvez d&eacute;sormais signer une p&eacute;tition en ligne en cliquant ici !
+
+
+Au-del&agrave; des autres actions engag&eacute;es, il est important de recueillir un grand nombre de signatures pour que les &eacute;lus locaux affirment leur volont&eacute; de s&#39;unir &agrave; cette cause qui nous appartient tous!
+
+N&rsquo;h&eacute;sitez pas &agrave; diffuser l&#39;information autour de vous, si vous souhaitez que l&rsquo;agenda local demeure aussi riche que celui que nous vous proposons pour les dix prochains jours!
+
+
+	L&rsquo;&eacute;quipe &laquo;&nbsp;Ensemble ici&nbsp;&raquo;.
+			Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici. Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site. Tous ensemble, solidaires, b&acirc;tissons cet outil d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, et bient&ocirc;t forums.		
+	
+
+
+	
+		
+			
+				
+				Pays de Buis-les-Baronnies							
+													
+								Exposition à la Maison des Plantes 
+								Exposition , BUIS-LES-BARONNIES
+								du vendredi 20 septembre au jeudi 28 novembre 2013
+						
+
+												
+													
+								Stage théâtre improvisation Voix
+								Rencontre , PROPIAC
+								du vendredi 25 au mardi 29 octobre 2013
+						
+
+												
+													
+								Concert KARIMOUCHE + FAMILY CHEAP + METAMEC
+								Concert , BUIS-LES-BARONNIES
+								Samedi 26 octobre 2013
+						
+
+												
+													
+								Albertine en cinq temps
+								Spectacle , BUIS-LES-BARONNIES
+								Dimanche 27 octobre 2013
+						
+
+					&nbsp;Pays de Rémuzat							
+													
+								Pascale Evieux
+								Concert , MONTREAL-LES-SOURCES
+								Samedi 26 octobre 2013
+						
+
+												
+													
+								Journée "champignons"
+								promenade /  randonnée , LA MOTTE-CHALANCON
+								Dimanche 27 octobre 2013
+						
+
+												
+													
+								Marché des fruits et légumes d'automne
+								Marché , REMUZAT
+								Dimanche 03 novembre 2013
+						
+
+					Val d'Eygues							
+													
+								Cycle Ozu au cinéma
+								Projection , NYONS
+								du mercredi 16 octobre au mardi 05 novembre 2013
+						
+
+												
+													
+								Jeux en mode Kinect
+								Atelier , NYONS
+								du mardi 22 octobre au samedi 02 novembre 2013
+						
+
+												
+													
+								Facilàchanter : jeu autour de la chanson française
+								jeux , NYONS
+								Jeudi 24 octobre 2013
+						
+
+												
+													
+								Soirée conviviale et ayurvédique
+								Atelier , LES PILLES
+								Vendredi 25 octobre 2013
+						
+
+												
+													
+								"On planche la-dessus"
+								Spectacle , NYONS
+								Samedi 26 octobre 2013
+						
+
+												
+													
+								Toupetituli
+								Atelier , NYONS
+								Samedi 26 octobre 2013
+						
+
+												
+													
+								Balade des oliviers en moto ancienne
+								Manifestation , NYONS
+								Samedi 26 octobre 2013
+						
+
+												
+													
+								SECRETS d’Atelier de Pascal LEROY PY
+								Exposition , SAHUNE
+								Samedi 26 octobre 2013
+						
+
+												
+													
+								Ateliers sophrologie
+								Atelier , LES PILLES
+								du samedi 26 octobre au samedi 07 décembre 2013
+						
+
+												
+													
+								Trial des Oliviers
+								Manifestation , NYONS
+								Dimanche 27 octobre 2013
+						
+
+												
+													
+								Les instants musicales
+								Concert , MONTAULIEU
+								Samedi 02 novembre 2013
+						
+
+												
+													
+								CONCERT DAFUNIKS + SAX MACHINE
+								Concert , NYONS
+								Samedi 02 novembre 2013
+						
+
+					Ailleurs dans le coin							
+													
+								Kneebody
+								Concert , VIVIERS
+								Vendredi 25 octobre 2013
+						
+
+												
+													
+								Le journal d'Anne Frank
+								Spectacle , SAINT-PAUL-TROIS-CHATEAUX
+								Samedi 26 octobre 2013
+						
+
+												
+													
+								Salon du couteau
+								Atelier , PIERRELATTE
+								du samedi 26 au dimanche 27 octobre 2013
+						
+
+												
+													
+								Adrian Byron Burns en trio
+								Concert , SAVOILLAN
+								Jeudi 31 octobre 2013
+						
+
+												
+													
+								Après les vendanges
+								Festival , VAISON-LA-ROMAINE
+								du jeudi 31 octobre au samedi 07 décembre 2013
+						
+
+												
+													
+								Marché aux truffes 
+								Marché , TAULIGNAN
+								du vendredi 01 novembre 2013 au lundi 31 mars 2014
+						
+
+												
+								Repas Concert
+								repas , SAINT-NAZAIRE-LE-DESERT
+								Samedi 02 novembre 2013
+						
+
+												
+													
+								Les Boots
+								Concert , VILLEDIEU
+								Samedi 02 novembre 2013
+						
+
+												
+								Bourse aux jouets
+								Foire , TULETTE
+								Dimanche 03 novembre 2013
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													 maison de village 80 m2
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														REMUZAT
+						
+						
+					
+					
+													transport
+							
+						
+						
+														MIRABEL-AUX-BARONNIES
+						
+						
+					
+					
+													Cherche violoniste et guitariste musique irlandaise
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+		
+			
+				
+			
+		
+	
+		
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Natura Ventoux
+								
+								
+							
+							
+															MONTBRUN-LES-BAINS
+								société privée							
+							
+						
+						
+														Théâtre de l'Aube
+								
+								Association Aube Nouvelle
+							
+							
+															CONDORCET
+								Association							
+							
+						
+						
+														Association AIDER
+								
+								Hebergement convivial en Drôme Ardèche  
+							
+							
+															EURRE
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+			
+				
+			
+				
+			
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

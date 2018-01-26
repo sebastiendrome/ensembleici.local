@@ -1,0 +1,712 @@
+
+
+
+    
+        
+        Ensemble ici | # 2017-10 : Ensemble Ici, tous acteurs de la vie locale !
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Une tr&egrave;s belle journ&eacute;e internationale pour les droits de la femme &agrave; toutes et tous !
+&nbsp;
+Depuis des g&eacute;n&eacute;rations des femmes luttent pour que leurs droits soient reconnus et accept&eacute;s. Cette journ&eacute;e est en l'honneur de leur m&eacute;moire et de leurs victoires.
+&nbsp;
+&nbsp;
+&ldquo;On ne na&icirc;t pas femme, on le devient.&rdquo; &eacute;crivait Simone de Beauvoir.
+La f&eacute;minit&eacute; se respecte, tout comme l'humanit&eacute;.
+&nbsp;
+Dans cette lettre d'information, vous trouverez pi&egrave;ces de th&eacute;&acirc;tre, soir&eacute;es d&eacute;bat, projections de documentaires et expositions pour parler de ce qui concerne au moins 50% d'entre-nous, mais pas seulement ! 
+&nbsp;
+Bonne lecture &agrave; vous
+L'&eacute;quipe Ensemble Ici - Baronnies
+&nbsp;
+&nbsp;                Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici. Il vous est ais&eacute; d'en ajouter via les formulaires du site. Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d'info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles! 
+contact@ensembleici.fr
+&nbsp;
+L'assocation DECOR est la structure juridique qui porte les projets Ensemble Ici - Baronnies et RadiO'live, webradio init&eacute;rante. Elle a besoin de votre soutien pour continuer d'exercer ses missions. 
+Pensez &agrave; l'adh&eacute;sion
+        
+    
+
+
+
+    
+        
+            
+            Hautes Baronnies                        
+                    
+                    KASASKA et MAKIZAR en concert 
+                    Concert , REILHANETTE
+                    Samedi 11 mars 2017
+                    
+
+                                            
+                    
+                     LA BOUTIQUE ITINERANTE
+                    Exposition , MONTBRUN-LES-BAINS
+                    Dimanche 19 mars 2017
+                    
+
+                    Pays de Buis-les-Baronnies                        
+                    
+                    Après-midi jeux pour tous
+                    Jeux , MOLLANS-SUR-OUVEZE
+                    Samedi 11 mars 2017
+                    
+
+                                            
+                    
+                    Des lois et des hommes
+                    Projection , BUIS-LES-BARONNIES
+                    Lundi 13 mars 2017
+                    
+
+                                            
+                    
+                    ciné-sucré
+                    Projection , BUIS-LES-BARONNIES
+                    Mardi 14 mars 2017
+                    
+
+                                            
+                    
+                    Carnaval de Buis-les-Baronnies
+                    Fête , BUIS-LES-BARONNIES
+                    Vendredi 17 mars 2017
+                    
+
+                    &nbsp;Pays de Dieulefit-Bourdeaux                        
+                    
+                    Réunion de présentation Ensemble Ici
+                    journée d'information , DIEULEFIT
+                    Samedi 18 mars 2017
+                    
+
+                                            
+                    
+                    LES INSTANTS MUSICALES
+                    Concert , ROUSSET-LES-VIGNES
+                    Dimanche 19 mars 2017
+                    
+
+                    Pays de Rémuzat                        
+                    
+                    MUSIQUE SACRÉE & SACRÉE MUSIQUE
+                    Concert , LA MOTTE-CHALANCON
+                    Samedi 18 mars 2017
+                    
+
+                    &nbsp;Val d'Eygues                        
+                    
+                    GESTALT & PLEINE CONSCIENCE 
+                    Atelier , MIRABEL-AUX-BARONNIES
+                    Mercredi 08 mars 2017
+                    
+
+                                            
+                    
+                    Conférence
+                    Conférence , LES PILLES
+                    Vendredi 10 mars 2017
+                    
+
+                                            
+                    
+                    Concert Flamenco
+                    Concert , NYONS
+                    Vendredi 10 mars 2017
+                    
+
+                                            
+                    
+                    Troc de vêtements
+                    Manifestation , AUBRES
+                    Samedi 11 mars 2017
+                    
+
+                                            
+                    
+                    Encore Elles !
+                    Rencontre , MIRABEL-AUX-BARONNIES
+                    Samedi 11 mars 2017
+                    
+
+                                            
+                    
+                    Rencontre avec Jean-Marie Berthier à la Librairie de l'Olivier
+                    Rencontre , NYONS
+                    Samedi 11 mars 2017
+                    
+
+                                            
+                    
+                    SESSIONS ACCORDÉON
+                    Stage , NYONS
+                    Dimanche 12 mars 2017
+                    
+
+                                            
+                    
+                    MEDITATION
+                    Atelier , NYONS
+                    Dimanche 12 mars 2017
+                    
+
+                                            
+                    
+                    MASSAGE
+                    Atelier , NYONS
+                    Dimanche 12 mars 2017
+                    
+
+                                            
+                    
+                    CHANTS PARTAGES
+                    Fête , LES PILLES
+                    Jeudi 16 mars 2017
+                    
+
+                                            
+                    
+                    Les Voconces
+                    Conférence , NYONS
+                    Jeudi 16 mars 2017
+                    
+
+                                            
+                    
+                    Apéro de l'Autoconstruction #3
+                    Rencontre , NYONS
+                    Vendredi 17 mars 2017
+                    
+
+                                            
+                    
+                    Ivo Livi où le destin d'Yves Montand
+                    Spectacle , NYONS
+                    Samedi 18 mars 2017
+                    
+
+                                            
+                    
+                    Le Printemps des Poètes
+                    Atelier , NYONS
+                    Samedi 18 mars 2017
+                    
+
+                                            
+                    
+                    STAGE FIGURE LIBRE
+                    Stage , LES PILLES
+                    du samedi 18 au dimanche 19 mars 2017
+                    
+
+                                            
+                    
+                    ceramique stage
+                    Atelier , VALOUSE
+                    du samedi 18 au dimanche 19 mars 2017
+                    
+
+                                            
+                    
+                    Musique sacrée & Sacrée musique
+                    Concert , NYONS
+                    Dimanche 19 mars 2017
+                    
+
+                    Ailleurs dans le coin                        
+                    
+                    Crowfunding radio M 
+                    Manifestation , MONTELIMAR
+                    du vendredi 24 février au samedi 11 mars 2017
+                    
+
+                                            
+                    
+                    VOLTAIRE VS. ROUSSEAU - ANNULE
+                    Spectacle , VAISON-LA-ROMAINE
+                    Vendredi 10 mars 2017
+                    
+
+                                            
+                    
+                     ELLE
+                    Spectacle , VALREAS
+                    Vendredi 10 mars 2017
+                    
+
+                                            
+                    
+                    Piano en Liberté
+                    Performance , VALREAS
+                    Samedi 11 mars 2017
+                    
+
+                                            
+                    
+                    Balajo-dj's Party
+                    Performance , SEGURET
+                    du samedi 11 au dimanche 12 mars 2017
+                    
+
+                                            
+                    
+                    Sermaine Emilie Valantin
+                    Exposition , VALREAS
+                    du samedi 11 au vendredi 17 mars 2017
+                    
+
+                                            
+                    
+                    Spectacle Jean Guillon : Histoires de provençaux
+                    Spectacle , VALAURIE
+                    Dimanche 12 mars 2017
+                    
+
+                    Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...            
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            vends canapé cuir
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    Cherche agnelles corses ou autre
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        VENTEROL
+                    
+                    
+                
+                                    ATELIERS MEMOIRE
+                
+                    
+                    
+                                                        AUBRES
+                    
+                    
+                
+                                    ATELIER THEÂTRE
+                
+                    
+                    
+                                                        AUBRES
+                    
+                    
+                
+                                    Stages Tai Chi et Qi Gong
+                
+                    
+                    
+                                                        LA MOTTE-CHALANCON
+                    
+                    
+                
+                                    location studio 25 m²
+                
+                    
+                    
+                                                        SAINT-MAURICE-SUR-EYGUES
+                    
+                    
+                
+                                    location maison
+                
+                    
+                    
+                                                        SAINT-MAURICE-SUR-EYGUES
+                    
+                    
+                
+                                    location appartement
+                
+                    
+                    
+                                                        SAINT-MAURICE-SUR-EYGUES
+                    
+                    
+                
+                                    Recherche logement pour jeune femme
+                
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            L' Atelier du Chouchalout
+                Un espace convivial où se ressourcer dans un cadre naturel reposant
+                
+                                        LES PILLES
+                        Association                
+                
+                
+                            Ahoudig-Kukla myriam
+                la ferme des enfants de fabreyge
+                
+                                        LA ROCHE-SUR-LE-BUIS
+                                        
+                
+                
+                            Tzarik
+                fleurs des chants
+                
+                                        BUIS-LES-BARONNIES
+                        Association                
+                
+                
+                            La Cabanaille
+                Maison d'assistantes maternelles
+                
+                                        MONTBRUN-LES-BAINS
+                        Association                
+                
+                
+                            Gaïa du Rivau
+                Artiste plasticienne
+                
+                                        NYONS
+                        Auto-entrepreneur                
+                
+                
+                            Éditions des Lisières
+                
+                
+                                        SAINTE-JALLE
+                        Association                
+                
+                
+                            LA MAISON D'ANTARAM
+                CHAMBRES ET TABLES D"HOTES
+                
+                                        NYONS
+                        Etablissement privé                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+    Le collectif "Ensemble ici" :
+
+        
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

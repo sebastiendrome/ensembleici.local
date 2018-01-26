@@ -1,0 +1,685 @@
+
+
+
+    
+        
+        Ensemble ici | # 2016-50 : Ensemble Ici, tous acteurs de la vie locale !
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Bonjour &agrave; toutes et &agrave; tous, 
+&nbsp;
+&nbsp;Apprendre &agrave; se conna&icirc;tre, savoir o&ugrave; agir et quoi faire, les habitants des Baronnies se posent des questions et se pr&eacute;parent pour demain. 
+ANNONCE :
+Lancement de la Saison 2 de la R&eacute;sidence Arts et Cultures dans les Baronnies, vous retrouverez le programme des ateliers un peu plus bas&nbsp; (slam, percussions corporelles, fanfare, batucada, &eacute;criture etc)
+&nbsp;
+RETOUR AUDIO :
+Il y a un peu plus d'un an, RadiO'live et Ensemble Ici ont organis&eacute; les Rencontr'Action de Curnier.
+Mais o&ugrave; sont les jeunes ? Qui sont les b&eacute;n&eacute;voles ? On discute mais rien ne bouge. Voil&agrave; autant de sujets discut&eacute;s en octobre dernier, et toujours d'actualit&eacute;.
+&nbsp;
+&nbsp;
+Une tr&egrave;s belle journ&eacute;e &agrave; vous,
+l'&eacute;quipe Ensemble Ici - Baronnies, qui cherche encore un service civique                Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici. Il vous est ais&eacute; d'en ajouter via les formulaires du site. Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d'info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles! 
+contact@ensembleici.fr
+        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Pays de Buis-les-Baronnies                        
+                    
+                    Ateliers Slam carnavalesque 
+                    Atelier , BUIS-LES-BARONNIES
+                    Mercredi 14 décembre 2016
+                    
+
+                                            
+                    
+                    Ateliers percussions corporelles et voix 
+                    Atelier , BUIS-LES-BARONNIES
+                    du jeudi 15 décembre 2016 au mercredi 15 mars 2017
+                    
+
+                                            
+                    
+                    Ateliers slam : écriture ludique et poétique
+                    Atelier , BUIS-LES-BARONNIES
+                    du jeudi 15 décembre 2016 au jeudi 16 mars 2017
+                    
+
+                                            
+                    
+                    Lâchers de mots
+                    Performance , BUIS-LES-BARONNIES
+                    du jeudi 15 décembre 2016 au jeudi 06 avril 2017
+                    
+
+                                            
+                    
+                    Fête du court-métrage
+                    Projection , BUIS-LES-BARONNIES
+                    Vendredi 16 décembre 2016
+                    
+
+                                            
+                    
+                    Ballet La Belle au Bois Dormant
+                    Projection , BUIS-LES-BARONNIES
+                    Samedi 17 décembre 2016
+                    
+
+                                            
+                    
+                    Marché de Noël
+                    Marché , PIERRELONGUE
+                    du samedi 17 au dimanche 18 décembre 2016
+                    
+
+                                            
+                    
+                    Ateliers Gargoulette'NB: Rap, chant, musique actuelle 
+                    Atelier , BUIS-LES-BARONNIES
+                    du samedi 17 décembre 2016 au samedi 08 avril 2017
+                    
+
+                                            
+                    
+                    Atelier Batufare - percussions
+                    Atelier , BUIS-LES-BARONNIES
+                    du samedi 17 décembre 2016 au samedi 08 avril 2017
+                    
+
+                    Pays de Rémuzat                        
+                    
+                    Zeureux avec Ludovic Souliman
+                    Conte , REMUZAT
+                    Samedi 10 décembre 2016
+                    
+
+                                            
+                    
+                    Tifa-Tifa de Malika Verlaguet et Frédo Mascaro
+                    Conte , VILLEPERDRIX
+                    Samedi 10 décembre 2016
+                    
+
+                    Val d'Eygues                        
+                    
+                    Conférence sur Jacques Toesca
+                    Conférence , NYONS
+                    Jeudi 08 décembre 2016
+                    
+
+                                            
+                    
+                    RELATION A SOI, RELATION AUX AUTRES
+                    Atelier , LES PILLES
+                    Vendredi 09 décembre 2016
+                    
+
+                                            
+                    
+                    Ludovic Souliman et Le rire de la tortue
+                    Conte , NYONS
+                    Vendredi 09 décembre 2016
+                    
+
+                                            
+                    
+                    Rencontre avec Pépito Matéo
+                    Conférence , NYONS
+                    Vendredi 09 décembre 2016
+                    
+
+                                            
+                    
+                    Contes d'endacom mai de Malika Verlaguet et Frédo Mascaro
+                    Conte , VINSOBRES
+                    Vendredi 09 décembre 2016
+                    
+
+                                            
+                    
+                    Curiosités de Noël 
+                    Marché , LES PILLES
+                    Samedi 10 décembre 2016
+                    
+
+                                            
+                    
+                    Ateliers gratuits de découverte de pratiques à l'Espace Bien-être le Papillon
+                    Atelier , NYONS
+                    Samedi 10 décembre 2016
+                    
+
+                    
+                    Sessions d'accordéon
+                    Stage , NYONS
+                    Samedi 10 décembre 2016
+                    
+
+                                            
+                    
+                    La cascade aux jouets
+                    Fête , NYONS
+                    Samedi 10 décembre 2016
+                    
+
+                                            
+                    
+                    Pépito Matéo - Sans les mains et en danseuse
+                    Conte , NYONS
+                    Dimanche 11 décembre 2016
+                    
+
+                                            
+                    
+                    Pépito Matéo
+                    Conte , NYONS
+                    Dimanche 11 décembre 2016
+                    
+
+                                            
+                    
+                    Un goûté-conté franco-marocain
+                    Conte , NYONS
+                    Mercredi 14 décembre 2016
+                    
+
+                                            
+                    
+                    Jeudi du CEDER
+                    Atelier , NYONS
+                    Jeudi 15 décembre 2016
+                    
+
+                                            
+                    
+                    MEDITATION PLEINE PRESENCE
+                    Atelier , NYONS
+                    Vendredi 16 décembre 2016
+                    
+
+                                            
+                    
+                    L'après-midi de Noël
+                    Fête , NYONS
+                    Samedi 17 décembre 2016
+                    
+
+                                            
+                    
+                    Fête de l'Olive Piquée
+                    Manifestation , NYONS
+                    Samedi 17 décembre 2016
+                    
+
+                    &nbsp;Ailleurs dans le coin                        
+                    
+                    BOXE IMPRO
+                    Spectacle , VAISON-LA-ROMAINE
+                    Jeudi 08 décembre 2016
+                    
+
+                                            
+                    
+                    Jeudi Pique-nique
+                    Repas , VALREAS
+                    Jeudi 08 décembre 2016
+                    
+
+                                            
+                    
+                    INFAMES 
+                    Spectacle , VALREAS
+                    Vendredi 09 décembre 2016
+                    
+
+                                            
+                    
+                    Renat Sette et Roger Pasturel
+                    Conte , TAULIGNAN
+                    Samedi 10 décembre 2016
+                    
+
+                                            
+                    
+                    TRIO VIATGE
+                    Spectacle , VAISON-LA-ROMAINE
+                    Samedi 10 décembre 2016
+                    
+
+                                            
+                    
+                    Concert Mike Green
+                    Concert , VALREAS
+                    Samedi 10 décembre 2016
+                    
+
+                                            
+                    
+                    ESTEVANICO
+                    Conte , VAISON-LA-ROMAINE
+                    Samedi 17 décembre 2016
+                    
+
+                                            
+                    
+                    CONTENTS QUE VOUS SOYEZ LÀ
+                    Spectacle , VAISON-LA-ROMAINE
+                    Dimanche 18 décembre 2016
+                    
+
+                    Retrouvez l'agenda complet sur www.ensembleici.fr...            
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            appart T3 à louer La Motte Chalancon
+                
+                    
+                    
+                                                        LA MOTTE-CHALANCON
+                    
+                    
+                
+                                    Cherche box / garde meubles
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    Chaussures de marche
+                
+                    
+                    
+                                                        BUIS-LES-BARONNIES
+                    
+                    
+                
+                                    Vends meubles occasion
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    La cascade aux jouets
+                
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    maison à partager
+                
+                    
+                    
+                                                        REMUZAT
+                    
+                    
+                
+                                    Proposition de co-voiturage
+                
+                    
+                    
+                                                        AUBRES
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Contes et Rencontres
+                organistion d'évènement autour du conte
+                
+                                        NYONS
+                        Association                
+                
+                
+                            CEDER
+                Centre pour l'Environnement et le Développement des Energies Renouvelables
+                
+                                        NYONS
+                        Association                
+                
+                
+                            Théâtre du Rond Point
+                Salle des Cordeliers
+                
+                                        VALREAS
+                        Association                
+                
+                
+                            THEATRE DES 2 MONDES
+                Salle de spectacles
+                
+                                        VAISON-LA-ROMAINE
+                        Association                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+    Le collectif "Ensemble ici" :
+
+        
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

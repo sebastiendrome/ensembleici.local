@@ -1,0 +1,906 @@
+
+
+    
+        
+        Ensemble ici | # 2016-31 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 28/07 au 07/08/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	
+	Au programme cette semaine 
+
+
+	Radio Buvette : retour sur les deux &eacute;missions pr&eacute;c&eacute;dentes :
+EPISODE n&deg;5 : Angelo Lalli nous a parl&eacute; des actions de son association D&eacute;tresse des Enfants du Monde N&eacute;pal. Un voyage musical et engag&eacute; vers les montagnes de l&#39;Himalaya.
+EPISODE n&deg;6 : C&#39;est Odile Touillier, artiste peintre, qui est venu nous parler de Art Ensemble ici. Un projet n&eacute; du d&eacute;sir de cr&eacute;er du lien social autour de l&#39;art.
+
+	&gt;&gt; C&#39;est par l&agrave; !
+	&nbsp;
+
+	Lundi 1er ao&ucirc;t :
+EPISODE n&deg;7, toujours en direct depuis le march&eacute; des producteurs des Pilles et sur ensembleici.fr &agrave; 18h, Partez &agrave; la d&eacute;couverte du Parc Naturel des Baronnies Proven&ccedil;ales avec Matthieu Morard et Romain Nakhdjavani.
+
+
+
+
+	N&#39;oubliez, que notre concours se poursuit... Des lots 100% locaux vous attendent. Plus d&#39;infos
+	
+	Une tr&egrave;s belle semaine,
+	L&#39;&eacute;quipe Ensemble Ici - Baronnies.
+
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+                Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+                
+        
+		
+			
+				
+				Diois							
+													
+								le Trio VELAMOS
+								Concert , SAINT-NAZAIRE-LE-DESERT
+								Vendredi 29 juillet 2016
+						
+
+												
+													
+								Damz'Elles à Barnave
+								Concert , BARNAVE
+								Samedi 30 juillet 2016
+						
+
+												
+													
+								Ernest ou comment l'oublier
+								Spectacle , BARNAVE
+								Mercredi 03 août 2016
+						
+
+												
+													
+								le Trio VELAMOS
+								Concert , PONTAIX
+								Jeudi 04 août 2016
+						
+
+												
+													
+								Le Parti d'en Rire
+								Spectacle , BARNAVE
+								Samedi 06 août 2016
+						
+
+					Hautes Baronnies							
+													
+								Nature en Baronnies
+								Fête , SEDERON
+								Dimanche 31 juillet 2016
+						
+
+					&nbsp;Pays de Buis-les-Baronnies							
+													
+								les P'tis Pestacles de l'été 2016
+								Festival , BUIS-LES-BARONNIES
+								du lundi 11 juillet au vendredi 26 août 2016
+						
+
+												
+													
+								Sorties Découvertes
+								Promenade , BUIS-LES-BARONNIES
+								du mercredi 20 juillet au jeudi 25 août 2016
+						
+
+												
+													
+								"Malaterra" - Adaptation de Roger Pasturel - Mise en scène de Roland Peyron
+								Spectacle , BUIS-LES-BARONNIES
+								Jeudi 28 juillet 2016
+						
+
+												
+													
+								Dalton Trumbo: Le scénariste aux mille visages
+								Projection , BUIS-LES-BARONNIES
+								Vendredi 29 juillet 2016
+						
+
+												
+													
+								Marché artisanal
+								Marché , BUIS-LES-BARONNIES
+								Samedi 30 juillet 2016
+						
+
+												
+													
+								La Teuf' à Ste-Euph !
+								Fête , SAINTE-EUPHEMIE-SUR-OUVEZE
+								Samedi 30 juillet 2016
+						
+
+												
+													
+								"Malaterra" - Adaptation de Roger Pasturel - Mise en scène de Roland Peyron
+								Spectacle , BUIS-LES-BARONNIES
+								Lundi 01 août 2016
+						
+
+												
+													
+								ptits pestacles de l'été
+								Spectacle , BUIS-LES-BARONNIES
+								du lundi 01 au vendredi 05 août 2016
+						
+
+												
+													
+								Concert lyrique 
+								Concert , BUIS-LES-BARONNIES
+								Mardi 02 août 2016
+						
+
+												
+													
+								"Malaterra" - Adaptation de Roger Pasturel - Mise en scène de Roland Peyron
+								Spectacle , BUIS-LES-BARONNIES
+								Mardi 02 août 2016
+						
+
+												
+													
+								LECTURE à VOIX HAUTE et ECRITURE
+								Stage , BEAUVOISIN
+								du vendredi 05 au dimanche 07 août 2016
+						
+
+												
+													
+								Soirée Raoul Ruiz
+								Projection , BUIS-LES-BARONNIES
+								Samedi 06 août 2016
+						
+
+												
+													
+								loto
+								Jeux , PIERRELONGUE
+								Samedi 06 août 2016
+						
+
+					&nbsp;Pays de Rémuzat							
+													
+								Atelier BODY MUSIC
+								Atelier , LA MOTTE-CHALANCON
+								Jeudi 28 juillet 2016
+						
+
+												
+													
+								Sous les étoiles
+								Promenade , CORNILLAC
+								Vendredi 29 juillet 2016
+						
+
+												
+													
+								Musique autour de Philis de La Charce
+								Concert , LA MOTTE-CHALANCON
+								Vendredi 29 juillet 2016
+						
+
+												
+													
+								Natalia Ardis Quartet
+								Concert , LA MOTTE-CHALANCON
+								Lundi 01 août 2016
+						
+
+												
+													
+								Blue Motte Jazz
+								Festival , LA MOTTE-CHALANCON
+								du lundi 01 au mardi 02 août 2016
+						
+
+												
+													
+								Rock On The L'Oule
+								Festival , LA MOTTE-CHALANCON
+								Mercredi 03 août 2016
+						
+
+												
+													
+								Soirée Ciné-Patrimoine
+								Projection , LA MOTTE-CHALANCON
+								Jeudi 04 août 2016
+						
+
+					&nbsp;Val d'Eygues							
+													
+								Concerts de la Chorale du Delta
+								Concert , NYONS
+								du vendredi 08 juillet au dimanche 07 août 2016
+						
+
+												
+													
+								Grand Concours
+								Atelier , LES PILLES
+								du mercredi 13 juillet au vendredi 30 septembre 2016
+						
+
+												
+													
+								Concert des Crooners
+								Concert , NYONS
+								Jeudi 28 juillet 2016
+						
+
+												
+													
+								L'Offrande Musicale
+								Concert , SAINTE-JALLE
+								Jeudi 28 juillet 2016
+						
+
+												
+													
+								Chantier participatif autoconstruction Abribus en terre-paille
+								Atelier , VINSOBRES
+								Jeudi 28 juillet 2016
+						
+
+												
+													
+								TANGRAM FESTIVAL
+								Concert , NYONS
+								Vendredi 29 juillet 2016
+						
+
+												
+													
+								Concert de Jazz
+								Spectacle , SAHUNE
+								Vendredi 29 juillet 2016
+						
+
+												
+													
+								FETE DE MONTAULIEU
+								Fête , MONTAULIEU
+								Samedi 30 juillet 2016
+						
+
+												
+													
+								Concert du 7eme Gnome
+								Concert , NYONS
+								Samedi 30 juillet 2016
+						
+
+												
+													
+								Journée citoyenne (ambroisie)
+								Manifestation , NYONS
+								Samedi 30 juillet 2016
+						
+
+												
+													
+								Atelier BODY MUSIC
+								Atelier , SAINTE-JALLE
+								Samedi 30 juillet 2016
+						
+
+												
+													
+								Atelier BODY MUSIC
+								Atelier , LES PILLES
+								Dimanche 31 juillet 2016
+						
+
+												
+													
+								Spectacle "C'est à vous Monsieur GIONO"
+								Spectacle , VINSOBRES
+								Dimanche 31 juillet 2016
+						
+
+												
+													
+								RADIO BUVETTE
+								Atelier , LES PILLES
+								Lundi 01 août 2016
+						
+
+												
+													
+								Atelier BODY MUSIC
+								Atelier , MIRABEL-AUX-BARONNIES
+								Lundi 01 août 2016
+						
+
+												
+													
+								Concert des Muddy Sounds
+								Concert , NYONS
+								Mardi 02 août 2016
+						
+
+												
+													
+								DEDICACE BD UNE VIE AVEC ALEXANDRA DAVID-NEEL
+								Rencontre , NYONS
+								Mercredi 03 août 2016
+						
+
+												
+													
+								Atelier BODY MUSIC
+								Atelier , SAHUNE
+								Mercredi 03 août 2016
+						
+
+												
+													
+								Concert "Armstrong Memory"
+								Concert , NYONS
+								Jeudi 04 août 2016
+						
+
+												
+													
+								"Malaterra" - Adaptation de Roger Pasturel - Mise en scène de Roland Peyron
+								Spectacle , SAINTE-JALLE
+								Jeudi 04 août 2016
+						
+
+												
+													
+								DynaDju à Couleur Café
+								Concert , NYONS
+								Vendredi 05 août 2016
+						
+
+												
+													
+								Chorale du Delta
+								Concert , VENTEROL
+								Vendredi 05 août 2016
+						
+
+												
+													
+								André BUCHER " A l'écart " & En DEDICACE 
+								Rencontre , NYONS
+								Samedi 06 août 2016
+						
+
+												
+													
+								Concert de Mucho Macho
+								Concert , NYONS
+								Samedi 06 août 2016
+						
+
+												
+													
+								Concert Nyons
+								Concert , NYONS
+								Dimanche 07 août 2016
+						
+
+					&nbsp;Ailleurs dans le coin							
+													
+								Mylène Demongeot, toute une vie à l'écran
+								Exposition , RICHERENCHES
+								du samedi 02 juillet au dimanche 04 septembre 2016
+						
+
+												
+													
+								Festival Vaison Danses
+								Festival , VAISON-LA-ROMAINE
+								du lundi 04 au vendredi 29 juillet 2016
+						
+
+												
+													
+								Les Concerts Tôt
+								Concert , VALREAS
+								du vendredi 08 juillet au vendredi 26 août 2016
+						
+
+												
+													
+								Calligraphie  2016 immersion dans l'unique trait du Pinceau
+								Atelier , DIEULEFIT
+								du lundi 25 au samedi 30 juillet 2016
+						
+
+												
+													
+								concert Valientes Gracias // Guinguette de la vieille mule
+								Concert , EYZAHUT
+								Jeudi 28 juillet 2016
+						
+
+												
+													
+								"Tea for two"
+								Concert , SAINT-PAUL-TROIS-CHATEAUX
+								Jeudi 28 juillet 2016
+						
+
+												
+													
+								Concerts - Brasserie La Vieille Mule
+								Concert , SOUSPIERRE
+								Jeudi 28 juillet 2016
+						
+
+												
+													
+								concert de guitare classique
+								Concert , ROSANS
+								Dimanche 31 juillet 2016
+						
+
+												
+													
+								Nouvelles du Conte
+								Conte , BOUVIERES
+								Mardi 02 août 2016
+						
+
+												
+													
+								Les petits pestacles
+								Spectacle , VAISON-LA-ROMAINE
+								Mardi 02 août 2016
+						
+
+												
+													
+								« Et la Littérature inspira le cinéma... »
+								Festival , VISAN
+								du vendredi 05 au mardi 09 août 2016
+						
+
+												
+													
+								CONCERT ENSEMBLE DE CORS DE L'OPERA D'AVIGNON
+								Concert , ROSANS
+								Samedi 06 août 2016
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+                
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													TDM recherche des compétences bénévoles !
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													A la recherche de colocataires !
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Recherche gestionnaire de paie
+							
+						
+						
+														SAINT-PAUL-TROIS-CHATEAUX
+						
+						
+					
+					
+													Vends piano classique PRIX A DEBATTRE
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														CURNIER
+						
+						
+					
+					
+													Vends divers meubles PETITS PRIX
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													cherche terrain
+							
+						
+						
+														NYONS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Cinéma Le Regain
+								
+								
+							
+							
+															BUIS-LES-BARONNIES
+								société privée							
+							
+						
+						
+														Éditions du Bon Pied
+								
+								
+							
+							
+															SAINTE-JALLE
+								Association							
+							
+						
+						
+														Le Cochon Rustique des Baronnies
+								
+								élevage en plein air de porcs rustiques
+							
+							
+															SAINT-FERREOL-TRENTE-PAS
+								Etablissement privé							
+							
+						
+						
+														Art Ensemble ici !
+								
+								
+							
+							
+															LES PILLES
+															
+							
+						
+						
+														Ordi'contact
+								
+								Dépannage et assistance informatique à domicile
+							
+							
+															ARPAVON
+								Auto-entrepreneur							
+							
+						
+						
+														Baronnies Evasion
+								
+								Randonnées pédestre
+							
+							
+															ARPAVON
+								Auto-entrepreneur							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+    
+	Le collectif "Ensemble ici" :
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+        
+
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

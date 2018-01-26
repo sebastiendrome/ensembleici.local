@@ -1,0 +1,690 @@
+
+
+
+    
+        
+        Ensemble ici | # 2017-03 : Ensemble Ici, tous acteurs de la vie locale !
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Bonjour &agrave; toutes et &agrave; tous,
+&nbsp;
+Grande nouvelle pour l'association DECOR :
+Emeric Priolon vient de rejoindre l'&eacute;quipe au poste d'animateur radio et r&eacute;seau !
+Il viendra non seulement consolider les activit&eacute;s de RadiO'live, en ouvrant la webradio vers de nouvelles formes (&eacute;coute, accompagnement &agrave; la r&eacute;alisation, cr&eacute;ation sonore etc), mais aussi d&eacute;velopper et animer des ateliers participatifs autour de pratiques citoyennes, cr&eacute;atrices et ludiques.
+N'h&eacute;sitez pas &agrave; le contacter via ensembleici@gmail.com ou au standard de l'association DECOR au 04.75.27.12.14
+&nbsp;
+Pour rappel : l'association DECOR (pour le DEveloppement des COmmunaut&eacute;s Rurales) est la structure juridique qui portent les projets Ensemble Ici - Baronnies et RadiO'live.
+&nbsp;
+
+&nbsp;
+L'&eacute;quipe au complet sera pr&eacute;sente pour la soir&eacute;e &agrave; la ferme Dagobert ce Vendredi 20 Janvier. Une veill&eacute;e plantes et cauchemars en pleine campagne qui s'annonce haute en couleur et en surprise !
+On vous attends l&agrave;-bas !
+&nbsp;
+Une tr&egrave;s belle semaine &agrave; vous,
+l'&eacute;quipe Ensemble Ici - Baronnies
+&nbsp;                Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici. Il vous est ais&eacute; d'en ajouter via les formulaires du site. Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d'info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles! 
+contact@ensembleici.fr
+        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Hautes Baronnies                        
+                    
+                    The Vox Machina full show
+                    Spectacle , MONTBRUN-LES-BAINS
+                    Samedi 21 janvier 2017
+                    
+
+                    &nbsp;Pays de Buis-les-Baronnies                        
+                    
+                    SAISON 2 Gargoulette'NB
+                    Rencontre , BUIS-LES-BARONNIES
+                    du vendredi 09 décembre 2016 au lundi 17 avril 2017
+                    
+
+                    
+                    Janvier aux Chantiers Funambules
+                    Atelier , BEAUVOISIN
+                    du mardi 10 au mardi 31 janvier 2017
+                    
+
+                                            
+                    
+                    Création de décors pour la fête de fraternité
+                    Atelier , BUIS-LES-BARONNIES
+                    du jeudi 12 au jeudi 26 janvier 2017
+                    
+
+                                            
+                    
+                    Les Chantiers Funambules
+                    Atelier , BEAUVOISIN
+                    du samedi 14 au mardi 31 janvier 2017
+                    
+
+                                            
+                    
+                    Permanence informatique à Saint-Sauveur
+                    Atelier , SAINT-SAUVEUR-GOUVERNET
+                    du mardi 17 janvier au mardi 18 juillet 2017
+                    
+
+                                            
+                    
+                    Festival Cinéma Télérama
+                    Projection , BUIS-LES-BARONNIES
+                    du mercredi 18 au mardi 24 janvier 2017
+                    
+
+                                            
+                    
+                    Spectacles à la Ferme
+                    Concert , ROCHEBRUNE
+                    Vendredi 20 janvier 2017
+                    
+
+                                            
+                    
+                    Concert "Hommage à Pavarotti"
+                    Concert , BUIS-LES-BARONNIES
+                    Dimanche 22 janvier 2017
+                    
+
+                                            
+                    
+                    Opéra au cinéma
+                    Projection , BUIS-LES-BARONNIES
+                    Samedi 28 janvier 2017
+                    
+
+                                            
+                    
+                    Fête de la fraternité
+                    Rencontre , BUIS-LES-BARONNIES
+                    Dimanche 29 janvier 2017
+                    
+
+                    &nbsp;Pays de Dieulefit-Bourdeaux                        
+                    
+                    Yonige
+                    Spectacle , TAULIGNAN
+                    Samedi 21 janvier 2017
+                    
+
+                                            
+                    
+                    Batucada pour tous
+                    Stage , DIEULEFIT
+                    du mercredi 25 janvier au mercredi 15 mars 2017
+                    
+
+                    Pays de Rémuzat                        
+                    
+                    Loto
+                    Jeux , REMUZAT
+                    Dimanche 22 janvier 2017
+                    
+
+                                            
+                    
+                    Jean-Sébastien Bressy
+                    Concert , MONTREAL-LES-SOURCES
+                    Vendredi 27 janvier 2017
+                    
+
+                    Val d'Eygues                        
+                    
+                    Soirée d'informations sur la situation du peuple Sahraoui
+                    Réunion , NYONS
+                    Mercredi 18 janvier 2017
+                    
+
+                                            
+                    
+                    ATELIERS ECO PARENTALITE A NYONS ET BUIS
+                    Atelier , NYONS
+                    du mercredi 18 au lundi 30 janvier 2017
+                    
+
+                                            
+                    
+                    Assemblée générale de l'association Chrysalide ASP 26
+                    Rencontre , CURNIER
+                    Jeudi 19 janvier 2017
+                    
+
+                                            
+                    
+                    Atelier de création de site web
+                    Atelier , NYONS
+                    du jeudi 19 janvier au jeudi 30 mars 2017
+                    
+
+                                            
+                    
+                    Relation à soi, relation aux autres
+                    Atelier , LES PILLES
+                    Vendredi 20 janvier 2017
+                    
+
+                                            
+                    
+                    Inauguration
+                    Manifestation , VENTEROL
+                    Samedi 21 janvier 2017
+                    
+
+                                            
+                    
+                    Ateliers de Parentalité
+                    Atelier , LES PILLES
+                    du samedi 21 janvier au samedi 25 mars 2017
+                    
+
+                                            
+                    
+                    Migrations internationales : un enjeu mondial
+                    Cours , NYONS
+                    du lundi 23 janvier au lundi 03 avril 2017
+                    
+
+                                            
+                    
+                    Chants Partagés
+                    Fête , LES PILLES
+                    Jeudi 26 janvier 2017
+                    
+
+                                            
+                    
+                    soirée soupes et chanson
+                    Repas , VENTEROL
+                    Samedi 28 janvier 2017
+                    
+
+                    &nbsp;Val de Drôme                        
+                    
+                    Emily Tissot   TotaL Chicken  
+                    Concert , EURRE
+                    du samedi 21 au dimanche 22 janvier 2017
+                    
+
+                    &nbsp;Ailleurs dans le coin                        
+                    
+                    Grignan s'expose
+                    Exposition , GRIGNAN
+                    du samedi 14 janvier au mercredi 01 février 2017
+                    
+
+                                            
+                    
+                    Spectacle The Vox Machina Full show
+                    Spectacle , BARRET-SUR-MEOUGE
+                    Jeudi 19 janvier 2017
+                    
+
+                                            
+                    
+                    Les Sauveurs
+                    Spectacle , GRIGNAN
+                    Vendredi 20 janvier 2017
+                    
+
+                                            
+                    
+                    L'émancipation aujourd'hui :socialisme, communisme, bien vivre ? 
+                    Conférence , MONTELIMAR
+                    Vendredi 20 janvier 2017
+                    
+
+                                            
+                    
+                    LE BOURGEOIS GENTILHOMME
+                    Spectacle , VAISON-LA-ROMAINE
+                    Vendredi 20 janvier 2017
+                    
+
+                                            
+                    
+                    Concert les Chantiers Funambules
+                    Concert , VALREAS
+                    Vendredi 20 janvier 2017
+                    
+
+                                            
+                    
+                    OPERATION : ICH LIEBE DICH 21.1.
+                    Spectacle , VAISON-LA-ROMAINE
+                    Samedi 21 janvier 2017
+                    
+
+                                            
+                    
+                    OPERATION : ICH LIEBE DICH
+                    Spectacle , VAISON-LA-ROMAINE
+                    Dimanche 22 janvier 2017
+                    
+
+                                            
+                    
+                    TOC TOC
+                    Spectacle , VAISON-LA-ROMAINE
+                    du samedi 28 au dimanche 29 janvier 2017
+                    
+
+                                
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Un nom pour la monnaie ? 
+                
+                    
+                    
+                                                        BUIS-LES-BARONNIES
+                    
+                    
+                
+                                    Création de décors pour la fête de fraternité
+                
+                    
+                    
+                                                        BUIS-LES-BARONNIES
+                    
+                    
+                
+                                    Pétition pour la vie associative et la démocratie à Die
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    MEDITATION
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    Cède meubles à petits prix
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        VENTEROL
+                    
+                    
+                
+                                    Le Chat Botté appel aux dons
+                
+                    
+                    
+                                                        BUIS-LES-BARONNIES
+                    
+                    
+                
+                                    Revends nuit hotel chambre triple Clermont Ferrand
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CLERMONT-FERRAND
+                    
+                    
+                
+                                    donne lits et matelas 
+                
+                    
+                    
+                                                        MIRABEL-AUX-BARONNIES
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            AMAP de nyons
+                Association pour le Maintien de l'Agriculture Paysanne
+                
+                                        NYONS
+                        Association                
+                
+                
+                            CFPPA
+                Centre de Formation Professionnelle pour Aduldes
+                
+                                        NYONS
+                        Etablissement public                
+                
+                
+                            La cigale
+                Diffuseurs de bonheurs
+                
+                                        NYONS
+                        Association                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+    Le collectif "Ensemble ici" :
+
+        
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

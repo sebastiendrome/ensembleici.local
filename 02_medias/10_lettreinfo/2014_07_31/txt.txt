@@ -1,0 +1,1024 @@
+
+
+    
+        
+        Ensemble ici | # 2014-30 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 31/07 au 10/08/2014
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; tous,
+	&nbsp;
+
+	
+	L&#39;&eacute;t&eacute; rime avec convivialit&eacute; !
+	
+	&nbsp;
+
+	Pour faire le plein de sorties et de nouvelles activit&eacute;s, n&#39;h&eacute;sitez pas &agrave; [covoiturer], avec Places Libres !&nbsp;
+	
+	
+	Et pour s&#39;y retrouver parmi tous les &eacute;v&eacute;nements partag&eacute;s sur Ensemble Ici, consultez le [calendrier imprimable] !
+	
+	&nbsp;
+
+	Belle semaine,
+	
+	L&#39;&eacute;quipe Ensemble Ici !
+	&nbsp;
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums, et bient&ocirc;t articles!
+	
+	
+		contact@ensembleici.fr
+
+		
+	
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								"Entre-Mains" Compagnie Pedro Pauwels
+								Spectacle , MONTBRUN-LES-BAINS
+								Samedi 02 août 2014
+						
+
+												
+													
+								Visite du village aux flambeaux
+								Visite , MONTBRUN-LES-BAINS
+								Lundi 04 août 2014
+						
+
+												
+													
+								Trio Simon Widdowson, Koko Harp & Thomas Boulenger
+								Concert , MONTBRUN-LES-BAINS
+								Mardi 05 août 2014
+						
+
+												
+													
+								Expo photo, dessins, céramiques et porcelaines
+								Exposition , MONTAUBAN-SUR-L'OUVEZE
+								du samedi 09 au dimanche 17 août 2014
+						
+
+					&nbsp;Pays de Buis-les-Baronnies							
+													
+								Exposition "Sculptures et peintures" aux Ursulines
+								Exposition , BUIS-LES-BARONNIES
+								du samedi 26 juillet au mercredi 13 août 2014
+						
+
+												
+													
+								Exposition et concert
+								Exposition , PROPIAC
+								du jeudi 31 juillet au dimanche 03 août 2014
+						
+
+												
+													
+								"Marius" de Marcel Pagnol
+								Spectacle , BUIS-LES-BARONNIES
+								Vendredi 01 août 2014
+						
+
+												
+													
+								Fête du journal "Gauche en Baronnies"
+								Manifestation , BEAUVOISIN
+								Samedi 02 août 2014
+						
+
+												
+													
+								Pour faire la fête, on COvoiture ! par Places Libres
+								Fête , BESIGNAN
+								Samedi 02 août 2014
+						
+
+												
+													
+								Fête votive Bésignan
+								Fête , BESIGNAN
+								Samedi 02 août 2014
+						
+
+												
+													
+								Concert de musique celtique en Provence
+								Concert , BUIS-LES-BARONNIES
+								Samedi 02 août 2014
+						
+
+												
+													
+								Concert latino jazz  Gallo Pinto Sextet
+								Concert , PROPIAC
+								Dimanche 03 août 2014
+						
+
+												
+													
+								Concert de gospels et négro spirituals
+								Concert , BUIS-LES-BARONNIES
+								Mardi 05 août 2014
+						
+
+												
+													
+								"Acoustic": Concert de Gospel et Jazz
+								Concert , MOLLANS-SUR-OUVEZE
+								Mercredi 06 août 2014
+						
+
+												
+													
+								Fête de la Saint Laurent
+								Fête , BUIS-LES-BARONNIES
+								du mercredi 06 au dimanche 10 août 2014
+						
+
+												
+													
+								7ème édition des 24h du Géant
+								Manifestation , BUIS-LES-BARONNIES
+								du samedi 09 au dimanche 10 août 2014
+						
+
+												
+													
+								Vide greniers
+								Vide-grenier , MOLLANS-SUR-OUVEZE
+								Dimanche 10 août 2014
+						
+
+					&nbsp;Pays de Rémuzat							
+													
+								Peintures à l'huile et sculptures sur pierre
+								Exposition , REMUZAT
+								du mercredi 23 juillet au lundi 04 août 2014
+						
+
+												
+													
+								Fête votive Verclause
+								Fête , VERCLAUSE
+								du vendredi 01 au samedi 02 août 2014
+						
+
+												
+													
+								Pour faire la fête, on COvoiture ! par Places Libres
+								Fête , VERCLAUSE
+								du vendredi 01 au samedi 02 août 2014
+						
+
+												
+													
+								Exposition - Minéraux et Fossiles
+								Exposition , LEMPS
+								du vendredi 01 au dimanche 03 août 2014
+						
+
+												
+													
+								Rock on the l'oule
+								Festival , LA MOTTE-CHALANCON
+								Mercredi 06 août 2014
+						
+
+												
+													
+								Journées des moulins
+								Visite , LA MOTTE-CHALANCON
+								Samedi 09 août 2014
+						
+
+												
+													
+								Concert classique Quatuor Archinto
+								Concert , REMUZAT
+								Samedi 09 août 2014
+						
+
+												
+													
+								Sur les traces d’Hannibal, Promenade
+								Promenade , LA MOTTE-CHALANCON
+								Dimanche 10 août 2014
+						
+
+					Val d'Eygues							
+													
+								Asoft
+								Atelier , NYONS
+								du mercredi 16 juillet au mardi 30 septembre 2014
+						
+
+												
+													
+								Ateliers pour enfants
+								Atelier , NYONS
+								du lundi 28 juillet au vendredi 01 août 2014
+						
+
+												
+													
+								Jazz AOC
+								Concert , NYONS
+								Jeudi 31 juillet 2014
+						
+
+												
+													
+								"Frizaplat & Djulius"
+								Concert , CURNIER
+								Vendredi 01 août 2014
+						
+
+												
+													
+								La Chorale du Delta
+								Concert , LES PILLES
+								Vendredi 01 août 2014
+						
+
+												
+													
+								La Chorale du Delta
+								Concert , NYONS
+								Vendredi 01 août 2014
+						
+
+												
+													
+								Degustation des vins et visite guidée
+								Manifestation , PIEGON
+								Vendredi 01 août 2014
+						
+
+												
+													
+								Marché des producteurs
+								Marché , SAINTE-JALLE
+								Vendredi 01 août 2014
+						
+
+												
+													
+								Fête votive Condorcet
+								Fête , CONDORCET
+								du vendredi 01 au samedi 02 août 2014
+						
+
+												
+													
+								Pour faire la fête, on COvoiture ! par Places Libres
+								Fête , CONDORCET
+								du vendredi 01 au samedi 02 août 2014
+						
+
+												
+													
+								Les Gaillards d'avant
+								Concert , NYONS
+								Samedi 02 août 2014
+						
+
+												
+													
+								Sevigné, savante, précieuse, frondeuse
+								Lecture , NYONS
+								Dimanche 03 août 2014
+						
+
+												
+													
+								LES SACRIFIES
+								Spectacle , SAINTE-JALLE
+								Dimanche 03 août 2014
+						
+
+												
+													
+								Catch Impro - Festivolt 2014
+								Atelier , NYONS
+								Lundi 04 août 2014
+						
+
+												
+													
+								"Contes Oints" de Roger PASTUREL
+								Spectacle , SAINTE-JALLE
+								Lundi 04 août 2014
+						
+
+												
+													
+								Exposition de peintures d'Agrippino Pesce
+								Exposition , NYONS
+								du lundi 04 au dimanche 17 août 2014
+						
+
+												
+													
+								Charlie Tango
+								Concert , NYONS
+								Mardi 05 août 2014
+						
+
+												
+													
+								"Le Bourgeois gentilhomme" de Molière
+								Spectacle , SAINTE-JALLE
+								Mardi 05 août 2014
+						
+
+												
+													
+								Concert rosé Vignolis
+								Concert , NYONS
+								Mercredi 06 août 2014
+						
+
+												
+													
+								Le dresseur de poissons
+								Spectacle , NYONS
+								Mercredi 06 août 2014
+						
+
+												
+													
+								Concert Quatuor Archinto
+								Concert , SAINTE-JALLE
+								Mercredi 06 août 2014
+						
+
+												
+													
+								Concert Via Voce
+								Concert , VINSOBRES
+								Mercredi 06 août 2014
+						
+
+												
+													
+								 Fatum Fatras
+								Concert , NYONS
+								Jeudi 07 août 2014
+						
+
+												
+													
+								Deux petites dames vers le Nord
+								Spectacle , SAINTE-JALLE
+								Jeudi 07 août 2014
+						
+
+												
+													
+								Nuit divinique
+								Visite , VINSOBRES
+								Jeudi 07 août 2014
+						
+
+												
+													
+								Concert du Quatuor à cordes "Archinto"
+								Concert , NYONS
+								Vendredi 08 août 2014
+						
+
+												
+													
+								Marché des producteurs
+								Marché , SAINTE-JALLE
+								Vendredi 08 août 2014
+						
+
+												
+													
+								"Marius" de Marcel PAgnol
+								Spectacle , SAINTE-JALLE
+								Vendredi 08 août 2014
+						
+
+												
+													
+								Concours de boules semi nocturne et nocturne ( Annulé) 
+								Performance , SAINTE-JALLE
+								Vendredi 08 août 2014
+						
+
+												
+													
+								MEDITATION ET DANSE
+								Stage , NYONS
+								Samedi 09 août 2014
+						
+
+												
+													
+								Marché artisanal nocturne
+								Marché , NYONS
+								Samedi 09 août 2014
+						
+
+												
+													
+								Ahinama
+								Concert , NYONS
+								Samedi 09 août 2014
+						
+
+												
+													
+								Margueritte Duras et le cinéma
+								Lecture , NYONS
+								Dimanche 10 août 2014
+						
+
+					Ailleurs dans le coin							
+													
+								Exposition "Centenaire au Pays de Grignan" du 14 juillet au 17 août 2014
+								Exposition , GRIGNAN
+								du lundi 14 juillet au dimanche 17 août 2014
+						
+
+												
+													
+								Nouvelles du conte "d'aventures"
+								Festival , BOURDEAUX
+								du vendredi 25 juillet au samedi 09 août 2014
+						
+
+												
+													
+								EASY RIDER de Peter Fonda et Dennis Hopper
+								Festival , CHAMARET
+								Jeudi 31 juillet 2014
+						
+
+												
+													
+								Pro Musica
+								Festival , TAULIGNAN
+								du jeudi 31 juillet au dimanche 03 août 2014
+						
+
+												
+													
+								La Terrasse des Vignerons
+								Visite , GRIGNAN
+								Vendredi 01 août 2014
+						
+
+												
+													
+								POINT LIMITE ZÉRO ( Vanishing Point) de R.C Safarian
+								Festival , VALAURIE
+								Vendredi 01 août 2014
+						
+
+												
+													
+								SUNCHASER de Michael Cimino
+								Festival , VALAURIE
+								Vendredi 01 août 2014
+						
+
+												
+													
+								Scène d'été
+								Festival , DIEULEFIT
+								du vendredi 01 au samedi 02 août 2014
+						
+
+												
+													
+								48 ème Corso de la Lavande
+								Fête , VALREAS
+								du vendredi 01 au lundi 04 août 2014
+						
+
+												
+													
+								Crest Jazz Vocal
+								Festival , CREST
+								du vendredi 01 au samedi 09 août 2014
+						
+
+												
+													
+								SERRES CLASSIC FESTIVAL
+								Festival , SERRES
+								Samedi 02 août 2014
+						
+
+												
+													
+								Fête de la Bourgade
+								Fête , SUZE-LA-ROUSSE
+								du samedi 02 au dimanche 03 août 2014
+						
+
+												
+													
+								Balade "Fontaines et bassins"
+								Promenade , DIEULEFIT
+								Dimanche 03 août 2014
+						
+
+												
+													
+								Comité des orgues- Concert Bernard Bender
+								Concert , GRIGNAN
+								Dimanche 03 août 2014
+						
+
+												
+													
+								Concert de musique celtique en Provence
+								Concert , PUYMERAS
+								Dimanche 03 août 2014
+						
+
+												
+													
+								La Chorale du Delta
+								Concert , VALREAS
+								Mardi 05 août 2014
+						
+
+												
+													
+								Visites guidées
+								Visite , VISAN
+								Mardi 05 août 2014
+						
+
+												
+													
+								Découverte de la truffière historique
+								Visite , SAINT-PAUL-TROIS-CHATEAUX
+								Mercredi 06 août 2014
+						
+
+												
+													
+								2 Concerts gratuits à Entrechaux
+								Concert , ENTRECHAUX
+								du jeudi 07 au vendredi 08 août 2014
+						
+
+												
+													
+								Concert Fusion Pizza Bonne
+								Concert , DIEULEFIT
+								Vendredi 08 août 2014
+						
+
+												
+													
+								La Terrasse des Vignerons
+								Visite , GRIGNAN
+								Vendredi 08 août 2014
+						
+
+												
+													
+								Conviviales Tulette
+								Concert , TULETTE
+								Vendredi 08 août 2014
+						
+
+												
+													
+								Conférence sur le centenaire de la Guerre de 1914
+								Conférence , SAINT-NAZAIRE-LE-DESERT
+								Samedi 09 août 2014
+						
+
+												
+													
+								SERRES CLASSIC FESTIVAL
+								Festival , SERRES
+								Samedi 09 août 2014
+						
+
+												
+													
+								"Picodon chez lui"
+								Atelier , DIEULEFIT
+								Dimanche 10 août 2014
+						
+
+												
+													
+								Comité des Orgues: Concert Marie-Cécile Lahor
+								Concert , GRIGNAN
+								Dimanche 10 août 2014
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													URGENT - Colocation dans maison 120m²
+							
+						
+						
+														CURNIER
+						
+						
+					
+					
+													APPART A LOUER
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAINT-FERREOL-TRENTE-PAS
+						
+						
+					
+					
+													URGENT - Offre d'emploi - Animateur/Animatrice
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Stage théâtre dans le Vercors
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														GLANDAGE
+						
+						
+					
+					
+													Brade courgettes !
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAINTE-JALLE
+						
+						
+					
+					
+													Defi culinaire du CEDER
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Donne TV et diverses choses
+							
+						
+						
+														MONTAULIEU
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Association Chrysalide asp 26
+								
+								accompagnement
+							
+							
+															CURNIER
+								Association							
+							
+						
+						
+														Les moments musicaux de cacharel
+								
+								Promouvoir les musiques des  XVIIème et XVIIIème siècles en ProvenceUn concert tous les mois, le premier samedi du mois, de musique baroque des 16 ème et 17 ème siècle
+							
+							
+															RASTEAU
+								Association							
+							
+						
+						
+														Le22
+								
+								édition / design graphique / expositions
+							
+							
+															TAULIGNAN
+								Association							
+							
+						
+						
+														ACSVE
+								
+								Association Culturelle et Sportive de la Vallée de l'Ennuyé
+							
+							
+															SAINTE-JALLE
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

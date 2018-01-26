@@ -1,0 +1,729 @@
+
+
+    
+        
+        Ensemble ici |  # 2016-14 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 31/03 au 10/04/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous, 
+
+Nouvelle &eacute;mission RadiO&#39;live sur Ensemble Ici :
+
+Sans travail, qui &ecirc;tes-vous ? 
+Retour sur le rassemblement du 9 mars contre la loi El Khomri (&quot;Loi Travail&quot;), &agrave; Nyons. Premiers extraits d&#39;une s&eacute;rie de trois &eacute;pisodes: t&eacute;moignages, retour sur la loi et paroles de rue !
+
+	Pour l&#39;&eacute;couter, cliquez ici
+
+Belle semaine,
+L&#39;&eacute;quipe d&#39;Ensemble Ici - Baronnies			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+                
+        
+		
+			
+				
+				Pays de Buis-les-Baronnies							
+													
+								Merci Patron ! 
+								Projection , BUIS-LES-BARONNIES
+								Vendredi 01 avril 2016
+						
+
+												
+													
+								La vie prodigieuse de Marthe Robin
+								Projection , BUIS-LES-BARONNIES
+								Samedi 02 avril 2016
+						
+
+												
+													
+								Yonige - Nous fuirons loin de Tokyo
+								Spectacle , BUIS-LES-BARONNIES
+								Samedi 02 avril 2016
+						
+
+												
+													
+								Représentation théâtrale "Facéties d'un soir"
+								Spectacle , BUIS-LES-BARONNIES
+								Dimanche 03 avril 2016
+						
+
+												
+													
+								Merci Patron 
+								Projection , BUIS-LES-BARONNIES
+								Lundi 04 avril 2016
+						
+
+												
+													
+								Du pain et des roses
+								Projection , BUIS-LES-BARONNIES
+								Mardi 05 avril 2016
+						
+
+					Pays de Rémuzat							
+													
+								les promenades du tambourinaïre
+								Promenade , LA MOTTE-CHALANCON
+								Dimanche 03 avril 2016
+						
+
+					&nbsp;Val d'Eygues							
+													
+								Recherche bénévoles foire éco biologique Naturellement !
+								Foire , NYONS
+								du mardi 29 mars au dimanche 15 mai 2016
+						
+
+												
+													
+								JEUDI DU CEDER
+								Conférence , NYONS
+								Jeudi 31 mars 2016
+						
+
+												
+													
+								Les Jeudis du CEDER
+								Conférence , NYONS
+								Jeudi 31 mars 2016
+						
+
+												
+													
+								Co-voiturage pour Montélimar
+								Manifestation , NYONS
+								Jeudi 31 mars 2016
+						
+
+												
+													
+								Conférence : 'Saint Louis'
+								Atelier , NYONS
+								Jeudi 31 mars 2016
+						
+
+												
+													
+								Journée Européennes des Métiers d'Art
+								Festival , NYONS
+								du vendredi 01 au dimanche 03 avril 2016
+						
+
+												
+													
+								Concert Voé
+								Concert , NYONS
+								Samedi 02 avril 2016
+						
+
+												
+													
+								Soirée Tartes Flambées
+								Repas , NYONS
+								Samedi 02 avril 2016
+						
+
+												
+													
+								Concert TZARIK
+								Concert , AUBRES
+								Dimanche 03 avril 2016
+						
+
+												
+													
+								La Vie au village dans les années 40
+								Conte , LES PILLES
+								Dimanche 03 avril 2016
+						
+
+												
+													
+								Conférence de Guy Rolland
+								Conférence , LES PILLES
+								Dimanche 03 avril 2016
+						
+
+												
+													
+								18ème BOURSE - EXPO TOUTES COLLECTIONS
+								Exposition , NYONS
+								Dimanche 03 avril 2016
+						
+
+												
+													
+								Musique autour de Philis de La Charce 
+								Concert , NYONS
+								Dimanche 03 avril 2016
+						
+
+												
+													
+								Sortie programme des expositions de l'association "LE TEMPLE"
+								Exposition , VENTEROL
+								Dimanche 03 avril 2016
+						
+
+												
+													
+								DISTRIBUTION DE PANIER BIO ET LOCAUX
+								Rencontre , NYONS
+								Lundi 04 avril 2016
+						
+
+												
+													
+								Café Discut'
+								Débat , NYONS
+								Mercredi 06 avril 2016
+						
+
+												
+													
+								Sketch IMPRO
+								Spectacle , NYONS
+								Jeudi 07 avril 2016
+						
+
+												
+													
+								Fest'Oc 2016
+								Festival , NYONS
+								du vendredi 08 au samedi 09 avril 2016
+						
+
+												
+													
+								LES INSTANTS MUSICALES
+								Concert , LES PILLES
+								Samedi 09 avril 2016
+						
+
+												
+													
+								Stage de Musique Augmenté
+								Stage , NYONS
+								Samedi 09 avril 2016
+						
+
+												
+													
+								RENCONTRE ET DEDICACE AVEC Claire STRAUSS
+								Lecture , NYONS
+								Samedi 09 avril 2016
+						
+
+												
+													
+								vide grenier à vinsobres
+								Vide-grenier , VINSOBRES
+								Samedi 09 avril 2016
+						
+
+												
+													
+								"La Grèce au fil des images"
+								Exposition , VENTEROL
+								du samedi 09 au samedi 16 avril 2016
+						
+
+												
+													
+								Grand vide grenier
+								Vide-grenier , VENTEROL
+								Dimanche 10 avril 2016
+						
+
+					Ailleurs dans le coin							
+													
+								scène ouverte
+								Spectacle , SEGURET
+								Vendredi 01 avril 2016
+						
+
+												
+													
+								Fête du printemps et Carna' Val de Méouge
+								Fête , BARRET-SUR-MEOUGE
+								du vendredi 01 au samedi 02 avril 2016
+						
+
+												
+													
+								Concert : Olombelo Ricky
+								Concert , POET-LAVAL
+								Samedi 02 avril 2016
+						
+
+												
+													
+								Stage de danse orientale / Bollywood
+								Stage , VAISON-LA-ROMAINE
+								Samedi 02 avril 2016
+						
+
+												
+													
+								Yoga du rire
+								Cours , VALREAS
+								Samedi 02 avril 2016
+						
+
+												
+													
+								4 femmes libres 
+								Conférence , DIEULEFIT
+								Samedi 09 avril 2016
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													rencontres méditation
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Recherche fils de coton et de laine
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Terre pour accueillir animaux de ferme pédagogique itinérante
+							
+						
+						
+														MENGLON
+						
+						
+					
+					
+													cherche caravane ou roulotte
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														CREST
+						
+						
+					
+					
+													recherche cadres
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Cie cherche comédien amateur confirmé
+							
+						
+						
+														VAISON-LA-ROMAINE
+						
+						
+					
+					
+													Don de grains de kefir
+							
+						
+						
+														CHATILLON-EN-DIOIS
+						
+						
+					
+					
+													Panier bio et locaux
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+					
+													Volontariat de service civique
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Stage yoga et bien-être au Maroc
+							
+						
+						
+														SAHUNE
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Art Ensemble ici !
+								
+								
+							
+							
+															LES PILLES
+															
+							
+						
+						
+														cinéma Le reg'Art
+								
+								
+							
+							
+															BUIS-LES-BARONNIES
+								Association							
+							
+						
+						
+														PROD26
+								
+								
+							
+							
+															DIE
+								Association							
+							
+						
+						
+														Les Potagers rares
+								
+								Jardins animés en Diois
+							
+							
+															DIE
+								Association							
+							
+						
+						
+														Les Sorcières du Vercors
+								
+								
+							
+							
+															VACHERES-EN-QUINT
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

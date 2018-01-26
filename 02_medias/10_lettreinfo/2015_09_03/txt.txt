@@ -1,0 +1,631 @@
+
+
+    
+        
+        Ensemble ici | # 2015-36 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 03 au 13/09/2015
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous,
+
+En cette rentr&eacute;e, le collectif local&nbsp;Stop TAFTA du Pays Nyonsais&nbsp;continue sa mobilisation contre la poursuite des n&eacute;gociations du Grand March&eacute; Transatlantique (GMT).
+
+Il appelle &agrave; un nouveau rassemblement citoyen le mardi 8 septembre de 10h &agrave; 19h place de la Lib&eacute;ration &agrave; Nyons.
+
+RadiO&#39;live sera &eacute;galement pr&eacute;sent pour rendre compte de cette mobilisation.
+
+
+Plus d&#39;infos sur Ensemble ici:
+
+
+	Venue du &ldquo;Crayon G&eacute;ant Stop TTIP&rdquo;
+
+	
+		&nbsp;
+	
+		
+
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+		
+			
+				
+				Pays de Buis-les-Baronnies							
+													
+								Atelier/Séjour "Plaisir" entre Equilibrium Cuisine 
+								Atelier , LA ROCHE-SUR-LE-BUIS
+								du samedi 05 au dimanche 06 septembre 2015
+						
+
+												
+													
+								La Cave du Troc, votre Boutik' gratuite!
+								Visite , MOLLANS-SUR-OUVEZE
+								du samedi 05 au samedi 19 septembre 2015
+						
+
+												
+													
+								LE CRI CRIDE LA CIGALE #4
+								Manifestation , BUIS-LES-BARONNIES
+								Samedi 12 septembre 2015
+						
+
+					Pays de Rémuzat							
+													
+								Formation à la Communication Non Violente. Module 1
+								Stage , LA MOTTE-CHALANCON
+								du samedi 05 au dimanche 06 septembre 2015
+						
+
+												
+													
+								ARRÊTER DE FUMER TUE
+								Spectacle , MONTREAL-LES-SOURCES
+								Vendredi 11 septembre 2015
+						
+
+												
+													
+								Vivre les passages du cancer autrement
+								Stage , CORNILLON-SUR-L'OULE
+								du dimanche 13 au jeudi 17 septembre 2015
+						
+
+					Val d'Eygues							
+													
+								Peintures de Betty DIAZ PERRON
+								Exposition , NYONS
+								du lundi 31 août au mercredi 09 septembre 2015
+						
+
+												
+													
+								Asoft au marché de Sainte Jalle
+								Manifestation , SAINTE-JALLE
+								Vendredi 04 septembre 2015
+						
+
+												
+													
+								jardinage et cueillette
+								Stage , NYONS
+								du vendredi 04 au dimanche 06 septembre 2015
+						
+
+												
+													
+								Vide-grenier spécial bébé
+								Vide-grenier , NYONS
+								Samedi 05 septembre 2015
+						
+
+												
+													
+								Forum des associations 
+								Manifestation , VENTEROL
+								Samedi 05 septembre 2015
+						
+
+												
+													
+								Marché de la laine
+								Marché , NYONS
+								Dimanche 06 septembre 2015
+						
+
+												
+													
+								On va voir les cochons !
+								Visite , SAINT-FERREOL-TRENTE-PAS
+								Dimanche 06 septembre 2015
+						
+
+												
+													
+								Porte ouverte d'asoft
+								Manifestation , CONDORCET
+								Mardi 08 septembre 2015
+						
+
+												
+													
+								Venue du “Crayon Géant Stop TTIP”
+								Manifestation , NYONS
+								Mardi 08 septembre 2015
+						
+
+												
+													
+								Portes Ouvertes du Vestiaire « enfants »
+								Manifestation , NYONS
+								Jeudi 10 septembre 2015
+						
+
+												
+													
+								Peintures de Clayre PARIS-GUILBERT 
+								Exposition , NYONS
+								du jeudi 10 au jeudi 17 septembre 2015
+						
+
+												
+													
+								porte ouverte à Asoft
+								Manifestation , NYONS
+								Samedi 12 septembre 2015
+						
+
+												
+													
+								Forum des activités Jeunesse 
+								Manifestation , NYONS
+								Samedi 12 septembre 2015
+						
+
+												
+													
+								Parcours des Ateliers d'Artistes
+								Exposition , NYONS
+								du samedi 12 au dimanche 13 septembre 2015
+						
+
+					Ailleurs dans le coin							
+													
+								Le Hang'Art: exposition de sculptures contemporaines
+								Exposition , SERRES
+								du vendredi 17 juillet au mardi 15 septembre 2015
+						
+
+												
+													
+								Festival Histoire d'en Rire
+								Festival , VAISON-LA-ROMAINE
+								du mercredi 09 au samedi 12 septembre 2015
+						
+
+												
+													
+								Éclats, festival de la voix au Pays de Dieulefit
+								Festival , DIEULEFIT
+								du mercredi 09 au dimanche 13 septembre 2015
+						
+
+												
+													
+								Les Platanes craquent
+								Concert , SEGURET
+								du samedi 12 au dimanche 13 septembre 2015
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Rue du Malgarni à Buis
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Cherche emploi dans la diffusion culturelle
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Sport et santé à l'association Intervalle
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Stage massage bien-être
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+					
+													concours photo Mon Parc naturel régional 
+							
+						
+						
+														SAHUNE
+						
+						
+					
+					
+													Service civique à Africultures
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													chambres à coucher et meuble hifi à vendre
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+					
+													Cours de Hatha Yoga
+							
+						
+						
+														CURNIER
+						
+						
+					
+					
+													L'ecole 1001 danses s'installe a Nyons ! 
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Ateliers d'éveil musical
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Espace d'Art Francois-Auguste Ducros
+								
+								Espace d'Art Contemporain
+							
+							
+															GRIGNAN
+															
+							
+						
+						
+														Association IN'A'NA
+								
+								KUNDALINI YOGA
+							
+							
+															BUIS-LES-BARONNIES
+								Association							
+							
+						
+						
+														BUIS SERVICES
+								
+								BRIGADE D INTERVENTION
+							
+							
+															BUIS-LES-BARONNIES
+								Auto-entrepreneur							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+			
+				
+			
+				
+			
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

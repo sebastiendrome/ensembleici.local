@@ -1,0 +1,716 @@
+
+
+    
+        
+        Ensemble ici | # 2015-17 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 23/04 au 03/05/2015
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous,
+	
+	
+	&nbsp;
+
+	
+
+	&nbsp;Depuis samedi, un chapiteau a pouss&eacute; aux Pilles, dans le cadre du festival &quot;Pilles sous les &eacute;toiles&quot;.
+	
+	&nbsp;Apr&egrave;s une soir&eacute;e de soutien en musique et des stages de cirque tout au long de &nbsp;la semaine, aujourd&#39;hui ce sont une vingtaine d&#39;artistes venus d&#39;horizons &nbsp;diff&eacute;rents qui se sont rencontr&eacute;s pour vous proposer un cabaret &eacute;phem&egrave;re fait de &nbsp;petites formes m&eacute;tiss&eacute;es imagin&eacute;es et cr&eacute;&eacute;es in situ :
+	&nbsp;Jonglage, trap&egrave;ze, cr&eacute;ation sonore, danse, marionettes, conte ...
+	&nbsp;
+
+	&nbsp;Rendez vous &agrave; 20h30 sous le chapiteau, aux Pilles.
+
+	&nbsp;Et ce week-end venez d&eacute;couvrir l&#39;atmosph&egrave;re magique du cirque avec de nombreuses animations et spetacles...&nbsp;
+	
+	Plus d&#39;infos sur Ensemble Ici :&nbsp;
+	&nbsp;Pilles sous les &eacute;toiles.
+
+	&nbsp;
+
+	
+	Belle semaine,
+	
+	L&#39;&eacute;quipe Ensemble Ici.
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								Tous les Talents du Toulourenc
+								Exposition , MONTBRUN-LES-BAINS
+								du samedi 16 au dimanche 17 mai 2015
+						
+
+					&nbsp;Pays de Buis-les-Baronnies							
+													
+								"C'est Pâques à Buis, Sors de ta coquille..."
+								Spectacle , BUIS-LES-BARONNIES
+								du mercredi 15 au mercredi 29 avril 2015
+						
+
+												
+													
+								STAGE Théâtre Voix Improvisation
+								Stage , PIERRELONGUE
+								du samedi 25 au dimanche 26 avril 2015
+						
+
+												
+													
+								Exposition de Martine CHIAPPARA
+								Exposition , BUIS-LES-BARONNIES
+								du samedi 25 avril au jeudi 14 mai 2015
+						
+
+												
+													
+								Concert de Barbara Deschamps
+								Concert , BUIS-LES-BARONNIES
+								Dimanche 26 avril 2015
+						
+
+												
+													
+								Concours de boules
+								Jeux , EYGALIERS
+								Dimanche 26 avril 2015
+						
+
+												
+													
+								Centrales Villageoises
+								Rencontre , SAINT-AUBAN-SUR-L'OUVEZE
+								Mercredi 29 avril 2015
+						
+
+												
+													
+								Sortie Paroissiale à Ganagobie
+								Randonnée , BUIS-LES-BARONNIES
+								Vendredi 01 mai 2015
+						
+
+												
+													
+								La Buiscyclette
+								Randonnée , BUIS-LES-BARONNIES
+								du samedi 02 au dimanche 03 mai 2015
+						
+
+												
+													
+								Equilibrium Cuisine
+								Stage , LA ROCHE-SUR-LE-BUIS
+								du samedi 02 au dimanche 03 mai 2015
+						
+
+												
+													
+								Stage danse et nature
+								Stage , ROCHEBRUNE
+								Dimanche 03 mai 2015
+						
+
+					&nbsp;Pays de Rémuzat							
+													
+								Séminaire "Les Amis de Jeanne" 
+								Conférence , LA MOTTE-CHALANCON
+								Samedi 02 mai 2015
+						
+
+					&nbsp;Val d'Eygues							
+													
+								Pilles sous les étoiles
+								Festival , LES PILLES
+								du samedi 18 au jeudi 30 avril 2015
+						
+
+												
+													
+								Stage de chant
+								Stage , NYONS
+								du lundi 20 au samedi 25 avril 2015
+						
+
+												
+													
+								Les soirées du libre
+								Atelier , NYONS
+								du lundi 20 avril au lundi 20 juillet 2015
+						
+
+												
+													
+								Billie Brelok + Tupan + Metamec
+								Concert , NYONS
+								Vendredi 24 avril 2015
+						
+
+												
+													
+								Apéro Jam
+								Concert , NYONS
+								Samedi 25 avril 2015
+						
+
+												
+													
+								Les Concerts - Tente
+								Spectacle , VINSOBRES
+								Samedi 25 avril 2015
+						
+
+												
+													
+								Soirée karaoké
+								Repas , CURNIER
+								du samedi 25 au dimanche 26 avril 2015
+						
+
+												
+													
+								Dégustation Acoustique à Mirabel
+								Concert , MIRABEL-AUX-BARONNIES
+								du samedi 25 au dimanche 26 avril 2015
+						
+
+												
+													
+								16ème édition De Ferme en Ferme
+								Visite , NYONS
+								du samedi 25 au dimanche 26 avril 2015
+						
+
+												
+													
+								Stage de danse et Feldenkrais
+								Stage , NYONS
+								du samedi 25 avril au samedi 02 mai 2015
+						
+
+												
+													
+								Vide-greniers de printemps
+								Vide-grenier , SAHUNE
+								Dimanche 26 avril 2015
+						
+
+												
+													
+								Faites votre radio !
+								Stage , NYONS
+								du mercredi 29 avril au mercredi 03 juin 2015
+						
+
+												
+													
+								Journée de la Flore Locale
+								Atelier , CURNIER
+								du mercredi 29 avril au mercredi 17 juin 2015
+						
+
+												
+													
+								Marché aux Fleurs
+								Marché , NYONS
+								Vendredi 01 mai 2015
+						
+
+												
+													
+								Les balades du tambourinaïre
+								Atelier , NYONS
+								Dimanche 03 mai 2015
+						
+
+					Ailleurs dans le coin							
+													
+								Stage de Broderie "Haute Couture"
+								Atelier , SEGURET
+								du vendredi 17 avril au vendredi 31 juillet 2015
+						
+
+												
+													
+								"La Source"
+								Spectacle , ISLE-SUR-LA-SORGUE
+								Samedi 25 avril 2015
+						
+
+												
+													
+								Mise en pli #2
+								Concert , PONT-DE-BARRET
+								Samedi 25 avril 2015
+						
+
+												
+													
+								11 ème Printemps du Toulourenc
+								Promenade , BRANTES
+								du samedi 25 au dimanche 26 avril 2015
+						
+
+												
+													
+								19ème Festival Georges Brassens
+								Festival , VAISON-LA-ROMAINE
+								du samedi 25 avril au dimanche 03 mai 2015
+						
+
+												
+													
+								Chorale des 3 vallées
+								Concert , GRIGNAN
+								Dimanche 26 avril 2015
+						
+
+												
+													
+								Création d'un Court Métrage d'Animation
+								Stage , SEGURET
+								du lundi 27 au jeudi 30 avril 2015
+						
+
+												
+													
+								7ème JAZZ et CLASSIQUE : 'LIBRES'
+								Concert , SERRES
+								Vendredi 01 mai 2015
+						
+
+												
+													
+								L'Etrange Napolitaine | par Bruno Martins et Gilles Raymond
+								Concert , CLANSAYES
+								Samedi 02 mai 2015
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Café culturel "Couleur café"
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Guinguette ambulante: appel aux artistes locaux
+							
+						
+						
+														CURNIER
+						
+						
+					
+					
+													Chant et musique brésilienne pagode
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														CONDORCET
+						
+						
+					
+					
+													location maison
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													poste de projectionniste
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Location logement communal
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAINT-SAUVEUR-GOUVERNET
+						
+						
+					
+					
+													Les 25 et 26 avril, déballage en musique à la Cave du Troc!
+							
+						
+						
+														MOLLANS-SUR-OUVEZE
+						
+						
+					
+					
+													VENDREDIS DES ARTS
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Troc musical !
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Inscription à la scène ouverte de la médiathèque
+							
+						
+						
+														NYONS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														@soft Condorcet
+								
+								association pour l'informatique
+							
+							
+															CONDORCET
+								Association							
+							
+						
+						
+														AVENTIC
+								
+								Espaces Publics Numériques
+							
+							
+															REMUZAT
+								Association							
+							
+						
+						
+														La Fée Tazik
+								
+								
+							
+							
+															BUIS-LES-BARONNIES
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

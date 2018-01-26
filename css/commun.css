@@ -1,0 +1,31 @@
+::-webkit-input-placeholder { color:#000; }
+::-moz-placeholder { color:#000; } /* firefox 19+ */
+:-ms-input-placeholder { color:#000; } /* ie */
+input:-moz-placeholder { color:#000; }
+
+.ico-down {
+    background-image: url('../img/img_colorize.php?uri=fleche_bas.png&c=255,255,255');
+    background-repeat: no-repeat;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.ico-up {
+    background-image: url('../img/img_colorize.php?uri=fleche_haut.png&c=255,255,255');
+    background-repeat: no-repeat;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.disclaimer {
+    position: fixed;
+    left: 0px; 
+    bottom: 0px;
+    font-size: 20px;
+    background-color: #5500AA;
+    min-height: 100px;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    z-index: 5000;
+    opacity: 1; 
+    font-style: italic;
+}

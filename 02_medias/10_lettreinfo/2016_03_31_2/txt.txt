@@ -1,0 +1,575 @@
+
+
+    
+        
+        Ensemble ici | Lettre de EnsembleIci - Vallee de la Drome / Diois, 2016 #3 - 31 mars
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 31/03 au 10/04/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						Bonjour !
+
+La nouvelle Lettre d&#39;information de la Vall&eacute;e de la Dr&ocirc;me / Diois s&#39;am&eacute;liore, vous verrez.
+Rappel d&#39;utilisation pour ceux qui recevaient les petites annonces de Mengoni :
+Le fichier PDF dans lequel vous aviez l&#39;habitude de trouver les informations existe toujours, mais avec une petite variante : en haut des &eacute;v&eacute;nements cliquez sur &quot; l&#39;agenda complet des &eacute;v&eacute;nements au format PDF &quot; , en haut des annonces cliquez sur &quot; la liste compl&egrave;te des petites annonces au format PDF &quot; , vous t&eacute;l&eacute;chargerez ainsi la totalit&eacute; des informations, comme auparavant mais sur 2 fichiers distincts.
+
+Le merci de la semaine : comme la semaine derni&egrave;re, aux publieurs ! Beaucoup d&#39;annonces &agrave; partager, une belle diversit&eacute; de rendez-vous dans l&#39;agenda.
+
+Note &agrave; l&#39;attention des publieurs : si vous proposez une activit&eacute; &agrave; l&#39;ann&eacute;e, publiez dans la rubrique R&eacute;pertoire. Si vous proposez une ou quelques dates, publiez dans la rubrique Agenda plut&ocirc;t que celle des Annonces (lorsque cela demande inscription, les stages par exemples, cela peut se retrouver dans les deux). N&#39;h&eacute;sitez pas &agrave; nous demander conseil. Nous nous organiserons pour pouvoir bient&ocirc;t facilement rencontrer ceux qui le souhaitent.
+
+N&#39;h&eacute;sitez pas &agrave; faire conna&icirc;tre, &agrave; partager, &agrave; parler d&#39; EnsembleIci autour de vous, &agrave; transf&eacute;rer cette Lettre.
+Avec l&#39;enthousiasme et le plaisir d&#39;&ecirc;tre Ensemble, Ici, dans la Vall&eacute;e de la Dr&ocirc;me / Diois, avec vous !
+
+
+
+	L&#39;&eacute;quipe d&#39;Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois
+	lettre.vdd@ensembleici.fr
+					
+	
+
+
+
+	
+                Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+                
+        
+		
+			
+				
+				Crestois Pays de Saillans							
+													
+								Biovallée Association information collective
+								Rencontre , SAILLANS
+								Jeudi 31 mars 2016
+						
+
+												
+													
+								TREVE GENERALE/ NUIT DEBOUT
+								Débat , SAILLANS
+								Jeudi 31 mars 2016
+						
+
+												
+													
+								Bal sous chapiteau
+								Concert , AUREL
+								Samedi 02 avril 2016
+						
+
+												
+													
+								Bourse aux vélos
+								Foire , CREST
+								Samedi 02 avril 2016
+						
+
+												
+													
+								EVOLUTION
+								Stage , PIEGROS-LA-CLASTRE
+								du samedi 02 au dimanche 03 avril 2016
+						
+
+												
+								Atelier de pratique de Qi Gong
+								Atelier , CREST
+								Dimanche 03 avril 2016
+						
+
+												
+													
+								¿ Curieuses Démocraties ? Accueil pour la suite de l'agitation politico-culturelle autour de la Démocratie
+								Réunion , SAILLANS
+								Lundi 04 avril 2016
+						
+
+												
+													
+								Atelier  de parentage
+								Atelier , CREST
+								du mardi 05 avril au mardi 17 mai 2016
+						
+
+												
+													
+								Ashtanga Yoga Première Série
+								Atelier , CREST
+								Samedi 09 avril 2016
+						
+
+					Diois							
+													
+								RADISEL
+								Marché , AIX-EN-DIOIS
+								Dimanche 03 avril 2016
+						
+
+												
+													
+								L'Elan qui nous anime
+								Atelier , DIE
+								Dimanche 03 avril 2016
+						
+
+												
+													
+								Séances Soin et Créativité à la Source
+								Atelier , DIE
+								Mardi 05 avril 2016
+						
+
+												
+													
+								Couture et Mots
+								Atelier , DIE
+								Samedi 09 avril 2016
+						
+
+												
+													
+								Séjour Cirque et Nature
+								Stage , BOULC
+								du samedi 09 au samedi 16 avril 2016
+						
+
+					Val de Drôme							
+								Retraite de silence
+								Stage , GIGORS-ET-LOZERON
+								du vendredi 01 au dimanche 03 avril 2016
+						
+
+												
+													
+								Réunion publique et soirée festive pour l'épicerie de Beaufort 
+								Manifestation , BEAUFORT-SUR-GERVANNE
+								Samedi 02 avril 2016
+						
+
+												
+													
+								Bal folk avec Cire tes Souliers
+								Fête , EURRE
+								Samedi 09 avril 2016
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+                
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													recrutement de familles de vacances
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													A vendre Roulotte bibliothèque ou autres rêveries dans l'espace public...
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													ruche
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														EYGLUY-ESCOULIN
+						
+						
+					
+					
+													cherche poules pondeuse Bio
+							
+						
+						
+														AIX-EN-DIOIS
+						
+						
+					
+					
+													Cherche une personne qui va à Ikea
+							
+						
+						
+														SAINT-ANDEOL
+						
+						
+					
+					
+													RECHERCHE DE LIEU / Ecole Montessori Les Cotyledons
+							
+						
+						
+														CREST
+						
+						
+					
+					
+													Propose appart à Die
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													Recherche de location Diois
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													djembe
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAINTE-CROIX
+						
+						
+					
+					
+													Vélo à vendre
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													Stage "oser faire, oser être"
+							
+						
+						
+														VACHERES-EN-QUINT
+						
+						
+					
+					
+													cherche caravane ou roulotte
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														CREST
+						
+						
+					
+					
+													Offre d'emploi à RDwa (radio)
+							
+						
+						
+														DIE
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Nuevo Mundo
+								
+								
+							
+							
+															DIE
+								Association							
+							
+						
+						
+														Médias Citoyens Diois
+								
+								
+							
+							
+															DIE
+								Association							
+							
+						
+						
+														C.L.C.V. Antenne de Die
+								
+								Association de défense des locataires et usagers
+							
+							
+															DIE
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

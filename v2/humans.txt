@@ -1,0 +1,12 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+/* TEAM */
+  Ensemble Ici : Association DECOR
+  Site : http://www.ensembleici.fr
+  Location : Les pilles (26)
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: jQuery
+  Software:

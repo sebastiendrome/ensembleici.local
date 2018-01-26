@@ -1,0 +1,719 @@
+
+
+
+    
+        
+        Ensemble ici | La Lettre Ensemble Ici Pays de Dieulefit-Bourdeaux-Marsanne 2017#6
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Bonjour &agrave; tous, 
+Vous &ecirc;tes en vacances? Votre vill&eacute;giature est ici? Dans tous les cas, ici et ailleurs, notre territoire est le v&ocirc;tre....
+Vous trouverez dans cette lettre,&nbsp; toutes vos infos locales en cette p&eacute;riode de vacances printani&egrave;res...
+A noter la triste annulation de la soir&eacute;e Bizz'Art, BKO Quintet &agrave; Charols, les artistes n'ayant pas obtenu leur visa.
+Une nouvelle, toute nouvelle Web Radio sur le territoire cela vous int&eacute;resse?
+RadioL&agrave; vous propose de vous former &agrave; utiliser son studio radio: c'est quoi enregistrer? Donner la parole? Exprimer son point de vue au micro?
+Ch&egrave;res citoyens et citoyennes, venez participer &agrave; nos formations gratuites et accessibles &agrave; tous, la premi&egrave;re uarai leiu le sameid 13 mai, prochain &agrave; Dieulefit.
+Plus di'nfos ici et sur radiola.media. Pensez &agrave; vous inscrire, le nombre de places est limit&eacute;.
+Tr&egrave;s belle fin de vacances &agrave; vous.
+Le collectif Ensemble Ici-Pays de Dieuelfit-Bourdeaux et Marsanne                
+Voici les infos des prochaines semaines dont vous trouvez le d&eacute;tail sur le site Ensemble ici. 
+La lettre d'info les petites annonces du territoire sont t&eacute;l&eacute;chargeables en PDF dans ce mail. 
+Il vous est ais&eacute; d'en ajouter via les formulaires du site.
+
+&nbsp;
+C'est vous qui publiez et alimentez les rubriques du site : ajoutez, modifier, compl&eacute;tez vos informations locales !
+
+
+Ensemble Ici : l'information par et pour les habitants du pays de Dieulefit-Bourdeaux et Marsanne.
+&nbsp;
+
+L'assocation Ici et Ailleurs est la structure juridique qui porte les projets Ensemble Ici - Pays de Dieulefit-Bourdeaux-Marsanne et RadioL&agrave;, la web-radio du pays de Dieulefit-Bourdeaux. 
+Nous avons besoin de votre soutien pour continuer nos actions: adh&eacute;rer
+
+
+&nbsp;
+Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d'info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, petites annonces, forums et articles! 
+Si vous souhaitez participer &agrave; la diffusion d&rsquo;Ensemble Ici sur le territoire de Dieulefit-Bourdeaux et Marsanne, merci de nous &eacute;crire &agrave; contact.pdb@ensembleici.fr
+&nbsp;
+        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Pays de Dieulefit-Bourdeaux et Marsanne                        
+                    
+                    SALON DES ARTS PAPIERS, LE POET LAVAL
+                    Salon , POET-LAVAL
+                    du vendredi 14 avril au dimanche 28 mai 2017
+                    
+
+                    
+                    Danse africaine au festival Metis
+                    Festival , DIEULEFIT
+                    Vendredi 28 avril 2017
+                    
+
+                                            
+                    
+                    Peinture encres de chine et pigments japonais, exposition de Michelle Billaud
+                    Exposition , DIEULEFIT
+                    du vendredi 28 avril au dimanche 04 juin 2017
+                    
+
+                                            
+                    
+                    SOIREE BIZZ'ART CINE  CONCERT AVEC BKO QUINTET
+                    Concert , CHAROLS
+                    Samedi 29 avril 2017
+                    
+
+                                            
+                    
+                    Rencontre Chorale
+                    Concert , GRIGNAN
+                    Dimanche 30 avril 2017
+                    
+
+                                            
+                    
+                    Stage d'aquarelle
+                    Stage , POET-LAVAL
+                    du lundi 01 au jeudi 04 mai 2017
+                    
+
+                    Ailleurs dans le coin                        
+                    
+                    Terre et Territoire, Pascale Louise Spiess
+                    Exposition , VALAURIE
+                    du vendredi 07 avril au dimanche 07 mai 2017
+                    
+
+                                            
+                    
+                    Projection au Teil
+                    Projection , AUBIGNAS
+                    Vendredi 28 avril 2017
+                    
+
+                                            
+                    
+                    KIVIV ! JAZZ TRIO 
+                    Spectacle , VAISON-LA-ROMAINE
+                    Samedi 29 avril 2017
+                    
+
+                                            
+                    
+                    Concert des Valientes Gracias
+                    Concert , MEYSSE
+                    Samedi 06 mai 2017
+                    
+
+                    &nbsp;Pays de Rémuzat                        
+                    
+                    Concert Marcopolio
+                    Concert , SAINT-ANDRE-DE-ROSANS
+                    Vendredi 28 avril 2017
+                    
+
+                                            
+                    
+                    Catherine Cattin expose au Cellier de Cornillon
+                    Exposition , CORNILLON-SUR-L'OULE
+                    du vendredi 05 au mercredi 31 mai 2017
+                    
+
+                    Val d'Eygues                        
+                    
+                    Festival Pilles sous les étoiles
+                    Festival , LES PILLES
+                    du samedi 22 au dimanche 30 avril 2017
+                    
+
+                                            
+                    
+                    Alice sur le fil
+                    Spectacle , NYONS
+                    Vendredi 28 avril 2017
+                    
+
+                                            
+                    
+                    Conférence "Folk & Country"
+                    Conférence , POET-SIGILLAT
+                    Samedi 29 avril 2017
+                    
+
+                                            
+                    
+                    Les mardis soirs à la ferme
+                    Visite , SAINT-FERREOL-TRENTE-PAS
+                    Mardi 02 mai 2017
+                    
+
+                                            
+                    
+                    Fiesta de Santa Fé
+                    Fête , SAINT-FERREOL-TRENTE-PAS
+                    Samedi 06 mai 2017
+                    
+
+                    Crestois Pays de Saillans                        
+                    
+                    Jean Louis GUERMANN - Jardins
+                    Exposition , CREST
+                    du dimanche 19 mars au dimanche 30 avril 2017
+                    
+
+                    &nbsp;Diois                        
+                    
+                    Concert de Gâmal
+                    Concert , SAINT-ANDEOL
+                    Vendredi 28 avril 2017
+                    
+
+                                            
+                    
+                    stage tapisserie d'ameublement
+                    Stage , DIE
+                    du vendredi 28 au dimanche 30 avril 2017
+                    
+
+                                            
+                    
+                    Désaffectés
+                    Spectacle , DIE
+                    Vendredi 05 mai 2017
+                    
+
+                                            
+                    
+                    ÇA M'CASSE LES URNES !
+                    Fête , DIE
+                    Samedi 06 mai 2017
+                    
+
+                    &nbsp;Val de Drôme                        
+                    
+                    La Déclaration des voix de l'homme
+                    Concert , CHABRILLAN
+                    Vendredi 28 avril 2017
+                    
+
+                                            
+                    
+                    Dälek, Gontard (duo) et Bleu Russe au CBGC
+                    Concert , GIGORS-ET-LOZERON
+                    du lundi 01 au mardi 02 mai 2017
+                    
+
+                                            
+                    
+                    Initiation à la Sociocratie
+                    Stage , ROCHE-SUR-GRANE
+                    du jeudi 04 au vendredi 05 mai 2017
+                    
+
+                                
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            employé(e) polyvalent de ferme
+                
+                    
+                    
+                                                        PENNES-LE-SEC
+                    
+                    
+                
+                                    vend kangoo II expression 1500 DCI 85
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    lot de 5 verres en grés 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Atelier Danse parents/ enfants
+                
+                    
+                    
+                                                        BONLIEU-SUR-ROUBION
+                    
+                    
+                
+                                    métier à tisser
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        MARIGNAC-EN-DIOIS
+                    
+                    
+                
+                                    Indépendants / TPE en recherche de solutions - meet up
+                
+                    
+                    
+                                                        DIEULEFIT
+                    
+                    
+                
+                                    Machine à laver le linge
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    petit camion
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    BACKSTAGE
+                
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    donne caravane
+                
+                    
+                    
+                                                        BONLIEU-SUR-ROUBION
+                    
+                    
+                
+                                    stage de danse improvisation avec le collectif(...)
+                
+                    
+                    
+                                                        BARNAVE
+                    
+                    
+                
+                                    Formation plantes médicinales
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Folk en Diois cherche matériel de déco !
+                
+                    
+                    
+                                                        CHATILLON-EN-DIOIS
+                    
+                    
+                
+                                    Concert
+                
+                    
+                    
+                                                        GRIGNAN
+                    
+                    
+                
+                                    Opel Vectra Break 1.9 CDTI 120 ch
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Baignoire de récupération
+                
+                    
+                    
+                                                        DIEULEFIT
+                    
+                    
+                
+                                    COVOITURAGE
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CHAROLS
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Terres d'Ailes
+                Atelier céramique
+                
+                                        VALOUSE
+                                        
+                
+                
+                            Association Les Pilles, Histoire et patrimoine
+                
+                
+                                        LES PILLES
+                        Association                
+                
+                
+                            Fédération Nouvelle Terre
+                Enseignement d'Eckhart TOLLE
+                
+                                        BOURG-DE-PEAGE
+                        Association                
+                
+                
+                            Mine d'Art
+                Café Associatif Artistique Dieulefitois
+                
+                                        DIEULEFIT
+                        Association                
+                
+                
+                            PMH
+                Patrimoine, Mémoire et Histoire du Pays de Dieulefit
+                
+                                        DIEULEFIT
+                        Association                
+                
+                
+                            Houp n'co
+                spectacles et ateliers pour le jeune public
+                
+                                        CHABRILLAN
+                        Association                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

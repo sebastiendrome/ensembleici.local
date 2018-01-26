@@ -1,0 +1,675 @@
+
+
+    
+        
+        Ensemble ici | #13 : Ensemble ici en Baronnies
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 19 au 29/09/2013
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	A ne pas rater : FORUM des ASSOCIATIONS &agrave; Curnier samedi !
+	
+	24 associations inscrites, stands &agrave; visiter de 14 h &agrave; 18 h &agrave; la salle polyvalente !
+	
+	Animations ludiques avec la compagnie Volt !
+			Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici. Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site. Tous ensemble, solidaires, b&acirc;tissons cet outil d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, et bient&ocirc;t forums.		
+	
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								Projection du film "Landes"
+								Projection , MONTBRUN-LES-BAINS
+								Jeudi 19 septembre 2013
+						
+
+												
+													
+								Exposition de Sabine Korsukewitz
+								Exposition , MONTBRUN-LES-BAINS
+								du samedi 28 septembre au vendredi 25 octobre 2013
+						
+
+					Pays de Buis-les-Baronnies							
+													
+								Lire à Mollans
+								Exposition , MOLLANS-SUR-OUVEZE
+								du mercredi 11 septembre au jeudi 03 octobre 2013
+						
+
+												
+								Eloge de soi
+								Atelier , PROPIAC
+								du mardi 17 septembre 2013 au lundi 30 juin 2014
+						
+
+												
+													
+								Fête marocaine 
+								Atelier , BUIS-LES-BARONNIES
+								du samedi 21 au dimanche 22 septembre 2013
+						
+
+												
+													
+								La ronde des Baronnies
+								promenade /  randonnée , BUIS-LES-BARONNIES
+								Dimanche 22 septembre 2013
+						
+
+												
+								Journée du cheval
+								Manifestation , BUIS-LES-BARONNIES
+								Dimanche 22 septembre 2013
+						
+
+												
+								Vide-greniers
+								Vide-grenier , MOLLANS-SUR-OUVEZE
+								Dimanche 22 septembre 2013
+						
+
+					Val d'Eygues							
+													
+								Portraits de Parc en Baronnies Provençales
+								Exposition , NYONS
+								du jeudi 01 août au lundi 30 septembre 2013
+						
+
+												
+								Exposition de peintures et sculptures
+								Exposition , NYONS
+								du dimanche 01 septembre au samedi 26 octobre 2013
+						
+
+												
+								Exposition collective
+								Exposition , NYONS
+								du mardi 03 au dimanche 22 septembre 2013
+						
+
+												
+													
+								Tournoi des Oliviers - open seniors 
+								Tournoi , NYONS
+								du jeudi 12 au dimanche 29 septembre 2013
+						
+
+												
+													
+								Poteries de Patricia Cohen
+								Exposition , NYONS
+								du mardi 17 au dimanche 29 septembre 2013
+						
+
+												
+													
+								Forum des associations du Haut-Nyonsais
+								Salon , CURNIER
+								Samedi 21 septembre 2013
+						
+
+												
+								Vide-grenier sportif
+								Vide-grenier , NYONS
+								Samedi 21 septembre 2013
+						
+
+												
+								Milonga de los olivos
+								Manifestation , NYONS
+								Samedi 21 septembre 2013
+						
+
+												
+								Vide-grenier
+								Marché , MIRABEL-AUX-BARONNIES
+								Dimanche 22 septembre 2013
+						
+
+												
+								Fête de la Saint Maurice
+								Fête , SAINT-MAURICE-SUR-EYGUES
+								Dimanche 22 septembre 2013
+						
+
+												
+													
+								Atelier cirque avec Yan Bernard du Cyrk Nop
+								Atelier , CONDORCET
+								du mardi 24 septembre au mardi 29 octobre 2013
+						
+
+												
+													
+								Présentation de travaux en cours 
+								Concert , CONDORCET
+								Mercredi 25 septembre 2013
+						
+
+												
+													
+								Atelier vidéo ado
+								Atelier , NYONS
+								du mercredi 25 septembre 2013 au samedi 14 juin 2014
+						
+
+												
+													
+								Mac Abbé & le Zombi orchestra
+								Concert , CONDORCET
+								Vendredi 27 septembre 2013
+						
+
+												
+													
+								Pétanque : les 8 jours de la ville de Nyons
+								Performance , NYONS
+								du vendredi 27 septembre au dimanche 06 octobre 2013
+						
+
+												
+								Nettoyons la Nature 
+								Manifestation , VINSOBRES
+								Samedi 28 septembre 2013
+						
+
+												
+													
+								Montaulieu reçoit LES VIRADES DE L'ESPOIR 
+								Manifestation , MONTAULIEU
+								du samedi 28 au dimanche 29 septembre 2013
+						
+
+												
+													
+								Atelier vidéo pour adultes
+								Atelier , NYONS
+								du samedi 28 septembre 2013 au samedi 07 juin 2014
+						
+
+												
+								5ème Virades de l'espoir
+								Manifestation , SAINT-MAURICE-SUR-EYGUES
+								Dimanche 29 septembre 2013
+						
+
+					&nbsp;Ailleurs dans le coin							
+													
+								Exposition "Palette d'émotions"
+								Exposition , MONTBRISON-SUR-LEZ
+								du jeudi 01 août au lundi 30 septembre 2013
+						
+
+												
+								Exposition - Gia TO
+								Exposition , LA MOTTE-CHALANCON
+								du lundi 02 au lundi 30 septembre 2013
+						
+
+												
+													
+								Ze Fiestival 2013
+								Festival , MARSANNE
+								du mercredi 18 au samedi 21 septembre 2013
+						
+
+												
+													
+								Festival de cinéma "De l'écrit à l'écran"
+								Festival , MONTELIMAR
+								du mercredi 18 au dimanche 22 septembre 2013
+						
+
+												
+													
+								expositions d'art contemporain
+								Exposition , SERRES
+								du mercredi 18 au dimanche 29 septembre 2013
+						
+
+												
+								Expositions d'Art Contemporain
+								Exposition , SERRES
+								du vendredi 20 au dimanche 22 septembre 2013
+						
+
+												
+								DUO DES FRERES BOUCLIER -concert d'exception !
+								Concert , CLANSAYES
+								Samedi 21 septembre 2013
+						
+
+												
+								Fête des vendanges - 
+								Fête , RASTEAU
+								Samedi 21 septembre 2013
+						
+
+												
+													
+								récital de guitare
+								Concert , VISAN
+								Samedi 21 septembre 2013
+						
+
+												
+								Vide Grenier - Montségur sur Lauzon
+								Vide-grenier , MONTSEGUR-SUR-LAUZON
+								Dimanche 22 septembre 2013
+						
+
+												
+													
+								Marché aux livres
+								Marché , VAISON-LA-ROMAINE
+								Dimanche 22 septembre 2013
+						
+
+												
+													
+								Stage osier-vivant
+								Atelier , EOURRES
+								du lundi 23 au mardi 24 septembre 2013
+						
+
+												
+													
+								Agités du vocal
+								Rencontre , VAISON-LA-ROMAINE
+								du mercredi 25 septembre 2013 au mercredi 11 juin 2014
+						
+
+												
+													
+								Festival "Haut les mômes" 2013
+								Festival , MONTELIMAR
+								du vendredi 27 au dimanche 29 septembre 2013
+						
+
+												
+								Trois Pièces de Jean-Claude Grumberg
+								Spectacle , VALREAS
+								Samedi 28 septembre 2013
+						
+
+												
+													
+								Rencontre Cinéma Danse "Appel d'air" 2013
+								Rencontre , DIEULEFIT
+								du samedi 28 au dimanche 29 septembre 2013
+						
+
+												
+													
+								4ème Fête de l’élevage du Toulourenc à Savoillans
+								Fête , SAVOILLAN
+								Dimanche 29 septembre 2013
+						
+
+												
+													
+								"Radiations Durables. Il était une fois dans l'Est."
+								Spectacle , TAULIGNAN
+								Dimanche 29 septembre 2013
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Avis de recherche - chevaux perdus 
+							
+						
+						
+														MONTAULIEU
+						
+						
+					
+					
+													colocation
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													cherche joueur de go
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														D.F.C.INFORMATIQUE
+								
+								Dépannage, formation et vente de matériel informatique. Création de site internet.
+							
+							
+															NYONS
+								Auto-entrepreneur							
+							
+						
+						
+														vel'eco des baronnies
+								
+								Location de vélos a assistance électrique et classique 
+							
+							
+															BUIS-LES-BARONNIES
+															
+							
+						
+						
+														FERME DE MACUEGNE
+								
+								association des producteurs des hautes baronnies
+							
+							
+															BARRET-DE-LIOURE
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+			
+				
+			
+				
+			
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

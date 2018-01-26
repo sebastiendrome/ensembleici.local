@@ -1,0 +1,815 @@
+
+
+    
+        
+        Ensemble ici | # 2015-45 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 05 au 15/11/2015
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous,
+	
+	&nbsp;
+
+	C&#39;est officiel, DECOR et Radio&#39;live se rapprochent ! 
+
+Suite &agrave; leur A.G commune ce mercredi, les membres des deux associations ont d&eacute;cid&eacute; d&#39;unir leurs forces.
+Pour plus de pr&eacute;cisions, le compte rendu sera bient&ocirc;t disponible sur Ensemble ici.
+
+
+En attendant vous pouvez retrouver les nouvelles &eacute;missions de Radio&#39;Live sur Ensemble ici:
+
+	
+	Le climat dans nos assiettes !
+Premi&egrave;re &eacute;mission &quot;Midi &agrave; ma porte&quot;, dans le cadre du deuxi&egrave;me d&eacute;fi culinaire pour lutter contre le changement climatique, organis&eacute; le samedi 10 octobre 2015 par le CEDER &agrave; Buis les Baronnies.
+
+Jean Raymond Meunier, sculpteur, Michel Cohen, c&eacute;ramiste et Aude Herv&eacute;, artiste plasticienne,
+Radioscop&#39;art nous propose trois portraits d&#39;artistes de tous horizons.
+
+
+	Bonne &eacute;coute !
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+		
+			
+				
+				Pays de Buis-les-Baronnies							
+													
+								Newsletter novembre
+								Rencontre , BUIS-LES-BARONNIES
+								du dimanche 01 au lundi 30 novembre 2015
+						
+
+												
+													
+								le rut du chamois
+								Visite , BUIS-LES-BARONNIES
+								Samedi 07 novembre 2015
+						
+
+												
+													
+								Foire aux Livres
+								Foire , BUIS-LES-BARONNIES
+								du samedi 07 au dimanche 08 novembre 2015
+						
+
+												
+													
+								La Cave du Troc, votre Boutik' gratuite
+								Visite , MOLLANS-SUR-OUVEZE
+								du samedi 07 novembre au samedi 26 décembre 2015
+						
+
+												
+													
+								Equilibrium Cuisine
+								Atelier , LA ROCHE-SUR-LE-BUIS
+								Dimanche 08 novembre 2015
+						
+
+												
+													
+								Week-end Climat
+								Projection , BUIS-LES-BARONNIES
+								du mercredi 11 au mardi 17 novembre 2015
+						
+
+												
+													
+								"La femme du boulanger" de Jean GIONO
+								Spectacle , BUIS-LES-BARONNIES
+								Vendredi 13 novembre 2015
+						
+
+												
+													
+								Aux Cop, Citoyennes Festival Film
+								Festival , BUIS-LES-BARONNIES
+								du vendredi 13 au samedi 14 novembre 2015
+						
+
+												
+													
+								Porte ouverte au Centre de bien-être Mainsage
+								Visite , BUIS-LES-BARONNIES
+								Samedi 14 novembre 2015
+						
+
+												
+													
+								Monalisa
+								Concert , BUIS-LES-BARONNIES
+								Samedi 14 novembre 2015
+						
+
+												
+													
+								SCARECROW + Jack & The Giant Bean
+								Concert , BUIS-LES-BARONNIES
+								Samedi 14 novembre 2015
+						
+
+												
+													
+								Gavilan et la Besace de Temistocles
+								Spectacle , SAINT-SAUVEUR-GOUVERNET
+								Samedi 14 novembre 2015
+						
+
+												
+													
+								Théâtre à Buis-Les-Baronnies
+								Spectacle , BUIS-LES-BARONNIES
+								Dimanche 15 novembre 2015
+						
+
+					&nbsp;Pays de Rémuzat							
+													
+								Fabrice Kleyn
+								Concert , MONTREAL-LES-SOURCES
+								Samedi 14 novembre 2015
+						
+
+					&nbsp;Val d'Eygues							
+													
+								ATELIERS PERCUSSIONS CORPORELLES
+								Cours , VENTEROL
+								du lundi 28 septembre 2015 au mardi 21 juin 2016
+						
+
+												
+													
+								Conférence "Musclez vos neurones avec un athlète de la mémoire"
+								Atelier , NYONS
+								Jeudi 05 novembre 2015
+						
+
+												
+													
+								Soirée 100% Japonaise (Cinéma Arlequin)
+								Manifestation , NYONS
+								Vendredi 06 novembre 2015
+						
+
+												
+													
+								une  « escapade » sur la « montagne sainte », le Mont Athos, avec Michel Lévi,  amoureux de ce lieu.
+								Conférence , VINSOBRES
+								Vendredi 06 novembre 2015
+						
+
+												
+													
+								Concert de Zoufris Maracas et Frizaplat et Djulius 
+								Concert , NYONS
+								Samedi 07 novembre 2015
+						
+
+												
+													
+								marché d'autonme
+								Marché , NYONS
+								Samedi 07 novembre 2015
+						
+
+												
+													
+								Conférence-débat sur la laïcité avec Henri Peña-Ruiz
+								Conférence , VINSOBRES
+								Samedi 07 novembre 2015
+						
+
+												
+													
+								Broc à vêtements et jouets enfants 
+								Vide-grenier , MIRABEL-AUX-BARONNIES
+								Dimanche 08 novembre 2015
+						
+
+												
+													
+								BOURSE AUX JOUETS - LIVRES - VETEMENTS ENFANTS
+								Vide-grenier , NYONS
+								Dimanche 08 novembre 2015
+						
+
+												
+													
+								Concert "Christophe QUATREMER et Sylvie BARBERI
+								Concert , PIEGON
+								Dimanche 08 novembre 2015
+						
+
+												
+													
+								Concert "Les Sacrifiés" par les GAILLARDS D'AVANT 
+								Concert , CURNIER
+								Mercredi 11 novembre 2015
+						
+
+												
+													
+								Le conteur qui ne mourrait pas
+								Spectacle , MIRABEL-AUX-BARONNIES
+								Vendredi 13 novembre 2015
+						
+
+												
+													
+								RENCONTRE-DEDICACE Avec Loro MAZONO
+								Rencontre , NYONS
+								Samedi 14 novembre 2015
+						
+
+												
+													
+								AMNESTY INTERNATIONAL NYONS
+								Foire , NYONS
+								du samedi 14 au dimanche 15 novembre 2015
+						
+
+												
+													
+								Rencontres Naturalistes LPO
+								Rencontre , NYONS
+								du samedi 14 au dimanche 15 novembre 2015
+						
+
+												
+													
+								Atelier Vannerie : La Cageole
+								Atelier , CURNIER
+								du samedi 14 au jeudi 26 novembre 2015
+						
+
+												
+													
+								Contes autour de la terre
+								Spectacle , LES PILLES
+								Dimanche 15 novembre 2015
+						
+
+												
+													
+								Foire des Pilles
+								Foire , LES PILLES
+								Dimanche 15 novembre 2015
+						
+
+												
+													
+								Prenez la parole!
+								Stage , MONTAULIEU
+								Dimanche 15 novembre 2015
+						
+
+												
+													
+								Loto de l'USBN
+								Jeux , NYONS
+								Dimanche 15 novembre 2015
+						
+
+												
+													
+								Bourse aux jouets
+								Marché , VENTEROL
+								Dimanche 15 novembre 2015
+						
+
+					Ailleurs dans le coin							
+													
+								Exposition "Paysages Refuges" Stéphanie LEHU
+								Exposition , VALAURIE
+								du dimanche 01 au dimanche 29 novembre 2015
+						
+
+												
+													
+								JUAN ROZOFF
+								Concert , RASTEAU
+								Samedi 07 novembre 2015
+						
+
+												
+													
+								Halloween
+								Fête , SAULT
+								Samedi 07 novembre 2015
+						
+
+												
+													
+								Festival vin et chocolat
+								Festival , RASTEAU
+								du samedi 07 au dimanche 08 novembre 2015
+						
+
+												
+													
+								Cie Court en l'Air - Festival Après les vendanges
+								Festival , SAVOILLAN
+								Mardi 10 novembre 2015
+						
+
+												
+													
+								Forum LA VOIE DU BONHEUR
+								Stage , ROCHE-SUR-GRANE
+								du mardi 10 au dimanche 15 novembre 2015
+						
+
+												
+													
+								2ème journée du conte Mythologique
+								Conte , VAISON-LA-ROMAINE
+								Mercredi 11 novembre 2015
+						
+
+												
+													
+								Concert "Tandjali"
+								Concert , VALAURIE
+								Mercredi 11 novembre 2015
+						
+
+												
+													
+								Quartett de Heiner Müller
+								Atelier , DIEULEFIT
+								Vendredi 13 novembre 2015
+						
+
+												
+													
+								Trio Jean-Philippe Sempere - Hard Bop et jazz soul - Jazz Dans Les Vignes
+								Spectacle , CAIRANNE
+								Samedi 14 novembre 2015
+						
+
+												
+													
+								El Gato Negro - Festival Après les vendanges
+								Festival , ENTRECHAUX
+								Samedi 14 novembre 2015
+						
+
+												
+													
+								 Nuits Blanches et Cie - Festival Après les vendanges
+								Festival , VAISON-LA-ROMAINE
+								Dimanche 15 novembre 2015
+						
+
+												
+													
+								La Bacchanale
+								Manifestation , VAISON-LA-ROMAINE
+								Dimanche 15 novembre 2015
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													 association Familiale du Nyonsais- Carrefour des Habitants
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Porte cellier bois massif
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														FAUCON
+						
+						
+					
+					
+													Centre équestre du Rouet: appel à financement
+							
+						
+						
+														CONDORCET
+						
+						
+					
+					
+													cherche musicien (ne)percutionniste  
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													petite maison avec jardin
+							
+						
+						
+														SEDERON
+						
+						
+					
+					
+													CUI animateur espace de travail collaboratif
+							
+						
+						
+														SAHUNE
+						
+						
+					
+					
+													Atelier d'écriture
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Location
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Du cerveau à la pensée- le Monde de l'opéra - Art, culture et création
+							
+						
+						
+														VAISON-LA-ROMAINE
+						
+						
+					
+					
+													Vends Ensemble douche sans travaux wc broyeur lavabo pour personnes à mobilité réduite
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														LA ROCHE-SUR-LE-BUIS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Toilettes Du Monde
+								
+								
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														ATELIER THEATRE DE SABLET
+								
+								Cours de théâtre, créations de spectacles, animations culturelles
+							
+							
+															SABLET
+								Association							
+							
+						
+						
+														Milenki
+								
+								Développement humain
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														Le Local
+								
+								
+							
+							
+															REMUZAT
+								Association							
+							
+						
+						
+														Maison de la Tour
+								
+								
+							
+							
+															VALAURIE
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

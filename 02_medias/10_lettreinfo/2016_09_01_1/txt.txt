@@ -1,0 +1,719 @@
+
+
+    
+        
+        Ensemble ici | # 2016-36 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 01 au 11/09/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous,
+
+Ca y&#39;est, c&#39;est la rentr&eacute;e ! 
+Mais pas partout...
+Retrouvez le reportage r&eacute;alis&eacute; par les &eacute;l&egrave;ves de Bouvi&egrave;res sur la fermeture de leur &eacute;cole en cliquant ici.
+
+
+
+Et pour l&#39;avant derni&egrave;re &eacute;mission de Radio Buvette sur le march&eacute; de producteur des Pilles, rejoignez nous pour un STUDIO OUVERT &agrave; tous.
+
+Activit&eacute;s, initiatives, d&eacute;bats, musique, coups de coeurs, coups de gueules ou annonces en tout genre: &agrave; vous l&#39;antenne !
+
+Venez nous en parler &agrave; la buvette &agrave; partir de 17h, pour une diffusion &agrave; 18h, comme chaque lundi.
+
+D&eacute;j&agrave; au programme: l&#39;inscription sur les listes &eacute;lectorales, l&#39;association Eloise, Armel en musique... et vous ?
+
+
+Cette semaine c&#39;&eacute;tait Jah militant sous le signe &quot;reggae music&quot;, &agrave; r&eacute;&eacute;couter ici !
+
+
+	
+	Bonne semaine et bonne rentr&eacute;e !
+	
+	L&#39;&eacute;quipe d&#39;Ensemble Ici - Baronnies
+	(qui recherche toujours un volontaire en service civique ! )
+	&nbsp;
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+                Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+                
+        
+		
+			
+				
+				Crestois Pays de Saillans							
+													
+								Les Rencontres AdHoc
+								Festival , MIRABEL-ET-BLACONS
+								du jeudi 08 au dimanche 11 septembre 2016
+						
+
+					&nbsp;Hautes Baronnies							
+													
+								Journée Bien être au naturel
+								Manifestation , MONTBRUN-LES-BAINS
+								Dimanche 04 septembre 2016
+						
+
+												
+													
+								artisanat solidaire
+								Manifestation , MONTBRUN-LES-BAINS
+								Dimanche 04 septembre 2016
+						
+
+					Pays de Buis-les-Baronnies							
+													
+								De Santiago à Ushuaia
+								Exposition , MOLLANS-SUR-OUVEZE
+								Dimanche 04 septembre 2016
+						
+
+												
+													
+								Rencontre autour du Yoga
+								Projection , BUIS-LES-BARONNIES
+								Vendredi 09 septembre 2016
+						
+
+					Pays de Rémuzat							
+													
+								Les Papy Boomers
+								Spectacle , REMUZAT
+								du jeudi 01 au samedi 03 septembre 2016
+						
+
+												
+													
+								Vide grenier
+								Vide-grenier , REMUZAT
+								Samedi 10 septembre 2016
+						
+
+					Val d'Eygues							
+													
+								EXPOSITION ARTISTIQUE
+								Exposition , VENTEROL
+								du jeudi 25 août au dimanche 04 septembre 2016
+						
+
+												
+													
+								STAGE peintures naturelles
+								Stage , NYONS
+								du vendredi 02 au dimanche 04 septembre 2016
+						
+
+												
+													
+								 Drôme Provençale Vide grenier "spécial bébé" 
+								Vide-grenier , NYONS
+								Samedi 03 septembre 2016
+						
+
+												
+													
+								fête de la laine à Nyons le dimanche 4 septembre 2016
+								Exposition , NYONS
+								Dimanche 04 septembre 2016
+						
+
+												
+													
+								FORMATION AUTOCONSTRUCTION
+								Atelier , NYONS
+								du lundi 05 au mercredi 07 septembre 2016
+						
+
+												
+													
+								Cours et Initiation aux techniques de la céramique
+								Atelier , NYONS
+								du lundi 05 septembre 2016 au vendredi 14 juillet 2017
+						
+
+												
+													
+								Conférence sur le bénévolat
+								Conférence , NYONS
+								Mercredi 07 septembre 2016
+						
+
+												
+													
+								Philharmonique de Chambre de Cologne
+								Concert , NYONS
+								Jeudi 08 septembre 2016
+						
+
+												
+													
+								Itinérances - Exposition photo
+								Exposition , CHATEAUNEUF-DE-BORDETTE
+								du vendredi 09 au dimanche 18 septembre 2016
+						
+
+												
+													
+								Itinérances - Exposition photo
+								Exposition , CURNIER
+								du vendredi 09 au dimanche 18 septembre 2016
+						
+
+												
+													
+								Exposition
+								Exposition , LES PILLES
+								du vendredi 09 au dimanche 18 septembre 2016
+						
+
+												
+													
+								Itinérances - Exposition photo
+								Exposition , LES PILLES
+								du vendredi 09 au dimanche 18 septembre 2016
+						
+
+												
+													
+								Itinérances - Exposition photo
+								Exposition , MIRABEL-AUX-BARONNIES
+								du vendredi 09 au dimanche 18 septembre 2016
+						
+
+												
+													
+								Itinérances - Exposition photo
+								Exposition , VENTEROL
+								du vendredi 09 au dimanche 18 septembre 2016
+						
+
+												
+								Parcours d'Ateliers d'Artistes
+								Manifestation , NYONS
+								du samedi 10 au dimanche 11 septembre 2016
+						
+
+												
+													
+								Parcours des ateliers d'artistes
+								Exposition , NYONS
+								du samedi 10 au dimanche 11 septembre 2016
+						
+
+												
+													
+								Shirodhara Massage Royal  (association Les Racines du Coeur)
+								journée d'information , POET-SIGILLAT
+								du samedi 10 au dimanche 11 septembre 2016
+						
+
+												
+													
+								Forum des Associations et du Bénévolat
+								Manifestation , NYONS
+								Dimanche 11 septembre 2016
+						
+
+					Ailleurs dans le coin							
+													
+								les Féebulleuses
+								Festival , LYAS
+								du vendredi 02 au dimanche 04 septembre 2016
+						
+
+												
+													
+								Meeting salarié(e)s statutaires sous-traitants du nucléaire 
+								Rencontre , SAVASSE
+								du samedi 03 au dimanche 04 septembre 2016
+						
+
+												
+													
+								Puces des Coutières 
+								Exposition , BOUCHET
+								Dimanche 04 septembre 2016
+						
+
+												
+													
+								Fête du petit épeautre
+								Fête , MONIEUX
+								Dimanche 04 septembre 2016
+						
+
+												
+								FORUM DES ASSOCIATIONS
+								journée d'information , VAISON-LA-ROMAINE
+								Dimanche 04 septembre 2016
+						
+
+												
+													
+								 La Placétanou
+								Fête , VILLEDIEU
+								Mercredi 07 septembre 2016
+						
+
+												
+													
+								Éclats, le festival de la voix au Pays de Dieulefit, du 7 au 11 septembre 2016, 15e édition.
+								Festival , DIEULEFIT
+								du mercredi 07 au dimanche 11 septembre 2016
+						
+
+												
+													
+								QUAI DU BONHEUR
+								Spectacle , VAISON-LA-ROMAINE
+								Samedi 10 septembre 2016
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+                
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Ensemble Ici recherche un volontaire en Service Civique !
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													donne cheval 
+							
+						
+						
+														LA ROCHE-SUR-LE-BUIS
+						
+						
+					
+					
+													hebergement en chalet contre service à la ferme
+							
+						
+						
+														LA ROCHE-SUR-LE-BUIS
+						
+						
+					
+					
+													renouvellement projet social AFB
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													ASOFT recherche un(e) secrétaire-animateur/trice
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													VENDS ELECTROMENAGER
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Vends Entreprise
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													PISCINE
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Offre d'emploi à Saillans : Animateur/trice
+							
+						
+						
+														SAILLANS
+						
+						
+					
+					
+													PETITE YOURTE A VENDRE 
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													URGENT : Phare avant droit Citroën ZX VP
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Cherche guitare 12 cordes
+							
+						
+						
+														DIE
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Crinières aux champs
+								
+								Prestations en traction animale
+							
+							
+															ARPAVON
+								Auto-entrepreneur							
+							
+						
+						
+														Éditions des Lisières
+								
+								
+							
+							
+															SAINTE-JALLE
+								Association							
+							
+						
+						
+														Chemin dansant
+								
+								danse libre technique Malkovsky
+							
+							
+															DIE
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+    
+	Le collectif "Ensemble ici" :
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+        
+
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

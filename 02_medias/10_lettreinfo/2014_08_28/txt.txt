@@ -1,0 +1,753 @@
+
+
+    
+        
+        Ensemble ici | # 2014-34 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 28/08 au 07/09/2014
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous,
+	&nbsp;
+
+	Bient&ocirc;t la rentr&eacute;e !
+	
+	Profitons des derniers &eacute;v&eacute;nements de l&#39;&eacute;t&eacute; avant de se retrouver peu &agrave; peu entre nous, habitants des Baronnies..
+	
+	Continuons de faire vivre nos vall&eacute;es !
+	Les id&eacute;es fourmillent, les &eacute;nergies ne manquent pas: Ensemble Ici est l&agrave; pour les mettre en lumi&egrave;re et faciliter leur mise en r&eacute;seau.
+	Alors continuons d&#39;&eacute;changer, partageons nos informations, nos initiatives.. et soyons tous acteurs de la vie locale !
+
+	
+	Tr&egrave;s belle semaine &agrave; tous,
+	
+	L&#39;&eacute;quipe Ensemble Ici.
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums, et bient&ocirc;t articles!
+	
+	
+		contact@ensembleici.fr
+
+		
+	
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								Stage de cirque
+								Stage , MEVOUILLON
+								du mardi 26 au vendredi 29 août 2014
+						
+
+												
+													
+								Isabelle de Rouville photographies
+								Exposition , MONTBRUN-LES-BAINS
+								du samedi 30 août au vendredi 03 octobre 2014
+						
+
+												
+													
+								8ème Journée Bien Etre au Naturel
+								Manifestation , MONTBRUN-LES-BAINS
+								Dimanche 07 septembre 2014
+						
+
+					Pays de Buis-les-Baronnies							
+													
+								Exposition "Rêveries botaniques"
+								Exposition , BUIS-LES-BARONNIES
+								du jeudi 14 août au jeudi 18 septembre 2014
+						
+
+												
+													
+								Visite d'une oliveraie
+								Visite , MOLLANS-SUR-OUVEZE
+								Jeudi 28 août 2014
+						
+
+												
+													
+								Fête votive des Sias
+								Fête , ROCHE-SUR-LE-BUIS
+								du vendredi 29 au dimanche 31 août 2014
+						
+
+												
+													
+								Pour faire la fête, on COvoiture ! par Places Libres
+								Fête , ROCHE-SUR-LE-BUIS
+								du vendredi 29 au dimanche 31 août 2014
+						
+
+												
+													
+								Marché provençal
+								Marché , MOLLANS-SUR-OUVEZE
+								Samedi 30 août 2014
+						
+
+												
+													
+								Visite guidée du village
+								Visite , MOLLANS-SUR-OUVEZE
+								Dimanche 31 août 2014
+						
+
+												
+													
+								Trophée des as
+								Performance , BUIS-LES-BARONNIES
+								du lundi 01 au mercredi 03 septembre 2014
+						
+
+												
+													
+								La nuit des chauves souris
+								Rencontre , SAINT-SAUVEUR-GOUVERNET
+								Vendredi 05 septembre 2014
+						
+
+												
+													
+								Découverte éthnobotanique accompagnée
+								Promenade , BUIS-LES-BARONNIES
+								Dimanche 07 septembre 2014
+						
+
+					Pays de Rémuzat							
+													
+								Les après-midi "Portes-Ouvertes - Nouvelle saison d'Aventic"
+								Atelier , VERCLAUSE
+								Vendredi 05 septembre 2014
+						
+
+					&nbsp;Val d'Eygues							
+													
+								Marché provençal
+								Marché , NYONS
+								du dimanche 11 mai au dimanche 21 septembre 2014
+						
+
+												
+													
+								Stage de piano
+								Stage , CURNIER
+								du lundi 25 au jeudi 28 août 2014
+						
+
+												
+													
+								Marché des producteurs
+								Marché , SAINTE-JALLE
+								Vendredi 29 août 2014
+						
+
+												
+													
+								"Jour de Fête"
+								Fête , ARPAVON
+								Samedi 30 août 2014
+						
+
+												
+													
+								Pour faire la fête, on COvoiture ! par Places Libres
+								Fête , ARPAVON
+								Samedi 30 août 2014
+						
+
+												
+													
+								Vide greniers
+								Vide-grenier , NYONS
+								Samedi 30 août 2014
+						
+
+												
+													
+								La lune dans tous ses états
+								Conférence , PIEGON
+								Samedi 30 août 2014
+						
+
+												
+													
+								Foire de Sahune
+								Foire , SAHUNE
+								du samedi 30 au dimanche 31 août 2014
+						
+
+												
+													
+								Vide greniers
+								Vide-grenier , AUBRES
+								Dimanche 31 août 2014
+						
+
+												
+													
+								"Du côté de Montaulieu"
+								Promenade , MONTAULIEU
+								Dimanche 31 août 2014
+						
+
+												
+													
+								'70e Anniversaire De La Libération De Nyons'
+								Manifestation , NYONS
+								Dimanche 31 août 2014
+						
+
+												
+													
+								EXPOSITION DE PEINTURES D’HENRY GRUERE
+								Exposition , NYONS
+								du mardi 02 au mardi 09 septembre 2014
+						
+
+												
+													
+								Marché des producteurs
+								Marché , SAINTE-JALLE
+								Vendredi 05 septembre 2014
+						
+
+												
+													
+								Ban des vendanges
+								Fête , VINSOBRES
+								Vendredi 05 septembre 2014
+						
+
+												
+													
+								Concert de guitare classique
+								Concert , NYONS
+								Samedi 06 septembre 2014
+						
+
+												
+													
+								Vide greniers spécial bébés
+								Vide-grenier , NYONS
+								Samedi 06 septembre 2014
+						
+
+												
+													
+								Marché de la laine
+								Marché , NYONS
+								Samedi 06 septembre 2014
+						
+
+												
+													
+								Les après-midi "Portes-ouvertes - Nouvelle saison d'Aventic"
+								Manifestation , SAHUNE
+								Samedi 06 septembre 2014
+						
+
+												
+													
+								14 ème Forum des associations et du bénévolat
+								Manifestation , NYONS
+								Dimanche 07 septembre 2014
+						
+
+					&nbsp;Ailleurs dans le coin							
+													
+								Exposition Aquarelle et Acrylique
+								Exposition , SERRES
+								du lundi 11 août au dimanche 07 septembre 2014
+						
+
+												
+													
+								Exposition de gravures et de dessins
+								Exposition , SERRES
+								du samedi 23 août au jeudi 18 septembre 2014
+						
+
+												
+													
+								Concours de boules
+								Performance , GRIGNAN
+								Vendredi 29 août 2014
+						
+
+												
+													
+								Carte blanche à Sylvie Sagot-Duvauroux
+								Concert , MARSANNE
+								Samedi 30 août 2014
+						
+
+												
+													
+								CONCERT: THE NEIGHBOURS
+								Concert , MARSANNE
+								Samedi 30 août 2014
+						
+
+												
+													
+								Tous à pied Vaurias !
+								Manifestation , VALREAS
+								Samedi 30 août 2014
+						
+
+												
+													
+								Le Pègue en fête
+								Fête , LE PEGUE
+								du samedi 30 au dimanche 31 août 2014
+						
+
+												
+													
+								Expo vente de BD
+								Exposition , DIEULEFIT
+								du samedi 30 août au vendredi 05 septembre 2014
+						
+
+												
+													
+								Comité des Orgues: Concert Michel Alleyson
+								Concert , GRIGNAN
+								Dimanche 31 août 2014
+						
+
+												
+													
+								La Véronique
+								Performance , SAINT-RESTITUT
+								Dimanche 31 août 2014
+						
+
+												
+													
+								1914 – 1918 : QUAND LA PETITE HISTOIRE REJOINT LA GRANDE
+								Exposition , VALREAS
+								du lundi 01 au samedi 20 septembre 2014
+						
+
+												
+													
+								Festival de la Valse des As
+								Festival , VALREAS
+								Vendredi 05 septembre 2014
+						
+
+												
+													
+								Concert OPHRIS
+								Concert , CLANSAYES
+								Samedi 06 septembre 2014
+						
+
+												
+													
+								Marché Festif
+								Marché , BONLIEU-SUR-ROUBION
+								Dimanche 07 septembre 2014
+						
+
+												
+													
+								Thé dansant
+								Rencontre , VISAN
+								Dimanche 07 septembre 2014
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													URGENT - Colocation dans maison 120m²
+							
+						
+						
+														CURNIER
+						
+						
+					
+					
+													Traducteur Italien/Albanais
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Cherche logement contre services
+							
+						
+						
+														AUBRES
+						
+						
+					
+					
+													Propose atelier massage à DieulefitBébé 
+							
+						
+						
+														DIEULEFIT
+						
+						
+					
+					
+													RECHERCHE EMPLOI : Garde d'enfant au domicile des parents
+							
+						
+						
+														NYONS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														PLACES LIBRES
+								
+								covoiturage
+							
+							
+															CONDORCET
+								Association							
+							
+						
+						
+														Collectif parental pour un mode de garde des jeunes enfants du Haut Nyonsais
+								
+								
+							
+							
+															SAINTE-JALLE
+															
+							
+						
+						
+														La Valse des AS
+								
+								Festival des Arts de la Rue
+							
+							
+															VALREAS
+								Association							
+							
+						
+						
+														La petite Herboristerie
+								
+								Vente de produits naturels et biologiques
+							
+							
+															BUIS-LES-BARONNIES
+								société privée							
+							
+						
+						
+														Christine Jeannin
+								
+								Relaxation et réflexologie plantaire
+							
+							
+															NYONS
+								Etablissement privé							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

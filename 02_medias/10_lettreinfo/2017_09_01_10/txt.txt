@@ -1,0 +1,737 @@
+
+
+
+    
+        
+        Ensemble ici | La Lettre Ensemble Ici Pays de Dieulefit-Bourdeaux-Marsanne 2017#15
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Cette fois c'est la rentr&eacute;e...pour ceux et celles qui rentrent.Que ceux qui sortent, partent en silence et profitent bien de la meilleure periode de l'ann&eacute;e pour partir en vacances! 
+Quoi qu'il en soit c'est bient&ocirc;t Ze fIestival &agrave; Marsanne et le festival Eclat &agrave; Dieulefit, deux moments forts de la rentr&eacute;e. Avec notamment le siffleur de Fred Radix &agrave; la halle de Dieulefit et The Summer Rebellion &agrave; Marsanne, on ne va pas s'ennuyer!
+Les dates des journ&eacute;es europ&eacute;ennes du patrimoine: 16 et 17 Septembre. Notez que le samedi 16 c'est aussi l'occasion de d&eacute;couvrir Ensemble Ici et RadioL&agrave; au forum des associations &agrave; Dieulefit. Et si vous restez dans votre canap&eacute;, ce m&ecirc;me jour &agrave; 16h30 RadioL&agrave; vous propose une emission en direct pour d&eacute;couvrir dans le cadre des journ&eacute;es du patrimoine, la fabrique de poterie de Cliousclat
+Les cours de danse africaine, anim&eacute;s par St&eacute;phane Koulbanis et accompagn&eacute;s par Gr&eacute;goire Perdriau et Fabienne Debeda aux percussions, reprendront le Mardi 26 septembre &agrave; 19h30 &agrave; la Halle de Dieulefit.
+Le 16 Septembre c'est l'Episode n&deg;3 de Roubion, si vous suivez la saga, c'est au complexe du crabe &agrave; Bonlieu sur Roubion &agrave; 18h. 
+Et puis il y a les sorties cin&eacute;ma, les visites de fermes, les vide grenier ou un tour de v&eacute;lo apr&egrave;s le boulot. On vous souhaite une bonne rentr&eacute;e!                
+Voici les infos des prochaines semaines dont vous trouvez le d&eacute;tail sur le site Ensemble ici. 
+La lettre d'info les petites annonces du territoire sont t&eacute;l&eacute;chargeables en PDF dans ce mail. 
+Il vous est ais&eacute; d'en ajouter via les formulaires du site.
+
+&nbsp;
+C'est vous qui publiez et alimentez les rubriques du site : ajoutez, modifier, compl&eacute;tez vos informations locales !
+
+
+Ensemble Ici : l'information par et pour les habitants du pays de Dieulefit-Bourdeaux et Marsanne.
+&nbsp;
+
+L'assocation Ici et Ailleurs est la structure juridique qui porte les projets Ensemble Ici - Pays de Dieulefit-Bourdeaux-Marsanne et RadioL&agrave;, la web-radio du pays de Dieulefit-Bourdeaux. 
+Nous avons besoin de votre soutien pour continuer nos actions: adh&eacute;rer
+
+
+&nbsp;
+Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d'info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, petites annonces, forums et articles! 
+Si vous souhaitez participer &agrave; la diffusion d&rsquo;Ensemble Ici sur le territoire de Dieulefit-Bourdeaux et Marsanne, merci de nous &eacute;crire &agrave; contact.pdb@ensembleici.fr
+&nbsp;
+        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Pays de Dieulefit-Bourdeaux et Marsanne                        
+                    
+                    Samuel Guille "Portrait de paysage"
+                    Exposition , DIEULEFIT
+                    du vendredi 04 août au mercredi 13 septembre 2017
+                    
+
+                                            
+                    
+                    Les vendredis Latino
+                    Fête , CRUPIES
+                    du vendredi 25 août 2017 au dimanche 24 juin 2018
+                    
+
+                                            
+                    
+                    Anne-Marie Jaccottet
+                    Exposition , GRIGNAN
+                    du samedi 09 septembre au dimanche 26 novembre 2017
+                    
+
+                    Ailleurs dans le coin                        
+                    
+                    Théâtre-Forum
+                    Spectacle , EOURRES
+                    Vendredi 01 septembre 2017
+                    
+
+                                            
+                    
+                    Fest'à Pont
+                    Festival , PONT-EN-ROYANS
+                    Vendredi 01 septembre 2017
+                    
+
+                                            
+                    
+                    Les Féebulleuses #8
+                    Festival , LYAS
+                    du vendredi 01 au dimanche 03 septembre 2017
+                    
+
+                                            
+                    
+                    La Valse des As !
+                    Festival , VALREAS
+                    du vendredi 01 au dimanche 03 septembre 2017
+                    
+
+                                            
+                    
+                    Salon Détente Bien Être
+                    Salon , VAISON-LA-ROMAINE
+                    du samedi 02 au dimanche 03 septembre 2017
+                    
+
+                                            
+                    
+                    Vide-greniers à Cairanne
+                    Vide-grenier , CAIRANNE
+                    Dimanche 03 septembre 2017
+                    
+
+                                            
+                    
+                    Les journées d'art de Vaison - Septembre
+                    Manifestation , VAISON-LA-ROMAINE
+                    Dimanche 03 septembre 2017
+                    
+
+                                            
+                    
+                    Inauguration de l'exposition "La cité antique de Philippes en Grèce" à la Cathédrale de la Cité Médiévale
+                    Exposition , VAISON-LA-ROMAINE
+                    Vendredi 08 septembre 2017
+                    
+
+                                            
+                    
+                    LES PLATANES CRAQUENT
+                    Concert , SEGURET
+                    Samedi 09 septembre 2017
+                    
+
+                                            
+                    
+                    VENT'ALENTOUR
+                    Spectacle , VAISON-LA-ROMAINE
+                    Samedi 09 septembre 2017
+                    
+
+                    &nbsp;Hautes Baronnies                        
+                    
+                    Festival du maquis
+                    Festival , MONTAUBAN-SUR-L'OUVEZE
+                    Samedi 02 septembre 2017
+                    
+
+                                            
+                    
+                    Journée Bien être au naturel
+                    Manifestation , MONTBRUN-LES-BAINS
+                    Dimanche 03 septembre 2017
+                    
+
+                    Pays de Buis-les-Baronnies                        
+                    
+                    Concert Nina Harker // Cheval Scintillantes
+                    Concert , MOLLANS-SUR-OUVEZE
+                    Samedi 02 septembre 2017
+                    
+
+                                            
+                    
+                    "La BOUTIKODON" 
+                    Visite , MOLLANS-SUR-OUVEZE
+                    du samedi 02 septembre au samedi 07 octobre 2017
+                    
+
+                                            
+                    
+                    THEÂTRE IMPROVISATION
+                    Stage , BEAUVOISIN
+                    du lundi 04 au vendredi 08 septembre 2017
+                    
+
+                                            
+                    
+                    Concert : Delacave
+                    Concert , MOLLANS-SUR-OUVEZE
+                    Samedi 09 septembre 2017
+                    
+
+                                            
+                    
+                    Deuxième quinzaine de juillet
+                    Projection , BUIS-LES-BARONNIES
+                    Dimanche 10 septembre 2017
+                    
+
+                    Pays de Rémuzat                        
+                    
+                    Journée internationale des Vautours  
+                    Randonnée , REMUZAT
+                    Samedi 02 septembre 2017
+                    
+
+                    &nbsp;Val d'Eygues                        
+                    
+                    Concours de pétanque tous les jeudis 
+                    Manifestation , VINSOBRES
+                    du mercredi 09 au jeudi 31 août 2017
+                    
+
+                                            
+                    
+                    Nouvelle exposition de peintures
+                    Exposition , VENTEROL
+                    du vendredi 01 au dimanche 10 septembre 2017
+                    
+
+                                            
+                    
+                    Marché laine et soie
+                    Marché , NYONS
+                    Dimanche 03 septembre 2017
+                    
+
+                                            
+                    
+                    Soirée Projection
+                    Projection , NYONS
+                    Vendredi 08 septembre 2017
+                    
+
+                                            
+                    
+                    Journée Portes Ouvertes de l'UNIVERSITE NYONSAISE DU TEMPS LIBRE
+                    Manifestation , NYONS
+                    Samedi 09 septembre 2017
+                    
+
+                    Crestois Pays de Saillans                        
+                    
+                    Swing La Mouche au temple d'Aurel
+                    Concert , AUREL
+                    Samedi 02 septembre 2017
+                    
+
+                                            
+                    
+                    Les rencontres Ad Hoc
+                    Projection , MIRABEL-ET-BLACONS
+                    du mercredi 06 au dimanche 10 septembre 2017
+                    
+
+                                            
+                    
+                    Concert de Frisette
+                    Concert , MIRABEL-ET-BLACONS
+                    Jeudi 07 septembre 2017
+                    
+
+                                            
+                    
+                    Concert des Mama cholita
+                    Concert , MIRABEL-ET-BLACONS
+                    Vendredi 08 septembre 2017
+                    
+
+                                            
+                    
+                    FÊTE DES ETOILES à Véronne
+                    Fête , VERONNE
+                    du samedi 09 au dimanche 10 septembre 2017
+                    
+
+                                            
+                    
+                    Le mois de la vigne
+                    Manifestation , VERCHENY
+                    du samedi 09 au dimanche 24 septembre 2017
+                    
+
+                                            
+                    
+                    Concert de Art Gecko Beat
+                    Concert , MIRABEL-ET-BLACONS
+                    Dimanche 10 septembre 2017
+                    
+
+                                            
+                    
+                    Concert Art Gecko Beat
+                    Concert , MIRABEL-ET-BLACONS
+                    Dimanche 10 septembre 2017
+                    
+
+                    Diois                        
+                    
+                    Ariane Gypsy Bastards au Tchaï Walla
+                    Concert , DIE
+                    Vendredi 01 septembre 2017
+                    
+
+                                            
+                    
+                    Cours de vitrail, fusion du verre, mosaïque  et peinture sur verre
+                    Cours , DIE
+                    du vendredi 01 septembre 2017 au samedi 30 juin 2018
+                    
+
+                                            
+                    
+                    TOUT DE SUITE + MARWANNY
+                    Concert , DIE
+                    Vendredi 08 septembre 2017
+                    
+
+                    Val de Drôme                        
+                    
+                    Ouverture Val de Cirque, festival Entre Sor-Tilège
+                    Festival , EURRE
+                    du vendredi 08 au mardi 12 septembre 2017
+                    
+
+                                            
+                    
+                    Forum des associations
+                    Fête , LIVRON-SUR-DROME
+                    Samedi 09 septembre 2017
+                    
+
+                                            
+                    
+                    Vide Grenier
+                    Vide-grenier , LIVRON-SUR-DROME
+                    Dimanche 10 septembre 2017
+                    
+
+                    Chabeuil                        
+                    
+                    Jeûner 1 semaine en autogestion
+                    Stage , MONTMEYRAN
+                    du samedi 02 au samedi 09 septembre 2017
+                    
+
+                    Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...            
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            recherche location à l'année
+                
+                    
+                    
+                                                        MONTBRUN-LES-BAINS
+                    
+                    
+                
+                                    Urgent cherche location 3 CHbre et plus pour Le 15 aout
+                
+                    
+                    
+                                                        SAILLANS
+                    
+                    
+                
+                                    Tricot Expo
+                
+                    
+                    
+                                                        VILLEPERDRIX
+                    
+                    
+                
+                                    RECHERCHE LIEU DE TRAVAIL
+                
+                    
+                    
+                                                        CHAROLS
+                    
+                    
+                
+                                    vide grenier maison
+                
+                    
+                    
+                                                        BARSAC
+                    
+                    
+                
+                                    Navette gratuite
+                
+                    
+                    
+                                                        BUIS-LES-BARONNIES
+                    
+                    
+                
+                                    Vide maison
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        COMPS
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            CHACUN SON SUD - Trio
+                Entre musiques du monde et jazz
+                
+                                        PONT-DE-BARRET
+                        Association                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+    Le collectif "Ensemble ici" :
+
+        
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

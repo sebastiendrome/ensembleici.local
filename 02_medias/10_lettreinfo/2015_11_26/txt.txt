@@ -1,0 +1,794 @@
+
+
+    
+        
+        Ensemble ici | # 2015-48 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 26/11 au 06/12/2015
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous,
+
+	
+	Nous vous rappelons&nbsp; qu&#39;au 31 d&eacute;cembre, le service de Pr&eacute;vention Sp&eacute;cialis&eacute;e du Val d&#39;Eygues disparaitra suite aux nouvelles orientations d&eacute;partementales !
+	
+	Pour signer la p&eacute;tition en ligne et lire le communiqu&eacute; du collectif cliquez ICI.
+	Retrouvez-nous aussi jeudi prochain sur le march&eacute; pour en discuter !
+	
+	Dans un tout autre domaine , la nouvelle &eacute;mission de Radioscop&#39;art est &eacute;coutable en cliquant&nbsp; ICI.
+	Marion Freyre est all&eacute; interviewer pour vous Anne Gros-Balthazar, calligraphe depuis 15 ans...
+	&nbsp;
+
+	Belle semaine !
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+		
+			
+				
+				Pays de Buis-les-Baronnies							
+													
+								L'écume des Mots
+								Spectacle , LA ROCHETTE-DU-BUIS
+								Samedi 28 novembre 2015
+						
+
+												
+													
+								Voyage en Italie - première partie
+								Spectacle , MOLLANS-SUR-OUVEZE
+								Samedi 28 novembre 2015
+						
+
+												
+													
+								Apéro concert Antiquarks à L'orangé de Provence
+								Concert , SAINT-SAUVEUR-GOUVERNET
+								Samedi 28 novembre 2015
+						
+
+												
+													
+								CONQUERING SOUND Feat. PATKO & SIR JEAN + LMK
+								Concert , BUIS-LES-BARONNIES
+								du samedi 28 au dimanche 29 novembre 2015
+						
+
+												
+													
+								Journée de soutien au carnaval 2016
+								Manifestation , BUIS-LES-BARONNIES
+								Dimanche 29 novembre 2015
+						
+
+												
+													
+								L'Effrontée Vente éphémère
+								Rencontre , BUIS-LES-BARONNIES
+								du mardi 01 au jeudi 31 décembre 2015
+						
+
+												
+													
+								Ciné-goûter
+								Projection , BUIS-LES-BARONNIES
+								Mercredi 02 décembre 2015
+						
+
+												
+													
+								Stage de théâtre "La mouette" de TCHEKHOV animé par Jacques GERMAIN
+								Stage , BUIS-LES-BARONNIES
+								du samedi 05 au dimanche 06 décembre 2015
+						
+
+												
+													
+								Equilibrium Cuisine
+								Atelier , LA ROCHE-SUR-LE-BUIS
+								Dimanche 06 décembre 2015
+						
+
+					Pays de Rémuzat							
+													
+								Dires de Martegau
+								Spectacle , VILLEPERDRIX
+								Samedi 28 novembre 2015
+						
+
+												
+													
+								Contes Merveilleux de Kabylie
+								Conte , REMUZAT
+								Samedi 05 décembre 2015
+						
+
+												
+													
+								Divers Contes d'hiver
+								Spectacle , LA MOTTE-CHALANCON
+								Dimanche 06 décembre 2015
+						
+
+					Val d'Eygues							
+													
+								Pour tous les conteurs ou raconteurs, contes ou histoires brèves… 
+								Conte , CHATEAUNEUF-DE-BORDETTE
+								Jeudi 26 novembre 2015
+						
+
+												
+													
+								La Vigne, haut lieu culturel dans tous les sens du terme
+								Conférence , VINSOBRES
+								Jeudi 26 novembre 2015
+						
+
+												
+													
+								Marionèle, Chansons Rigod’on blues
+								Concert , NYONS
+								Vendredi 27 novembre 2015
+						
+
+												
+													
+								Repas partagé concert
+								Concert , NYONS
+								Vendredi 27 novembre 2015
+						
+
+												
+													
+								Vernissage
+								Exposition , NYONS
+								Samedi 28 novembre 2015
+						
+
+												
+													
+								GRATIFERIA
+								Marché , NYONS
+								Samedi 28 novembre 2015
+						
+
+												
+													
+								LOTO
+								Manifestation , VENTEROL
+								Samedi 28 novembre 2015
+						
+
+												
+													
+								Stage auprès de Robert Seven Crows
+								Stage , MONTAULIEU
+								du samedi 28 au dimanche 29 novembre 2015
+						
+
+												
+													
+								LES OUATES en concert
+								Concert , LES PILLES
+								Dimanche 29 novembre 2015
+						
+
+												
+													
+								Contes au son du tambour
+								Spectacle , MONTAULIEU
+								Dimanche 29 novembre 2015
+						
+
+												
+													
+								ensemble vocal Orphée et Eurydice
+								Concert , SAINTE-JALLE
+								Dimanche 29 novembre 2015
+						
+
+												
+													
+								Réunion d'information pour l'AASHN
+								Réunion , CURNIER
+								Lundi 30 novembre 2015
+						
+
+												
+													
+								Scène Ouverte à Couleur Café
+								Performance , NYONS
+								Mercredi 02 décembre 2015
+						
+
+												
+													
+								Récits et Contes glanés au fil du temps
+								Conte , ARPAVON
+								Jeudi 03 décembre 2015
+						
+
+												
+													
+								Chien en Chantier
+								Conte , NYONS
+								Vendredi 04 décembre 2015
+						
+
+												
+													
+								Concert du Choeur de la lance
+								Concert , VENTEROL
+								Vendredi 04 décembre 2015
+						
+
+												
+													
+								RENCONTRE-DEDICACE Avec l'écrivain voyageur Claude CHALABREYSSE 
+								Rencontre , NYONS
+								Samedi 05 décembre 2015
+						
+
+												
+													
+								Sur les Chemins de la Chance
+								Conte , NYONS
+								Samedi 05 décembre 2015
+						
+
+												
+													
+								Un Belge Exotique
+								Conte , NYONS
+								Samedi 05 décembre 2015
+						
+
+												
+													
+								MARCHE DE NOEL
+								Marché , NYONS
+								du samedi 05 au dimanche 06 décembre 2015
+						
+
+												
+													
+								Petites Forme de Femme
+								Conte , LES PILLES
+								Dimanche 06 décembre 2015
+						
+
+					Ailleurs dans le coin							
+													
+								Contes au son du tambour
+								Spectacle , BEAUMES-DE-VENISE
+								Vendredi 27 novembre 2015
+						
+
+												
+													
+								 « La tête des autres » de Marcel Aymé
+								Spectacle , MONTSEGUR-SUR-LAUZON
+								Vendredi 27 novembre 2015
+						
+
+												
+													
+								Cornes de Brume
+								Spectacle , VALREAS
+								Vendredi 27 novembre 2015
+						
+
+												
+													
+								Concours de belote
+								Jeux , VISAN
+								Vendredi 27 novembre 2015
+						
+
+												
+													
+								Concert JP Manova
+								Concert , VIVIERS
+								Vendredi 27 novembre 2015
+						
+
+												
+													
+								GRATIFERIA AUREL
+								Manifestation , AUREL
+								Dimanche 29 novembre 2015
+						
+
+												
+													
+								CASTAGNADE AU FOUR A PAIN DE FAUCON
+								Fête , FAUCON
+								Dimanche 29 novembre 2015
+						
+
+												
+													
+								Voyage en Italie - deuxième partie
+								Spectacle , ROUSSET-LES-VIGNES
+								Dimanche 29 novembre 2015
+						
+
+												
+													
+								Quartett
+								Spectacle , TAULIGNAN
+								Dimanche 29 novembre 2015
+						
+
+												
+													
+								Concert de Noël du Condor
+								Spectacle , VAISON-LA-ROMAINE
+								Dimanche 29 novembre 2015
+						
+
+												
+													
+								10ème Marché de Noël au Domaine de Lucena
+								Marché , VISAN
+								Dimanche 29 novembre 2015
+						
+
+												
+													
+								Rencontre citoyenne
+								Débat , MARSANNE
+								Mercredi 02 décembre 2015
+						
+
+												
+													
+								Divers contes d'hiver
+								Spectacle , VAISON-LA-ROMAINE
+								Mercredi 02 décembre 2015
+						
+
+												
+													
+								exposition dessin & sculpture
+								Exposition , VAISON-LA-ROMAINE
+								du jeudi 03 décembre 2015 au jeudi 03 mars 2016
+						
+
+												
+													
+								Soirée de la Sainte Barbe 
+								Repas , VISAN
+								Samedi 05 décembre 2015
+						
+
+												
+													
+								INVITATION À LA DANSE CONTEMPORAINE
+								Stage , VAISON-LA-ROMAINE
+								Dimanche 06 décembre 2015
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Atelier d'écriture
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Location
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Du cerveau à la pensée- le Monde de l'opéra - Art, culture et création
+							
+						
+						
+														VAISON-LA-ROMAINE
+						
+						
+					
+					
+													Vends Ensemble douche sans travaux wc broyeur lavabo pour personnes à mobilité réduite
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														LA ROCHE-SUR-LE-BUIS
+						
+						
+					
+					
+													Stage de chant et balades en raquettes
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														BENQUE-DESSOUS-ET-DESSUS
+						
+						
+					
+					
+													3 chatons abandonnés
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Petits bonnets Grande Cause
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Recherche covoiturage Buis les Baronnies Vaison
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Agneaux
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													INVITATION A LA DANSE CONTEMPORAINE
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														VAISON-LA-ROMAINE
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Collectif Creatif du Castellas
+								
+								
+							
+							
+															BESSEGES
+								Association							
+							
+						
+						
+														Valérie SEYVET
+								
+								danse contemporaine
+							
+							
+															VAISON-LA-ROMAINE
+								Auto-entrepreneur							
+							
+						
+						
+														TUINA, massage traditionnel chinois
+								
+								Valérie SEYVET
+							
+							
+															VAISON-LA-ROMAINE
+								Auto-entrepreneur							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

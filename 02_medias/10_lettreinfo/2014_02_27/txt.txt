@@ -1,0 +1,589 @@
+
+
+    
+        
+        Ensemble ici | # 2014-08 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 27/02 au 09/03/2014
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; tous,
+&nbsp;
+Demain soir aura lieu la soir&eacute;e de soutien au Th&eacute;&acirc;tre de l&rsquo;Aube&nbsp;!
+&nbsp;Suite &agrave; votre mobilisation massive, une soir&eacute;e festive est organis&eacute;e&hellip;
+Entre contes, th&eacute;&acirc;tre, musique et tombola, on vous attend nombreux, pour soutenir toujours plus notre Th&eacute;&acirc;tre.
+&nbsp;
+Vous &ecirc;tes de plus en plus nombreux &agrave; participer aux forums citoyens sur Ensemble Ici.
+Continuez &agrave; partager vos id&eacute;es sur www.ensembleici.fr&nbsp;!
+&nbsp;
+La souscription continue : il ne reste plus que 16 jours pour soutenir Ensemble Ici &hellip;&nbsp; fr.ulule.com/ensemble-ici
+
+	
+	Bonne semaine !
+	
+	L&#39;&eacute;quipe Ensemble Ici.
+
+			Voici les infos de la semaine dont vous trouvez le détail sur le site Ensemble ici.
+Il vous est aisé d'en ajouter via les formulaires du site.Tous ensemble, solidaires, bâtissons cet outil de partage et d'info autogéré pour mieux vivre sur notre territoire : événements, activités, annonces, projets, et bientôt forums!contact@ensembleici.fr		
+	
+
+
+	
+		
+			
+				
+				Pays de Buis-les-Baronnies							
+													
+								Spectacle de marionnettes sur table
+								Spectacle , BUIS-LES-BARONNIES
+								Vendredi 28 février 2014
+						
+
+												
+													
+								Stage POTERIE enfants
+								Manifestation , MOLLANS-SUR-OUVEZE
+								du lundi 03 au vendredi 07 mars 2014
+						
+
+					Val d'Eygues							
+													
+								Soirée de soutien au Théâtre de l'Aube
+								Fête , CONDORCET
+								Vendredi 28 février 2014
+						
+
+												
+													
+								Toupetituli
+								Lecture , NYONS
+								Samedi 01 mars 2014
+						
+
+												
+													
+								Libertés Vinsobres
+								Spectacle , VINSOBRES
+								Samedi 01 mars 2014
+						
+
+												
+													
+								Salon du couteau d'art
+								Manifestation , NYONS
+								du samedi 01 au dimanche 02 mars 2014
+						
+
+												
+													
+								Bidouilles en scène
+								Stage , NYONS
+								du mardi 04 au vendredi 07 mars 2014
+						
+
+												
+													
+								A vous de jouer!
+								Jeux , NYONS
+								du mardi 04 au samedi 15 mars 2014
+						
+
+												
+													
+								Le Vrai Faux bal de Tangolive
+								Rencontre , NYONS
+								Mercredi 05 mars 2014
+						
+
+												
+													
+								Dj Fly + AL'Tarba
+								Concert , NYONS
+								du vendredi 07 au samedi 08 mars 2014
+						
+
+												
+													
+								Ouverture de la recyclerie
+								Manifestation , NYONS
+								Samedi 08 mars 2014
+						
+
+												
+													
+								Braderie
+								Manifestation , NYONS
+								du samedi 08 au dimanche 09 mars 2014
+						
+
+					&nbsp;Ailleurs dans le coin							
+													
+								"Jean Marcellin, une vie de dessin"
+								Exposition , VAISON-LA-ROMAINE
+								du vendredi 14 février au vendredi 14 mars 2014
+						
+
+												
+													
+								"Indochine de Provence - le silence de la rizière"
+								Exposition , VALREAS
+								du jeudi 20 février au lundi 10 mars 2014
+						
+
+												
+													
+								Photographies d'Hubert Barre
+								Exposition , GRIGNAN
+								du jeudi 20 février au dimanche 16 mars 2014
+						
+
+												
+													
+								BADABOUM : Stage de cirque et Hip Hop
+								Stage , VAISON-LA-ROMAINE
+								du lundi 24 février au vendredi 28 mars 2014
+						
+
+												
+													
+								Salon des vins
+								Manifestation , MONTELIMAR
+								du vendredi 28 février au dimanche 02 mars 2014
+						
+
+												
+													
+								Exposition de sculptures
+								Exposition , SERRES
+								du vendredi 28 février au mercredi 30 avril 2014
+						
+
+												
+													
+								BADABOUM : Stage de cirque et Hip Hop
+								Stage , VAISON-LA-ROMAINE
+								du lundi 03 au vendredi 07 mars 2014
+						
+
+												
+													
+								Le Bal Masqué pour les Enfants
+								Manifestation , SEGURET
+								Mercredi 05 mars 2014
+						
+
+												
+													
+								Bal Line Dance & country
+								Atelier , DIEULEFIT
+								Samedi 08 mars 2014
+						
+
+												
+													
+								Salon de la carte postale et toutes collections
+								Salon , GRIGNAN
+								Dimanche 09 mars 2014
+						
+
+												
+													
+								Brocante à Taulignan
+								Vide-grenier , TAULIGNAN
+								Dimanche 09 mars 2014
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Crevasses de chantemerle
+							
+						
+						
+														LA MOTTE-CHALANCON
+						
+						
+					
+					
+													Donne platine cd yamaha
+							
+						
+						
+														VENTEROL
+						
+						
+					
+					
+													HOTEL ES SALEM Roman
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														VOULTE-SUR-RHONE
+						
+						
+					
+					
+													Nouveaux consom'acteurs
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Oprération Bien Etre à MONTAULIEU
+							
+						
+						
+														MONTAULIEU
+						
+						
+					
+					
+													Garde de nuit
+							
+						
+						
+														AUBRES
+						
+						
+					
+					
+													Cherche location
+							
+						
+						
+														CURNIER
+						
+						
+					
+					
+													Cherche logement
+							
+						
+						
+														AUBRES
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Bérangère Motch
+								
+								Sophro-analyste, Thérapeute énergétique, et Praticienne en massage
+							
+							
+															MONTAULIEU
+								Auto-entrepreneur							
+							
+						
+						
+														AVENTIC
+								
+								Espaces Publics Numériques
+							
+							
+															REMUZAT
+								Association							
+							
+						
+						
+														Ferme la Gardiole
+								
+								JC FOURNON
+							
+							
+															SAINTE-JALLE
+															
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

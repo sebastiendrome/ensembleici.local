@@ -1,0 +1,698 @@
+
+
+    
+        
+        Ensemble ici | # 2014- 42: Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 23/10 au 01/11/2014
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous,&nbsp;
+
+	
+	C&#39;est les vacances !
+	
+	Ensemble Ici &eacute;tait pr&eacute;sent &agrave; Sauve (Nyons) pour l&#39;&eacute;v&eacute;nement &quot;Jouons Ensemble&quot;, avec une question simple:
+	&nbsp; &nbsp;
+	&nbsp;&nbsp;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	&nbsp;
+
+	
+	
+	
+	Retouvez quelques r&eacute;ponses de parents et d&#39;enfants et&nbsp;n&#39;h&eacute;sitez pas &agrave; r&eacute;pondre vous aussi sur ce [forum]&nbsp;!
+
+	
+	Belle semaine,&nbsp;
+	L&#39;&eacute;quipe Ensemble Ici !
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums, et bient&ocirc;t articles!
+	
+	
+		contact@ensembleici.fr
+
+		
+	
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								Trico'Thé
+								Rencontre , MONTBRUN-LES-BAINS
+								du jeudi 04 septembre 2014 au jeudi 29 janvier 2015
+						
+
+												
+													
+								Concert Tzarik
+								Concert , MONTAUBAN-SUR-L'OUVEZE
+								Dimanche 26 octobre 2014
+						
+
+												
+													
+								Stage nature pour enfants
+								Stage , MEVOUILLON
+								du mardi 28 au jeudi 30 octobre 2014
+						
+
+					Pays de Buis-les-Baronnies							
+													
+								Ils exposent ensemble...
+								Exposition , BUIS-LES-BARONNIES
+								du samedi 18 au jeudi 30 octobre 2014
+						
+
+												
+													
+								ANAKRONIC ELECTRO ORKESTRA + Fedayi Pacha 
+								Concert , BUIS-LES-BARONNIES
+								du vendredi 24 au samedi 25 octobre 2014
+						
+
+												
+													
+								Bourse vélo
+								Marché , BUIS-LES-BARONNIES
+								Samedi 25 octobre 2014
+						
+
+												
+													
+								Découverte botanique accompagnée
+								Rencontre , BUIS-LES-BARONNIES
+								Samedi 01 novembre 2014
+						
+
+					&nbsp;Pays de Rémuzat							
+													
+								Véronique Pestel
+								Concert , MONTREAL-LES-SOURCES
+								Samedi 25 octobre 2014
+						
+
+												
+													
+								Fête des fruits et des légumes d'automne
+								Fête , REMUZAT
+								Samedi 25 octobre 2014
+						
+
+												
+													
+								La journée mycologique
+								Promenade , REMUZAT
+								Dimanche 26 octobre 2014
+						
+
+					Val d'Eygues							
+													
+								Marius
+								Spectacle , NYONS
+								Vendredi 24 octobre 2014
+						
+
+												
+													
+								Stages Sportifs
+								Stage , NYONS
+								Vendredi 24 octobre 2014
+						
+
+												
+													
+								Animations pour la fête de la science: Conférence sur le SPOT
+								Conférence , NYONS
+								Vendredi 24 octobre 2014
+						
+
+												
+													
+								CANDICE GIACOMINO
+								Stage , NYONS
+								Samedi 25 octobre 2014
+						
+
+												
+													
+								Stage de danse et Feldenkrais
+								Stage , NYONS
+								du samedi 25 octobre au samedi 01 novembre 2014
+						
+
+												
+													
+								Broc à vêtements et jouets d'enfants
+								Vide-grenier , MIRABEL-AUX-BARONNIES
+								Dimanche 26 octobre 2014
+						
+
+												
+													
+								LOTO du Cigalou
+								Jeux , NYONS
+								Dimanche 26 octobre 2014
+						
+
+												
+													
+								Stage BMX
+								Stage , NYONS
+								Mardi 28 octobre 2014
+						
+
+												
+													
+								L'Indompté Avant-premières
+								Projection , NYONS
+								Mardi 28 octobre 2014
+						
+
+												
+													
+								Stages Sportifs
+								Stage , NYONS
+								Jeudi 30 octobre 2014
+						
+
+												
+													
+								Journée plantes 
+								Rencontre , CURNIER
+								Vendredi 31 octobre 2014
+						
+
+												
+													
+								Concert hommage à Bob Dylan
+								Concert , VINSOBRES
+								Samedi 01 novembre 2014
+						
+
+					Ailleurs dans le coin							
+													
+								EXPOSITION « ATELIER GRIFFONNAGE »
+								Exposition , TAULIGNAN
+								du mercredi 01 au lundi 27 octobre 2014
+						
+
+												
+													
+								Encres de chine
+								Exposition , VISAN
+								du vendredi 03 au vendredi 31 octobre 2014
+						
+
+												
+													
+								EXPOSITION JEAN-MICHEL BARRIÈRE
+								Exposition , VALREAS
+								du jeudi 16 octobre au dimanche 02 novembre 2014
+						
+
+												
+													
+								Vacances au château
+								Visite , GRIGNAN
+								du lundi 20 au jeudi 30 octobre 2014
+						
+
+												
+													
+								Vacances au château
+								Visite , SUZE-LA-ROUSSE
+								du mardi 21 au jeudi 30 octobre 2014
+						
+
+												
+													
+								Inauguration Salle de spectacle Le Toit Rouge
+								Concert , MONTELIMAR
+								Vendredi 24 octobre 2014
+						
+
+												
+													
+								Rencontres Gourmandes
+								Rencontre , VAISON-LA-ROMAINE
+								du vendredi 24 au dimanche 26 octobre 2014
+						
+
+												
+													
+								Mariages forcés, et caetera
+								Spectacle , GARDE-ADHEMAR
+								Samedi 25 octobre 2014
+						
+
+												
+													
+								Troc de plantes
+								Marché , GRIGNAN
+								Samedi 25 octobre 2014
+						
+
+												
+													
+								Salon des Vins et de la Gastronomie
+								Salon , TAULIGNAN
+								Dimanche 26 octobre 2014
+						
+
+												
+													
+								EXPOSITION « PALIMPSESTES » 
+								Exposition , TAULIGNAN
+								du mercredi 29 octobre au mercredi 31 décembre 2014
+						
+
+												
+													
+								Jazz à Grignan
+								Concert , GRIGNAN
+								du samedi 01 au vendredi 28 novembre 2014
+						
+
+												
+													
+								Festival APRES LES VENDANGES
+								Festival , VAISON-LA-ROMAINE
+								du samedi 01 novembre au vendredi 05 décembre 2014
+						
+
+												
+													
+								22ème Salon des collectionneurs
+								Salon , VISAN
+								Dimanche 02 novembre 2014
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Cherche cours d'accordéon !
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													Cherche batteur
+							
+						
+						
+														TAULIGNAN
+						
+						
+					
+					
+													Devenez journaliste citoyen !
+							
+						
+						
+														SAHUNE
+						
+						
+					
+					
+													Cherche cours de yoga à Buis et aux environs
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Cherche terrain ou cabane
+							
+						
+						
+														CONDORCET
+						
+						
+					
+					
+													Participez au marché de Noël la Motte Chalancon
+							
+						
+						
+														CORNILLAC
+						
+						
+					
+					
+													Troc gaziniere, frigo ou meuble tv contre machine à laver
+							
+						
+						
+														LES PILLES
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Association des anciens combatant de la résistance du Nyonsais
+								
+								
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														Association Venterolaise des amis de la musique
+								
+								
+							
+							
+															VENTEROL
+								Association							
+							
+						
+						
+														association l'Arsène
+								
+								
+							
+							
+															MONTBRUN-LES-BAINS
+								Association							
+							
+						
+						
+														Ecoravie
+								
+								Habitat groupé
+							
+							
+															DIEULEFIT
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

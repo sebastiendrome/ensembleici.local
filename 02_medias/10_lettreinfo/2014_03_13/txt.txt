@@ -1,0 +1,613 @@
+
+
+    
+        
+        Ensemble ici | # 2014-10 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 13 au 23/03/2014
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; tous,
+
+Un grand merci pour votre soutien !
+Avec les ch&egrave;ques re&ccedil;us, ce sont 35 personnes qui ont r&eacute;pondu &agrave; l&#39;appel : 1700 &euro; ont &eacute;t&eacute; rassembl&eacute;s, soit 85 % de la somme&nbsp; !
+
+Attention, cet appel sera cl&ocirc;tur&eacute; ce vendredi soir : il y a urgence si vous voulez encore participer !
+
+&gt; http://fr.ulule.com/ensemble-ici/
+
+Pour rappel, vous contribuez ainsi au financement des nouveaux d&eacute;veloppements informatiques du site pour &eacute;tendre les forums et l&#39;ouvrir au multim&eacute;dia (articles; &eacute;missions des radios locales &agrave; r&eacute;&eacute;couter; ...).
+Ensemble, nous b&acirc;tissons ainsi peu &agrave; peu un outil moderne d&#39;informations, d&#39;&eacute;changes et de solidarit&eacute;s pour mieux vivre sur notre territoire.
+
+
+Municipales : chaque jour de nouveaux messages sur les forums de chaque commune !
+Ce sont des lieux neutres d&#39;information et de d&eacute;bat, ouverts &agrave; tous, selon une charte de bonne conduite.
+Pour y acc&eacute;der, cliquez sur l&#39;acc&egrave;s en haut &agrave; droite de la page d&#39;accueil de votre commune.
+
+	
+	Belle semaine,
+	
+	L&#39;&eacute;quipe &quot;Ensemble Ici&quot;.
+			Voici les infos de la semaine dont vous trouvez le détail sur le site Ensemble ici.
+Il vous est aisé d'en ajouter via les formulaires du site.Tous ensemble, solidaires, bâtissons cet outil de partage et d'info autogéré pour mieux vivre sur notre territoire : événements, activités, annonces, projets, et bientôt forums!contact@ensembleici.fr		
+	
+
+
+	
+		
+			
+				
+				Pays de Buis-les-Baronnies							
+													
+								Ateliers Artistiques "Art de Vivre" Cours et Stages   
+								Stage , BUIS-LES-BARONNIES
+								du vendredi 07 mars au mercredi 31 décembre 2014
+						
+
+												
+													
+								A la rencontre des saveurs
+								Repas , BUIS-LES-BARONNIES
+								du lundi 10 au samedi 15 mars 2014
+						
+
+					Pays de Rémuzat							
+													
+								AVENTIC - SOIREE THEMATIQUE "LIBRE EN FETE"
+								Conférence , VERCLAUSE
+								Vendredi 14 mars 2014
+						
+
+												
+													
+								Concours de belote
+								Jeux , REMUZAT
+								Vendredi 21 mars 2014
+						
+
+												
+													
+								Villeperdrix : un des plus anciens villages de France ?
+								Promenade , VILLEPERDRIX
+								Dimanche 23 mars 2014
+						
+
+					Val d'Eygues							
+													
+								Chasse aux trésors de Nyons
+								Atelier , NYONS
+								du mercredi 01 janvier au mercredi 31 décembre 2014
+						
+
+												
+													
+								Rencontre avec Josette Fournié
+								Débat , LES PILLES
+								Jeudi 13 mars 2014
+						
+
+												
+													
+								Les instants musicales
+								Concert , MONTAULIEU
+								Samedi 15 mars 2014
+						
+
+												
+													
+								'À vies contraires'
+								Spectacle , NYONS
+								Samedi 15 mars 2014
+						
+
+												
+													
+								Les Gaillards d'Avant fêtent la Saint Patrick
+								Fête , VINSOBRES
+								Dimanche 16 mars 2014
+						
+
+												
+													
+								Journée plantes avec Jean Coudour 
+								Rencontre , CURNIER
+								Mercredi 19 mars 2014
+						
+
+												
+													
+								Histoires et tintamarres
+								Lecture , NYONS
+								Mercredi 19 mars 2014
+						
+
+												
+													
+								Anne Sila
+								Concert , CONDORCET
+								du vendredi 21 au samedi 22 mars 2014
+						
+
+					Ailleurs dans le coin							
+													
+								"Marquise Party"
+								Visite , GRIGNAN
+								Jeudi 13 mars 2014
+						
+
+												
+													
+								"Vieilles chipies"
+								Spectacle , VALREAS
+								Vendredi 14 mars 2014
+						
+
+												
+													
+								Lecture "surprise "
+								Lecture , VISAN
+								Vendredi 14 mars 2014
+						
+
+												
+													
+								Lecture autour de Lucrèce Borgia
+								Lecture , GRIGNAN
+								du vendredi 14 au dimanche 16 mars 2014
+						
+
+												
+													
+								Carmentran
+								Fête , GRIGNAN
+								Samedi 15 mars 2014
+						
+
+												
+													
+								Sensation vin
+								Atelier , SUZE-LA-ROUSSE
+								Samedi 15 mars 2014
+						
+
+												
+													
+								Les printanières de cirque !
+								Festival , BONLIEU-SUR-ROUBION
+								du mercredi 19 au dimanche 23 mars 2014
+						
+
+												
+													
+								Les Parolivores
+								Spectacle , SEGURET
+								Samedi 22 mars 2014
+						
+
+												
+													
+								MARS ATTAQUE...LA POÉSIE
+								Spectacle , SAINTE-CECILE-LES-VIGNES
+								du samedi 22 au dimanche 23 mars 2014
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Nouveaux consom'acteurs
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Oprération Bien Etre à MONTAULIEU
+							
+						
+						
+														MONTAULIEU
+						
+						
+					
+					
+													Garde de nuit
+							
+						
+						
+														AUBRES
+						
+						
+					
+					
+													Cherche location
+							
+						
+						
+														CURNIER
+						
+						
+					
+					
+													Cherche logement
+							
+						
+						
+														AUBRES
+						
+						
+					
+					
+													Batuccada de St Férréol cherche percussionistes
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAINT-FERREOL-TRENTE-PAS
+						
+						
+					
+					
+													Cherche cours d'accordéon !
+							
+						
+						
+														CURNIER
+						
+						
+					
+					
+													VACANCES à la MER
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Vends voiture petit prix
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Théâtre du Rond Point
+								
+								Salle des Cordeliers
+							
+							
+															VALREAS
+								Association							
+							
+						
+						
+														Collectif parental pour un mode de garde des jeunes enfants du Haut Nyonsais
+								
+								
+							
+							
+															SAINTE-JALLE
+															
+							
+						
+						
+														Ferme des aygues
+								
+								
+							
+							
+															MONTAULIEU
+															
+							
+						
+						
+														PIJ-Point-Cyb de Buis
+								
+								Point d'Information Jeunesse
+							
+							
+															BUIS-LES-BARONNIES
+								Etablissement public							
+							
+						
+						
+														Gilles RAVOUX
+								
+								
+							
+							
+															PIERRELONGUE
+								Auto-entrepreneur							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

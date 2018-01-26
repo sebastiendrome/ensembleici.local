@@ -1,0 +1,497 @@
+
+
+
+    
+        
+        Ensemble ici | Bulletin numéro 1 Ensemble ici Pays de Romans
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Bonjour !
+&nbsp;
+Ce jeudi 11 mai 2017, nous envoyons dans l'espace la premi&egrave;re lettre d'information d'ENSEMBLE ICI pour le Pays de Romans, Chabeuil et Saint-Donat : cette date restera &agrave; jamais grav&eacute;e dans l'histoire locale !!! D&eacute;sormais nous, habitant.e.s de ces contr&eacute;es, disposons d'un moyen de communication extraordinaire pour partager nos &eacute;v&eacute;nements, petites annonces et bonnes adresses :)
+&nbsp;
+C'est tr&egrave;s facile :&nbsp;
+
+
+N'IMPORTE QUI (habitant.e, association...) peut se cr&eacute;er un compte et poster des informations sur ensembleici.fr
+
+
+
+
+Chacun.e peut consulter toutes les news publi&eacute;es ici ou ailleurs sur les th&egrave;mes qui l'int&eacute;resse en g&eacute;olocalisant sa recherche, et surtout,
+
+
+
+
+S'ABONNER &agrave; la lettre d'information http://ensembleici.fr (clic en haut &agrave; droite de la page) pour la recevoir dans sa boite mail tous les jeudis soir &agrave; partir de maintenant !
+
+
+En ce jour solennel, nous adressons toute notre GRATITUDE aux habitant.e.s des Baronnies (sud de la Dr&ocirc;me) qui ont cr&eacute;&eacute; ce site il y a 5 ans, et &agrave; celles et ceux de la Vall&eacute;e de la Dr&ocirc;me-Diois, qui se sont saisis de cette opportunit&eacute; depuis maintenant 1 an et nous l'ont fait d&eacute;couvrir. L&agrave;-bas, ensembleici.fr CAR-TONNE : c'est l&agrave; que les gens cherchent l'info de ce qui se passe d'int&eacute;ressant alentours le WE... BIG UP !! Clin d&rsquo;&oelig;il &eacute;galement aux ami.e.s du Pays de Dieulefit qui, comme nous, s'approprient Ensemble Ici en ce moment. Chez nous c'est l'aboutissement d'une loooongue maturation d'un an et demi, depuis la premi&egrave;re journ&eacute;e CO du Pays de Romans...
+&nbsp;
+Ce m&eacute;dia LOCAL est &eacute;volutif et collaboratif. Nous voulons faciliter les &eacute;changes entre habitant.e.s et donner de la visibilit&eacute; aux initiatives locales. Nous voulons apporter notre pierre pour rompre avec l&rsquo;individualisme et r&eacute;humaniser notre soci&eacute;t&eacute;... des p'tites choses simples, quoi. Alors allons-y ! Partageons ce qui anime notre r&eacute;gion, aussi bien au niveau CULTUREL que SOCIAL et CITOYEN!&nbsp;
+&nbsp;
+Nous avons beaucoup de joie &agrave; vous offrir cette possibilit&eacute;. Un grand merci &agrave; toutes celles et ceux qui pourront faire suivre cette premi&egrave;re lettre d'information &agrave; leurs contacts.&nbsp;
+Et pour la suite : ABONNEZ-VOUS MAINTENANT sur le site pour recevoir les prochaines lettres d'informations !                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Chabeuil                        
+                    
+                    Jeûner ensemble une semaine 7-14 mai
+                    Stage , MONTMEYRAN
+                    du samedi 06 au samedi 13 mai 2017
+                    
+
+                                            
+                    
+                    migrant.e.s: Journée Festive
+                    Fête , CHABEUIL
+                    Dimanche 14 mai 2017
+                    
+
+                    Pays de l'Herbasse                        
+                    
+                    Monstrueuses Rencontres
+                    Festival , SAINT-DONAT-SUR-L'HERBASSE
+                    du vendredi 12 au dimanche 21 mai 2017
+                    
+
+                    &nbsp;Pays de Romans                        
+                    
+                    Concert : Vinyl Providence (Rock)
+                    Concert , ROMANS-SUR-ISERE
+                    Vendredi 12 mai 2017
+                    
+
+                                            
+                    
+                    Concert : Kélê (Chanson)
+                    Concert , ROMANS-SUR-ISERE
+                    Samedi 13 mai 2017
+                    
+
+                                            
+                    
+                    Troc de plantes
+                    Marché , ROMANS-SUR-ISERE
+                    Samedi 13 mai 2017
+                    
+
+                                            
+                    
+                    Lumin'R
+                    Atelier , ROMANS-SUR-ISERE
+                    Samedi 13 mai 2017
+                    
+
+                                            
+                    
+                    Soirée Cabaret
+                    Fête , ROMANS-SUR-ISERE
+                    Samedi 13 mai 2017
+                    
+
+                                            
+                    
+                    Le printemps indien de Rhizo'Sol
+                    Rencontre , ROMANS-SUR-ISERE
+                    du samedi 13 au dimanche 14 mai 2017
+                    
+
+                                            
+                    
+                    Ballade à vélo
+                    Randonnée , ROMANS-SUR-ISERE
+                    Dimanche 14 mai 2017
+                    
+
+                    
+                    favoriser la participation
+                    Stage , ROMANS-SUR-ISERE
+                    du lundi 15 au mardi 16 mai 2017
+                    
+
+                                            
+                    
+                    Et l'anarchie enfin va triompher !
+                    Projection , ROMANS-SUR-ISERE
+                    Jeudi 18 mai 2017
+                    
+
+                                            
+                    
+                    "Tout seul", spectacle chez l'habitant
+                    Spectacle , ROMANS-SUR-ISERE
+                    Vendredi 19 mai 2017
+                    
+
+                    
+                    Soirée Chant
+                    Concert , ROMANS-SUR-ISERE
+                    Vendredi 19 mai 2017
+                    
+
+                                            
+                    
+                    Panneaux solaires thermiques
+                    Atelier , ROMANS-SUR-ISERE
+                    Samedi 20 mai 2017
+                    
+
+                                
+        
+    
+    
+            
+                        
+    
+
+
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            keffir de lait
+                
+                    
+                    
+                                                        FAUCON
+                    
+                    
+                
+                                    Appel à bénévoles pour WE Mains Tendues
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            La Ressourcerie Verte
+                
+                
+                                        ROMANS-SUR-ISERE
+                        Association                
+                
+                
+                            ASTI Romans
+                Association de Solidarité avec touTEs les ImmigréEs
+                
+                                        ROMANS-SUR-ISERE
+                        Association                
+                
+                
+                            Ebullition
+                Association d'éducation populaire
+                
+                                        ROMANS-SUR-ISERE
+                        Association                
+                
+                
+                            Rhizo'Sol
+                Education aux mondes et aux autres
+                
+                                        ROMANS-SUR-ISERE
+                        Association                
+                
+                
+                            La Boucherie Chevaline
+                Le café associatif de Romans et ses environs
+                
+                                        ROMANS-SUR-ISERE
+                        Association                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

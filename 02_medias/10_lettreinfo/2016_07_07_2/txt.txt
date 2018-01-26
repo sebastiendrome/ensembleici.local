@@ -1,0 +1,676 @@
+
+
+    
+        
+        Ensemble ici | Lettre d'Ensemble Ici - Vallee de la Drome / Diois, 2016 #17 - 07 Juillet
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 07 au 17/07/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						Bonjour &agrave; toutes et tous,
+
+Cette semaine, &agrave; l&#39;agenda: beaucoup de musiques et spectacles en ext&eacute;rieure ! Mmmmhh profitons-en ! Merci &agrave; Andarta qui partage sa programmation, comme la Terrasse d&#39;Eva, le programme culturel de Gr&acirc;ne et de Livron &eacute;galement. Merci de votre confiance ! Bient&ocirc;t toutes les programmations des lieux de diffusion culturelle du bas et du haut de la vall&eacute;e ? Allez-y d&eacute;noncez s&#39;il le faut, les bons plans si sympathiques, &agrave; vivre... Ensemble, ici !
+Les annonces : 14 pages tout de m&ecirc;me, sur ces 30 derniers jours, publi&eacute;es maximum 3 fois ! Des anciennes, des r&eacute;centes, des voitures, tiens, tiens, tiens... une chouette demande pour de la cr&eacute;ation d&#39;objet avec recyclage : si vous pouvez fournir la mati&egrave;re premi&egrave;re...
+
+L&#39;&eacute;mission Mais qu&#39;est-ce qui s&#39;passe ? arrive doucement mais s&ucirc;rement de L&#39;Echo de la Vall&eacute;e vers Ensemble Ici, pour partager de bouche &agrave; oreille les moments &agrave; ne pas manquer.
+
+Bonne lecture, bons moments d&#39;&eacute;t&eacute; et bonne semaine,
+
+
+	Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois
+
+	
+			
+	
+		Rappel
+		T&eacute;l&eacute;chargeable depuis cette lettre, en fichier PDF :
+		- tous les &eacute;v&eacute;nements &agrave; venir dans les 10 jours,
+		- toutes les annonces des 30 derniers jours
+
+		
+	
+
+
+
+	
+                Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+                
+        
+		
+			
+				
+				Crestois Pays de Saillans							
+													
+								VQSD à la Terrasse d'Eva
+								Concert , SAILLANS
+								du vendredi 08 au samedi 09 juillet 2016
+						
+
+												
+													
+								stage clown et conte
+								Stage , AUREL
+								du mercredi 13 au dimanche 17 juillet 2016
+						
+
+												
+													
+								La Petite Équipe à la Terrasse d'Eva
+								Concert , SAILLANS
+								du vendredi 15 au samedi 16 juillet 2016
+						
+
+					Diois							
+													
+								Bal folk avec Seb et Chloé
+								Spectacle , DIE
+								Vendredi 08 juillet 2016
+						
+
+												
+													
+								Blanche Aurore Céleste
+								Spectacle , BARSAC
+								Samedi 09 juillet 2016
+						
+
+												
+													
+								concert de Simon Widdowson - expo de Nanouska
+								Concert , DIE
+								Samedi 09 juillet 2016
+						
+
+												
+													
+								concert de Cosmopolite avec Nicolas Mizen
+								Concert , DIE
+								Samedi 09 juillet 2016
+						
+
+												
+													
+								apéro-contes
+								Conte , DIE
+								Dimanche 10 juillet 2016
+						
+
+												
+													
+								Stage initiation formation au Massage Sensitif
+								Stage , MARIGNAC-EN-DIOIS
+								du lundi 11 au vendredi 15 juillet 2016
+						
+
+												
+													
+								"Anaïs" en concert au Tchaïwalla.
+								Concert , DIE
+								Mardi 12 juillet 2016
+						
+
+												
+								concert : Cora Laba
+								Concert , DIE
+								Mercredi 13 juillet 2016
+						
+
+												
+								Concours de peinture
+								Manifestation , LUC-EN-DIOIS
+								Mercredi 13 juillet 2016
+						
+
+												
+													
+								Zik in Wood
+								Concert , MARIGNAC-EN-DIOIS
+								du mercredi 13 au jeudi 14 juillet 2016
+						
+
+												
+													
+								Soirée et Bal Forro au Tchaïwalla
+								Concert , DIE
+								Jeudi 14 juillet 2016
+						
+
+												
+													
+								improvisations 
+								Performance , DIE
+								Jeudi 14 juillet 2016
+						
+
+												
+													
+								Marche et land art en altitude 
+								Manifestation , DIE
+								du jeudi 14 au vendredi 15 juillet 2016
+						
+
+												
+													
+								Gâmal en concert
+								Concert , CHATILLON-EN-DIOIS
+								Vendredi 15 juillet 2016
+						
+
+												
+													
+								stage de feutre
+								Atelier , BOULC
+								Samedi 16 juillet 2016
+						
+
+					Val de Drôme							
+													
+								concert de Marion Elgé + Lauriane Frantz
+								Concert , GRANE
+								Vendredi 08 juillet 2016
+						
+
+												
+													
+								Don Quichotte fantaisie héroïque
+								Spectacle , LIVRON-SUR-DROME
+								Vendredi 08 juillet 2016
+						
+
+												
+													
+								STAGE AUDIOVISUEL
+								Stage , FRANCILLON-SUR-ROUBION
+								du lundi 11 au mercredi 13 juillet 2016
+						
+
+												
+													
+								Marche vers soi, corps et âme
+								Stage , OMBLEZE
+								du lundi 11 au samedi 16 juillet 2016
+						
+
+												
+								Fête républicaine - repas citoyen le 13 juillet
+								Fête , LIVRON-SUR-DROME
+								du mercredi 13 au jeudi 14 juillet 2016
+						
+
+												
+													
+								Le Marché du Coin
+								Marché , CLIOUSCLAT
+								Jeudi 14 juillet 2016
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+                
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													tricycle
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													cuisinière bois charbon émaillée
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														PIEGROS-LA-CLASTRE
+						
+						
+					
+					
+													Troc confiture de figue contre miel
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													Recherce canapé ou clic-clac
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														CREST
+						
+						
+					
+					
+													stage danse et massage en pleine nature  du 18 au 21 juillet 
+							
+						
+						
+														PLAN-DE-BAIX
+						
+						
+					
+					
+													LA SOURCE - CONSULTATIONS - TARIFS LIBRES EN PARTICIPATION CONSCIENTE - JUILLET
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													Echafaudage
+							
+						
+						
+														MENGLON
+						
+						
+					
+					
+													Recherche cours d'anglais pour enfant
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													chantier participatif: nourrir l'esprit du lieu
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														VAL-MARAVEL
+						
+						
+					
+					
+													Séjour nature enfants 7-10 ans
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														BOULC
+						
+						
+					
+					
+													Vente Peugeot 106 Kid 131000km
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													stage enfants danse et lumière
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														BARNAVE
+						
+						
+					
+					
+													drome adhere
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														CREST
+						
+						
+					
+					
+													Location semaine du 25/07
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													logement dispo 1 mois
+							
+						
+						
+														ESPENEL
+						
+						
+					
+					
+													cherche poêle à bois pour grande pièce
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														CHAMALOC
+						
+						
+					
+					
+													cherche randonneurs / pilotes de joelettes
+							
+						
+						
+														MENGLON
+						
+						
+					
+					
+													Récupération de matériaux de recyclage
+							
+						
+						
+														DIE
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Allison Choquart, Design Numérique
+								
+								Entreprise d'infographie
+							
+							
+															ESPENEL
+								Auto-entrepreneur							
+							
+						
+						
+														Kanda Prod
+								
+								Maison artisanale de production audiovisuelle
+							
+							
+															VALDROME
+								Auto-entrepreneur							
+							
+						
+						
+														 la Buen'aventure
+								
+								une action de l'association Buenas Ondas Collectif qui vise à rendre la nature accessible à tous! 
+							
+							
+															MENGLON
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+Les partenaires :		
+				
+			
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

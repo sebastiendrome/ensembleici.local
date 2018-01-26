@@ -1,0 +1,498 @@
+
+
+    
+        
+        Ensemble ici | Lettre de EnsembleIci - Vallee de la Drome / Diois, 2016 #1 - 17 mars
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 17 au 27/03/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						Bonjour &agrave; tous !
+
+L&#39;&eacute;quipe d&#39;Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois a le plaisir de vous envoyer la 1&egrave;re Lettre d&#39;information qui fait suite &agrave; celles de Jean-Claude Mengoni. Encore merci &agrave; lui pour la fid&eacute;lit&eacute; avec laquelle il a oeuvr&eacute; durant ces derni&egrave;res ann&eacute;es pour faire conna&icirc;tre les initiatives, les besoins, et les offres dans le Diois et plus bas dans la vall&eacute;e.
+
+Cette nouvelle formule n&#39;est pas sans quelques accrocs, pas encore parfaite, nous nous en excusons et travaillons d&#39;arrache pied &agrave; ce qu&#39;elle s&#39;am&eacute;liore d&egrave;s la prochaine.
+Le fichier PDF dans lequel vous aviez l&#39;habitude de trouver les informations existe toujours, mais avec une petite variante : en haut des &eacute;v&eacute;nements cliquez sur &quot; l&#39;agenda complet des &eacute;v&eacute;nements au format PDF &quot; , en haut des annonces cliquez sur &quot; la liste compl&egrave;te des petites annonces au format PDF &quot; , vous t&eacute;l&eacute;chargerez ainsi la totalit&eacute; des informations, comme auparavant mais sur 2 fichiers distincts.
+
+Vous trouverez plein de compl&eacute;ment sur le site www.ensembleici.fr que Ensemble Ici - Barronie nous partage : merci &agrave; eux aussi ! Petit &agrave; petit vous verrez aussi le site se personnaliser et &ecirc;tre &agrave; l&#39;image de la Vall&eacute;e de la Dr&ocirc;me / Diois, si vous renseignez une commune qui en fait partie.
+
+N&#39;h&eacute;sitez pas &agrave; faire conna&icirc;tre, &agrave; partager,
+Avec l&#39;enthousiasme et le plaisir d&#39;&ecirc;tre Ensemble, Ici, dans la Vall&eacute;e de la Dr&ocirc;me / Diois, avec vous !
+
+
+
+	L&#39;&eacute;quipe d&#39;Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois
+	lettre.vdd@ensembleici.fr
+					
+	
+
+
+
+	
+                Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+                
+        
+		
+			
+				
+				Crestois Pays de Saillans							
+								Equinoxe
+								Concert , CREST
+								Dimanche 20 mars 2016
+						
+
+												
+													
+								L'art de la relation
+								Atelier , CHASTEL-ARNAUD
+								Samedi 26 mars 2016
+						
+
+					Diois							
+													
+								Stage Terre Nourricière, le végétal source de santé et d'autonomie
+								Stage , BOULC
+								du samedi 19 au dimanche 20 mars 2016
+						
+
+												
+								puces de couturière
+								Vide-grenier , DIE
+								Dimanche 20 mars 2016
+						
+
+												
+								Atelier  de La bona fama à Andarta
+								Atelier , DIE
+								Mercredi 23 mars 2016
+						
+
+												
+													
+								Café des assos
+								Rencontre , DIE
+								Jeudi 24 mars 2016
+						
+
+												
+								Soirée-débat sur la gratuité
+								Débat , DIE
+								Jeudi 24 mars 2016
+						
+
+												
+													
+								Gamal en concert
+								Concert , DIE
+								Vendredi 25 mars 2016
+						
+
+					Val de Drôme							
+								taille douce des arbres fruitiers
+								Stage , COBONNE
+								du lundi 21 au mercredi 23 mars 2016
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+                
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Apprendre le créole mauricien
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													recrutement de familles de vacances
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													garage à partager
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														CREST
+						
+						
+					
+					
+													Garde d'enfant(s)
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAILLANS
+						
+						
+					
+					
+													Cherche logement / atelier 
+							
+						
+						
+														SAINT-JULIEN-EN-QUINT
+						
+						
+					
+					
+													Recherche un local pour café culturel associatif à Crest
+							
+						
+						
+														CREST
+						
+						
+					
+					
+													Cherche une personne qui va à Ikea
+							
+						
+						
+														SAINT-ANDEOL
+						
+						
+					
+					
+													RECHERCHE DE LIEU / Ecole Montessori Les Cotyledons
+							
+						
+						
+														CREST
+						
+						
+					
+					
+													Informations sur moulins à meules de pierre
+							
+						
+						
+														CREST
+						
+						
+					
+					
+													COLLEGIENS CHERCHENT CHAUSSURES
+							
+						
+						
+														DIE
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Radio RDwa
+								
+								la radio du Diois
+							
+							
+															DIE
+								Association							
+							
+						
+						
+														CHEMINS SINGULIERS
+								
+								Accompagnement Biographique - Médiation CNV
+							
+							
+															AOUSTE-SUR-SYE
+								Auto-entrepreneur							
+							
+						
+						
+														Les Ateliers du Vivant
+								
+								Se relier au Vivant par la création
+							
+							
+															MONTMAUR-EN-DIOIS
+								Auto-entrepreneur							
+							
+						
+						
+														LA SOURCE
+								
+								Maison de santé naturelle
+							
+							
+															DIE
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

@@ -1,0 +1,199 @@
+DirectoryIndex index.php
+
+# Le serveur doit suivre les liens symboliques :
+Options +FollowSymlinks
+# Activation du module de réécriture d'URL :
+RewriteEngine on
+RewriteBase /
+# custom 404 page
+ErrorDocument 404 /404.html
+# use utf-8 encoding for anything served text/plain or text/html
+AddDefaultCharset utf-8
+# force utf-8 for a number of file formats
+AddCharset utf-8 .html .css .js .xml .json .rss
+# We don't need to tell everyone we're apache.
+ServerSignature Off
+
+# RewriteCond %{REQUEST_URI} !/maintenance.html$
+# RewriteRule $ /maintenance.html [R=302,L]
+
+#Médias de la version dev (pour éviter la duplication des données)
+	RewriteRule 00_dev/02_medias/(.*) 02_medias/$1 [R=301]
+	RewriteRule v2/02_medias/(.*) 02_medias/$1 [R=301]
+	RewriteRule v2/00_dev/02_medias/(.*) 02_medias/$1 [R=301]
+
+# redirection anciennes pages :
+RedirectPermanent /v4 http://www.ensembleici.fr
+RedirectPermanent /qui.php http://www.ensembleici.fr/
+RedirectPermanent /futuresite.php http://www.ensembleici.fr/
+RedirectPermanent /projet.php http://www.ensembleici.fr/
+RedirectPermanent /soutenir.php http://www.ensembleici.fr/
+RedirectPermanent /parledenous.php http://www.ensembleici.fr/
+RedirectPermanent /reseau.php http://www.ensembleici.fr/
+
+#redirection des anciens liens
+		#espace personnel
+	RewriteRule espace_personnel\.html espace-personnel.html [R=301]
+		#Liste pour agenda et répertoire (le mot "tout" disparait)nyons.9568.tout.forums.html
+	RewriteRule ^([a-z-]+)\.([0-9]+)\.tout\.(agenda|repertoire)(?:\.[0-9]+){0,2}\.html$ $1.$2.$3.html [R=301]
+		#Liste pour les petites annonces, le mot "toutes" disparait et petites annonces devient singulier
+	RewriteRule ^([a-z-]+)\.([0-9]+)\.toutes\.(petites-annonces)(?:\.[0-9]+){0,2}\.html$ $1.$2.petite-annonce.30km.html [R=301]
+		#Liste pour le forum, le mot "tout" disparait et forums devient singulier
+	RewriteRule ^([a-z-]+)\.([0-9]+)\.tout\.(forums)(?:\.[0-9]+){0,2}\.html$ $1.$2.forum.30km.html [R=301]
+		#Fiches
+	RewriteRule ^evenement\.([a-z-]+)\.([a-z0-9-]+)\.([0-9]+)\.([0-9]+)(?:\.[0-9]+){0,2}\.html$ agenda.$1.$2.$3.$4.html [R=301]
+	RewriteRule ^petiteannonce\.([a-z-]+)\.([a-z0-9-]+)\.([0-9]+)\.([0-9]+)(?:\.[0-9]+){0,2}\.html$ petite-annonce.$1.$2.$3.$4.html [R=301]
+	RewriteRule ^(structure|forum)\.([a-z-]+)\.([a-z0-9-]+)\.([0-9]+)\.([0-9]+)(?:\.[0-9]+)+\.html$ $1.$2.$3.$4.$5.html [R=301]
+		#animation
+	RewriteRule ^6\.animation\.html$ animation.html [R=301]
+		#Vie du projet
+	RewriteRule ^5\.vie_du_projet\.html$ vie-du-projet.html [R=301]
+		#Guide d'utilisation du site
+	RewriteRule ^guide_utilisation_site\.html$ guide-utilisation.html [R=301]
+		#Mentions légales
+	RewriteRule ^mentions_legales\.html$ mentions-legales.html [R=301]
+		#Signaler un abus
+	RewriteRule ^signaler_un_abus\.html$ signaler-un-abus.html [R=301]
+		#Plan du site
+	RewriteRule ^plan_site\.html$ plan-du-site.html [R=301]
+		#Lettres d'infos
+	RewriteRule ^lettreinfo_archives\.html$ archives-lettres-informations.html [R=301]
+		#Flux
+	RewriteRule ^flux_rss\.php$ flux-rss.html [R=301]
+		#Faire un don
+	RewriteRule ^faire_un_don\.html$ faire-dun-don.html [R=301]
+
+
+#RewriteRule espace_personnel.html espace-personnel.html [R=301]
+#Redirect permanent espace_personnel.html http://www.ensembleici.fr/00_dev_sam/espace-personnel.html
+#RewriteRule espace_personnel.html http://www.ensembleici.fr/espace-personnel.html [R=301]
+
+#Redirection des nouveaux liens
+	#Regex principal : affichage de l'accueil, des fiches, des listes (+ tri, date de début, distance, tags)
+#RewriteRule ^(?:(previsualisation)\.)?([a-z-]+)\.([0-9]+)(?:\.(editorial|agenda|forum|petite-annonce|structure)(?:\.([a-z0-9-]+)\.([0-9]+))?(?:\.([0-9]+km|tous))?(?:\.du-([0-9]{2}-[0-9]{2}-[0-9]{4}))?(?:\.(distance|reputation|date))?(?:\.page([0-9]+))?)?\.html$   index.php?id_ville=$3&nom_ville=$2&previsualisation=$1&p=$4&titre=$5&no=$6&dist=$7&du=$8&tri=$9&np=$10 [L,QSA]
+
+#RewriteRule ^(?:(previsualisation)\.)?([a-z-]+)\.([0-9]+)(?:\.(editorial|agenda|forum|petite-annonce|structure)(?:\.(?:tag([0-9]+(?:-[0-9]+)*)))?(?:\.([a-z0-9-]+)\.([0-9]+))?(?:\.([0-9]+km|tous))?(?:\.du-([0-9]{2}-[0-9]{2}-[0-9]{4}))?(?:\.(distance|reputation|date))?(?:\.page([0-9]+))?)?\.html$   index.php?id_ville=$3&nom_ville=$2&previsualisation=$1&p=$4&tags=$5&titre=$6&no=$7&dist=$8&du=$9&tri=$10&np=$11 [L,QSA]
+	
+	#Accueil et listes : [NOM_VILLE].[NO_VILLE](.[TYPE_FICHE](.[TAGS])?(.[DISTANCE])?(.[DATE])?(.[TRI])?(.[PAGE])?)?.html
+RewriteRule ^([a-z-]+)\.([0-9]+)(?:\.(editorial|agenda|forum|petite-annonce|structure)(?:\.(?:tag([0-9]+(?:-[0-9]+)*)))?(?:\.([0-9]+km|tous))?(?:\.du-([0-9]{2}-[0-9]{2}-[0-9]{4}))?(?:\.(distance|reputation|date))?(?:\.page([0-9]+))?)?\.html$	index.php?id_ville=$2&nom_ville=$1&p=$3&tags=$4&dist=$5&du=$6&tri=$7&np=$8 [L,QSA]
+	
+	#Fiches et prévisualisation de fiches : (previsualisation)?.[TYPE_FICHE].[NOM_VILLE].[TITRE].[NO_VILLE].[NO].html
+RewriteRule ^(?:(previsualisation)\.)?(editorial|agenda|forum|petite-annonce|structure)\.([a-z-]+)\.([a-z0-9-]+)\.([0-9]+)\.([0-9]+)\.html$	index.php?previsualisation=$1&p=$2&nom_ville=$3&titre=$4&id_ville=$5&no=$6 [L,QSA]
+
+
+#RewriteRule ^(nom_ville).(no_ville)(?:(previsualisation))(?:\.(editorial|agenda|forum|petite-annonce|structure)(?:\.([a-z0-9-]+)\.([0-9]+))?(?:\.([0-9]+km|tous))?(?:\.du-([0-9]{2}-[0-9]{2}-[0-9]{4}))?(?:\.(distance|reputation|date))?(?:\.page([0-9]+))?)?\.html$
+	#Regex pour la recherche
+#RewriteRule ^recherche(?:\.([0-9a-z-]))?\.html$	index.php?p=recherche [L,QSA]
+RewriteRule ^recherche\.php$	index.php?p=recherche [L,QSA]
+	#Regex pour les autres pages (menu de gauche et page "en savoir plus" pour les cookies)
+RewriteRule ^(espace-personnel)(?:\.(mes-fiches|editorial|agenda|evenement|forum|petite-annonce|structure))?(?:\.([0-9]+))?(?:\.(generalites|thematique|details|illustration|validation))?\.html$	index.php?p=espace-personnel&sous_page=$2&no=$3&etape=$4 [L,QSA]
+RewriteRule ^(espace-personnel-dev)(?:\.(mes-fiches|editorial|agenda|evenement|forum|petite-annonce|structure))?(?:\.([0-9]+))?(?:\.(generalites|thematique|details|illustration|validation))?\.html$	index.php?p=espace-personnel-dev&sous_page=$2&no=$3&etape=$4 [L,QSA]
+RewriteRule ^(animation)\.html$	index.php?p=animation [L,QSA]
+RewriteRule ^(vie-du-projet)\.html$	index.php?p=vie-du-projet [L,QSA]
+RewriteRule ^(guide-utilisation)\.html$	index.php?p=guide-utilisation [L,QSA]
+RewriteRule ^les-cookies\.html$	index.php?p=les-cookies [L,QSA]
+	#Regex pour les pages en liens dans le pied de page
+RewriteRule ^mentions-legales\.html$	index.php?p=mentions-legales [L,QSA]
+RewriteRule ^signaler-un-abus\.html$	index.php?p=signaler-un-abus [L,QSA]
+RewriteRule ^contact\.html$	index.php?p=contact [L,QSA]
+RewriteRule ^plan-du-site\.html$	index.php?p=plan-du-site [L,QSA]
+RewriteRule ^partenaires\.html$	index.php?p=partenaires [L,QSA]
+RewriteRule ^archives-lettres-informations\.html$	index.php?p=archives-lettres-informations [L,QSA]
+
+RewriteRule ^faire-un-don\.html$	index.php?p=faire-un-don [L,QSA]
+RewriteRule ^explications\.html$	index.php?p=explications [L,QSA]
+
+	#Liens à garder en l'état :
+RewriteRule ^flux-rss\.html$	index.php?p=flux-rss [L,QSA]
+RewriteRule ^flux_rss\.xml$ flux_rss.xml.php [L,QSA]
+
+	#Calendrier
+RewriteRule ^calendrier(?:-(?:([0-9]{1,2})(-)([0-9]{1,2})(-)([0-9]{4})))?\.pdf$ calendrier/php/pdf.php?dia=$5$4$3$2$1 [L,QSA]
+
+	#Désinscription des message (depuis le mail)
+RewriteRule ^desinscription\.php$	index.php?p=desinscription [L,QSA]
+RewriteRule ^desinscription\.html$	index.php?p=desinscription  [L,QSA]
+
+
+
+
+
+
+
+
+
+
+
+# Cache, performances et temps de chargement
+# Voir http://www.seomix.fr/guide-htaccess-performances-et-temps-de-chargement/
+
+# MOD_DEFLATE COMPRESSION
+#SetOutputFilter DEFLATE
+#AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml application/x-javascript application/x-httpd-php
+#Pour les navigateurs incompatibles
+#BrowserMatch ^Mozilla/4 gzip-only-text/html
+#BrowserMatch ^Mozilla/4\.0[678] no-gzip
+#BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
+#BrowserMatch \bMSI[E] !no-gzip !gzip-only-text/html
+#ne pas mettre en cache si ces fichiers le sont déjà
+#SetEnvIfNoCase Request_URI \.(?:gif|jpe?g|png)$ no-gzip
+#les proxies doivent donner le bon contenu
+#Header append Vary User-Agent env=!dont-vary
+
+# BEGIN Expire headers
+#<IfModule mod_expires.c>
+# ExpiresActive On
+# ExpiresDefault "access plus 7200 seconds"
+# ExpiresByType image/jpg "access plus 2592000 seconds"
+# ExpiresByType image/jpeg "access plus 2592000 seconds"
+# ExpiresByType image/png "access plus 2592000 seconds"
+# ExpiresByType image/gif "access plus 2592000 seconds"
+# AddType image/x-icon .ico
+# ExpiresByType image/ico "access plus 2592000 seconds"
+# ExpiresByType image/icon "access plus 2592000 seconds"
+# ExpiresByType image/x-icon "access plus 2592000 seconds"
+# ExpiresByType text/css "access plus 2592000 seconds"
+# ExpiresByType text/javascript "access plus 2592000 seconds"
+# ExpiresByType text/html "access plus 7200 seconds"
+# ExpiresByType application/xhtml+xml "access plus 7200 seconds"
+# ExpiresByType application/javascript A259200
+# ExpiresByType application/x-javascript "access plus 2592000 seconds"
+# ExpiresByType application/x-shockwave-flash "access plus 2592000 seconds"
+#</IfModule>
+# END Expire headers
+
+# BEGIN Cache-Control Headers
+#<IfModule mod_headers.c>
+# <FilesMatch "\\.(ico|jpe?g|png|gif|swf|gz|ttf)$">
+# Header set Cache-Control "max-age=2592000, public"
+# </FilesMatch>
+# <FilesMatch "\\.(css)$">
+# Header set Cache-Control "max-age=2592000, public"
+# </FilesMatch>
+# <FilesMatch "\\.(js)$">
+# Header set Cache-Control "max-age=2592000, private"
+# </FilesMatch>
+#<filesMatch "\\.(html|htm)$">
+#Header set Cache-Control "max-age=7200, public"
+#</filesMatch>
+# Disable caching for scripts and other dynamic files
+#<FilesMatch "\.(pl|php|cgi|spl|scgi|fcgi)$">
+#Header unset Cache-Control
+#</FilesMatch>
+#</IfModule>
+# END Cache-Control Headers
+
+# KILL THEM ETAGS
+#Header unset ETag
+#FileETag none
+
+# protect the htaccess file
+<files .htaccess>
+order allow,deny
+deny from all
+</files>
+
+# protection de la lecture des répertoires
+Options -Indexes
+
+

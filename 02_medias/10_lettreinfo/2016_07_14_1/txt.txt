@@ -1,0 +1,767 @@
+
+
+    
+        
+        Ensemble ici | # 2016-29 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 14 au 24/07/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous, 
+	
+	&nbsp;
+
+Au-del&agrave; du rapport d&#39;activit&eacute;s et comptable que l&#39;on peut lire en diaporama ici, l&#39;AG 2016 de l&#39;association DECOR* , qui porte les projets Ensemble ici et RadiO&#39;live, a donn&eacute; lieu &agrave; un fort passionnant d&eacute;bat sur les perspectives de l&#39;association. Retrouvez le mot du pr&eacute;sident dans un &eacute;dito sp&eacute;cial.
+
+
+	&nbsp;
+
+	Ce lundi 11 juillet sur le march&eacute; de Pilles &eacute;tait pr&eacute;sent&eacute; le spectacle &quot;Ombre d&#39;Elles&quot; de la Cie Mauvais Coton. La repr&eacute;sentation et l&#39;emission radio ont &eacute;t&eacute; &eacute;court&eacute;es en raison d&#39;un violent orage mais nous avions tout de m&ecirc;me recueilli, avant le spectacle, les propos d&#39;Eric, l&#39;administrateur de la compagnie et de Yan Bernard, organisateur du festival de cirque Pilles sous les &eacute;toiles.
+
+	&nbsp;
+
+	Un point sur le concours &quot;Mon territoire et moi&quot; : nos premiers lots arrivant sonnants et tr&eacute;buchants !
+	Nous attendons avec impatience vos r&eacute;cits, photos ou reportages audio. A vous de mettre en lumi&egrave;re votre territoire !
+	Plus d&#39;infos : c&#39;est par l&agrave; !
+
+	
+	
+	Nous vous souhaitons une tr&egrave;s belle semaine et une joyeuse f&ecirc;te nationale,
+	L&#39;&eacute;quipe Ensemble Ici - Baronnies
+
+	&nbsp;
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+                Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+                
+        
+		
+			
+				
+				Hautes Baronnies							
+													
+								Concert "Delta Sunrise"
+								Spectacle , MONTBRUN-LES-BAINS
+								Mercredi 20 juillet 2016
+						
+
+					&nbsp;Pays de Buis-les-Baronnies							
+													
+								Les ptits pestacles de l'été
+								Spectacle , BUIS-LES-BARONNIES
+								du lundi 11 au vendredi 15 juillet 2016
+						
+
+												
+													
+								TZARIK
+								Concert , BEAUVOISIN
+								Vendredi 15 juillet 2016
+						
+
+												
+													
+								RURBAN 2.0
+								Concert , BUIS-LES-BARONNIES
+								du vendredi 15 au samedi 16 juillet 2016
+						
+
+												
+													
+								Librairie L'Effrontée
+								Manifestation , BUIS-LES-BARONNIES
+								du vendredi 15 au samedi 16 juillet 2016
+						
+
+												
+													
+								Les Peintres dans la Rue
+								Exposition , MOLLANS-SUR-OUVEZE
+								du samedi 16 au dimanche 17 juillet 2016
+						
+
+												
+													
+								ptits pestacles de l'été
+								Spectacle , BUIS-LES-BARONNIES
+								du lundi 18 au vendredi 22 juillet 2016
+						
+
+												
+													
+								Mollans sur écran
+								Festival , MOLLANS-SUR-OUVEZE
+								du mercredi 20 au jeudi 21 juillet 2016
+						
+
+												
+													
+								DUO DE MUSIQUE IMPROVISEE à EYGALIERS
+								Concert , EYGALIERS
+								Vendredi 22 juillet 2016
+						
+
+												
+													
+								Les Yeux de la Nuit
+								Rencontre , LA ROCHE-SUR-LE-BUIS
+								Vendredi 22 juillet 2016
+						
+
+												
+													
+								Fête votive
+								Fête , MOLLANS-SUR-OUVEZE
+								du samedi 23 au dimanche 24 juillet 2016
+						
+
+					&nbsp;Pays de Rémuzat							
+													
+								Les promenades du Tambourinaïre
+								Promenade , LA MOTTE-CHALANCON
+								Dimanche 17 juillet 2016
+						
+
+												
+													
+								Cercle de chants partagés
+								Concert , LA MOTTE-CHALANCON
+								Lundi 18 juillet 2016
+						
+
+												
+													
+								Ballade contée
+								Conte , VILLEPERDRIX
+								Mardi 19 juillet 2016
+						
+
+												
+													
+								Mlle de La Charce
+								Projection , VILLEPERDRIX
+								Samedi 23 juillet 2016
+						
+
+					&nbsp;Val d'Eygues							
+													
+								Stage arts plastiques
+								Atelier , AUBRES
+								du lundi 11 au samedi 16 juillet 2016
+						
+
+												
+													
+								Milonga de Tangolive 
+								Performance , NYONS
+								Mercredi 13 juillet 2016
+						
+
+												
+													
+								Fête nationale
+								Fête , SAINTE-JALLE
+								du mercredi 13 au jeudi 14 juillet 2016
+						
+
+												
+													
+								Grand Concours
+								Atelier , LES PILLES
+								du mercredi 13 juillet au vendredi 30 septembre 2016
+						
+
+												
+													
+								Control Z
+								Concert , NYONS
+								Jeudi 14 juillet 2016
+						
+
+												
+													
+								Exposition Dominique Sauvage & Gaïa duRivau
+								Exposition , MIRABEL-AUX-BARONNIES
+								du vendredi 15 au mercredi 27 juillet 2016
+						
+
+												
+													
+								Découverte de la flore locale
+								Rencontre , SAHUNE
+								Samedi 16 juillet 2016
+						
+
+												
+													
+								5ème édition Parcours artistique et convivial de Venterol
+								Exposition , VENTEROL
+								du samedi 16 au dimanche 17 juillet 2016
+						
+
+												
+													
+								Scène ouverte, 1ere partie avec "Bobosapiens"
+								Concert , LES PILLES
+								Dimanche 17 juillet 2016
+						
+
+												
+													
+								Dimanches des Arts
+								Exposition , NYONS
+								Dimanche 17 juillet 2016
+						
+
+												
+													
+								RADIO BUVETTE
+								Atelier , LES PILLES
+								Lundi 18 juillet 2016
+						
+
+												
+													
+								Atelier cosmétique et maquillage enfants
+								Atelier , CURNIER
+								Mardi 19 juillet 2016
+						
+
+												
+													
+								Soirée crèpes et projection d'un film
+								Fête , CURNIER
+								Mardi 19 juillet 2016
+						
+
+												
+													
+								Ateliers photo et créations de bijoux
+								Atelier , CURNIER
+								Mercredi 20 juillet 2016
+						
+
+												
+													
+								Fermes sous les Etoiles dans les Baronnies Provençales
+								Randonnée , NYONS
+								Mercredi 20 juillet 2016
+						
+
+												
+													
+								Aprèm spécial bébé et atelier Lanternes Photophores
+								Atelier , CURNIER
+								Jeudi 21 juillet 2016
+						
+
+												
+													
+								Les Rencontres des cinémas du monde de Sainte-Jalle
+								Festival , SAINTE-JALLE
+								du jeudi 21 au dimanche 24 juillet 2016
+						
+
+												
+													
+								Atelier Terre et peinture sur galets
+								Atelier , CURNIER
+								Vendredi 22 juillet 2016
+						
+
+												
+													
+								Dédicace de Samuel Figuière à la Librairie de l'Olivier
+								Rencontre , NYONS
+								Samedi 23 juillet 2016
+						
+
+												
+													
+								Des bons produits et des beaux cochons !
+								Manifestation , SAINT-FERREOL-TRENTE-PAS
+								Samedi 23 juillet 2016
+						
+
+												
+													
+								Pique-Nique Solidaire et Après-Midi Concerts
+								journée d'information , NYONS
+								Dimanche 24 juillet 2016
+						
+
+					Val de Drôme							
+													
+								Trio Zéphyr - Jazz au village
+								Concert , GRANE
+								Vendredi 15 juillet 2016
+						
+
+					&nbsp;Ailleurs dans le coin							
+													
+								Solidarité aux enfants de Madagascar
+								Exposition , DIEULEFIT
+								du jeudi 14 au dimanche 17 juillet 2016
+						
+
+												
+													
+								Festival au fil  des voix
+								Festival , VAISON-LA-ROMAINE
+								du vendredi 15 au jeudi 21 juillet 2016
+						
+
+												
+													
+								Jazz dans les vignes
+								Festival , CAIRANNE
+								Samedi 16 juillet 2016
+						
+
+												
+													
+								PARTIR EN LIVRE - La grande Fête du livre pour la jeunesse
+								Lecture , DIEULEFIT
+								du mercredi 20 au mercredi 27 juillet 2016
+						
+
+												
+													
+								stage de chant
+								Stage , ROSANS
+								du jeudi 21 au dimanche 24 juillet 2016
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+                
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Recherche gestionnaire de paie
+							
+						
+						
+														SAINT-PAUL-TROIS-CHATEAUX
+						
+						
+					
+					
+													Recherche Musiciens
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Vends piano classique PRIX A DEBATTRE
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														CURNIER
+						
+						
+					
+					
+													Vente Peugeot 206 - Cause départ à l'étranger
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAINT-ANDEOL
+						
+						
+					
+					
+													Vends divers meubles PETITS PRIX
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													cours espagnol
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Recherche Musicien
+							
+						
+						
+														PIEGROS-LA-CLASTRE
+						
+						
+					
+					
+													cherche terrain
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													studio à louer à l'année
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														LES PILLES
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Éditions du Bon Pied
+								
+								
+							
+							
+															SAINTE-JALLE
+								Association							
+							
+						
+						
+														Le Cochon Rustique des Baronnies
+								
+								élevage en plein air de porcs rustiques
+							
+							
+															SAINT-FERREOL-TRENTE-PAS
+								Etablissement privé							
+							
+						
+						
+														Ordi'contact
+								
+								Dépannage et assistance informatique à domicile
+							
+							
+															ARPAVON
+								Auto-entrepreneur							
+							
+						
+						
+														ESSaimer
+								
+								Entreprendre en collectif
+							
+							
+															DIE
+								SCOP							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+    
+	Le collectif "Ensemble ici" :
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+        
+
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

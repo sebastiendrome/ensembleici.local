@@ -1,0 +1,739 @@
+
+
+    
+        
+        Ensemble ici | # 2015-43 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 22 au 31/10/2015
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	
+	Des interrogations sur l&#39;Economie Sociale et Solidaire?
+	
+	Rendez-vous les 23 et 24 octobre &agrave; la Maison de Pays de Nyons pour les journ&eacute;es Solidaires Caravans&eacute;rail !
+	&nbsp;
+
+	
+	Cet &eacute;v&egrave;nement festif et f&eacute;d&eacute;rateur sera inaugur&eacute; par une soir&eacute;e spectacle le vendredi soir.
+	
+	Le samedi, d&eacute;monstrations et petits ateliers anim&eacute;s par les acteurs de l&rsquo;ESS locaux, et le samedi soir, un repas partag&eacute; autour d&rsquo;une disco-soupe sera suivi d&rsquo;une projection cin&eacute;ma qui cl&ocirc;turera cette premi&egrave;re manifestation &eacute;tiquet&eacute;e Economie Sociale et Solidaire en local.&nbsp;
+	
+	Une occasion de vivre sa journ&eacute;e autrement&nbsp;!
+	
+	
+		Plus d&#39;infos en cliquant ICI
+		
+		
+		&nbsp;
+	
+		D&#39;ici l&agrave; belle semaine &agrave; toutes et &agrave; tous !
+	
+	&nbsp;
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								Stage Cinéma - réalise ton film
+								Stage , SEDERON
+								du lundi 19 au vendredi 23 octobre 2015
+						
+
+					&nbsp;Pays de Buis-les-Baronnies							
+													
+								Atelier théâtre pour enfants et ados du TELB- Buis les Baronnies
+								Atelier , BUIS-LES-BARONNIES
+								du mardi 22 septembre 2015 au mardi 28 juin 2016
+						
+
+												
+													
+								Newsletter octobre
+								Cours , BUIS-LES-BARONNIES
+								du jeudi 01 au samedi 31 octobre 2015
+						
+
+												
+													
+								Ciné Sports Nature en Baronnies 
+								Festival , BUIS-LES-BARONNIES
+								du vendredi 23 au dimanche 25 octobre 2015
+						
+
+												
+													
+								Concert Trio Zephyr
+								Concert , BEAUVOISIN
+								Samedi 24 octobre 2015
+						
+
+												
+													
+								Entre euthanasie et acharnement thérapeutique, comment accompagner celui qui meurt? La loi Leonetti et ses récentes modifications
+								Conférence , BUIS-LES-BARONNIES
+								Vendredi 30 octobre 2015
+						
+
+												
+													
+								Contes
+								Spectacle , BUIS-LES-BARONNIES
+								Vendredi 30 octobre 2015
+						
+
+					Pays de Rémuzat							
+													
+								Fête des fruits et légumes d'automne 
+								Fête , REMUZAT
+								Samedi 24 octobre 2015
+						
+
+												
+													
+								"Les trois souhaits"
+								Conte , LA MOTTE-CHALANCON
+								Samedi 31 octobre 2015
+						
+
+					Val d'Eygues							
+													
+								La Bolha - Reprise des répétitions tous les mercredis
+								Atelier , AUBRES
+								du dimanche 20 septembre au jeudi 31 décembre 2015
+						
+
+												
+													
+								Yoga du rire
+								Atelier , NYONS
+								du samedi 17 octobre au samedi 19 décembre 2015
+						
+
+												
+													
+								Taïchi Détente
+								Atelier , NYONS
+								du samedi 17 octobre au samedi 19 décembre 2015
+						
+
+												
+													
+								Chachango
+								Atelier , NYONS
+								du mardi 20 octobre au mardi 22 décembre 2015
+						
+
+												
+													
+								Concert Véronique PESTEL
+								Concert , LES PILLES
+								Vendredi 23 octobre 2015
+						
+
+												
+													
+								Présentation du programme Contes & Rencontres
+								Réunion , NYONS
+								Vendredi 23 octobre 2015
+						
+
+												
+													
+								Caravanserail
+								Manifestation , NYONS
+								du vendredi 23 au samedi 24 octobre 2015
+						
+
+												
+													
+								Stage de tango argentin
+								Stage , NYONS
+								du vendredi 23 au mercredi 28 octobre 2015
+						
+
+												
+													
+								Le Fascinant Weekend : Vignobles et découvertes 
+								Visite , NYONS
+								du samedi 24 au dimanche 25 octobre 2015
+						
+
+												
+													
+								Cochon grillé au four à pain
+								Repas , SAINT-FERREOL-TRENTE-PAS
+								Dimanche 25 octobre 2015
+						
+
+												
+													
+								stage de Yoga
+								Stage , SAINTE-JALLE
+								Dimanche 25 octobre 2015
+						
+
+												
+													
+								Balades automnales en 2cv
+								Atelier , NYONS
+								du lundi 26 octobre au lundi 30 novembre 2015
+						
+
+												
+													
+								Jouons ensemble
+								Fête , NYONS
+								Mardi 27 octobre 2015
+						
+
+												
+													
+								Mets et mots...
+								Rencontre , NYONS
+								Mardi 27 octobre 2015
+						
+
+												
+													
+								Slam Session
+								Manifestation , NYONS
+								Mercredi 28 octobre 2015
+						
+
+												
+													
+								Tournoi Futsall
+								Tournoi , NYONS
+								Jeudi 29 octobre 2015
+						
+
+												
+													
+								Baptiste Dupré
+								Concert , NYONS
+								Jeudi 29 octobre 2015
+						
+
+												
+													
+								Rendez-vous "Énergie et Citoyenneté" du Ceder
+								Débat , NYONS
+								Jeudi 29 octobre 2015
+						
+
+												
+													
+								ConféSlam
+								Spectacle , NYONS
+								Vendredi 30 octobre 2015
+						
+
+												
+													
+								Salon de l'individu 2015
+								Rencontre , SAHUNE
+								Vendredi 30 octobre 2015
+						
+
+												
+													
+								Animations ludiques, artistiques et sportives
+								Manifestation , NYONS
+								Samedi 31 octobre 2015
+						
+
+					Ailleurs dans le coin							
+													
+								Séjour photo avec Patrick Mouial
+								Exposition , RIBEYRET
+								du lundi 19 au jeudi 22 octobre 2015
+						
+
+												
+													
+								Concert "A la française"
+								Concert , EYGALAYES
+								Samedi 24 octobre 2015
+						
+
+												
+													
+								Méditation, soin ancestral et Neurosciences
+								Conférence , SABLET
+								Samedi 24 octobre 2015
+						
+
+												
+													
+								Lili Cros & Thierry Chazel
+								Concert , VAISON-LA-ROMAINE
+								Vendredi 30 octobre 2015
+						
+
+												
+													
+								16ème Festival  APRÈS LES VENDANGES
+								Spectacle , VAISON-LA-ROMAINE
+								du vendredi 30 octobre au samedi 28 novembre 2015
+						
+
+												
+													
+								Marché aux fruits anciens
+								Marché , ORPIERRE
+								Samedi 31 octobre 2015
+						
+
+												
+													
+								TOM NOVEMBRE - Le Récital
+								Spectacle , VAISON-LA-ROMAINE
+								Samedi 31 octobre 2015
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Offre de services domestiques (ménage, nettoyage,entretien., garde d'enfants...)
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Alizarine : Péniche cherche vignerons intéressés par le transport fluvial de vins
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Chauffage Poêle bois 
+							
+						
+						
+														FAUCON
+						
+						
+					
+					
+													 association Familiale du Nyonsais- Carrefour des Habitants
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Porte cellier bois massif
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														FAUCON
+						
+						
+					
+					
+													Porte garage Tubauto basculante
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														FAUCON
+						
+						
+					
+					
+													Centre équestre du Rouet: appel à financement
+							
+						
+						
+														CONDORCET
+						
+						
+					
+					
+													cherche musicien (ne)percutionniste  
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													petite maison avec jardin
+							
+						
+						
+														SEDERON
+						
+						
+					
+					
+													CUI animateur espace de travail collaboratif
+							
+						
+						
+														SAHUNE
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Mare Nostrum
+								
+								
+							
+							
+															VINSOBRES
+								Association							
+							
+						
+						
+														La Fabrique
+								
+								Recyclerie
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														Le Mokiroule, librairie ambulante
+								
+								
+							
+							
+															SAINT-LAURENT-DU-PAPE
+								société privée							
+							
+						
+						
+														Université buissonnière la vie en oeuvre
+								
+								Nomade dans les hautes Baronnies
+							
+							
+															VERS-SUR-MEOUGE
+								Association							
+							
+						
+						
+														Association IN'A'NA
+								
+								KUNDALINI YOGA
+							
+							
+															BUIS-LES-BARONNIES
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

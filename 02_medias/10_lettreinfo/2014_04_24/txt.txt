@@ -1,0 +1,665 @@
+
+
+    
+        
+        Ensemble ici | # 2014-16 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 24/04 au 04/05/2014
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; tous,
+
+Depuis la &quot;rencontre action&quot; du 12 avril &agrave; Puym&eacute;ras, des personnes s&#39;organisent autour de propositions concr&egrave;tes pour mieux vivre ensemble localement:
+
+Jardins partag&eacute;s, repas de quartier autog&eacute;r&eacute;, sensibilisation &agrave; l&#39;environnement, activit&eacute;s culturelles ou encore astuces pour faciliter la mobilit&eacute; (covoiturage, autostop...),&nbsp; ...
+
+Tr&egrave;s bient&ocirc;t, les forums d&#39;Ensemble Ici permettront &agrave; tous de s&#39;organiser plus facilement pour les mettre en place, tout en invitant ceux qui le souhaitent &agrave; rejoindre ces initiatives citoyennes !
+
+	
+	En attendant leur d&eacute;veloppement et pour commencer &agrave; discuter de cette exp&eacute;rience d&eacute;s maintenant:
+	[&quot;Forum Transition&quot;] 
+
+	
+	Belle semaine !
+	
+	L&#39;&eacute;quipe Ensemble Ici
+			Voici les infos de la semaine dont vous trouvez le détail sur le site Ensemble ici.
+Il vous est aisé d'en ajouter via les formulaires du site.Tous ensemble, solidaires, bâtissons cet outil de partage et d'info autogéré pour mieux vivre sur notre territoire : événements, activités, annonces, projets, et bientôt forums!contact@ensembleici.fr		
+	
+
+
+	
+		
+			
+				
+				Pays de Buis-les-Baronnies							
+													
+								Ateliers Artistiques "Art de Vivre" Cours et Stages   
+								Stage , BUIS-LES-BARONNIES
+								du vendredi 07 mars au mercredi 31 décembre 2014
+						
+
+												
+													
+								"c'est pâques, sors de ta coquille"
+								Spectacle , BUIS-LES-BARONNIES
+								du mercredi 23 avril au vendredi 09 mai 2014
+						
+
+												
+													
+								Patates Sound System
+								Atelier , BESIGNAN
+								Samedi 26 avril 2014
+						
+
+												
+													
+								Soirée MALI à MOLLANS
+								Repas , MOLLANS-SUR-OUVEZE
+								Samedi 26 avril 2014
+						
+
+												
+													
+								Week-end ciné-théâtre
+								Spectacle , BUIS-LES-BARONNIES
+								du samedi 26 au dimanche 27 avril 2014
+						
+
+												
+													
+								Spectacle de marionnettes sur table
+								Spectacle , BUIS-LES-BARONNIES
+								Jeudi 01 mai 2014
+						
+
+												
+													
+								La Buiscyclette
+								Performance , BUIS-LES-BARONNIES
+								du samedi 03 au dimanche 04 mai 2014
+						
+
+												
+													
+								Usons des plantes 2
+								Promenade , ROCHE-SUR-LE-BUIS
+								Dimanche 04 mai 2014
+						
+
+					Pays de Rémuzat							
+													
+								Marché de mai
+								Marché , REMUZAT
+								Samedi 03 mai 2014
+						
+
+					&nbsp;Val d'Eygues							
+													
+								Chasse aux trésors de Nyons
+								Atelier , NYONS
+								du mercredi 01 janvier au mercredi 31 décembre 2014
+						
+
+												
+													
+								Concert à Aubres de la Chorale des 3 Vallées 
+								Concert , AUBRES
+								du dimanche 30 mars au mercredi 30 avril 2014
+						
+
+												
+													
+								Ateliers de Hip Hop et de danse Africaine
+								Atelier , NYONS
+								Vendredi 25 avril 2014
+						
+
+												
+													
+								Terminal 3
+								Spectacle , NYONS
+								Samedi 26 avril 2014
+						
+
+												
+													
+								Championnat départemental de jeu provençal en doublette et Championnat départemental de tête à tête jeunes
+								Manifestation , NYONS
+								du samedi 26 au dimanche 27 avril 2014
+						
+
+												
+													
+								De ferme en ferme
+								Manifestation , NYONS
+								du samedi 26 au dimanche 27 avril 2014
+						
+
+												
+													
+								Vide grenier
+								Vide-grenier , SAHUNE
+								Dimanche 27 avril 2014
+						
+
+												
+													
+								Journée plantes avec Jean Coudour
+								Manifestation , CURNIER
+								Mardi 29 avril 2014
+						
+
+												
+													
+								Covoiturage au marché !
+								Performance , LES PILLES
+								Jeudi 01 mai 2014
+						
+
+												
+													
+								Apéro-lecture
+								Lecture , AUBRES
+								Vendredi 02 mai 2014
+						
+
+												
+													
+								"L'anniversaire !"
+								Spectacle , NYONS
+								Vendredi 02 mai 2014
+						
+
+												
+													
+								Les instants musicales
+								Projection , MONTAULIEU
+								Samedi 03 mai 2014
+						
+
+					Ailleurs dans le coin							
+													
+								Exposition de sculptures
+								Exposition , SERRES
+								du vendredi 28 février au mercredi 30 avril 2014
+						
+
+												
+													
+								Exposition : CORPS-HISTOIRE
+								Exposition , GRIGNAN
+								du samedi 12 avril au dimanche 06 juillet 2014
+						
+
+												
+													
+								Art et Nature
+								Stage , RIBEYRET
+								du jeudi 24 au dimanche 27 avril 2014
+						
+
+												
+													
+								"Ma belle-mère et moi"
+								Atelier , VALREAS
+								Vendredi 25 avril 2014
+						
+
+												
+													
+								LISA AND THE LIPS + Steady Rollin’ Men
+								Concert , TAULIGNAN
+								du vendredi 25 au samedi 26 avril 2014
+						
+
+												
+													
+								Tapage Public
+								Spectacle , VALREAS
+								Samedi 26 avril 2014
+						
+
+												
+													
+								JUST LISTEN ACT 6
+								Festival , SAINT-PAUL-TROIS-CHATEAUX
+								du samedi 26 au dimanche 27 avril 2014
+						
+
+												
+													
+								Foire agricole, terroir, gastronomie
+								Foire , TULETTE
+								du samedi 26 au dimanche 27 avril 2014
+						
+
+												
+													
+								STAGE écriture théâtre et voix
+								Stage , LAURAC-EN-VIVARAIS
+								du mercredi 30 avril au dimanche 04 mai 2014
+						
+
+												
+													
+								Stage Théâtre et voix en Ardèche
+								Stage , LAURAC-EN-VIVARAIS
+								du mercredi 30 avril au dimanche 04 mai 2014
+						
+
+												
+													
+								6ème Jazz et Classique : European Fun 4tet
+								Concert , SERRES
+								Jeudi 01 mai 2014
+						
+
+												
+													
+								Montélimar Terra Potiers
+								Exposition , MONTELIMAR
+								du samedi 03 au dimanche 04 mai 2014
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Colis barbecue !
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAINT-FERREOL-TRENTE-PAS
+						
+						
+					
+					
+													Duplex à louer
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+					
+													Cherche location
+							
+						
+						
+														MONTAULIEU
+						
+						
+					
+					
+													Location studio meublé
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+					
+													Collecte d'objets pour vide-grenier
+							
+						
+						
+														VAISON-LA-ROMAINE
+						
+						
+					
+					
+													Vide Grenier & Vente de fleurs
+							
+						
+						
+														VILLEDIEU
+						
+						
+					
+					
+													Location saisonnière
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														AUBRES
+						
+						
+					
+					
+													Covoiturage jour du marché
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													Vend loveuse
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														LES PILLES
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														La petite Herboristerie
+								
+								Vente de produits naturels et biologiques
+							
+							
+															BUIS-LES-BARONNIES
+								société privée							
+							
+						
+						
+														La Coussinière
+								
+								
+							
+							
+															MONTAUBAN-SUR-L'OUVEZE
+								Auto-entrepreneur							
+							
+						
+						
+														Terres d'Ailes
+								
+								Atelier céramique
+							
+							
+															VALOUSE
+															
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

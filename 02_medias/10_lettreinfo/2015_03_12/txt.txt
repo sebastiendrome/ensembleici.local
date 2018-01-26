@@ -1,0 +1,793 @@
+
+
+    
+        
+        Ensemble ici | 2015-11 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 12 au 22/03/2015
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous,
+
+	
+	
+	Ca y est, le printemps commence &agrave; pointer le bout de son nez !
+	Et avec lui, les concerts, spectacles et randonn&eacute;es fleurissent...
+	C&#39;est le moment de sortir : retrouvez tous les &eacute;v&eacute;nements pr&egrave;s de chez vous sur ensembleici.fr !
+	
+	Nouveau !
+	C&#39;est aussi le moment de partager et de se retrouver : pour covoiturer, &eacute;changer et sortir en groupe, un syst&egrave;me de commentaires est d&eacute;sormais pr&eacute;sent sur toutes les pages du site (articles, &eacute;v&eacute;nements, annonces...).
+	
+	&nbsp;
+
+	Belle semaine,
+	L&#39;&eacute;quipe Ensemble Ici.
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								Randonnée printanière
+								Randonnée , MONTBRUN-LES-BAINS
+								Dimanche 15 mars 2015
+						
+
+												
+													
+								Centrales Villageoises
+								Réunion , MONTBRUN-LES-BAINS
+								Lundi 16 mars 2015
+						
+
+					Pays de Buis-les-Baronnies							
+													
+								Qi Gong
+								Atelier , MOLLANS-SUR-OUVEZE
+								du mardi 03 mars au lundi 29 juin 2015
+						
+
+												
+													
+								La Cave du Troc, votre Boutik' gratuite!
+								Visite , MOLLANS-SUR-OUVEZE
+								du samedi 07 mars au dimanche 27 décembre 2015
+						
+
+												
+													
+								Récital de Guitare Classique - Antoine Aureche
+								Concert , BUIS-LES-BARONNIES
+								du mercredi 11 au vendredi 13 mars 2015
+						
+
+												
+													
+								Café-pub concert de musique irlandaise
+								Concert , BUIS-LES-BARONNIES
+								Samedi 14 mars 2015
+						
+
+												
+													
+								Fête de la Saint Patrick
+								Fête , BUIS-LES-BARONNIES
+								du samedi 14 au dimanche 15 mars 2015
+						
+
+					Pays de Rémuzat							
+													
+								Sarah
+								Concert , MONTREAL-LES-SOURCES
+								Samedi 14 mars 2015
+						
+
+					&nbsp;Val d'Eygues							
+													
+								Révélez le clown qui est en vous !
+								Exposition , LES PILLES
+								du mardi 03 mars au vendredi 10 avril 2015
+						
+
+												
+													
+								Soirée musicale
+								Concert , LES PILLES
+								Jeudi 12 mars 2015
+						
+
+												
+													
+								CONCERT ANNULE
+								Concert , CONDORCET
+								Vendredi 13 mars 2015
+						
+
+												
+													
+								Nyons en scène : Théâtre La Peau d'Elisa
+								Spectacle , NYONS
+								Vendredi 13 mars 2015
+						
+
+												
+													
+								SOIN, MASSAGE &MOUVEMENT
+								Stage , NYONS
+								Samedi 14 mars 2015
+						
+
+												
+													
+								Contest Jam au skatepark
+								Tournoi , NYONS
+								Samedi 14 mars 2015
+						
+
+												
+													
+								Journée Portes Ouvertes à la Vivandière
+								Atelier , NYONS
+								Samedi 14 mars 2015
+						
+
+												
+													
+								Anniversaire de la Fabrique
+								Fête , NYONS
+								Samedi 14 mars 2015
+						
+
+												
+													
+								STAGE YOGA ET EQUILIBRE(S)
+								Stage , NYONS
+								Samedi 14 mars 2015
+						
+
+												
+													
+								Concours des vin et journées agricoles
+								Foire , VINSOBRES
+								du samedi 14 au dimanche 15 mars 2015
+						
+
+												
+													
+								Les balades du tambourinaïre
+								Randonnée , NYONS
+								Dimanche 15 mars 2015
+						
+
+												
+													
+								Soirée 100% Inde
+								Projection , NYONS
+								Lundi 16 mars 2015
+						
+
+												
+													
+								Agressions sexuelles et secrets douloureux
+								Conférence , NYONS
+								Mardi 17 mars 2015
+						
+
+												
+													
+								Conférence de Franck COURTADE
+								Conférence , NYONS
+								Mercredi 18 mars 2015
+						
+
+												
+													
+								conférence : pratiques alternative de conduite de troupeaux
+								Conférence , NYONS
+								Jeudi 19 mars 2015
+						
+
+												
+													
+								Atelier chocolat Masters Chef chocolatier
+								Atelier , NYONS
+								Jeudi 19 mars 2015
+						
+
+												
+													
+								soirée jazz
+								Repas , CURNIER
+								Samedi 21 mars 2015
+						
+
+												
+													
+								Soirée slamiam-miam
+								Repas , LES PILLES
+								Samedi 21 mars 2015
+						
+
+												
+													
+								Troc de fringues
+								Manifestation , LES PILLES
+								Samedi 21 mars 2015
+						
+
+												
+													
+								Le printemps des poètes
+								Lecture , NYONS
+								Samedi 21 mars 2015
+						
+
+												
+													
+								La forêt du Nyonsais : cette inconnue si précieuse
+								Promenade , NYONS
+								Samedi 21 mars 2015
+						
+
+												
+													
+								Spectacle "Laissez nous un message."
+								Spectacle , VINSOBRES
+								Samedi 21 mars 2015
+						
+
+												
+													
+								Atelier Créatif Couture
+								Atelier , NYONS
+								du samedi 21 mars au dimanche 21 juin 2015
+						
+
+												
+													
+								monalisa
+								Concert , AUBRES
+								Dimanche 22 mars 2015
+						
+
+												
+													
+								Randonnée
+								Randonnée , LES PILLES
+								Dimanche 22 mars 2015
+						
+
+												
+													
+								Les balades du tambourinaïre
+								Randonnée , NYONS
+								Dimanche 22 mars 2015
+						
+
+												
+													
+								Concert au centre artistique
+								Concert , PIEGON
+								Dimanche 22 mars 2015
+						
+
+					Ailleurs dans le coin							
+													
+								théâtre à St Restitut
+								Spectacle , SAINT-RESTITUT
+								Vendredi 13 mars 2015
+						
+
+												
+													
+								"Le Bourgeois Gentilhomme"
+								Spectacle , TAULIGNAN
+								Vendredi 13 mars 2015
+						
+
+												
+													
+								25 paysages/seconde
+								Atelier , GRIGNAN
+								du vendredi 13 au dimanche 15 mars 2015
+						
+
+												
+													
+								Spectacle de l'école de Badaboum
+								Spectacle , VAISON-LA-ROMAINE
+								Samedi 14 mars 2015
+						
+
+												
+													
+								CONCERT à St Paul Trois Chateaux
+								Concert , SAINT-PAUL-TROIS-CHATEAUX
+								Dimanche 15 mars 2015
+						
+
+												
+													
+								Conférence Pierre Rabhi
+								Conférence , SAINT-PAUL-TROIS-CHATEAUX
+								Mardi 17 mars 2015
+						
+
+												
+													
+								Concert LA BROCANTE
+								Concert , PORTES-EN-VALDAINE
+								Vendredi 20 mars 2015
+						
+
+												
+													
+								soirée Percussions corporelles
+								Atelier , VALREAS
+								Vendredi 20 mars 2015
+						
+
+												
+													
+								Dîner-Spectacle
+								Concert , VERS-PONT-DU-GARD
+								Vendredi 20 mars 2015
+						
+
+												
+													
+								Danses d'Israël 
+								Stage , BOURDEAUX
+								Samedi 21 mars 2015
+						
+
+												
+													
+								Arom'Yiddish fête ses 10 ans
+								Concert , BOURDEAUX
+								Samedi 21 mars 2015
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Appel à participation à un projet artistique,  photographique et clownesque…
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													La Cave du Troc cherche des musiciens !
+							
+						
+						
+														MOLLANS-SUR-OUVEZE
+						
+						
+					
+					
+													Organisation d'un afterwork !
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Librairie jeunesse ambulante : Le Mokiroule !
+							
+						
+						
+														SAINT-LAURENT-DU-PAPE
+						
+						
+					
+					
+													Oui je commande du bon cochon !
+							
+						
+						
+														SAINT-FERREOL-TRENTE-PAS
+						
+						
+					
+					
+													Cherche batteur 
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Recherchons COLOC AVEC TERRAIN dans la Drôme provencale
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Doudou "ours" perdu !!! 
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Chat perdu
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Vente livre "hors le vent"
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+					
+													cherche location 2 roue à nyons
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Cours particuliers collège/lycée prix pas cher
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Candice Giacomino - Cabinet de Thérapie corporelle
+								
+								A l'écoute de votre intériorité
+							
+							
+															AUBRES
+								Auto-entrepreneur							
+							
+						
+						
+														Société d'Etudes Nyonsaises
+								
+								Revue TERRE D'EYGUES
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														La Fabrique
+								
+								Recyclerie
+							
+							
+															NYONS
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

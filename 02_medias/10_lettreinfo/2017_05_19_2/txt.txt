@@ -1,0 +1,882 @@
+
+
+
+    
+        
+        Ensemble ici | Lettre d'Ensemble Ici - Vallee de la Drome / Diois, 2017 #20 - 19 Mai
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Chers habitants et acteurs de la Vall&eacute;e, du Diois, toutes et tous acteurs locaux,
+Prochaine &eacute;mission Mais Qu'est-ce Qui S'Passe ? : conf&eacute;rence d&eacute;bat "Faire face &agrave; l'influence de l'industrie pharmaceutique" avec Paul Scheffer le 10 juin &agrave; Soyans
+&nbsp;
+Vous souvenez vous ?
+- les particuliers peuvent adh&eacute;rer (10&euro;) pour nous soutenir
+- les personnes morales peuvent &ecirc;tre adh&eacute;rent partenaire (50&euro;), avec un &eacute;change de visibilit&eacute;, ou adh&eacute;sion basique (30&euro;)
+- qui veut peut opter pour un abonnement volontaire : un don mensuel du montant de son choix
+L'embarras du choix , si vous pensez qu'Ensemble Ici est utile...
+Agenda : &agrave; noter,
+
+c'est la F&ecirc;te de la Nature dans toute la France ce WE, programme sur ladrome.fr/...
+dimanche : 17e journ&eacute;e des peintres dans la rue &agrave; Chabrillan
+prochainement (WE prochain), dans votre vall&eacute;e : le Festival Latino &agrave; Saillans, le March&eacute; des Potiers et Les Espi&egrave;gleries - Festival de la Clairette &agrave; Die
+
+Bonne lecture, et bonnes sorties printani&egrave;res...
+Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois
+
+&nbsp;                
+Rappel T&eacute;l&eacute;chargeable depuis cette lettre, en fichier PDF, depuis le haut des 2 rubriques : - tous les &eacute;v&eacute;nements jusqu'au 2e WE &agrave; venir, - toutes les annonces de ces 30 derniers jours
+C'est vous qui publiez, modifier, compl&eacute;tez vos informations locales !
+Ensemble Ici : l'information par et pour les habitants de la Vall&eacute;e de la Dr&ocirc;me / Diois
+
+Si vous appr&eacute;ciez Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois :
+&nbsp;"abonnement volontaire" / don mensuel&nbsp;
+Nous ne touchons aucune subvention. Pour que l'animation du site puisse continuer avec notre salari&eacute;,merci de votre soutien
+Adh&eacute;sion
+&nbsp;        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Crestois Pays de Saillans                        
+                    
+                    Spect’atelier « Découvrir notre Puissance Créatrice Quantique »
+                    Spectacle , CREST
+                    Vendredi 19 mai 2017
+                    
+
+                                            
+                    
+                    Fête de la nature et des 10 ans du SMRD
+                    Fête , SAILLANS
+                    Vendredi 19 mai 2017
+                    
+
+                                            
+                    
+                    Atelier fabrication d'un baume personnalisé aux huiles essentielles
+                    Atelier , CREST
+                    du vendredi 19 au dimanche 21 mai 2017
+                    
+
+                                            
+                    
+                    INAUGURATION DU NOUVEAU SITE DE COMPOSTAGE COLLECTIF DE CREST
+                    Fête , CREST
+                    Samedi 20 mai 2017
+                    
+
+                                            
+                    
+                    STAGE GÉOBIOLOGIE niveau II
+                    Stage , ESPENEL
+                    Samedi 20 mai 2017
+                    
+
+                                            
+                    
+                    Chaabi dans les vignes
+                    Concert , ESPENEL
+                    Samedi 20 mai 2017
+                    
+
+                                            
+                    
+                    Atelier Incroyables Comestibles
+                    Atelier , CREST
+                    Mercredi 24 mai 2017
+                    
+
+                                            
+                    
+                    Animer des instances associatives
+                    Stage , SAILLANS
+                    du mercredi 24 au dimanche 28 mai 2017
+                    
+
+                    
+                    dîner concert Lula Maria & Quando
+                    Concert , SAILLANS
+                    Jeudi 25 mai 2017
+                    
+
+                    
+                    stages de danse
+                    Festival , SAILLANS
+                    du jeudi 25 au samedi 27 mai 2017
+                    
+
+                                            
+                    
+                    Groupe d'entraide et d'échange autour des maladies chroniques
+                    Rencontre , CREST
+                    Vendredi 26 mai 2017
+                    
+
+                                            
+                    
+                    A la découverte du feutrage de la laine
+                    Atelier , PIEGROS-LA-CLASTRE
+                    Vendredi 26 mai 2017
+                    
+
+                                            
+                    
+                    Blanche  Aurore  Céleste
+                    Spectacle , AUREL
+                    Samedi 27 mai 2017
+                    
+
+                                            
+                    
+                    Atelier Créativité et Rencontre avec soi
+                    Atelier , CREST
+                    Samedi 27 mai 2017
+                    
+
+                    
+                    festival latino
+                    Concert , SAILLANS
+                    Samedi 27 mai 2017
+                    
+
+                    Diois                        
+                    
+                    ANTOINE AMIGUES
+                    Concert , BEAUMONT-EN-DIOIS
+                    Vendredi 19 mai 2017
+                    
+
+                                            
+                    
+                    Concert Forro Della
+                    Concert , DIE
+                    Vendredi 19 mai 2017
+                    
+
+                                            
+                    
+                    Geocaching
+                    Atelier , DIE
+                    Samedi 20 mai 2017
+                    
+
+                                            
+                    
+                    concert : TEXAKO / Arno & Val
+                    Concert , VALDROME
+                    Samedi 20 mai 2017
+                    
+
+                                            
+                    
+                    Ciné-concert de Trajet Spectacle Le Phare au cinéma Le Pestel à Die
+                    Concert , DIE
+                    du samedi 20 au dimanche 21 mai 2017
+                    
+
+                                            
+                    
+                    Bourse aux plantes
+                    Rencontre , CHARENS
+                    Dimanche 21 mai 2017
+                    
+
+                                            
+                    
+                    Du cinéma pour les oreilles : Le paysage les yeux fermés
+                    Rencontre , DIE
+                    Dimanche 21 mai 2017
+                    
+
+                                            
+                    
+                    MUSIQUE SACRÉE & SACRÉE MUSIQUE
+                    Concert , DIE
+                    Dimanche 21 mai 2017
+                    
+
+                                            
+                    
+                    Réfugié : rencontre/échange avec l'écrivain/réfugié
+                    Rencontre , DIE
+                    Dimanche 21 mai 2017
+                    
+
+                                            
+                    
+                    Concert Groupe Vocal "Entre Mers"
+                    Concert , SAINT-JULIEN-EN-QUINT
+                    Mardi 23 mai 2017
+                    
+
+                                            
+                    
+                    Atelier PAO #2 - Initiation à la retouche photo
+                    Atelier , DIE
+                    Mercredi 24 mai 2017
+                    
+
+                                            
+                    
+                    Plantes sauvages du Haut-Diois et leurs usages
+                    Stage , BOULC
+                    du jeudi 25 au dimanche 28 mai 2017
+                    
+
+                                            
+                    
+                    FRACTALYA - YOGA et CHAMANISME
+                    Stage , BOULC
+                    du jeudi 25 au dimanche 28 mai 2017
+                    
+
+                                            
+                    
+                    Le Off de La Nuit du Folk Dioise
+                    Festival , CHATILLON-EN-DIOIS
+                    du jeudi 25 au dimanche 28 mai 2017
+                    
+
+                                            
+                    
+                    stage tapisserie d'ameublement
+                    Stage , DIE
+                    du jeudi 25 au dimanche 28 mai 2017
+                    
+
+                                            
+                    
+                    Clown et gestalt-thérapie
+                    Stage , MISCON
+                    du jeudi 25 au dimanche 28 mai 2017
+                    
+
+                                            
+                    
+                    Programmation des stages santé Naturilys 
+                    Manifestation , DIE
+                    du jeudi 25 mai au dimanche 10 décembre 2017
+                    
+
+                                            
+                    
+                    SCENE OUVERTE AUX AGITES !
+                    Spectacle , DIE
+                    Vendredi 26 mai 2017
+                    
+
+                    
+                    Soirée Croc' et Contes
+                    Conte , LUC-EN-DIOIS
+                    Vendredi 26 mai 2017
+                    
+
+                                            
+                    
+                    marché de Potiers de Die
+                    Marché , DIE
+                    Samedi 27 mai 2017
+                    
+
+                                            
+                    
+                    Concert : My Velvet Soul
+                    Concert , VALDROME
+                    Samedi 27 mai 2017
+                    
+
+                                            
+                    
+                    Balade à vélo électrique vignoble Chatillonais Les Espiègleries
+                    Promenade , CHATILLON-EN-DIOIS
+                    Dimanche 28 mai 2017
+                    
+
+                                            
+                    
+                    CONCERT COSMOS QUARTET
+                    Concert , SAINTE-CROIX
+                    Dimanche 28 mai 2017
+                    
+
+                    Val de Drôme                        
+                    
+                    Balade plantes sauvages comestibles
+                    Randonnée , MIRMANDE
+                    du vendredi 19 au dimanche 21 mai 2017
+                    
+
+                                            
+                    
+                    stage de jonglage
+                    Stage , EURRE
+                    du samedi 20 au dimanche 21 mai 2017
+                    
+
+                                            
+                    
+                    Atelier Conférence Eau Sensible
+                    Atelier , GIGORS-ET-LOZERON
+                    du samedi 20 au dimanche 21 mai 2017
+                    
+
+                                            
+                    
+                    Reconstitution Historique 1er Empire
+                    Spectacle , LIVRON-SUR-DROME
+                    du samedi 20 au dimanche 21 mai 2017
+                    
+
+                                            
+                    
+                    Stage d'apiculture alternative en production naturelle 
+                    Stage , OMBLEZE
+                    du samedi 20 au dimanche 21 mai 2017
+                    
+
+                                            
+                    
+                    17° JOURNEE DES PEINTRES DANS LA RUE
+                    Foire , CHABRILLAN
+                    Dimanche 21 mai 2017
+                    
+
+                                            
+                    
+                    Une agriculture durable pour une alimentation saine : Pourquoi ? Comment ?
+                    Conférence , ROCHE-SUR-GRANE
+                    Mercredi 24 mai 2017
+                    
+
+                                            
+                    
+                    Initiation Lien à la Terre
+                    Atelier , ROCHE-SUR-GRANE
+                    du mercredi 24 au dimanche 28 mai 2017
+                    
+
+                                            
+                    
+                    Atelier Cuisine des Epices
+                    Atelier , CHABRILLAN
+                    Dimanche 28 mai 2017
+                    
+
+                                
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            VELO
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Formation à la démocratie locale
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    propriétaire cherche personnes pour étudier projet sci 
+                
+                    
+                    
+                                                        LUC-EN-DIOIS
+                    
+                    
+                
+                                    pétrain
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        MARIGNAC-EN-DIOIS
+                    
+                    
+                
+                                    Porte-bébé Chinado
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        LUC-EN-DIOIS
+                    
+                    
+                
+                                    Danse à travers soi : mouvement et créations
+                
+                    
+                    
+                                                        BOULC
+                    
+                    
+                
+                                    Planches en chêne 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    frigidaire  congelateur 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Ecole alternative cherche local
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Stage Vie Sauvage et Vagabonde
+                
+                    
+                    
+                                                        SAILLANS
+                    
+                    
+                
+                                    vends 2 range cd fer forgé forme guitare
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Eclairage de chantier
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    vends cage lapin tout confort + jeux parfait état
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Contact kids
+                
+                    
+                    
+                                                        AOUSTE-SUR-SYE
+                    
+                    
+                
+                                    Stage : "retrouver le sens du sacré et du vivant en soi"
+                
+                    
+                    
+                                                        PIEGROS-LA-CLASTRE
+                    
+                    
+                
+                                    Stage : "se révéler à son féminin sacré"
+                
+                    
+                    
+                                                        PIEGROS-LA-CLASTRE
+                    
+                    
+                
+                                    Coffret Elvis 7 33T et 7 posters
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Recherche TABLES en bois, CHAISES et VAISSELLE
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Vinyle 33T Otis Redding The Happy Song
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Jimi Hendrix Experience & Otis Reeding  -  Monterey international pop festival
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    33T Tommy The Who
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Crosby, Stills, Nash et Young DEJA VU
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    The Rolling Stones Sticky Fingers
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            LE FAUTEUIL DE LA BARONNE
+                atelier de tapisserie d'ameublement
+                
+                                        DIE
+                        Auto-entrepreneur                
+                
+                
+                            Lucile Ferroussier - Graphiste Freelance
+                
+                
+                                        ALLEX
+                        Auto-entrepreneur                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

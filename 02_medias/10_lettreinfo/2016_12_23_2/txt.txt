@@ -1,0 +1,539 @@
+
+
+
+    
+        
+        Ensemble ici | Lettre d'Ensemble Ici - Vallee de la Drome / Diois, 2016 #40 - 23 Décembre
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Chers habitants et acteurs de la Vall&eacute;e, du Diois, toutes et tous acteurs locaux,
+Voici la derni&egrave;re Lettre de l'ann&eacute;e, d&eacute;j&agrave; presque un an, et pas mal de chemin parcouru. Merci d'&ecirc;tre de plus en plus nombreux &agrave; suivre l'info locale participative de la Vall&eacute;e de la Dr&ocirc;me / Diois. Merci &agrave; ceux qui ne publiaient pas chez nous il y a quelques mois et qui le font d&eacute;sormais r&eacute;guli&egrave;rement. Et si demain c'&eacute;tait vous ? Oui, vous, qui publiiez ce que vous aimez et qui se passe pr&egrave;s de chez vous ? C'est possible : essayez...
+Nous sommes en pause jusqu'au 1er jeudi de janvier, rendez-vous le 6 janvier au r&eacute;veil dans votre boite &agrave; courriel...
+ Agenda avec une semaine de rabe :&nbsp; C'est un peu le "creu de l'ann&eacute;e" pour la quantit&eacute; de rendez-vous faits aux habitants. Le solstice d'hiver vient de passer : les propositions vont reprendre doucement mais s&ucirc;rement avec le rallongement des jours... Le PDF de la Lettre cette semaine fait une semaine suppl&eacute;mentaire, il reste malgr&eacute; tout tr&egrave;s digeste. 
+
+Nous vous souhaitons de tr&egrave;s belles f&ecirc;tes de fin d'ann&eacute;e, qu'elles soient occasions de moments chaleureux, de partage, de resserrement des liens humains.  Et bien s&ucirc;r, tr&egrave;s belle ann&eacute;e 2017 &agrave; toutes et tous !
+A l'ann&eacute;e prochaine,
+Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois
+                
+Rappel T&eacute;l&eacute;chargeable depuis cette lettre, en fichier PDF : - tous les &eacute;v&eacute;nements &agrave; venir dans les 2 semaines, - toutes les annonces de ces derniers jours
+C'est vous qui publiez et alimentez les rubriques du site : ajoutez, modifier, compl&eacute;tez vos informations locales !
+Ensemble Ici : l'information par et pour les habitants de la Vall&eacute;e de la Dr&ocirc;me / Diois
+
+Si vous appr&eacute;ciez Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois : soutenez-nous par votre adh&eacute;sion !
+Nous ne touchons aucune subvention : merci d'avance de votre soutien ( don / adh&eacute;sion )        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Crestois Pays de Saillans                        
+                    
+                    Une idée cadeau originale
+                    Atelier , AOUSTE-SUR-SYE
+                    Samedi 24 décembre 2016
+                    
+
+                                            
+                    
+                    Réveil de Noël Chez Eugène
+                    Repas , CREST
+                    du samedi 24 au dimanche 25 décembre 2016
+                    
+
+                                            
+                    
+                    THICK à La Caverne
+                    Concert , CREST
+                    Mardi 27 décembre 2016
+                    
+
+                    Diois                        
+                    
+                    Créations feutrées
+                    Atelier , DIE
+                    Vendredi 23 décembre 2016
+                    
+
+                    &nbsp;Val de Drôme                        
+                    
+                    Lumières sur la Promenade
+                    Exposition , EURRE
+                    du samedi 03 au vendredi 30 décembre 2016
+                    
+
+                                            
+                    
+                    FÊTES DE NOÊL
+                    Rencontre , GIGORS-ET-LOZERON
+                    du samedi 17 au mardi 27 décembre 2016
+                    
+
+                                            
+                    
+                    Soirée Nouvel-An aux Amanins
+                    Fête , ROCHE-SUR-GRANE
+                    du samedi 31 décembre 2016 au dimanche 01 janvier 2017
+                    
+
+                                
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Cherche mobilier
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Vends Cabanourte
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Recherche un extracteur de jus
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    jardinier chreche petite serre 
+                
+                    
+                    
+                                                        SUZE
+                    
+                    
+                
+                                    Recherche  colocataire pour location de maison proche de DIE en janvier
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    MAISON A PARTAGER
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Bois de chauffage
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Une idée cadeau originale : un stage cirque we 14 et 15 janvier 2017
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        AOUSTE-SUR-SYE
+                    
+                    
+                
+                                    Appel aux artistes pour exposition
+                
+                    
+                    
+                                                        SAINTE-CROIX
+                    
+                    
+                
+                                    chercher covoiturage Die>Lyon 27 ou 28.12
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Perdu chat Câline
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    appartement meublé à louer pour janvier février
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Renault Kangoo
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    argent colloidal
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    troc alimentaire
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    colocation sympa
+                
+                    
+                    
+                                                        SAOU
+                    
+                    
+                
+                                    lieu de stage du 11 au 16 juillet
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Valdec'Quint
+                
+                
+                                        SAINT-JULIEN-EN-QUINT
+                        Association                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

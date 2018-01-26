@@ -1,0 +1,883 @@
+
+
+    
+        
+        Ensemble ici | # 2016-32 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 04 au 14/08/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous, 
+
+	
+	Votre partenaire de l&#39;info locale continue &agrave; vous pr&eacute;senter les initiatives du territoire
+
+
+	_____________________________________________________________
+	
+	Retour sur Radio Buvette
+	&nbsp;
+Lundi 1er Ao&ucirc;t : RadiO&#39;live a re&ccedil;u 2 invit&eacute;s pour nous parler du Parc Naturel R&eacute;gional des Baronnies Proven&ccedil;ales : Matthieu Morard, charg&eacute; de mission &eacute;ducation au territoire pour le PNR et Romain Nakhdjavan, guide de moyenne montagne qui travaille du cot&eacute; de Buis-les Baronnies.
+
+Lundi prochain, l&#39;&eacute;mission sera consacr&eacute;e &agrave; la Monnaie Locale Compl&eacute;mentaire en construction sur le territoire des Baronnies. Nous recevrons Dominique et Olivier, membres du groupe de r&eacute;flexion sur la monnaie locale.
+
+
+	Rappel : Radio Buvette est un espace d&#39;&eacute;change et de rencontres, n&#39;h&eacute;sitez pas &agrave; poser vos questions en direct &agrave; nos invit&eacute;s. 
+
+	
+	_____________________________________________________________
+	
+	Ils innovent, nous les soutenons !
+	&nbsp;
+Deux campagnes de financement participatif sont en cours sur le territoire des Baronnies.
+
+LES EDITIONS DES LISIERES : c&#39;est un projet &eacute;ditorial qui germe depuis d&eacute;cembre 2013. Aujourd&#39;hui, il est pr&ecirc;t &agrave; donner ses premiers fruits. Il s&#39;agit en fait d&#39;acheter un ou plusieurs livres en pr&eacute;vente, ce qui permet de cr&eacute;er une tr&eacute;sorerie pour l&#39;impression et la fabrication des livres. Plus d&#39;infos
+
+LES AMIS DES CHAMPS : c&#39;est un projet de cr&eacute;ation d&#39;un magasin de producteurs aux Pilles. Plus d&#39;infos
+
+
+	
+	_____________________________________________________________
+	
+	Du c&ocirc;t&eacute; de chez nous,
+
+L&#39;Association DECOR recherche un volontaire en Service Civique &agrave; partir du 1er Octobre. Retrouvez l&#39;offre dans l&#39;annonce suivante.
+
+Notre concours de r&eacute;daction d&#39;article continue... A gagner : des places de cin&eacute;ma, des livres et autres surprises.
+
+	
+	
+	
+	Toute l&#39;&eacute;quipe d&#39;Ensemble Ici - Baronnies vous souhaitent une tr&egrave;s belle semaine
+	
+	&nbsp;
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+                Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+                
+        
+		
+			
+				
+				Pays de Buis-les-Baronnies							
+													
+								ptits pestacles de l'été
+								Spectacle , BUIS-LES-BARONNIES
+								du lundi 01 au vendredi 05 août 2016
+						
+
+												
+													
+								"Morceaux" de Baronnies 
+								Exposition , LA ROCHE-SUR-LE-BUIS
+								du lundi 01 au dimanche 28 août 2016
+						
+
+												
+													
+								Soirée Musicale
+								Concert , BUIS-LES-BARONNIES
+								Jeudi 04 août 2016
+						
+
+												
+													
+								Le Hameau de la Savouillane fait son cabaret !
+								Spectacle , BUIS-LES-BARONNIES
+								Vendredi 05 août 2016
+						
+
+												
+													
+								LECTURE à VOIX HAUTE et ECRITURE
+								Stage , BEAUVOISIN
+								du vendredi 05 au dimanche 07 août 2016
+						
+
+												
+													
+								Soirée Raoul Ruiz
+								Projection , BUIS-LES-BARONNIES
+								Samedi 06 août 2016
+						
+
+												
+													
+								loto
+								Jeux , PIERRELONGUE
+								Samedi 06 août 2016
+						
+
+												
+													
+								Fête votive de Besignan
+								Fête , BESIGNAN
+								du samedi 06 au dimanche 07 août 2016
+						
+
+												
+													
+								22ème Choralies en Provence
+								Concert , BUIS-LES-BARONNIES
+								Dimanche 07 août 2016
+						
+
+												
+													
+								ptits pestacles de l'été
+								Spectacle , BUIS-LES-BARONNIES
+								du lundi 08 au vendredi 12 août 2016
+						
+
+												
+													
+								Soirée sous les étoiles
+								Repas , ROCHEBRUNE
+								Mardi 09 août 2016
+						
+
+												
+													
+								Fête de la Saint-Laurent
+								Fête , BUIS-LES-BARONNIES
+								du mercredi 10 au dimanche 14 août 2016
+						
+
+												
+													
+								Le Buis j'aime, j'y cours
+								Manifestation , BUIS-LES-BARONNIES
+								Dimanche 14 août 2016
+						
+
+												
+													
+								CINEMA EN PLEIN AIR A ST AUBAN
+								Projection , SAINT-AUBAN-SUR-L'OUVEZE
+								Dimanche 14 août 2016
+						
+
+					Pays de Rémuzat							
+													
+								Soirée Ciné-Patrimoine
+								Projection , LA MOTTE-CHALANCON
+								Jeudi 04 août 2016
+						
+
+												
+													
+								ANTHELME
+								Concert , LA MOTTE-CHALANCON
+								Jeudi 11 août 2016
+						
+
+												
+													
+								Contes musicaux - Pat Kalla
+								Conte , CORNILLON-SUR-L'OULE
+								Vendredi 12 août 2016
+						
+
+												
+													
+								Concert/conférence  avec Marc VELLA et son piano nomade
+								Concert , LA MOTTE-CHALANCON
+								Vendredi 12 août 2016
+						
+
+												
+													
+								Stage résidentiel piano"intuitif" avec Marc VELLA
+								Stage , LA MOTTE-CHALANCON
+								du vendredi 12 au lundi 15 août 2016
+						
+
+												
+													
+								Concert sous yourte avec Cathy Masseus VELLA
+								Concert , LA MOTTE-CHALANCON
+								Dimanche 14 août 2016
+						
+
+					Val d'Eygues							
+													
+								Grand Concours
+								Atelier , LES PILLES
+								du mercredi 13 juillet au vendredi 30 septembre 2016
+						
+
+												
+													
+								Concert au restaurant de Curnier
+								Concert , CURNIER
+								Jeudi 04 août 2016
+						
+
+												
+													
+								Concert "Armstrong Memory"
+								Concert , NYONS
+								Jeudi 04 août 2016
+						
+
+												
+													
+								"Malaterra" - Adaptation de Roger Pasturel - Mise en scène de Roland Peyron
+								Spectacle , SAINTE-JALLE
+								Jeudi 04 août 2016
+						
+
+												
+													
+								EXPOSITION
+								Exposition , VENTEROL
+								du jeudi 04 au dimanche 21 août 2016
+						
+
+												
+													
+								Chorale du Delta
+								Concert , LES PILLES
+								Vendredi 05 août 2016
+						
+
+												
+													
+								NUIT DU TENNIS
+								Fête , MIRABEL-AUX-BARONNIES
+								Vendredi 05 août 2016
+						
+
+												
+													
+								DynaDju à Couleur Café
+								Concert , NYONS
+								Vendredi 05 août 2016
+						
+
+												
+													
+								"Etonnant, non ?!"
+								Spectacle , NYONS
+								Vendredi 05 août 2016
+						
+
+												
+													
+								Chorale du Delta
+								Concert , VENTEROL
+								Vendredi 05 août 2016
+						
+
+												
+													
+								Fête votive a Condorcet
+								Fête , CONDORCET
+								du vendredi 05 au dimanche 07 août 2016
+						
+
+												
+													
+								Concert de Mucho Macho
+								Concert , NYONS
+								Samedi 06 août 2016
+						
+
+												
+													
+								André BUCHER " A l'écart " & En DEDICACE 
+								Rencontre , NYONS
+								Samedi 06 août 2016
+						
+
+												
+													
+								Des cochons noirs et marrons...
+								Visite , SAINT-FERREOL-TRENTE-PAS
+								Samedi 06 août 2016
+						
+
+												
+													
+								Concert Nyons
+								Concert , NYONS
+								Dimanche 07 août 2016
+						
+
+												
+													
+								RADIO BUVETTE
+								Atelier , LES PILLES
+								Lundi 08 août 2016
+						
+
+												
+													
+								Concert Médiéval
+								Concert , MIRABEL-AUX-BARONNIES
+								Lundi 08 août 2016
+						
+
+												
+													
+								CHERCHE FEMMES
+								Spectacle , MIRABEL-AUX-BARONNIES
+								Lundi 08 août 2016
+						
+
+												
+													
+								TagadaTsing
+								Spectacle , NYONS
+								Lundi 08 août 2016
+						
+
+												
+													
+								Concert "Une Voix en 3 Dimensions"
+								Concert , NYONS
+								Mardi 09 août 2016
+						
+
+												
+													
+								ANTHELME
+								Concert , SAHUNE
+								Mercredi 10 août 2016
+						
+
+												
+													
+								Concert "Un piano pour Brassens"
+								Concert , NYONS
+								Jeudi 11 août 2016
+						
+
+												
+													
+								Vente de tartes, de cakes et autres gâteries sucrées ou salées au marché de Nyons
+								Manifestation , NYONS
+								Jeudi 11 août 2016
+						
+
+												
+													
+								Concert des Petits Cochons
+								Concert , NYONS
+								Samedi 13 août 2016
+						
+
+												
+													
+								DOUCHE A OREILLE
+								Spectacle , SAINTE-JALLE
+								Samedi 13 août 2016
+						
+
+												
+													
+								NEAPOLIS
+								Concert , MONTAULIEU
+								Dimanche 14 août 2016
+						
+
+												
+													
+								Dimanches des Arts
+								Exposition , NYONS
+								Dimanche 14 août 2016
+						
+
+												
+													
+								Randonne en Fête
+								Manifestation , NYONS
+								du dimanche 14 au lundi 15 août 2016
+						
+
+					&nbsp;Ailleurs dans le coin							
+													
+								Festival de Cinéma de Visan
+								Festival , VISAN
+								du vendredi 05 au mardi 09 août 2016
+						
+
+												
+													
+								CONCERT ENSEMBLE DE CORS DE L'OPERA D'AVIGNON
+								Concert , ROSANS
+								Samedi 06 août 2016
+						
+
+												
+													
+								Les petits pestacles
+								Spectacle , VAISON-LA-ROMAINE
+								Mardi 09 août 2016
+						
+
+												
+													
+								Festival Théâtre
+								Spectacle , TAULIGNAN
+								du jeudi 11 au samedi 13 août 2016
+						
+
+												
+													
+								Concart des Valientes Gracias au Jean's café
+								Concert , DIEULEFIT
+								Vendredi 12 août 2016
+						
+
+												
+													
+								VIOLON RECITAL
+								Concert , SERRES
+								Samedi 13 août 2016
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+                
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													A la recherche de colocataires !
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Vend camion aménagé
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													vend Citroen C5 année 2007
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													Recherche Location Terrain isolé Pour Festival 2017
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													aspirateur sans sac
+							
+						
+						
+														MOLLANS-SUR-OUVEZE
+						
+						
+					
+					
+													Aménagement d'une remise en pièce à vivre
+							
+						
+						
+														MOLLANS-SUR-OUVEZE
+						
+						
+					
+					
+													Soutenir le lancement des éditions des Lisières
+							
+						
+						
+														SAINTE-JALLE
+						
+						
+					
+					
+													Recherche Volontaire en Service Civique !
+							
+						
+						
+														LES PILLES
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Éditions du Bon Pied
+								
+								
+							
+							
+															SAINTE-JALLE
+								Association							
+							
+						
+						
+														Le Cochon Rustique des Baronnies
+								
+								élevage en plein air de porcs rustiques
+							
+							
+															SAINT-FERREOL-TRENTE-PAS
+								Etablissement privé							
+							
+						
+						
+														Vocalises Buissonnières 
+								
+								Promotion du chant et de la vocalité sous toutes ses formes
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														Ordi'contact
+								
+								Dépannage et assistance informatique à domicile
+							
+							
+															ARPAVON
+								Auto-entrepreneur							
+							
+						
+						
+														Psychobydub
+								
+								
+							
+							
+															BARNAVE
+								Association							
+							
+						
+						
+														Éditions des Lisières
+								
+								
+							
+							
+															SAINTE-JALLE
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+    
+	Le collectif "Ensemble ici" :
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+        
+
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

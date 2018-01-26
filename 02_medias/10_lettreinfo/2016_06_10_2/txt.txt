@@ -1,0 +1,636 @@
+
+
+    
+        
+        Ensemble ici | Lettre d'Ensemble Ici Vallée de la Drôme / Diois 2016#13-10 Juin
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 10 au 20/06/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						Bonjour à toutes et tous,
+
+Avec le beau temps qui revient, nous avons le plaisir de vous faire parvenir cette nouvelle lettre d'information.
+
+Beaucoup d'évènements et de petites annonces riches et variées à découvrire ci-dessous.
+
+Nous remercions l'ensemble des personnes présentes lors de notre assemblée générale (lundi dernier à Saillans) et nous vous ferons parvenir prochainnement le compte rendu.
+
+N'hésitez pas à publier vos informations et à les partager à travers vos réseaux.
+On est bien, ensemble, ici, en Vallée de la Drôme et du Diois, non ?
+
+Très bonne lecture,
+
+Toute l'équipe d'Ensemble Ici - Vallée de la Drôme / Diois			
+	
+		Rappel
+		Tous les &eacute;v&eacute;nements &agrave; venir dans les 10 jours, list&eacute;s en PDF : en haut des &eacute;v&eacute;nements cliquez sur &quot;l&#39;agenda complet des &eacute;v&eacute;nements au format PDF&quot; ,
+		Toutes les derni&egrave;res annonces, list&eacute;es en PDF : en haut des annonces cliquez sur &quot;la liste compl&egrave;te des petites annonces au format PDF&quot;
+
+		
+	
+
+
+
+	
+                Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+                
+        
+		
+			
+				
+				Crestois Pays de Saillans							
+													
+								BIODANZA
+								Atelier , CREST
+								du jeudi 09 au jeudi 16 juin 2016
+						
+
+												
+													
+								soirée Constitution pour une res publica democratica
+								Atelier , AOUSTE-SUR-SYE
+								Vendredi 10 juin 2016
+						
+
+												
+													
+								Concert Valientes Gracias
+								Concert , AOUSTE-SUR-SYE
+								Vendredi 10 juin 2016
+						
+
+												
+								Cercle de femmes, tantra - yoga
+								Stage , PIEGROS-LA-CLASTRE
+								du vendredi 10 au dimanche 12 juin 2016
+						
+
+												
+													
+								Formation en Psychologie Energétique
+								Stage , SAILLANS
+								du lundi 13 au mardi 14 juin 2016
+						
+
+					Diois							
+								ATELIER CORPS-VOIX-TEXTE
+								Atelier , DIE
+								Vendredi 10 juin 2016
+						
+
+												
+								Conférence-Atelier-Découverte  sur la Communication Consciente
+								Conférence , DIE
+								Vendredi 10 juin 2016
+						
+
+												
+													
+								"MODE D'EMPLOI"
+								Spectacle , DIE
+								Vendredi 10 juin 2016
+						
+
+												
+													
+								Concerto pour rire et orchestre
+								Concert , CHATILLON-EN-DIOIS
+								Samedi 11 juin 2016
+						
+
+												
+													
+								"MODE D'EMPLOI"
+								Spectacle , DIE
+								Samedi 11 juin 2016
+						
+
+												
+													
+								Grande Famille juin
+								Manifestation , DIE
+								Samedi 11 juin 2016
+						
+
+												
+													
+								RADISEL le SEL du Diois
+								Rencontre , DIE
+								Dimanche 12 juin 2016
+						
+
+												
+													
+								Concert de musique de l'Inde du nord, Flute bansuri 
+								Concert , DIE
+								Dimanche 12 juin 2016
+						
+
+												
+													
+								Un Dimanche musical à la Bonneterie
+								Concert , DIE
+								Dimanche 12 juin 2016
+						
+
+												
+								concert "rêves de voyage"
+								Concert , DIE
+								Dimanche 12 juin 2016
+						
+
+												
+													
+								Café des assos
+								Réunion , DIE
+								Mercredi 15 juin 2016
+						
+
+												
+													
+								Atelier les produits de la ruche
+								Atelier , DIE
+								Mercredi 15 juin 2016
+						
+
+												
+													
+								Atelier d'écriture animé par Hélène Lacheret
+								Atelier , ARNAYON
+								Vendredi 17 juin 2016
+						
+
+												
+													
+								Bansuri jazz délice 
+								Concert , DIE
+								Samedi 18 juin 2016
+						
+
+												
+													
+								Bansuri barocco
+								Concert , BEAUMONT-EN-DIOIS
+								Dimanche 19 juin 2016
+						
+
+												
+													
+								Faites du lin
+								journée d'information , DIE
+								Dimanche 19 juin 2016
+						
+
+												
+													
+								Evènements Mai juin à la Bonneterie
+								Manifestation , DIE
+								Dimanche 19 juin 2016
+						
+
+					Val de Drôme							
+													
+								Le Marché du Coin
+								Marché , CLIOUSCLAT
+								Jeudi 09 juin 2016
+						
+
+												
+													
+								Fétons l'Ecomobilité!
+								Fête , EURRE
+								Jeudi 09 juin 2016
+						
+
+												
+													
+								Biovallée Association - Information collective
+								Rencontre , EURRE
+								Jeudi 09 juin 2016
+						
+
+												
+													
+								WE "découverte de son clown"
+								Stage , ALLEX
+								du samedi 11 au dimanche 12 juin 2016
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+                
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													ensemble réfrigérateur congélateur + gazinère
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													Après Le Bip Sonore
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													Echange camion  Ford Transit
+							
+						
+						
+														MONTLAUR-EN-DIOIS
+						
+						
+					
+					
+													Recherche de location
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													Recherche maison à louer
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														AOUSTE-SUR-SYE
+						
+						
+					
+					
+													garde enfant
+							
+						
+						
+														LUC-EN-DIOIS
+						
+						
+					
+					
+													Démenagement
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													Cherche utilitaire type Partner, Kangoo, Berlingo
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														RECOUBEAU-JANSAC
+						
+						
+					
+					
+													Maison à louer à la semaine à Die
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													Cherche jardin
+							
+						
+						
+														DIE
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Usine Vivante
+								
+								Tiers-Lieu à Crest
+							
+							
+															CREST
+								Association							
+							
+						
+						
+														ACCORDERIE DU PAYS DIOIS
+								
+								
+							
+							
+															DIE
+								Association							
+							
+						
+						
+														Restaurant Le Tchaïwalla
+								
+								Bio Végétarien
+							
+							
+															DIE
+								société privée							
+							
+						
+						
+														Musique de l'Inde du nord
+								
+								Enseignement flûte bansuri, chant, guitare etc...
+							
+							
+															LESCHES-EN-DIOIS
+															
+							
+						
+						
+														Les Ateliers d'Archiane
+								
+								Pour apprendre à refaire soi-même les fauteuils
+							
+							
+															DIE
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+Les partenaires :		
+				
+			
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

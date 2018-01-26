@@ -1,0 +1,794 @@
+
+
+    
+        
+        Ensemble ici | Lettre d'Ensemble Ici - Vallee de la Drome / Diois, 2016 #26 - 15 septembre
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 16 au 26/09/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						Chers habitants et acteurs de la Vall&eacute;e, du Diois, toutes et tous acteurs locaux,
+
+Quel plaisir de voir le site s&#39;&eacute;toffer en information ! Continuez !
+
+Agenda :&nbsp; le mois de la vigne continue alors que la semaine de l&#39;&eacute;conomie locale &agrave; Saillans bat son plein (lien vers le programme) , que &ccedil;a va encore boen danser aux 4 coins de la Vall&eacute;e et que les Journ&eacute;es du Patrimoine tombe une fois de plus en m&ecirc;me temps que La Saint Ferr&eacute;ol &agrave; Crest (encore une fois !). Et un parfum de rentr&eacute;e avec beaucoup d&#39;activit&eacute;s qui reprennent et qui s&#39;offrent &agrave; vous dans un PDF tout propre cette fois-ci !
+Les annonces : pas mal d&#39;activit&eacute;s se pr&eacute;sentent aussi ici, presque autant que le logement qui se cherche tout autant que d&#39;habitude. Et de l&#39;emploi, un peu !
+
+N&#39;h&eacute;sitez pas &agrave; d&eacute;noncer vos &quot;bons plans&quot;, publiez un peu en avance les &eacute;v&eacute;nements que vous aimez et o&ugrave; vous serez !
+
+Bonne semaine, bonne lecture, belle rentr&eacute;e,
+
+
+	Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois
+
+	
+			
+	
+		Rappel
+		T&eacute;l&eacute;chargeable depuis cette lettre, en fichier PDF :
+		- tous les &eacute;v&eacute;nements &agrave; venir dans les 10 jours,
+		- toutes les annonces de ces derniers jours
+
+
+Si vous appr&eacute;ciez Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois :
+soutenez-nous par votre adh&eacute;sion ! (lien vers la page d&#39;adh&eacute;sion, ici)		
+	
+
+
+
+	
+                Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+                
+        
+		
+			
+				
+				Crestois Pays de Saillans							
+													
+								Fête de la Saint Ferréol
+								Fête , CREST
+								du vendredi 16 au lundi 19 septembre 2016
+						
+
+												
+													
+								CONTACT KIDS
+								Atelier , AOUSTE-SUR-SYE
+								Samedi 17 septembre 2016
+						
+
+												
+													
+								Film : LA RECIDIVE EN QUESTION
+								Projection , CREST
+								Samedi 17 septembre 2016
+						
+
+												
+													
+								Usine Vivante aux Journées du Patrimoine
+								Visite , CREST
+								du samedi 17 au dimanche 18 septembre 2016
+						
+
+												
+													
+								Mémoires des lieux, mémoires de vies
+								Exposition , CREST
+								du samedi 17 au dimanche 18 septembre 2016
+						
+
+												
+													
+								Journées du Patrimoine en Vallée de la Drôme / Diois
+								Visite , SAILLANS
+								du samedi 17 au dimanche 18 septembre 2016
+						
+
+												
+													
+								Dessin, peinture & connaissance de soi
+								Atelier , CREST
+								Lundi 19 septembre 2016
+						
+
+												
+													
+								Atelier Enfants Ados : "Mes chansons, mes clips"
+								Atelier , CREST
+								Mercredi 21 septembre 2016
+						
+
+												
+													
+								GOSPirituEL
+								Atelier , CREST
+								Jeudi 22 septembre 2016
+						
+
+												
+													
+								Biodanza à Crest
+								Atelier , CREST
+								du jeudi 22 au jeudi 29 septembre 2016
+						
+
+												
+													
+								BIOGRAPHIE - ATELIERS DÉCOUVERTE CREST
+								Conférence , CREST
+								Vendredi 23 septembre 2016
+						
+
+												
+													
+								LE COUPLE DANS TOUS SES ETATS!
+								Stage , PIEGROS-LA-CLASTRE
+								du samedi 24 au dimanche 25 septembre 2016
+						
+
+					Diois							
+													
+								Le mois de la vigne
+								Manifestation , DIE
+								du samedi 10 au dimanche 25 septembre 2016
+						
+
+												
+													
+								CABARET IMPROMPTU
+								Performance , DIE
+								Vendredi 16 septembre 2016
+						
+
+												
+													
+								LA SOURCE - CONSULTATIONS TARIFS LIBRE EN PARTICIPATION CONSCIENTE
+								journée d'information , DIE
+								Vendredi 16 septembre 2016
+						
+
+												
+													
+								Bébé la parole est à vous...
+								Stage , DIE
+								du vendredi 16 au dimanche 18 septembre 2016
+						
+
+												
+													
+								chasses, danses et traditions
+								Fête , CHATILLON-EN-DIOIS
+								Samedi 17 septembre 2016
+						
+
+												
+													
+								Atelier Jardin "Faire Ses Graines"
+								Atelier , DIE
+								Samedi 17 septembre 2016
+						
+
+												
+													
+								Formation de KOTOTAMA
+								Stage , DIE
+								Samedi 17 septembre 2016
+						
+
+												
+								journées du patrimoine Musée de Die
+								Conférence , DIE
+								Samedi 17 septembre 2016
+						
+
+												
+													
+								Blanche Aurore Céleste
+								Spectacle , DIE
+								du samedi 17 au dimanche 18 septembre 2016
+						
+
+												
+													
+								Danse au Féminin
+								Stage , DIE
+								Dimanche 18 septembre 2016
+						
+
+												
+													
+								L* Atelier des Couleurs
+								Atelier , DIE
+								Lundi 19 septembre 2016
+						
+
+												
+													
+								Dessin, peinture & connaissance de soi
+								Atelier , DIE
+								Mardi 20 septembre 2016
+						
+
+												
+													
+								ATELIER DÉCOUVERTE COMMUNICATION CONSCIENTE
+								Atelier , DIE
+								Mardi 20 septembre 2016
+						
+
+												
+													
+								QI GONG & TAI JI QUAN
+								Cours , DIE
+								Mardi 20 septembre 2016
+						
+
+												
+													
+								Duo Risueño Lewandowski & Ophris Quartet Guitar
+								Concert , SAINTE-CROIX
+								du jeudi 22 au vendredi 23 septembre 2016
+						
+
+												
+													
+								En piste pour la DieCyclette
+								Fête , DIE
+								Samedi 24 septembre 2016
+						
+
+												
+													
+								Zone de gratuité 0-3 ans
+								Manifestation , DIE
+								Samedi 24 septembre 2016
+						
+
+												
+													
+								La Drômoise
+								Fête , DIE
+								Dimanche 25 septembre 2016
+						
+
+					Val de Drôme							
+													
+								Un second souffle
+								Spectacle , CHABRILLAN
+								Vendredi 16 septembre 2016
+						
+
+												
+													
+								FAUT QU'ÇA GUINCHE
+								Concert , EURRE
+								Vendredi 16 septembre 2016
+						
+
+												
+								Nuit de la Chauve-souris
+								Manifestation , FRANCILLON-SUR-ROUBION
+								Samedi 17 septembre 2016
+						
+
+												
+													
+								Découvrir le logiciel libre
+								Atelier , LIVRON-SUR-DROME
+								Mardi 20 septembre 2016
+						
+
+												
+													
+								Le Marché du Coin
+								Marché , CLIOUSCLAT
+								Jeudi 22 septembre 2016
+						
+
+												
+													
+								Sur le chemin de Compost'elles
+								Manifestation , EURRE
+								du jeudi 22 septembre au jeudi 06 octobre 2016
+						
+
+												
+													
+								Conférence - Comment cultiver l’art de vivre en paix avec nos enfants ? dans la société, à l’école et en famille.
+								Conférence , ROCHE-SUR-GRANE
+								Vendredi 23 septembre 2016
+						
+
+												
+								Re-Mise au Monde...
+								Stage , COBONNE
+								du vendredi 23 au dimanche 25 septembre 2016
+						
+
+												
+													
+								Journée de la transition à l'Oasis de Serendip
+								journée d'information , EURRE
+								Samedi 24 septembre 2016
+						
+
+												
+													
+								Journée Porte Ouverte du CIL
+								journée d'information , LORIOL-SUR-DROME
+								Samedi 24 septembre 2016
+						
+
+												
+													
+								Atelier - découverte Juniper : "Apprendre la paix à l’école, c’est possible !"
+								Atelier , ROCHE-SUR-GRANE
+								Samedi 24 septembre 2016
+						
+
+												
+													
+								Les Rencontres Essentielles - REPORTé en 2017
+								Rencontre , EURRE
+								du samedi 24 au dimanche 25 septembre 2016
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+                
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Feng Shui
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													Offre d'emploi à Saillans : Animateur/trice
+							
+						
+						
+														SAILLANS
+						
+						
+					
+					
+													Offre emploi agent de développement ESCDD
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													Recherche Vendeuse/Vendeur
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													cours de tapisserie d'ameublement
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													Vends livres d'occasion
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													LA SOURCE - CONSULTATIONS EN PARTICIPATION CONSCIENTE
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													Combiné bois Lurem
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														MARIGNAC-EN-DIOIS
+						
+						
+					
+					
+													Violon
+							
+						
+						
+														MARIGNAC-EN-DIOIS
+						
+						
+					
+					
+													Lancement concours de selfies "spécial covoiturage" Diois
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													Vente maison
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													PAPI PAGAILLE
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													Rock and Drôle et Récréation
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													Service Civique
+							
+						
+						
+														CREST
+						
+						
+					
+					
+													Marché de saison
+							
+						
+						
+														CHATILLON-EN-DIOIS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Les Locaux Motivent LA PAIX !
+								
+								
+							
+							
+															DIE
+								Association							
+							
+						
+						
+														Syndicat de la Clairette
+								
+								
+							
+							
+															VERCHENY
+															
+							
+						
+						
+														Energetique et Musique
+								
+								Verticalité et résonance, arts énergétiques et musicalité de l'être
+							
+							
+															SAINT-ANDEOL
+								Auto-entrepreneur							
+							
+						
+						
+														Etienne Elec
+								
+								écolo électricien
+							
+							
+															BEAUFORT-SUR-GERVANNE
+								Auto-entrepreneur							
+							
+						
+						
+														CCVD
+								
+								
+							
+							
+															CREST
+								Collectivité locale							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

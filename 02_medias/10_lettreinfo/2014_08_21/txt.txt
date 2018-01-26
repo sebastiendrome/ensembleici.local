@@ -1,0 +1,857 @@
+
+
+    
+        
+        Ensemble ici | # 2014-33 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 21 au 31/08/2014
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; tous,
+
+	
+	Le projet Ensemble Ici tente de mutualiser les informations de proximit&eacute; afin de mieux vivre localement. Cette mise en commun de l&#39;information permet un r&eacute;el &eacute;change d&#39;actions et de projets.
+	&nbsp;
+
+	Pour cela nous avons besoin de vous !
+	
+	&nbsp;
+
+	N&#39;h&eacute;sitez pas &agrave; partager, rajouter, modifier des &eacute;v&eacute;nements, des initiatives, des id&eacute;es ou &agrave; discuter directement sur le site gr&acirc;ce aux rubriques agenda, forums, petites annonces.
+	
+	&nbsp;
+
+	Belle semaine,&nbsp;
+	
+	L&#39;&eacute;quipe Ensemble Ici !
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums, et bient&ocirc;t articles!
+	
+	
+		contact@ensembleici.fr
+
+		
+	
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								Stage Yoga & Wutao
+								Stage , MONTBRUN-LES-BAINS
+								du mardi 19 au samedi 30 août 2014
+						
+
+												
+													
+								Stage de cirque
+								Stage , MEVOUILLON
+								du mardi 26 au vendredi 29 août 2014
+						
+
+												
+													
+								Isabelle de Rouville photographies
+								Exposition , MONTBRUN-LES-BAINS
+								du samedi 30 août au vendredi 03 octobre 2014
+						
+
+					Pays de Buis-les-Baronnies							
+													
+								Gens d'Hier sur les Lieux d'Aujourd'hui
+								Exposition , SAINT-AUBAN-SUR-L'OUVEZE
+								du vendredi 01 août au samedi 20 septembre 2014
+						
+
+												
+													
+								Exposition "Rêveries botaniques"
+								Exposition , BUIS-LES-BARONNIES
+								du jeudi 14 août au jeudi 18 septembre 2014
+						
+
+												
+													
+								Le Peintre Dieter expose aux Ursulines
+								Exposition , BUIS-LES-BARONNIES
+								du vendredi 15 août au mercredi 03 septembre 2014
+						
+
+												
+													
+								Wanda Skonieczny expose dans la Galerie Pierre & Renée
+								Exposition , BUIS-LES-BARONNIES
+								du vendredi 15 août au mardi 30 septembre 2014
+						
+
+												
+													
+								Spectacle de marionnettes sur table
+								Spectacle , BUIS-LES-BARONNIES
+								du lundi 18 au jeudi 21 août 2014
+						
+
+												
+													
+								"C'est dans la boîte"
+								Atelier , ROCHE-SUR-LE-BUIS
+								du mercredi 20 au mercredi 27 août 2014
+						
+
+												
+													
+								11ème Festival Flûtes en Baronnies
+								Festival , BUIS-LES-BARONNIES
+								du jeudi 21 au dimanche 24 août 2014
+						
+
+												
+													
+								Concert de musique baroque italienne
+								Concert , BUIS-LES-BARONNIES
+								Dimanche 24 août 2014
+						
+
+												
+													
+								Cinéma un Week End à Paris/Gloria
+								Projection , BUIS-LES-BARONNIES
+								Mercredi 27 août 2014
+						
+
+												
+													
+								Fête votive des Sias
+								Fête , ROCHE-SUR-LE-BUIS
+								du vendredi 29 au dimanche 31 août 2014
+						
+
+												
+													
+								Pour faire la fête, on COvoiture ! par Places Libres
+								Fête , ROCHE-SUR-LE-BUIS
+								du vendredi 29 au dimanche 31 août 2014
+						
+
+					Pays de Rémuzat							
+													
+								Exposition- Photographies
+								Exposition , LA MOTTE-CHALANCON
+								du vendredi 15 au dimanche 31 août 2014
+						
+
+												
+													
+								Marché nocturne
+								Marché , LA MOTTE-CHALANCON
+								Jeudi 21 août 2014
+						
+
+												
+													
+								Ensemble vocal: Clefs en scène
+								Concert , LA MOTTE-CHALANCON
+								Vendredi 22 août 2014
+						
+
+												
+													
+								Vivre en joie la musique de la vie
+								Stage , LA MOTTE-CHALANCON
+								du vendredi 22 au dimanche 24 août 2014
+						
+
+												
+													
+								Balade vers le col de Reychasset
+								Promenade , LA MOTTE-CHALANCON
+								Dimanche 24 août 2014
+						
+
+					Val d'Eygues							
+													
+								Exposition Corthesy et Cedron
+								Exposition , VINSOBRES
+								du dimanche 17 au dimanche 24 août 2014
+						
+
+												
+													
+								EXPOSITION DE PEINTURES ET PHOTOS PAR GAÏA ET GABRIEL DU RIVAU
+								Exposition , NYONS
+								du mardi 19 au dimanche 31 août 2014
+						
+
+												
+													
+								Sardinade
+								Repas , MIRABEL-AUX-BARONNIES
+								Jeudi 21 août 2014
+						
+
+												
+													
+								Fermes sous les étoiles: observation du ciel
+								Manifestation , NYONS
+								Jeudi 21 août 2014
+						
+
+												
+													
+								Gig Street
+								Concert , NYONS
+								Jeudi 21 août 2014
+						
+
+												
+													
+								Concert Jazz / Live Painting
+								Performance , NYONS
+								Vendredi 22 août 2014
+						
+
+												
+													
+								Marché des producteurs
+								Marché , SAINTE-JALLE
+								Vendredi 22 août 2014
+						
+
+												
+													
+								Fête votive- Saint Maurice sur eygues
+								Fête , SAINT-MAURICE-SUR-EYGUES
+								du vendredi 22 au dimanche 24 août 2014
+						
+
+												
+													
+								Pour faire la fête, on COvoiture ! par Places Libres
+								Fête , SAINT-MAURICE-SUR-EYGUES
+								du vendredi 22 au dimanche 24 août 2014
+						
+
+												
+													
+								EXPOSITION MARTINE CHIAPPARA
+								Exposition , NYONS
+								du vendredi 22 août au dimanche 07 septembre 2014
+						
+
+												
+													
+								Marché des bouquinistes et du livre ancien
+								Marché , NYONS
+								Samedi 23 août 2014
+						
+
+												
+													
+								Magnetic Orchestra
+								Concert , NYONS
+								Samedi 23 août 2014
+						
+
+												
+													
+								Week end Beach Tennis
+								Performance , NYONS
+								du samedi 23 au dimanche 24 août 2014
+						
+
+												
+													
+								Foire de la St-Barthélemy
+								Foire , SAINTE-JALLE
+								du samedi 23 au dimanche 24 août 2014
+						
+
+												
+													
+								70 ème anniversaire de la libération de Nyons
+								Fête , NYONS
+								Dimanche 24 août 2014
+						
+
+												
+													
+								Le Bourgeois Gentilhomme (Festivolt 2014)
+								Spectacle , NYONS
+								Lundi 25 août 2014
+						
+
+												
+													
+								Stage de piano
+								Stage , CURNIER
+								du lundi 25 au jeudi 28 août 2014
+						
+
+												
+													
+								On va voir les cochons !
+								Visite , SAINT-FERREOL-TRENTE-PAS
+								Mardi 26 août 2014
+						
+
+												
+													
+								Marché des producteurs
+								Marché , SAINTE-JALLE
+								Vendredi 29 août 2014
+						
+
+												
+													
+								"Jour de Fête"
+								Fête , ARPAVON
+								Samedi 30 août 2014
+						
+
+												
+													
+								Vide greniers
+								Vide-grenier , NYONS
+								Samedi 30 août 2014
+						
+
+												
+													
+								Foire de Sahune
+								Foire , SAHUNE
+								du samedi 30 au dimanche 31 août 2014
+						
+
+					&nbsp;Ailleurs dans le coin							
+													
+								Exposition Aquarelle et Acrylique
+								Exposition , SERRES
+								du lundi 11 août au dimanche 07 septembre 2014
+						
+
+												
+													
+								Les soirées musicales de Grignan
+								Concert , GRIGNAN
+								du mercredi 20 au dimanche 24 août 2014
+						
+
+												
+													
+								La Terrasse des Vignerons
+								Visite , GRIGNAN
+								Vendredi 22 août 2014
+						
+
+												
+													
+								Fête de la Saint Barthélémy et farandole des haricots
+								Fête , CHAMARET
+								du vendredi 22 au lundi 25 août 2014
+						
+
+												
+													
+								Vogue du désert
+								Fête , SAINT-NAZAIRE-LE-DESERT
+								du vendredi 22 au lundi 25 août 2014
+						
+
+												
+													
+								Ban des vendanges
+								Fête , TULETTE
+								Samedi 23 août 2014
+						
+
+												
+													
+								CONCERT DE L’ENSEMBLE VOCAL ET INSTRUMENTAL AMARYLLIS
+								Concert , BOURDEAUX
+								Dimanche 24 août 2014
+						
+
+												
+													
+								Spectacle au delà du visible et autres magies
+								Spectacle , DIEULEFIT
+								Dimanche 24 août 2014
+						
+
+												
+													
+								Comité des Orgues- Concert André ROSSI
+								Concert , GRIGNAN
+								Dimanche 24 août 2014
+						
+
+												
+													
+								Vide greniers
+								Vide-grenier , TAULIGNAN
+								Dimanche 24 août 2014
+						
+
+												
+													
+								L’improvisation dans tous ses états. Au royaume de soi
+								Stage , GLANDAGE
+								du dimanche 24 au samedi 30 août 2014
+						
+
+												
+													
+								Les Compagnons Ménestrels de l'Aloete : tournée d'été en jardins & granges
+								Concert , TAULIGNAN
+								Mardi 26 août 2014
+						
+
+												
+													
+								Fête de la Libération
+								Fête , SAINT-PAUL-TROIS-CHATEAUX
+								Mercredi 27 août 2014
+						
+
+												
+													
+								Concert Tente
+								Concert , VISAN
+								Mercredi 27 août 2014
+						
+
+												
+													
+								Concours de boules
+								Performance , GRIGNAN
+								Vendredi 29 août 2014
+						
+
+												
+													
+								Expo vente de BD
+								Exposition , DIEULEFIT
+								du samedi 30 août au vendredi 05 septembre 2014
+						
+
+												
+													
+								Comité des Orgues: Concert Michel Alleyson
+								Concert , GRIGNAN
+								Dimanche 31 août 2014
+						
+
+												
+													
+								La Véronique
+								Performance , SAINT-RESTITUT
+								Dimanche 31 août 2014
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Donne TV et diverses choses
+							
+						
+						
+														MONTAULIEU
+						
+						
+					
+					
+													Garage
+							
+						
+						
+														SAINT-PANTALEON-LES-VIGNES
+						
+						
+					
+					
+													Cherche chargeur Nokia
+							
+						
+						
+														CORNILLAC
+						
+						
+					
+					
+													Offre d'emploi: Assistant(e) Administrati(f/ve) et Financier(e)
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Partage de transporteur !
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Traducteur Italien/Albanais
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Logement
+							
+						
+						
+														AUBRES
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														le Tam-Tam des Baronnies
+								
+								Site Internet d'informations locales
+							
+							
+															BUIS-LES-BARONNIES
+															
+							
+						
+						
+														le tambourinaire
+								
+								
+							
+							
+															LA MOTTE-CHALANCON
+								Association							
+							
+						
+						
+														GEM "Grain de Café"
+								
+								Groupe d'Entraide Mutuelle
+							
+							
+															VAISON-LA-ROMAINE
+								Association							
+							
+						
+						
+														Chez mon Jules Resto
+								
+								
+							
+							
+															VESC
+								Etablissement privé							
+							
+						
+						
+														Compagnie EN ROUE LIBRE
+								
+								
+							
+							
+															NYONS
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

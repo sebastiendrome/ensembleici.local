@@ -1,0 +1,882 @@
+
+
+
+    
+        
+        Ensemble ici | # 2017-33 : Ensemble Ici, tous acteurs de la vie locale !
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Tous &agrave; bord ! 
+Voil&agrave; que la lettre d'information d'Ensemble Ici arrive avec ses longues listes d'&eacute;v&egrave;nement et de bons plans. Laissez-vous guider, c'est les vacances !
+&nbsp;
+&rArr; Ensemble Ici, le site ! &lArr;
+Conseils pour une utilisation optimale de l'outil : &nbsp; &nbsp; &nbsp; - Bien aller au bout de toutes les &eacute;tapes lorsque vous remplissez une fiche&nbsp; &nbsp; &nbsp; - Ne pas oublier de pr&eacute;ciser ses coordonn&eacute;es (surtout pour les annonces)&nbsp; &nbsp; &nbsp; - Penser &agrave; alimenter le r&eacute;pertoire, ou &agrave; mettre &agrave; jour les fiches structures
+Si vous rencontrez des probl&egrave;mes techniques ou avez des suggestions pour am&eacute;liorer le site, un questionnaire est l&agrave; pour &ccedil;a.
+&nbsp;
+&rArr; L'association DECOR, des projets &lArr;
+Comme tout projet, un site internet, c'est des humains qui veillent en silence &agrave; ce que tout fonctionne, c'est un mod&egrave;le &eacute;conomique qui doit trouver son &eacute;quilibre et c'est un lieu d'&eacute;changes et de rencontres. Et puis, l'association DECOR ne se r&eacute;duit pas au projet Ensemble ici, elle propose entre autre des interventions autour de la radio et des outils num&eacute;riques.
+
+
+
+
+Tous les deux mois, l'&eacute;quipe de l'association vous donne des nouvelles des projets en cours et &agrave; venir.Ca vous int&eacute;resse ? Inscrivez-vous ! (pas d'inqui&eacute;tude, la d&eacute;sinscription est tr&egrave;s facile)
+
+
+
+&nbsp;
+
+
+
+
+&rArr; RadiO'live, en &eacute;t&eacute; &lArr;
+Pascale vous parle, la nouvelle web-chronique de RadiO'live. Quelques mots parfois crus, souvent jongl&eacute;s, autour du lien charnel qu'il existe entre une m&egrave;re et son enfant. Sur un air de guitare assouplissant, Pascale vous parle simplement de ce qui toujours nous revient.
+
+
+
+
+
+&nbsp;
+Merci d'avoir lu cet &eacute;dito, celui-ci et tous les autres. Nous vous souhaitons une tr&egrave;s belle semaine,L'&eacute;quipe Ensemble Ici - Baronnies                Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici. Il vous est ais&eacute; d'en ajouter via les formulaires du site. Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d'info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles! 
+contact@ensembleici.fr
+&nbsp;
+L'assocation DECOR est la structure juridique qui porte les projets Ensemble Ici - Baronnies et RadiO'live, webradio init&eacute;rante. Elle a besoin de votre soutien pour continuer d'exercer ses missions. 
+Pensez &agrave; l'adh&eacute;sion
+        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Hautes Baronnies                        
+                    
+                    Stage d'exploration corporelle Yoga & Wutao
+                    Stage , MONTBRUN-LES-BAINS
+                    du lundi 14 au vendredi 25 août 2017
+                    
+
+                                            
+                    
+                    Mon poussin
+                    Projection , MONTBRUN-LES-BAINS
+                    Jeudi 17 août 2017
+                    
+
+                                            
+                    
+                    Spiderman
+                    Projection , SEDERON
+                    Vendredi 18 août 2017
+                    
+
+                                            
+                    
+                    Fête du village
+                    Fête , EYGALAYES
+                    Samedi 19 août 2017
+                    
+
+                                            
+                    
+                    Mehmet Polat Trio
+                    Concert , MONTBRUN-LES-BAINS
+                    Samedi 19 août 2017
+                    
+
+                                            
+                    
+                    Course de caisse à savon
+                    Jeux , SEDERON
+                    Dimanche 20 août 2017
+                    
+
+                                            
+                    
+                    Jazz
+                    Concert , VERS-SUR-MEOUGE
+                    Dimanche 20 août 2017
+                    
+
+                                            
+                    
+                    Aqua poney
+                    Manifestation , MONTBRUN-LES-BAINS
+                    Lundi 21 août 2017
+                    
+
+                                            
+                    
+                    Stage de chant
+                    Concert , BARRET-DE-LIOURE
+                    du lundi 21 au vendredi 25 août 2017
+                    
+
+                                            
+                    
+                    La balade des artisans - marché artisanal
+                    Marché , MONTBRUN-LES-BAINS
+                    Mercredi 23 août 2017
+                    
+
+                                            
+                    
+                    Les as de la jungle
+                    Projection , MONTBRUN-LES-BAINS
+                    Jeudi 24 août 2017
+                    
+
+                                            
+                    
+                    Exposition de peinture Francis Macard
+                    Exposition , MONTBRUN-LES-BAINS
+                    du samedi 26 au mardi 29 août 2017
+                    
+
+                                            
+                    
+                    Le petit bal perdure
+                    Fête , MONTBRUN-LES-BAINS
+                    Dimanche 27 août 2017
+                    
+
+                    &nbsp;Pays de Buis-les-Baronnies                        
+                    
+                    Concert a l'oranger de provence a St. Sauveur de gouvernet
+                    Concert , SAINT-SAUVEUR-GOUVERNET
+                    du mercredi 16 au jeudi 17 août 2017
+                    
+
+                                            
+                    
+                    Parfum de Jazz
+                    Concert , BUIS-LES-BARONNIES
+                    Jeudi 17 août 2017
+                    
+
+                                            
+                    
+                    Folie Douce, Folle Douceur
+                    Spectacle , MOLLANS-SUR-OUVEZE
+                    Jeudi 17 août 2017
+                    
+
+                                            
+                    
+                    Marché de la laine
+                    Marché , BUIS-LES-BARONNIES
+                    Vendredi 18 août 2017
+                    
+
+                                            
+                    
+                    Parfum de Jazz
+                    Concert , BUIS-LES-BARONNIES
+                    Vendredi 18 août 2017
+                    
+
+                                            
+                    
+                    Parfum de Jazz
+                    Concert , BUIS-LES-BARONNIES
+                    Samedi 19 août 2017
+                    
+
+                                            
+                    
+                    Atelier cosmétiques maison
+                    Atelier , MOLLANS-SUR-OUVEZE
+                    Samedi 19 août 2017
+                    
+
+                                            
+                    
+                     Concert // Forêt Future 
+                    Concert , MOLLANS-SUR-OUVEZE
+                    Samedi 19 août 2017
+                    
+
+                                            
+                    
+                    Tutti en Baronnies
+                    Manifestation , BUIS-LES-BARONNIES
+                    du samedi 19 au mardi 29 août 2017
+                    
+
+                                            
+                    
+                    Concert // Bégayer
+                    Concert , MOLLANS-SUR-OUVEZE
+                    Samedi 26 août 2017
+                    
+
+                    &nbsp;Val d'Eygues                        
+                    
+                    le marché producteurs des Pilles
+                    Marché , LES PILLES
+                    du lundi 15 mai au lundi 30 octobre 2017
+                    
+
+                                            
+                    
+                    Festi'VOLT 2017
+                    Festival , NYONS
+                    du vendredi 07 juillet au lundi 28 août 2017
+                    
+
+                                            
+                    
+                    Les mardis soirs à la ferme !
+                    Visite , SAINT-FERREOL-TRENTE-PAS
+                    du mardi 11 juillet au mardi 29 août 2017
+                    
+
+                                            
+                    
+                    Concours de pétanque tous les jeudis 
+                    Manifestation , VINSOBRES
+                    du mercredi 09 au jeudi 31 août 2017
+                    
+
+                                            
+                    
+                    Exposition Francoise Belliere
+                    Exposition , VENTEROL
+                    du vendredi 11 au dimanche 27 août 2017
+                    
+
+                                            
+                    
+                    EXPOSITION
+                    Exposition , VENTEROL
+                    du vendredi 11 au dimanche 27 août 2017
+                    
+
+                                            
+                    
+                    EMMBO (POP’N JAZZ)
+                    Concert , NYONS
+                    Jeudi 17 août 2017
+                    
+
+                                            
+                    
+                    les jeudis de la Guinguette
+                    Conte , SAHUNE
+                    Jeudi 17 août 2017
+                    
+
+                                            
+                    
+                    Les MarxSisters
+                    Concert , VINSOBRES
+                    Vendredi 18 août 2017
+                    
+
+                                            
+                    
+                    Fete Votive de Venterol
+                    Fête , VENTEROL
+                    du vendredi 18 au samedi 19 août 2017
+                    
+
+                                            
+                    
+                    Journée citoyenne de lutte contre l'ambroisie
+                    Atelier , NYONS
+                    Samedi 19 août 2017
+                    
+
+                                            
+                    
+                    LA GRAN URSULA (CUMBIA)
+                    Concert , NYONS
+                    Samedi 19 août 2017
+                    
+
+                                            
+                    
+                    Les Journées Barjavel
+                    Festival , NYONS
+                    du samedi 19 au dimanche 20 août 2017
+                    
+
+                                            
+                    
+                    Conférence " La Chine des Minorités"
+                    Conférence , PIEGON
+                    Dimanche 20 août 2017
+                    
+
+                                            
+                    
+                    Vide-grenier de Ste-Jalle
+                    Vide-grenier , SAINTE-JALLE
+                    Dimanche 20 août 2017
+                    
+
+                                            
+                    
+                    Vide-grenier de Ste-Jalle
+                    Vide-grenier , SAINTE-JALLE
+                    Dimanche 20 août 2017
+                    
+
+                                            
+                    
+                    LES PETITS COCHONS (ROCK ANGLO AMÉRICAIN)
+                    Concert , NYONS
+                    Mardi 22 août 2017
+                    
+
+                                            
+                    
+                    Visite et repas à la ferme
+                    Visite , SAINT-FERREOL-TRENTE-PAS
+                    Mardi 22 août 2017
+                    
+
+                                            
+                    
+                    Sylvie JACQUEMIN et Armel RIFFEL en concert
+                    Concert , SAINTE-JALLE
+                    Mercredi 23 août 2017
+                    
+
+                                            
+                    
+                    Sardinade
+                    Repas , MIRABEL-AUX-BARONNIES
+                    Jeudi 24 août 2017
+                    
+
+                                            
+                    
+                    Le Ptit festoch des Jeudis de la Guinguette
+                    Concert , SAHUNE
+                    Jeudi 24 août 2017
+                    
+
+                                            
+                    
+                    Atelier Repair Café à la foire de Sahune
+                    Atelier , SAHUNE
+                    Dimanche 27 août 2017
+                    
+
+                    
+                    Vide-greniers de la Foire
+                    Vide-grenier , SAHUNE
+                    Dimanche 27 août 2017
+                    
+
+                    Ailleurs dans le coin                        
+                    
+                    Fête votive
+                    Fête , LACHAU
+                    du lundi 14 au jeudi 17 août 2017
+                    
+
+                                            
+                    
+                    MauritsEnsemble
+                    Concert , LACHAU
+                    Jeudi 17 août 2017
+                    
+
+                                            
+                    
+                    Les ESTIVALES - VAISON RUE
+                    Concert , VAISON-LA-ROMAINE
+                    Jeudi 17 août 2017
+                    
+
+                                            
+                    
+                    Naissance(s) et particules fines
+                    Spectacle , SAINTE-EULALIE-EN-ROYANS
+                    Vendredi 18 août 2017
+                    
+
+                                            
+                    
+                    marché laine et soie
+                    Marché , SAULT
+                    Samedi 19 août 2017
+                    
+
+                                            
+                    
+                    7 symposium
+                    Manifestation , LARAGNE-MONTEGLIN
+                    du lundi 21 au dimanche 27 août 2017
+                    
+
+                    Pays de Dieulefit-Bourdeaux et Marsanne                        
+                    
+                    Les fêtes nocturnes
+                    Spectacle , GRIGNAN
+                    du mardi 08 au samedi 19 août 2017
+                    
+
+                    Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...            
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Recherche de covoiturage Valreas-Nyons
+                
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    Ateliers gratuits d'initiation au numérique
+                
+                    
+                    
+                                                        SAHUNE
+                    
+                    
+                
+                                    atelier en langues des signes
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Poste d'animateur social et culturel en service civique
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CURNIER
+                    
+                    
+                
+                                    Formation professeur yoga et thérapeute
+                
+                    
+                    
+                                                        PORTES-LES-VALENCE
+                    
+                    
+                
+                                    Méditation active et douce
+                
+                    
+                    
+                                                        PORTES-LES-VALENCE
+                    
+                    
+                
+                                    Collocation
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CHATEAUNEUF-DE-BORDETTE
+                    
+                    
+                
+                                    VENTE ACCORDEON
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        SABLET
+                    
+                    
+                
+                                    Rentrée en YOGA Nyons - Les Pilles
+                
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            compagnie VOLT
+                Val d'Eygues Objectif Loisirs et Théatre
+                
+                                        NYONS
+                        Association                
+                
+                
+                            Restaurant bio du lézard vert
+                
+                
+                                        EOURRES
+                                        
+                
+                
+                            Asso OMÉA
+                
+                
+                                        MONTELIMAR
+                        Association                
+                
+                
+                            CAFÉ CITOYEN ET CULTUREL ASSOCIATIF
+                Café Citoyen et Culturel Associatif
+                
+                                        VALREAS
+                        Association                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+    Le collectif "Ensemble ici" :
+
+        
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

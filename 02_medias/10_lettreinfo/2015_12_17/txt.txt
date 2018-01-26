@@ -1,0 +1,606 @@
+
+
+    
+        
+        Ensemble ici | # 2015-51 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 17 au 27/12/2015
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	
+		Il est temps de se mobiliser !
+	
+		&nbsp;
+	
+		
+			Et il y a de quoi faire, ici comme partout...
+			
+			Pour s&#39;informer, voici les derni&egrave;res &eacute;missions de RadiO&#39;live &agrave; &eacute;couter sur Ensemble Ici :
+			
+				
+				 Aux chiottes l&#39;environnement ?
+				Retour sur la Journ&eacute;e Mondiale des Toilettes &agrave; Nyons
+				
+				 Caf&eacute; Citoyen &agrave; Buis-les-Baronnies 
+				R&eacute;gion de montagne survivre ou bien vivre ? Quel avenir pour les jeunes au pays ? 
+				
+				 Educateurs de rue en danger ! 
+				Les jeunes d&#39;ici t&eacute;moignent... 
+				
+				Et lundi soir MARE NOSTRUM continue son carnet de voyage avec RADIO&#39;LIVE pour une &eacute;mission en public sur le voyage de Lucas et Gitanjali autour de la M&eacute;diterran&eacute;e: venez les rencontrer et les &eacute;couter en direct &agrave; 18h45 &agrave; l&#39;Abeille Vinsobraise ! (Vinsobres)
+			
+				
+				Belle semaine &agrave; toutes et &agrave; tous !
+		
+	
+
+
+	&nbsp;
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+		
+			
+				
+				Pays de Buis-les-Baronnies							
+													
+								NEWSLETTER
+								Rencontre , BUIS-LES-BARONNIES
+								du mardi 01 au jeudi 31 décembre 2015
+						
+
+												
+													
+								L'Effrontée Vente éphémère
+								Rencontre , BUIS-LES-BARONNIES
+								du mardi 01 au jeudi 31 décembre 2015
+						
+
+												
+													
+								Ils exposent ensemble !
+								Exposition , BUIS-LES-BARONNIES
+								du jeudi 03 au vendredi 18 décembre 2015
+						
+
+												
+													
+								 Musiques d'Ailleurs 
+								Concert , BUIS-LES-BARONNIES
+								Jeudi 17 décembre 2015
+						
+
+												
+													
+								Le Jour le Plus Court au Cinéma
+								Projection , BUIS-LES-BARONNIES
+								Vendredi 18 décembre 2015
+						
+
+												
+													
+								Noël à La-Roche-sur-le-Buis
+								Manifestation , LA ROCHE-SUR-LE-BUIS
+								Samedi 19 décembre 2015
+						
+
+												
+													
+								Le Fromtose / Quartier ouest
+								Spectacle , BUIS-LES-BARONNIES
+								Dimanche 20 décembre 2015
+						
+
+												
+													
+								de crèches en crèches
+								Visite , LA ROCHE-SUR-LE-BUIS
+								Dimanche 20 décembre 2015
+						
+
+												
+													
+								Ciné-séniors
+								Projection , BUIS-LES-BARONNIES
+								Lundi 21 décembre 2015
+						
+
+												
+													
+								Fête de Noël
+								Manifestation , BUIS-LES-BARONNIES
+								Mardi 22 décembre 2015
+						
+
+					&nbsp;Val d'Eygues							
+													
+								Exposition Nyons
+								Exposition , NYONS
+								du mardi 01 au jeudi 31 décembre 2015
+						
+
+												
+													
+								Vente d'artisanat népalais
+								Marché , LES PILLES
+								du mardi 15 au dimanche 20 décembre 2015
+						
+
+												
+													
+								Prêts croisés de livres aimés
+								Repas , NYONS
+								Jeudi 17 décembre 2015
+						
+
+												
+													
+								Fête du court-métrage
+								Fête , LES PILLES
+								Vendredi 18 décembre 2015
+						
+
+												
+													
+								Soirée 100% Colombie/Argentine
+								Projection , NYONS
+								Vendredi 18 décembre 2015
+						
+
+												
+													
+								Bal Folk
+								Concert , CURNIER
+								Samedi 19 décembre 2015
+						
+
+												
+													
+								Fête de l'Olive Piquée
+								Fête , NYONS
+								Samedi 19 décembre 2015
+						
+
+												
+													
+								Expo / Vente de Noël - Céramiques et Photographies
+								Exposition , NYONS
+								Samedi 19 décembre 2015
+						
+
+												
+													
+								Concert de Noël au profit du "Collectif Réfugiés"
+								Concert , NYONS
+								Dimanche 20 décembre 2015
+						
+
+												
+													
+								MARE NOSTRUM episode 3
+								Rencontre , VINSOBRES
+								Lundi 21 décembre 2015
+						
+
+					&nbsp;Ailleurs dans le coin							
+													
+								Exposition eaux encre photographies
+								Atelier , SERRES
+								du vendredi 20 novembre 2015 au mercredi 13 janvier 2016
+						
+
+												
+													
+								exposition dessin & sculpture
+								Exposition , VAISON-LA-ROMAINE
+								du jeudi 03 décembre 2015 au jeudi 03 mars 2016
+						
+
+												
+													
+								Exposition de peintures Ingrid Groenveld
+								Exposition , VISAN
+								du lundi 07 au jeudi 31 décembre 2015
+						
+
+												
+													
+								Collecte de couvertures pour les réfugiés
+								Manifestation , TAULIGNAN
+								du vendredi 11 au dimanche 20 décembre 2015
+						
+
+												
+													
+								Quartett
+								Spectacle , GRIGNAN
+								Samedi 19 décembre 2015
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Recherche covoiturage Buis les Baronnies Vaison
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Agneaux
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Exposition PORTRAITS CAMELEONS - Myette Fauchère
+							
+						
+						
+														VALAURIE
+						
+						
+					
+					
+													Magnétiseur Thérapeute
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Ensemble Ici recherche deux volontaires en service civique !
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													Cherche petite maison à louer à l'année
+							
+						
+						
+														NYONS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Collectif Creatif du Castellas
+								
+								
+							
+							
+															BESSEGES
+								Association							
+							
+						
+						
+														TUINA, massage traditionnel chinois
+								
+								Valérie SEYVET
+							
+							
+															VAISON-LA-ROMAINE
+								Auto-entrepreneur							
+							
+						
+						
+														ANCRE
+								
+								antenne du Nyonsais Baronnies
+							
+							
+															NYONS
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

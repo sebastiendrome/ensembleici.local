@@ -1,0 +1,714 @@
+<?php if($_GET['v']=='') $_GET['v']=9568; else $_GET['v'] = (int)$_GET['v']; ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>Ensemble ici | # 2017-10 : Ensemble Ici, tous acteurs de la vie locale !</title>
+        <style type="text/css">
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        </style>
+    </head>
+    <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+    	<center>
+            <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="backgroundTable" bgcolor="#F0EDEA">
+            	<tr>
+                    <td align="center" valign="top">
+                        <!-- // Begin Template Preheader \\ -->
+                        <table border="0" cellpadding="10" cellspacing="0" width="650" id="templatePreheader">
+                            <tr>
+                                <td valign="top" class="preheaderContent" height="122" style='margin:0;padding:0;'>
+                                    <table width="650" height="122" border="0" cellpadding="0" cellspacing="0">
+                                        <tr><td colspan="4" rowspan="4" style='text-align:center;'>
+                                            <span style='font-size:11px;color:rgb(194, 186, 178)'><a href="http://www.ensembleici.fr/02_medias/10_lettreinfo/2017_03_09_1/index.php?v=<?php echo $_GET['v']; ?>">Si ce message ne s'affiche pas correctement, visualisez la version en ligne.</a></span><br/>
+                                            <a href="http://www.ensembleici.fr/"><img src="http://www.ensembleici.fr/img/lettreinfo/lettreinfo-03.jpg" width="391" height="122" alt="Ensemble ici : Tous acteurs de la vie locale"></a>
+                                            </td>
+                                            <td rowspan="3" style="vertical-align: top;">
+                                                <img src="http://www.ensembleici.fr/img/lettreinfo/lettreinfo-04.jpg" width="24" height="58" alt="">
+                                            </td>
+                                            <td bgcolor="#4cbce6" colspan="2" style="height:58px;vertical-align:top;" align="center">
+                                                <img src="http://www.ensembleici.fr/img/lettreinfo/lettreinfo-05.jpg" width="213" height="34" alt="Lettre d'informations"><br/>
+                                                <p style='height:18px;margin:0;padding:0;font-size:15px;color:#FFFFFF'></p>
+                                                <img src="http://www.ensembleici.fr/img/lettreinfo/lettreinfo-09.jpg" width="213" height="6" alt="">
+                                            </td>
+                                            <td colspan="2" rowspan="3" style="vertical-align: top;">
+                                                <img src="http://www.ensembleici.fr/img/lettreinfo/lettreinfo-06.jpg" width="24" height="58" alt="">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td colspan="2" bgcolor="#F0EDEA">&nbsp;</td>
+                                        </tr>
+                                        <tr>
+                                            <td colspan="2" bgcolor="#F0EDEA">&nbsp;</td>
+                                        </tr>
+                                        <tr>
+                                            <td colspan="5" bgcolor="#F0EDEA">&nbsp;</td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- // End Template Preheader \\ -->
+                    	<table border="0" cellpadding="0" cellspacing="0" width="650" id="templateContainer" style="border: 1px solid #E3D6C7;" bgcolor="#FFFFFF">
+                            <tr>
+                            	<td align="center" valign="top" style="border-bottom: 1px solid #E3D6C7;">
+                                    <!-- // Begin Template Header \\ -->
+                                	<table border="0" cellpadding="0" cellspacing="0" width="650"  style='width:650px;' id="templateHeader">
+                                        <tr>
+                                            <td class="headerContent" style='width:650px;'>
+                                                <table border="0" cellpadding="0" cellspacing="0" width="650" height='42'>
+                                                    <tr>
+                                                        <td>
+                                                            <a href="#edito">
+                                                                <img src="http://www.ensembleici.fr/img/lettreinfo/lettreinfo-13.jpg" width="173" height="42" style='width:173px; height: 42px;' alt="Cette semaine" />
+                                                            </a>
+                                                        </td>
+                                                        <td>
+                                                            <a href="#evenement">
+                                                                <img src="http://www.ensembleici.fr/img/lettreinfo/lettreinfo-14.jpg" width="142" height="42" style='width:142px; height: 42px;' alt="évènements" />
+                                                            </a>
+                                                        </td>
+                                                        <td>
+                                                            <a href="#petite_annonce">
+                                                                <img src="http://www.ensembleici.fr/img/lettreinfo/lettreinfo-15.jpg" width="189" height="42" style='width:189px; height: 42px;' alt="Petites annonces" />
+                                                            </a>
+                                                        </td>
+                                                        <td>
+                                                            <a href="#repertoire">
+                                                                <img src="http://www.ensembleici.fr/img/lettreinfo/lettreinfo-16.jpg" width="146" height="42" style='width:146px; height: 42px;' alt="Répertoire" />
+                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Header \\ -->
+                                </td>
+                            </tr>
+                            <tr>
+                            	<td align="center" valign="top">
+                                    <!-- // Begin Template Body \\ -->
+                                    <table border="0" cellpadding="0" cellspacing="0" width="650" id="templateBody">
+                                    	<tr>
+                                            <td valign="top" class="bodyContent">
+                                                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                    <tr>
+                                                        <td valign="top" style="padding-top: 30px;">
+                                                            <img src="http://www.ensembleici.fr/img/lettreinfo/lettreinfo-22.jpg" width="650px" height="57" alt="Cette semaine" style="padding-top:20px;padding-bottom:10px;width:650px;" id="edito" />
+<table style="width:100%;background-color:white;" border="0" cellpadding="20" cellspacing="0">
+    <tr>
+        <td>
+                                <p style="text-align: center;"><span style="color: #000000;"><strong>Une tr&egrave;s belle journ&eacute;e internationale pour les droits de la femme &agrave; toutes et tous !</strong></span></p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;">Depuis des g&eacute;n&eacute;rations des femmes luttent pour que leurs droits soient reconnus et accept&eacute;s. Cette journ&eacute;e est en l'honneur de leur m&eacute;moire et de leurs victoires.</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;<img src="https://cdn.pixabay.com/photo/2016/05/26/10/49/life-1416871_960_720.jpg" alt="" width="200" height="133" /></p>
+<p style="text-align: center;">&ldquo;<em>On ne na&icirc;t pas femme, on le devient</em>.&rdquo; &eacute;crivait Simone de Beauvoir.</p>
+<p style="text-align: center;">La f&eacute;minit&eacute; se respecte, tout comme l'humanit&eacute;.</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: left;">Dans cette lettre d'information, vous trouverez pi&egrave;ces de th&eacute;&acirc;tre, soir&eacute;es d&eacute;bat, projections de documentaires et expositions pour parler de ce qui concerne au moins 50% d'entre-nous, mais pas seulement ! </p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: center;"><em>Bonne lecture &agrave; vous</em></p>
+<p style="text-align: center;"><em>L'&eacute;quipe Ensemble Ici - Baronnies</em></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>                <hr style='margin:10px 0;border:0;border-top:1px solid #E3D6C7;'/><p><div style="text-align: center; color: #2dabda;">Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.<br /> Il vous est ais&eacute; d'en ajouter via les formulaires du site.<br /> Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d'info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!<br /> <br />
+<div style="font-size: 12px; text-align: right;"><a href="mailto:contact@ensembleici.fr">contact@ensembleici.fr</a></div>
+<div style="font-size: 11px;">&nbsp;</div>
+<div style="font-size: 11px;"><span style="color: #ff6600; font-size: 10pt;"><em>L'assocation DECOR est la structure juridique qui porte les projets Ensemble Ici - Baronnies et RadiO'live, webradio init&eacute;rante. Elle a besoin de votre soutien pour continuer d'exercer ses missions.</em> </span></div>
+<div style="font-size: 11px;"><span style="color: #0000ff;"><a style="color: #0000ff;" href="http://www.ensembleici.fr/faire-un-don.html" target="_blank">Pensez &agrave; l'adh&eacute;sion</a></span></div>
+</div></p>        </td>
+    </tr>
+</table>
+<img src="http://www.ensembleici.fr/img/lettreinfo/lettreinfo-24.jpg" width="650px" height="57" alt="Evènements" style="padding-top:20px;padding-bottom:10px;width:650px;" id="evenement" />
+<table style="width:100%;background-color:white; margin-left: 0px;" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td>
+            <table style="width:100%;" border="0" cellpadding="0" cellspacing="0">
+            <tr><td colspan="3" style="height:40px;background-color:#F0EDEA;border-bottom:2px solid #E3D6C7;border-top:2px solid #E3D6C7;font-weight:bold;color:#445158;padding-left:20px;padding-top:3px;font-size:17px;text-transform:uppercase;">Hautes Baronnies</td></tr><tr><td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;border-right:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.reilhanette.kasaska-et-makizar-en-concert-.9607.1441113818.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1487260619_.jpg" style="width:138px;height:196px;margin:-38px auto 0 28px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">KASASKA et MAKIZAR en concert </span>
+                    <br/><span style="color:#445158;">Concert , REILHANETTE</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Samedi 11 mars 2017</strong>
+                    </a></td>
+
+                    <td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;border-right:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.montbrun-les-bains.-la-boutique-itinerante.9542.1441113969.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1488549591_.jpg" style="width:138px;height:196px;margin:-38px auto 0 28px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;"> LA BOUTIQUE ITINERANTE</span>
+                    <br/><span style="color:#445158;">Exposition , MONTBRUN-LES-BAINS</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Dimanche 19 mars 2017</strong>
+                    </a></td>
+
+                    </tr><tr><td colspan="3" style="height:40px;background-color:#F0EDEA;border-bottom:2px solid #E3D6C7;border-top:1px solid #E3D6C7;font-weight:bold;color:#445158;padding-left:20px;padding-top:3px;font-size:17px;text-transform:uppercase;">Pays de Buis-les-Baronnies</td></tr><tr><td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;border-right:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.mollans-sur-ouveze.apres-midi-jeux-pour-tous.9537.1441113843.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1487404821_.png" style="width:196px;height:145px;margin:-13px auto 0 0px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">Après-midi jeux pour tous</span>
+                    <br/><span style="color:#445158;">Jeux , MOLLANS-SUR-OUVEZE</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Samedi 11 mars 2017</strong>
+                    </a></td>
+
+                    <td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;border-right:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.buis-les-baronnies.des-lois-et-des-hommes.9424.1441113932.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1488403768_.png" style="width:139px;height:196px;margin:-38px auto 0 28px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">Des lois et des hommes</span>
+                    <br/><span style="color:#445158;">Projection , BUIS-LES-BARONNIES</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Lundi 13 mars 2017</strong>
+                    </a></td>
+
+                    <td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.buis-les-baronnies.cine-sucre.9424.1441113996.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1488817258_.jpg" style="width:138px;height:196px;margin:-38px auto 0 28px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">ciné-sucré</span>
+                    <br/><span style="color:#445158;">Projection , BUIS-LES-BARONNIES</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Mardi 14 mars 2017</strong>
+                    </a></td>
+
+                    </tr><tr><td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;border-right:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.buis-les-baronnies.carnaval-de-buis-les-baronnies.9424.1441114017.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1488984184_.PNG" style="width:196px;height:183px;margin:-32px auto 0 0px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">Carnaval de Buis-les-Baronnies</span>
+                    <br/><span style="color:#445158;">Fête , BUIS-LES-BARONNIES</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Vendredi 17 mars 2017</strong>
+                    </a></td>
+
+                    <td width='33%' style='width:33%;padding:10px;border-bottom:1px solid #E3D6C7;'>&nbsp;</td></tr><tr><td colspan="3" style="height:40px;background-color:#F0EDEA;border-bottom:2px solid #E3D6C7;border-top:1px solid #E3D6C7;font-weight:bold;color:#445158;padding-left:20px;padding-top:3px;font-size:17px;text-transform:uppercase;">Pays de Dieulefit-Bourdeaux</td></tr><tr><td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;border-right:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.dieulefit.reunion-de-presentation-ensemble-ici.9473.1441113815.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1487251005_.jpg" style="width:196px;height:196px;margin:-38px auto 0 0px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">Réunion de présentation Ensemble Ici</span>
+                    <br/><span style="color:#445158;">journée d'information , DIEULEFIT</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Samedi 18 mars 2017</strong>
+                    </a></td>
+
+                    <td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;border-right:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.rousset-les-vignes.les-instants-musicales.9625.1441113922.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1488220799_.jpg" style="width:196px;height:161px;margin:-21px auto 0 0px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">LES INSTANTS MUSICALES</span>
+                    <br/><span style="color:#445158;">Concert , ROUSSET-LES-VIGNES</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Dimanche 19 mars 2017</strong>
+                    </a></td>
+
+                    </tr><tr><td colspan="3" style="height:40px;background-color:#F0EDEA;border-bottom:2px solid #E3D6C7;border-top:1px solid #E3D6C7;font-weight:bold;color:#445158;padding-left:20px;padding-top:3px;font-size:17px;text-transform:uppercase;">Pays de Rémuzat</td></tr><tr><td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;border-right:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.la-motte-chalancon.musique-sacree-sacree-musique.9563.1441113808.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1487176789_.jpg" style="width:112px;height:196px;margin:-38px auto 0 42px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">MUSIQUE SACRÉE & SACRÉE MUSIQUE</span>
+                    <br/><span style="color:#445158;">Concert , LA MOTTE-CHALANCON</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Samedi 18 mars 2017</strong>
+                    </a></td>
+
+                    <td width='33%' style='width:33%;padding:10px;border-bottom:1px solid #E3D6C7;'>&nbsp;</td></tr><tr><td colspan="3" style="height:40px;background-color:#F0EDEA;border-bottom:2px solid #E3D6C7;border-top:1px solid #E3D6C7;font-weight:bold;color:#445158;padding-left:20px;padding-top:3px;font-size:17px;text-transform:uppercase;">Val d'Eygues</td></tr><tr><td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;border-right:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.mirabel-aux-baronnies.gestalt-pleine-conscience-.9532.1441113841.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1487358840_.jpg" style="width:91px;height:196px;margin:-38px auto 0 52px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">GESTALT & PLEINE CONSCIENCE </span>
+                    <br/><span style="color:#445158;">Atelier , MIRABEL-AUX-BARONNIES</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Mercredi 08 mars 2017</strong>
+                    </a></td>
+
+                    <td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;border-right:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.les-pilles.conference.9585.1441113861.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1487610806_.jpg" style="width:138px;height:196px;margin:-38px auto 0 28px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">Conférence</span>
+                    <br/><span style="color:#445158;">Conférence , LES PILLES</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Vendredi 10 mars 2017</strong>
+                    </a></td>
+
+                    <td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.nyons.concert-flamenco.9568.1441114006.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1488969634_.jpg" style="width:196px;height:110px;margin:4px auto 0 0px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">Concert Flamenco</span>
+                    <br/><span style="color:#445158;">Concert , NYONS</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Vendredi 10 mars 2017</strong>
+                    </a></td>
+
+                    </tr><tr><td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;border-right:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.aubres.troc-de-vetements.9379.1441114011.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1488978444_.jpg" style="width:138px;height:196px;margin:-38px auto 0 28px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">Troc de vêtements</span>
+                    <br/><span style="color:#445158;">Manifestation , AUBRES</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Samedi 11 mars 2017</strong>
+                    </a></td>
+
+                    <td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;border-right:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.mirabel-aux-baronnies.encore-elles-.9532.1441114014.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1488983226_.PNG" style="width:139px;height:196px;margin:-38px auto 0 28px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">Encore Elles !</span>
+                    <br/><span style="color:#445158;">Rencontre , MIRABEL-AUX-BARONNIES</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Samedi 11 mars 2017</strong>
+                    </a></td>
+
+                    <td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.nyons.rencontre-avec-jean-marie-berthier-a-la-librairie-de-l-olivier.9568.1441113938.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1488448141_.jpg" style="width:138px;height:196px;margin:-38px auto 0 28px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">Rencontre avec Jean-Marie Berthier à la Librairie de l'Olivier</span>
+                    <br/><span style="color:#445158;">Rencontre , NYONS</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Samedi 11 mars 2017</strong>
+                    </a></td>
+
+                    </tr><tr><td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;border-right:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.nyons.sessions-accordeon.9568.1441113264.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1481646612_.jpg" style="width:138px;height:196px;margin:-38px auto 0 28px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">SESSIONS ACCORDÉON</span>
+                    <br/><span style="color:#445158;">Stage , NYONS</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Dimanche 12 mars 2017</strong>
+                    </a></td>
+
+                    <td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;border-right:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.nyons.meditation.9568.1441113925.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1488279322_.jpg" style="width:196px;height:130px;margin:-6px auto 0 0px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">MEDITATION</span>
+                    <br/><span style="color:#445158;">Atelier , NYONS</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Dimanche 12 mars 2017</strong>
+                    </a></td>
+
+                    <td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.nyons.massage.9568.1441113681.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1486332264_.jpg" style="width:138px;height:196px;margin:-38px auto 0 28px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">MASSAGE</span>
+                    <br/><span style="color:#445158;">Atelier , NYONS</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Dimanche 12 mars 2017</strong>
+                    </a></td>
+
+                    </tr><tr><td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;border-right:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.les-pilles.chants-partages.9585.1441113985.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1488734559_.jpg" style="width:138px;height:196px;margin:-38px auto 0 28px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">CHANTS PARTAGES</span>
+                    <br/><span style="color:#445158;">Fête , LES PILLES</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Jeudi 16 mars 2017</strong>
+                    </a></td>
+
+                    <td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;border-right:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.nyons.les-voconces.9568.1441113811.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1487181110_.jpg" style="width:138px;height:196px;margin:-38px auto 0 28px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">Les Voconces</span>
+                    <br/><span style="color:#445158;">Conférence , NYONS</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Jeudi 16 mars 2017</strong>
+                    </a></td>
+
+                    <td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.nyons.apero-de-l-autoconstruction-3.9568.1441113926.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1488293984_.PNG" style="width:138px;height:196px;margin:-38px auto 0 28px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">Apéro de l'Autoconstruction #3</span>
+                    <br/><span style="color:#445158;">Rencontre , NYONS</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Vendredi 17 mars 2017</strong>
+                    </a></td>
+
+                    </tr><tr><td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;border-right:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.nyons.ivo-livi-ou-le-destin-d-yves-montand.9568.1441112494.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1474987069_.jpg" style="width:136px;height:196px;margin:-38px auto 0 29px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">Ivo Livi où le destin d'Yves Montand</span>
+                    <br/><span style="color:#445158;">Spectacle , NYONS</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Samedi 18 mars 2017</strong>
+                    </a></td>
+
+                    <td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;border-right:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.nyons.le-printemps-des-poetes.9568.1441113872.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1487713540_.png" style="width:130px;height:196px;margin:-38px auto 0 32px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">Le Printemps des Poètes</span>
+                    <br/><span style="color:#445158;">Atelier , NYONS</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Samedi 18 mars 2017</strong>
+                    </a></td>
+
+                    <td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.les-pilles.stage-figure-libre.9585.1441113839.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1487352343_.jpg" style="width:91px;height:196px;margin:-38px auto 0 52px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">STAGE FIGURE LIBRE</span>
+                    <br/><span style="color:#445158;">Stage , LES PILLES</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">du samedi 18 au dimanche 19 mars 2017</strong>
+                    </a></td>
+
+                    </tr><tr><td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;border-right:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.valouse.ceramique-stage.9699.1441113989.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1488795477_.jpg" style="width:196px;height:147px;margin:-14px auto 0 0px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">ceramique stage</span>
+                    <br/><span style="color:#445158;">Atelier , VALOUSE</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">du samedi 18 au dimanche 19 mars 2017</strong>
+                    </a></td>
+
+                    <td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;border-right:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.nyons.musique-sacree-sacree-musique.9568.1441113807.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1487176209_.jpg" style="width:112px;height:196px;margin:-38px auto 0 42px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">Musique sacrée & Sacrée musique</span>
+                    <br/><span style="color:#445158;">Concert , NYONS</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Dimanche 19 mars 2017</strong>
+                    </a></td>
+
+                    </tr><tr><td colspan="3" style="height:40px;background-color:#F0EDEA;border-bottom:2px solid #E3D6C7;border-top:1px solid #E3D6C7;font-weight:bold;color:#445158;padding-left:20px;padding-top:3px;font-size:17px;text-transform:uppercase;">Ailleurs dans le coin</td></tr><tr><td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;border-right:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.montelimar.crowfunding-radio-m-.9547.1441113904.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1487942057_.jpg" style="width:196px;height:85px;margin:17px auto 0 0px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">Crowfunding radio M </span>
+                    <br/><span style="color:#445158;">Manifestation , MONTELIMAR</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">du vendredi 24 février au samedi 11 mars 2017</strong>
+                    </a></td>
+
+                    <td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;border-right:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.vaison-la-romaine.voltaire-vs-rousseau-annule.32878.1441113707.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1486486026_.png" style="width:138px;height:196px;margin:-38px auto 0 28px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">VOLTAIRE VS. ROUSSEAU - ANNULE</span>
+                    <br/><span style="color:#445158;">Spectacle , VAISON-LA-ROMAINE</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Vendredi 10 mars 2017</strong>
+                    </a></td>
+
+                    <td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.valreas.-elle.32879.1441114015.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1488983608_.PNG" style="width:196px;height:128px;margin:-5px auto 0 0px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;"> ELLE</span>
+                    <br/><span style="color:#445158;">Spectacle , VALREAS</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Vendredi 10 mars 2017</strong>
+                    </a></td>
+
+                    </tr><tr><td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;border-right:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.valreas.piano-en-liberte.32879.1441113980.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1488649475_.jpg" style="width:196px;height:44px;margin:37px auto 0 0px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">Piano en Liberté</span>
+                    <br/><span style="color:#445158;">Performance , VALREAS</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Samedi 11 mars 2017</strong>
+                    </a></td>
+
+                    <td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;border-right:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.seguret.balajo-dj-s-party.32867.1441113873.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1487754990_.jpg" style="width:196px;height:138px;margin:-10px auto 0 0px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">Balajo-dj's Party</span>
+                    <br/><span style="color:#445158;">Performance , SEGURET</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">du samedi 11 au dimanche 12 mars 2017</strong>
+                    </a></td>
+
+                    <td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.valreas.sermaine-emilie-valantin.32879.1441114016.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1488983824_.PNG" style="width:196px;height:192px;margin:-37px auto 0 0px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">Sermaine Emilie Valantin</span>
+                    <br/><span style="color:#445158;">Exposition , VALREAS</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">du samedi 11 au vendredi 17 mars 2017</strong>
+                    </a></td>
+
+                    </tr><tr><td width='33%' style='width:33%;vertical-align:top;padding:10px;border-bottom:1px solid #E3D6C7;border-right:1px solid #E3D6C7;'><a href="http://www.ensembleici.fr/evenement.valaurie.spectacle-jean-guillon-histoires-de-provencaux.9696.1441113905.html" style="text-decoration:none;" target="_blank"><div style='width:196px;height:120px;overflow:hidden;vertical-align:middle;'>                        <img src="http://www.ensembleici.fr/02_medias/05_evenement/1488017288_.png" style="width:138px;height:196px;margin:-38px auto 0 28px;" />
+                    </div><br/>
+                    <span style="font-size:16px;font-weight:bold;color:#E75B54;">Spectacle Jean Guillon : Histoires de provençaux</span>
+                    <br/><span style="color:#445158;">Spectacle , VALAURIE</span><br/>
+                    <strong style="color:black;font-weight:bold;font-size:11px;">Dimanche 12 mars 2017</strong>
+                    </a></td>
+
+                    <td width='33%' style='width:33%;padding:30px;border-bottom:1px solid #E3D6C7;font-style:italic; color:#E16A0C'><a style='font-style:italic;color:#E16A0C;text-decoration:none;display: block;width:100%' href='http://www.ensembleici.fr'>Retrouvez l'agenda complet sur www.ensembleici.fr...</a></td><td width='33%' style='width:33%;padding:30px;border-bottom:1px solid #E3D6C7;font-style:italic; color:#E16A0C'><a style='font-style:italic;color:#E16A0C;text-decoration:none;display: block;width:100%' href='http://www.ensembleici.fr'>Retrouvez l'agenda complet sur www.ensembleici.fr...</a></td></tr>            </table>
+        </td>
+    </tr>
+    <tr>
+            <td style="padding-bottom:10px;padding-top:30px;text-align:center;"><br/>
+            <a href="http://www.ensembleici.fr/lettreinfos.<?php echo $_GET['v']; ?>.tout.agenda.html" style="text-decoration:none;" target="_blank"><img src="http://www.ensembleici.fr/img/lettreinfo/voir_agenda.jpg" alt="Voir tout l'agenda" width="216px" style="width:216px;margin:0;" /></a><a href="http://www.ensembleici.fr/espace-personnel.agenda.html" style="text-decoration:none;" target="_blank"><img src="http://www.ensembleici.fr/img/lettreinfo/ajouter_evenement.jpg" alt="Ajouter un événement" /></a>            </td>
+    </tr>
+</table>
+<img src="http://www.ensembleici.fr/img/lettreinfo/lettreinfo-28.jpg" width="650px" height="57px" alt="Petites annonces" style="padding-top:20px;padding-bottom:10px;width:650px;" id="petite_annonce" />
+<div style='text-align:center;'>Si vous le souhaitez, vous pouvez consulter <a href='http://www.ensembleici.fr/02_medias/15_lettreinfo_pdf_annonces/annonces_l323_t1.pdf' target='_blank'>la liste complète des petites annonces au format PDF</a></div><br/>
+<table style="width:100%;background-color:white;" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td style="text-align:center">
+        Un aperçu des petites annonces partagées sur <a href="http://www.ensembleici.fr">www.ensembleici.fr</a> ! <br/>&nbsp;
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <table style="width:100%;" border="0" cellpadding="0" cellspacing="0">
+            <tr style='border:none;height:40px;border-bottom:1px solid #F0EDEA;border-top:1px solid #F0EDEA;'><td style='width:30px;'></td><td><a href='http://www.ensembleici.fr/petiteannonce.nyons.vends-canape-cuir.9568.1457615621.html' style='text-decoration:none;' target='_blank'>                <span style="color:#b9ba35;font-size:16px;font-weight:bold;">vends canapé cuir</span>
+                <span>&nbsp;&nbsp;&nbsp;<img src='http://www.ensembleici.fr/img/monetaire.png' width='17px' height='17px' style='width:17px;height:17px;' title='Annonce monétaire' /></span>
+                    </a></td>
+                    <td style="color:#445158;text-align:center;">
+                            <a href='http://www.ensembleici.fr/petiteannonce.nyons.vends-canape-cuir.9568.1457615621.html' style='text-decoration:none;' target='_blank'>                            <span style="font-weight:bold;">NYONS</span><br/>
+                    </a></td>
+                    <td style="width:30px;"></td>
+                </tr>
+                    <tr style='border:none;height:40px;border-bottom:1px solid #F0EDEA;border-top:1px solid #F0EDEA;'><td style='width:30px;'></td><td><a href='http://www.ensembleici.fr/petiteannonce.venterol.cherche-agnelles-corses-ou-autre.9702.1457615638.html' style='text-decoration:none;' target='_blank'>                <span style="color:#b9ba35;font-size:16px;font-weight:bold;">Cherche agnelles corses ou autre</span>
+                <span>&nbsp;&nbsp;&nbsp;<img src='http://www.ensembleici.fr/img/monetaire.png' width='17px' height='17px' style='width:17px;height:17px;' title='Annonce monétaire' /></span>
+                    </a></td>
+                    <td style="color:#445158;text-align:center;">
+                            <a href='http://www.ensembleici.fr/petiteannonce.venterol.cherche-agnelles-corses-ou-autre.9702.1457615638.html' style='text-decoration:none;' target='_blank'>                            <span style="font-weight:bold;">VENTEROL</span><br/>
+                    </a></td>
+                    <td style="width:30px;"></td>
+                </tr>
+                    <tr style='border:none;height:40px;border-bottom:1px solid #F0EDEA;border-top:1px solid #F0EDEA;'><td style='width:30px;'></td><td><a href='http://www.ensembleici.fr/petiteannonce.aubres.ateliers-memoire.9379.1457615645.html' style='text-decoration:none;' target='_blank'>                <span style="color:#b9ba35;font-size:16px;font-weight:bold;">ATELIERS MEMOIRE</span>
+                <span></span>
+                    </a></td>
+                    <td style="color:#445158;text-align:center;">
+                            <a href='http://www.ensembleici.fr/petiteannonce.aubres.ateliers-memoire.9379.1457615645.html' style='text-decoration:none;' target='_blank'>                            <span style="font-weight:bold;">AUBRES</span><br/>
+                    </a></td>
+                    <td style="width:30px;"></td>
+                </tr>
+                    <tr style='border:none;height:40px;border-bottom:1px solid #F0EDEA;border-top:1px solid #F0EDEA;'><td style='width:30px;'></td><td><a href='http://www.ensembleici.fr/petiteannonce.aubres.atelier-theatre.9379.1457615646.html' style='text-decoration:none;' target='_blank'>                <span style="color:#b9ba35;font-size:16px;font-weight:bold;">ATELIER THEÂTRE</span>
+                <span></span>
+                    </a></td>
+                    <td style="color:#445158;text-align:center;">
+                            <a href='http://www.ensembleici.fr/petiteannonce.aubres.atelier-theatre.9379.1457615646.html' style='text-decoration:none;' target='_blank'>                            <span style="font-weight:bold;">AUBRES</span><br/>
+                    </a></td>
+                    <td style="width:30px;"></td>
+                </tr>
+                    <tr style='border:none;height:40px;border-bottom:1px solid #F0EDEA;border-top:1px solid #F0EDEA;'><td style='width:30px;'></td><td><a href='http://www.ensembleici.fr/petiteannonce.la-motte-chalancon.stages-tai-chi-et-qi-gong.9563.1457615648.html' style='text-decoration:none;' target='_blank'>                <span style="color:#b9ba35;font-size:16px;font-weight:bold;">Stages Tai Chi et Qi Gong</span>
+                <span></span>
+                    </a></td>
+                    <td style="color:#445158;text-align:center;">
+                            <a href='http://www.ensembleici.fr/petiteannonce.la-motte-chalancon.stages-tai-chi-et-qi-gong.9563.1457615648.html' style='text-decoration:none;' target='_blank'>                            <span style="font-weight:bold;">LA MOTTE-CHALANCON</span><br/>
+                    </a></td>
+                    <td style="width:30px;"></td>
+                </tr>
+                    <tr style='border:none;height:40px;border-bottom:1px solid #F0EDEA;border-top:1px solid #F0EDEA;'><td style='width:30px;'></td><td><a href='http://www.ensembleici.fr/petiteannonce.saint-maurice-sur-eygues.location-studio-25-m.9656.1457615665.html' style='text-decoration:none;' target='_blank'>                <span style="color:#b9ba35;font-size:16px;font-weight:bold;">location studio 25 m²</span>
+                <span></span>
+                    </a></td>
+                    <td style="color:#445158;text-align:center;">
+                            <a href='http://www.ensembleici.fr/petiteannonce.saint-maurice-sur-eygues.location-studio-25-m.9656.1457615665.html' style='text-decoration:none;' target='_blank'>                            <span style="font-weight:bold;">SAINT-MAURICE-SUR-EYGUES</span><br/>
+                    </a></td>
+                    <td style="width:30px;"></td>
+                </tr>
+                    <tr style='border:none;height:40px;border-bottom:1px solid #F0EDEA;border-top:1px solid #F0EDEA;'><td style='width:30px;'></td><td><a href='http://www.ensembleici.fr/petiteannonce.saint-maurice-sur-eygues.location-maison.9656.1457615666.html' style='text-decoration:none;' target='_blank'>                <span style="color:#b9ba35;font-size:16px;font-weight:bold;">location maison</span>
+                <span></span>
+                    </a></td>
+                    <td style="color:#445158;text-align:center;">
+                            <a href='http://www.ensembleici.fr/petiteannonce.saint-maurice-sur-eygues.location-maison.9656.1457615666.html' style='text-decoration:none;' target='_blank'>                            <span style="font-weight:bold;">SAINT-MAURICE-SUR-EYGUES</span><br/>
+                    </a></td>
+                    <td style="width:30px;"></td>
+                </tr>
+                    <tr style='border:none;height:40px;border-bottom:1px solid #F0EDEA;border-top:1px solid #F0EDEA;'><td style='width:30px;'></td><td><a href='http://www.ensembleici.fr/petiteannonce.saint-maurice-sur-eygues.location-appartement.9656.1457615667.html' style='text-decoration:none;' target='_blank'>                <span style="color:#b9ba35;font-size:16px;font-weight:bold;">location appartement</span>
+                <span></span>
+                    </a></td>
+                    <td style="color:#445158;text-align:center;">
+                            <a href='http://www.ensembleici.fr/petiteannonce.saint-maurice-sur-eygues.location-appartement.9656.1457615667.html' style='text-decoration:none;' target='_blank'>                            <span style="font-weight:bold;">SAINT-MAURICE-SUR-EYGUES</span><br/>
+                    </a></td>
+                    <td style="width:30px;"></td>
+                </tr>
+                    <tr style='border:none;height:40px;border-bottom:1px solid #F0EDEA;border-top:1px solid #F0EDEA;'><td style='width:30px;'></td><td><a href='http://www.ensembleici.fr/petiteannonce.nyons.recherche-logement-pour-jeune-femme.9568.1457615671.html' style='text-decoration:none;' target='_blank'>                <span style="color:#b9ba35;font-size:16px;font-weight:bold;">Recherche logement pour jeune femme</span>
+                <span></span>
+                    </a></td>
+                    <td style="color:#445158;text-align:center;">
+                            <a href='http://www.ensembleici.fr/petiteannonce.nyons.recherche-logement-pour-jeune-femme.9568.1457615671.html' style='text-decoration:none;' target='_blank'>                            <span style="font-weight:bold;">NYONS</span><br/>
+                    </a></td>
+                    <td style="width:30px;"></td>
+                </tr>
+                                <tr>
+                    <td style="padding-bottom:10px;padding-top:30px;text-align:center;" colspan="4"><br/>
+                    <a href='http://www.ensembleici.fr/espace-personnel.petite-annonce.html' style='text-decoration:none;' target='_blank'><img src='http://www.ensembleici.fr/img/lettreinfo/ajouter_annonce.jpg' alt='Ajouter une annonce' /></a>                    </td>
+            </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<img src="http://www.ensembleici.fr/img/lettreinfo/lettreinfo-30.jpg" width="650" height="57" alt="Répertoire" style="padding-top:20px;padding-bottom:10px;width:650px;" id="repertoire" />
+<table style="width:100%;background-color:white;" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+        <td style="text-align:center">
+        Un aperçu du répertoire partagé sur <a href="http://www.ensembleici.fr">www.ensembleici.fr</a> ! <br/>&nbsp;
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <table style="width:100%;" border="0" cellpadding="0" cellspacing="0">
+            <tr style='border:none;height:50px;border-bottom:1px solid #F0EDEA;border-top:1px solid #F0EDEA;'><td style='width:30px;'></td><td><a href='http://www.ensembleici.fr/structure.les-pilles.l-atelier-du-chouchalout.9585.529.html' style='text-decoration:none;' target='_blank'>                <span style="color:#F6AE48;font-size:16px;font-weight:bold;">L' Atelier du Chouchalout</span><br/>
+                <span>Un espace convivial où se ressourcer dans un cadre naturel reposant</span></a></td>
+                <td style="color:#445158;text-align:center;">
+                <a href='http://www.ensembleici.fr/structure.les-pilles.l-atelier-du-chouchalout.9585.529.html' style='text-decoration:none;' target='_blank'>                        <strong style="font-weight:bold;">LES PILLES</strong><br/>
+                        <span>Association</span>                </a></td>
+                <td style="width:30px;"></td>
+                </tr>
+            <tr style='border:none;height:50px;border-bottom:1px solid #F0EDEA;border-top:1px solid #F0EDEA;'><td style='width:30px;'></td><td><a href='http://www.ensembleici.fr/structure.la-roche-sur-le-buis.ahoudig-kukla-myriam.9619.582.html' style='text-decoration:none;' target='_blank'>                <span style="color:#F6AE48;font-size:16px;font-weight:bold;">Ahoudig-Kukla myriam</span><br/>
+                <span>la ferme des enfants de fabreyge</span></a></td>
+                <td style="color:#445158;text-align:center;">
+                <a href='http://www.ensembleici.fr/structure.la-roche-sur-le-buis.ahoudig-kukla-myriam.9619.582.html' style='text-decoration:none;' target='_blank'>                        <strong style="font-weight:bold;">LA ROCHE-SUR-LE-BUIS</strong><br/>
+                                        </a></td>
+                <td style="width:30px;"></td>
+                </tr>
+            <tr style='border:none;height:50px;border-bottom:1px solid #F0EDEA;border-top:1px solid #F0EDEA;'><td style='width:30px;'></td><td><a href='http://www.ensembleici.fr/structure.buis-les-baronnies.tzarik.9424.584.html' style='text-decoration:none;' target='_blank'>                <span style="color:#F6AE48;font-size:16px;font-weight:bold;">Tzarik</span><br/>
+                <span>fleurs des chants</span></a></td>
+                <td style="color:#445158;text-align:center;">
+                <a href='http://www.ensembleici.fr/structure.buis-les-baronnies.tzarik.9424.584.html' style='text-decoration:none;' target='_blank'>                        <strong style="font-weight:bold;">BUIS-LES-BARONNIES</strong><br/>
+                        <span>Association</span>                </a></td>
+                <td style="width:30px;"></td>
+                </tr>
+            <tr style='border:none;height:50px;border-bottom:1px solid #F0EDEA;border-top:1px solid #F0EDEA;'><td style='width:30px;'></td><td><a href='http://www.ensembleici.fr/structure.montbrun-les-bains.la-cabanaille.9542.1395153596.html' style='text-decoration:none;' target='_blank'>                <span style="color:#F6AE48;font-size:16px;font-weight:bold;">La Cabanaille</span><br/>
+                <span>Maison d'assistantes maternelles</span></a></td>
+                <td style="color:#445158;text-align:center;">
+                <a href='http://www.ensembleici.fr/structure.montbrun-les-bains.la-cabanaille.9542.1395153596.html' style='text-decoration:none;' target='_blank'>                        <strong style="font-weight:bold;">MONTBRUN-LES-BAINS</strong><br/>
+                        <span>Association</span>                </a></td>
+                <td style="width:30px;"></td>
+                </tr>
+            <tr style='border:none;height:50px;border-bottom:1px solid #F0EDEA;border-top:1px solid #F0EDEA;'><td style='width:30px;'></td><td><a href='http://www.ensembleici.fr/structure.nyons.gaia-du-rivau.9568.1429190134.html' style='text-decoration:none;' target='_blank'>                <span style="color:#F6AE48;font-size:16px;font-weight:bold;">Gaïa du Rivau</span><br/>
+                <span>Artiste plasticienne</span></a></td>
+                <td style="color:#445158;text-align:center;">
+                <a href='http://www.ensembleici.fr/structure.nyons.gaia-du-rivau.9568.1429190134.html' style='text-decoration:none;' target='_blank'>                        <strong style="font-weight:bold;">NYONS</strong><br/>
+                        <span>Auto-entrepreneur</span>                </a></td>
+                <td style="width:30px;"></td>
+                </tr>
+            <tr style='border:none;height:50px;border-bottom:1px solid #F0EDEA;border-top:1px solid #F0EDEA;'><td style='width:30px;'></td><td><a href='http://www.ensembleici.fr/structure.sainte-jalle.editions-des-lisieres.9645.1429190259.html' style='text-decoration:none;' target='_blank'>                <span style="color:#F6AE48;font-size:16px;font-weight:bold;">Éditions des Lisières</span><br/>
+                <span></span></a></td>
+                <td style="color:#445158;text-align:center;">
+                <a href='http://www.ensembleici.fr/structure.sainte-jalle.editions-des-lisieres.9645.1429190259.html' style='text-decoration:none;' target='_blank'>                        <strong style="font-weight:bold;">SAINTE-JALLE</strong><br/>
+                        <span>Association</span>                </a></td>
+                <td style="width:30px;"></td>
+                </tr>
+            <tr style='border:none;height:50px;border-bottom:1px solid #F0EDEA;border-top:1px solid #F0EDEA;'><td style='width:30px;'></td><td><a href='http://www.ensembleici.fr/structure.nyons.la-maison-d-antaram.9568.1429190548.html' style='text-decoration:none;' target='_blank'>                <span style="color:#F6AE48;font-size:16px;font-weight:bold;">LA MAISON D'ANTARAM</span><br/>
+                <span>CHAMBRES ET TABLES D"HOTES</span></a></td>
+                <td style="color:#445158;text-align:center;">
+                <a href='http://www.ensembleici.fr/structure.nyons.la-maison-d-antaram.9568.1429190548.html' style='text-decoration:none;' target='_blank'>                        <strong style="font-weight:bold;">NYONS</strong><br/>
+                        <span>Etablissement privé</span>                </a></td>
+                <td style="width:30px;"></td>
+                </tr>
+                        <tr>
+                <td style="padding-bottom:10px;padding-top:30px;text-align:center;" colspan="4"><br/>
+                <a href='http://www.ensembleici.fr/espace-personnel.structure.html' style='text-decoration:none;' target='_blank'><img src='http://www.ensembleici.fr/img/lettreinfo/ajouter_structure.jpg' alt='Ajouter une structure' /></a>                </td>
+            </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<div style="width:100%;background-color:white;margin-top:40px;border-top: 1px solid #E3D6C7;font-size:16px;font-weight:bold;color:#E75B54;">
+    <span style='margin-left: 20px;'>Le collectif "Ensemble ici" :</span>
+</div>
+        <div style="float: left;">
+            <a href="http://www.tamtamdesbaronnies.com/" title="Le TamTam des Baronnies">
+                <img src="http://www.ensembleici.fr/img/lettreinfo/partenaire-tamtam.jpg" alt="Le TamTam des Baronnies" />
+            </a>
+        </div>
+            <div style="float: left;">
+            <a href="http://www.africultures.com/" title="Africultures">
+                <img src="http://www.ensembleici.fr/img/lettreinfo/partenaire-africultures.jpg" alt="Africultures" />
+            </a>
+        </div>
+            <div style="float: left;">
+            <a href="http://www.decor-asso.fr/" title="Association DECOR">
+                <img src="http://www.ensembleici.fr/img/lettreinfo/partenaire-decor.jpg" alt="Association DECOR" />
+            </a>
+        </div>
+            <div style="float: left;">
+            <a href="http://mscurnier.canalblog.com/" title="Association pour l'animation sociale du Haut-nyonsais">
+                <img src="http://www.ensembleici.fr/img/lettreinfo/partenaire-htnyonsais.jpg" alt="Association pour l'animation sociale du Haut-nyonsais" />
+            </a>
+        </div>
+            <div style="clear:both"></div>
+
+                                                         </td>
+                                                    </tr>
+                                                </table>
+                                                <!-- // End Module: Standard Content \\ -->
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Body \\ -->
+                                </td>
+                            </tr>
+                            <tr>
+                            	<td align="center" valign="top">
+                                    <!-- // Begin Template Footer \\ -->
+                                	<table border="0" cellpadding="10" cellspacing="0" width="650" id="templateFooter">
+                                            <tr>
+                                        	<td valign="top" class="footerContent" style="border-top: 1px solid #E3D6C7;">
+                                                    <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                                                        <tr>
+<!--                                                            <td valign="top" width="50%" align="center" style='font-style:italic; font-size:11px;color:#445158;line-height: 1.5em;'>
+                                                                Vous pouvez transférer cette lettre d'information :<br/>
+                                                                                                                            </td>-->
+                                                            <td valign="top" width="100%" align="center" style='font-style:italic; font-size:11px;color:#445158;line-height: 1.5em;'>
+                                                                <!-- [**NON_INSCRIT**] -->
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :<br/>
+                                                                <a href="http://www.ensembleici.fr/espace-personnel.html" style="text-decoration:none;" target="_blank"><img src="http://www.ensembleici.fr/img/lettreinfo/modifier_mes_infos.jpg" alt="Modifier mes informations" /></a>                                                                <!-- [**FIN_NON_INSCRIT**] -->
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td valign="top" colspan="2" align="center">
+                                                                <p style='font-style:italic; font-size:11px; color:#445158'>
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations <a style='font-style:italic; color:#445158' href='http://wwww.ensembleici.fr'> du site ensembleici.fr</a>.<br/>
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez <br/>d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    <br/><br/>
+                                                                    <a href="http://www.ensembleici.fr/desinscription.html?codoff=[**codoff**]&typoff=[**typoff**]">Si vous souhaitez vous désinscrire, cliquez ici.</a>
+                                                                </p>
+
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                <!-- // End Module: Standard Footer \\ -->
+                                            
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    <!-- // End Template Footer \\ -->
+                                    </td>
+                                </tr>
+                            </table>
+                        <br />
+                    </td>
+                </tr>
+            </table>
+        </center>
+    </body>
+</html>
+

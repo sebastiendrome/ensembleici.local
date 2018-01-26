@@ -1,0 +1,659 @@
+
+
+
+    
+        
+        Ensemble ici | Lettre d'Ensemble Ici - Vallee de la Drome / Diois, 2017 #03 - 20 janvier
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Chers habitants et acteurs de la Vall&eacute;e, du Diois, toutes et tous acteurs locaux,
+Prochaine &eacute;mission Mais Qu'est-ce Qui S'Passe ? : AG de Val de Dr&ocirc;me Accueil R&eacute;fugi&eacute;s le 27 janvier &agrave; Aouste s/Sye
+Avis &agrave; ceux qui utilisent gmail depuis un navigateur internet (Chrome, Firefox, Internet Explorer,...) : depuis quelques mois gmail, mais pas que lui, rel&egrave;gue toutes les Lettres auxquelles vous &ecirc;tes abonn&eacute;s dans un onglet "Promotions" qui n'est pas celui ouvert par d&eacute;faut &agrave; l'ouverture de votre bo&icirc;te courriel. Aussi, pr&eacute;venez tous ceux qui vous disent "je ne re&ccedil;ois plus la Lettre de..." Ensemble Ici par exemple et dites-leurs : "va dans l'onglet Promotions de ta Boite de r&eacute;ception et tu trouveras tes abonnements courriel, glisse la Lettre/le mail vers l'onglet qui s'ouvre par d&eacute;faut et pr&eacute;cise lui de toujours avoir les mails dans cet onglet, ils n'arriveront plus dans Promotions/abonnements par la suite".
+Annonces :&nbsp; la crise du logement ? Pas mal de demandes... quelques offres de colocations / locations &agrave; trouver dans le PDF joint.
+Agenda :&nbsp; Le PDF Agenda vous permet de planifier vos activit&eacute;s / sorties pour jusque 3 WE plus tard ! Alors ne laissez pas un spectacle, un atelier parentalit&eacute; / outil informatique / bien-&ecirc;tre, une soir&eacute;e-d&eacute;bat ou jeu,...&nbsp; vous &eacute;chapper. Le 25 janvier commencent les XVes Rencontres de Die et de la Biovall&eacute;e / Ecologie au quotidien. Des id&eacute;es pour pr&eacute;parer les activit&eacute;s de vos enfants pendant les vacances scolaires, &eacute;galement 
+&nbsp; Bonne lecture,
+&nbsp;
+Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois
+                
+Rappel T&eacute;l&eacute;chargeable depuis cette lettre, en fichier PDF : - tous les &eacute;v&eacute;nements jusqu'au 3e WE &agrave; venir, - toutes les annonces de ces derniers jours
+C'est vous qui publiez et alimentez les rubriques du site : ajoutez, modifier, compl&eacute;tez vos informations locales !
+Ensemble Ici : l'information par et pour les habitants de la Vall&eacute;e de la Dr&ocirc;me / Diois
+
+Possible que nous ne soyons pas dans vos spams mais dans un onglet de votre Boite de r&eacute;ception qui n'est pas celui ouvert par d&eacute;faut (Promotions ?) : glisser le dernier mail de nous que vous y trouverez vers votre dossier par d&eacute;faut pour nous y retrouver &agrave; l'avenir.
+Si vous appr&eacute;ciez Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois :
+Pour que l'animation du site puisse continuer gr&acirc;ce &agrave; notre salari&eacute; : merci d'avance de votre soutien ( don / adh&eacute;sion )        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Crestois Pays de Saillans                        
+                    
+                    Concert de Gâmal
+                    Concert , CREST
+                    Samedi 21 janvier 2017
+                    
+
+                                            
+                    
+                    WE clown
+                    Stage , CREST
+                    du samedi 21 au dimanche 22 janvier 2017
+                    
+
+                    
+                    AG Val de Drôme Accueil Réfugiés
+                    Débat , AOUSTE-SUR-SYE
+                    Vendredi 27 janvier 2017
+                    
+
+                                            
+                    
+                    Atelier couture, venez retoucher/transformer vos vêtements
+                    Atelier , CREST
+                    Vendredi 27 janvier 2017
+                    
+
+                                            
+                    
+                    Gestalt thérapie contemplative
+                    Stage , CHASTEL-ARNAUD
+                    Dimanche 29 janvier 2017
+                    
+
+                    Diois                        
+                    
+                    ACCORDERIE PAYS DIOIS, Nouvelles permanences ANTENNE LUC EN DIOIS
+                    Rencontre , LUC-EN-DIOIS
+                    du mardi 17 janvier au vendredi 03 février 2017
+                    
+
+                                            
+                    
+                    Méli-Mélo-Die d'Impros
+                    Spectacle , DIE
+                    Samedi 21 janvier 2017
+                    
+
+                                            
+                    
+                    Toitures partagées à Barnave
+                    Rencontre , BARNAVE
+                    Lundi 23 janvier 2017
+                    
+
+                                            
+                    
+                    Cheval dans une île
+                    Spectacle , CHATILLON-EN-DIOIS
+                    Lundi 23 janvier 2017
+                    
+
+                                            
+                    
+                    Randonnée et Qi Gong
+                    Randonnée , TRESCHENU-CREYERS
+                    Lundi 23 janvier 2017
+                    
+
+                                            
+                    
+                    Découvrir le traitement d'images avec Libre Office (EPN)
+                    Atelier , DIE
+                    Mercredi 25 janvier 2017
+                    
+
+                                            
+                    
+                    XVes Rencontres de Die et de la Biovallée - Ecologie au quotidien
+                    Débat , DIE
+                    du mercredi 25 janvier au vendredi 10 février 2017
+                    
+
+                                            
+                    
+                    Cheval dans une île
+                    Spectacle , LUC-EN-DIOIS
+                    Jeudi 26 janvier 2017
+                    
+
+                                            
+                    
+                    Pause Parents Ados : l'alcool
+                    Réunion , DIE
+                    Vendredi 27 janvier 2017
+                    
+
+                                            
+                    
+                    Aligator
+                    Concert , DIE
+                    Vendredi 27 janvier 2017
+                    
+
+                                            
+                    
+                    Pause Parents : les limites
+                    Rencontre , DIE
+                    Vendredi 27 janvier 2017
+                    
+
+                                            
+                    
+                    Rdv Grande Famille : l'allaitement
+                    Conférence , DIE
+                    Samedi 28 janvier 2017
+                    
+
+                                            
+                    
+                    Portes Ouvertes à l'Ancien Monastère de Sainte-Croix
+                    journée d'information , SAINTE-CROIX
+                    Samedi 28 janvier 2017
+                    
+
+                    
+                    stage d'initiation aux pédagogies Montessori et Nuyts
+                    Stage , DIE
+                    du samedi 28 au dimanche 29 janvier 2017
+                    
+
+                                            
+                    
+                    Polyphonies au travers des siècles
+                    Concert , DIE
+                    Dimanche 29 janvier 2017
+                    
+
+                    Val de Drôme                        
+                    
+                    atelier de constellations familiales
+                    Atelier , SUZE
+                    Dimanche 22 janvier 2017
+                    
+
+                                            
+                    
+                    Atelier : Création d'un formulaire en ligne
+                    Atelier , LIVRON-SUR-DROME
+                    Lundi 23 janvier 2017
+                    
+
+                                            
+                    
+                    Avant première du film "Une Idée Folle"
+                    Projection , ROCHE-SUR-GRANE
+                    Mercredi 25 janvier 2017
+                    
+
+                    
+                    Conférence sur le stress
+                    Conférence , GRANE
+                    Vendredi 27 janvier 2017
+                    
+
+                                            
+                    
+                    Soirée Jeux
+                    Jeux , CHABRILLAN
+                    Samedi 28 janvier 2017
+                    
+
+                                            
+                    
+                     Damz'elles
+                    Concert , CHABRILLAN
+                    Dimanche 29 janvier 2017
+                    
+
+                                
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            A vendre ! (ameublement)
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        AIX-EN-DIOIS
+                    
+                    
+                
+                                    Cherche cours de clarinette
+                
+                    
+                    
+                                                        ROMEYER
+                    
+                    
+                
+                                    Donne 30 cartons
+                
+                    
+                    
+                                                        SAILLANS
+                    
+                    
+                
+                                    Je vends 2 pneus neige neufs
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Evénements Janvier au Agités du Local
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    vend mezzanine 2 places
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    lit parapluie
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Prêt d'accordéon diatonique
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    cherche caravane à vendre
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    siége auto
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        GIGORS-ET-LOZERON
+                    
+                    
+                
+                                    Service civique
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    vends poules pondeuses
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        SAINT-SAUVEUR-EN-DIOIS
+                    
+                    
+                
+                                    Recherche Non-sco sur le Diois
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            ZappingDanse
+                Arts vivants
+                
+                                        DIE
+                        Association                
+                
+                
+                            Coop'aire de jeux
+                
+                
+                                        DIE
+                        Association                
+                
+                
+                            ViefondÂmentale
+                méditations
+                
+                                        DIE
+                        Auto-entrepreneur                
+                
+                
+                            REFLEXOLOGIE PLANTAIRE
+                
+                
+                                        DIE
+                        Coopérative                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

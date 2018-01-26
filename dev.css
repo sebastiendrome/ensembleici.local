@@ -1,0 +1,81 @@
+#espace_personnel_liste_fiche h2{padding:0.5em 0.5em 0.5em 2em}
+div.ligne_espace_personnel{
+	height: 70px;
+	/*box-shadow: -1px 0px 2px -1px rgb(227,214,199) inset;*/
+	border-bottom: 1px solid rgb(227,214,199);
+	border-top: 1px solid rgb(227,214,199);
+	position: relative;
+	margin-left: 2em;
+}
+	div.ligne_espace_personnel+div.ligne_espace_personnel{
+		border-top: none;
+	}
+
+div.ligne_espace_personnel .image{
+	max-height: 60px;
+	min-height: 60px;
+	width: 60px;
+	margin: 4px 9px 4px 0px;
+	border: 1px solid rgb(227,214,199);
+}
+.espace_personnel_liste_fiche_liste{
+	background:white;
+}/*
+.editorial h3, .editorial h3>a, #editorial h3, #editorial h3>a{
+	color: #445158;
+}*/
+.espace_personnel_liste_fiche_liste h3>a{text-decoration: inherit;}
+.espace_personnel_liste_fiche_liste h3>a:hover{text-decoration: underline;}
+
+.ligne_espace_personnel h3{
+	white-space: nowrap;
+	overflow: hidden;
+	margin: 5px 0px 0px 0px;
+	padding: 0px 0px 5px 0px;
+	font-size: 1.2em;
+}
+#espace_personnel_liste_fiche .ligne_espace_personnel input.ico[type="button"]{
+	margin: 0px;
+	float: none;
+	position: absolute;
+	right: 5px;
+	bottom: 5px;
+}
+.ligne_espace_personnel input.ico[type="button"]{display:none;} /* , .ligne_espace_personnel:hover .informations_creation */
+.ligne_espace_personnel:hover input.ico[type="button"]{display:block;} /* , .ligne_espace_personnel .informations_creation */
+
+.espace_personnel_liste_fiche_liste{padding-bottom: 0.1em;}
+.espace_personnel_liste_fiche_bloc div.plier_deplier{
+	color: white;
+	padding:0.2em;
+	text-align:center;
+	cursor: pointer;
+}
+	#editorial div.plier_deplier{background-color:#23AADD;}
+	#agenda div.plier_deplier{background-color:#E75B32;}
+	#structure div.plier_deplier{background-color:#F6AE48;}
+	#petite-annonce div.plier_deplier{background-color:#D7DA2E;}
+	#forum div.plier_deplier{background-color:#47AB4C;}
+	
+.espace_personnel_liste_fiche_bloc.plier .plier_deplier>.plier, .espace_personnel_liste_fiche_bloc.deplier .plier_deplier>.deplier{display:block;} 
+.espace_personnel_liste_fiche_bloc.plier .plier_deplier>.deplier, .espace_personnel_liste_fiche_bloc.deplier .plier_deplier>.plier{display:none;}
+	
+	#espace_personnel_liste_fiche input{
+		float: none;
+		margin: 0px;
+	}
+.nouvelle_fiche{text-align:right;padding: 0.5em 0em;}
+
+#input_titre_recherche{
+	width:100%;
+	font-size:1.2em;
+	padding: 0.5em 0em;
+	margin: 0.5em 0em;
+	text-align: center;
+}
+a p, a:visited p{
+	color: inherit;
+}
+
+
+

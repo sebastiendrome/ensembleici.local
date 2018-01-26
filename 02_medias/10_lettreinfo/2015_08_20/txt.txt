@@ -1,0 +1,567 @@
+
+
+    
+        
+        Ensemble ici | # 2015-34 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 20 au 30/08/2015
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						Vous &ecirc;tes pr&egrave;s de 2300 &agrave; recevoir cette lettre d&#39;information hebdomadaire. Sur les Baronnies proven&ccedil;ales, c&#39;est &agrave; la fois beaucoup et pas assez : Ensemble ici s&#39;impose peu &agrave; peu comme un outil d&#39;information et de lien, mais demande encore &agrave; &ecirc;tre mieux connu.
+Ensemble ici est un outil associatif&nbsp; citoyen, sans vis&eacute;e autre que celle de mieux vivre ensemble, mieux inform&eacute;s (l&#39;agenda) mais aussi davantage solidaires (les petites annonces), avec la possibilit&eacute; de r&eacute;pondre aux questions et de d&eacute;battre (les forums), et m&ecirc;me de transmettre information et analyse &agrave; travers des articles (&eacute;ditorial) et des &eacute;missions de radio (Radi&#39;Olive).
+Ensemble ici est aussi un r&eacute;pertoire des acteurs locaux, c&#39;est-&agrave;-dire tous ceux qui s&#39;organisent &agrave; plusieurs ou proposent des services aux autres.
+Le site est g&eacute;olocalis&eacute;, ce qui vous permet d&#39;avoir en priorit&eacute; l&#39;info proche de chez vous. Et il est d&eacute;velopp&eacute; pour &ecirc;tre ais&eacute;ment lisible sur les petits &eacute;crans comme les t&eacute;l&eacute;phones portables.
+Parlez-en autour de vous !
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								REPAS DEGUSTATION
+								Rencontre , BARRET-DE-LIOURE
+								Vendredi 21 août 2015
+						
+
+					&nbsp;Pays de Buis-les-Baronnies							
+													
+								Balivernes, Amours et Bagatelle
+								Spectacle , BUIS-LES-BARONNIES
+								Jeudi 20 août 2015
+						
+
+												
+								LOTO
+								Jeux , BEAUVOISIN
+								Vendredi 21 août 2015
+						
+
+												
+													
+								concert de Tzarik, trio vocal féminin
+								Concert , BUIS-LES-BARONNIES
+								Dimanche 23 août 2015
+						
+
+												
+													
+								"P. Teilhard de Chardin par les siens"
+								Conférence , BUIS-LES-BARONNIES
+								Mercredi 26 août 2015
+						
+
+												
+													
+								Festi Sias 
+								Fête , LA ROCHE-SUR-LE-BUIS
+								du vendredi 28 au dimanche 30 août 2015
+						
+
+					Pays de Rémuzat							
+													
+								Stage d'expression et de créativité collective pour enfants de 6 à 10 ans
+								Stage , LA MOTTE-CHALANCON
+								du lundi 17 au vendredi 21 août 2015
+						
+
+												
+													
+								Peintures de Marie MALLIE
+								Exposition , REMUZAT
+								du lundi 17 au dimanche 30 août 2015
+						
+
+												
+													
+								Concert sous yourte avec Cathy Masseus VELLA
+								Concert , LA MOTTE-CHALANCON
+								Vendredi 21 août 2015
+						
+
+												
+													
+								Stage de Danse biodynamique avec Laurence LEPINE
+								Stage , LA MOTTE-CHALANCON
+								du samedi 22 au dimanche 23 août 2015
+						
+
+												
+													
+								Vivre les passages du cancer autrment
+								Stage , CORNILLON-SUR-L'OULE
+								du dimanche 23 au jeudi 27 août 2015
+						
+
+					Val d'Eygues							
+													
+								Peintures et fibres textiles
+								Exposition , NYONS
+								du lundi 17 au dimanche 30 août 2015
+						
+
+												
+													
+								Concours photo "Mon Parc naturel régional"
+								Atelier , SAHUNE
+								du mardi 18 août au vendredi 02 octobre 2015
+						
+
+												
+													
+								Duo Vandamme en concert à Nyons
+								Concert , NYONS
+								Jeudi 20 août 2015
+						
+
+												
+													
+								repas concert
+								Repas , CURNIER
+								Vendredi 21 août 2015
+						
+
+												
+													
+								Les Culs Trempés en concert à Nyons
+								Concert , NYONS
+								Samedi 22 août 2015
+						
+
+												
+													
+								Dédicace de Françoise BOURDON à la Librairie de L'olivier à Nyons
+								Rencontre , NYONS
+								Samedi 22 août 2015
+						
+
+												
+													
+								Chiche - le spectacle dont vous êtes le héros
+								Spectacle , NYONS
+								Lundi 24 août 2015
+						
+
+												
+													
+								Balivernes, Amours et Bagatelle
+								Spectacle , NYONS
+								Jeudi 27 août 2015
+						
+
+												
+													
+								Frizaplat & Djulius à Couleur Café
+								Concert , NYONS
+								Jeudi 27 août 2015
+						
+
+												
+								Exposition de Maguy Gaudefroy et Dominique Coutelle
+								Exposition , VENTEROL
+								du vendredi 28 août au mardi 15 septembre 2015
+						
+
+												
+													
+								Happy saturday
+								Concert , NYONS
+								Samedi 29 août 2015
+						
+
+												
+													
+								Rando VTT La Sahunaise
+								Randonnée , SAHUNE
+								Dimanche 30 août 2015
+						
+
+					Ailleurs dans le coin							
+													
+								CLASSICARPA fête ses 10 ans
+								Concert , DIEULEFIT
+								Samedi 22 août 2015
+						
+
+												
+													
+								Reconnaissance du Sentier Laurent Pascal
+								Randonnée , EYGALAYES
+								Samedi 22 août 2015
+						
+
+												
+													
+								PUCES DES COUTURIERES
+								Marché , BOUCHET
+								Dimanche 30 août 2015
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Toilettes Du Monde recrute 2 services civiques
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Enquête participative (Association familiale du nyonsais)
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Rue du Malgarni à Buis
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													recherche garage, hangar où stocker des meubles pendant 2 mois
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Cherche emploi dans la diffusion culturelle
+							
+						
+						
+														NYONS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Les Amis de Jeanne
+								
+								Promouvoir et favoriser le développement rural local afin de créer le lien social
+							
+							
+															LA MOTTE-CHALANCON
+								Association							
+							
+						
+						
+														Vocalises Buissonnières 
+								
+								
+							
+							
+															NYONS
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

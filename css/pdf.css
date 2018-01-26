@@ -1,0 +1,81 @@
+.letter_content {
+    margin-left: 20px;
+    width : 760px;
+}
+.letter_titre {
+    background-color: #55d3ff;
+    width: 400px;
+    margin-left: 180px;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 5px;
+}
+.letter_sstitre_annonce {
+    width : 750px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    color: #000000;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.letter_bgcolor_annonce_offre {
+    background-color: #9bffc8;
+}
+.letter_bgcolor_annonce_demande {
+    background-color: #9bc8ff;
+}
+.letter_bgcolor_annonce_initiative {
+    background-color: #ffffcc;
+}
+.letter_bloc_annonces {
+    width: 750px;
+    margin-top: 20px;
+}
+.letter_bloc_annonces_ville {
+    text-transform: uppercase;
+    border: 1px solid #000000;
+    padding-left: 5px;
+    font-weight: bold;
+}
+.letter_description_annonces {
+    width: 730px;
+    padding-left: 5px;
+}
+
+.letter_bloc_agenda_date {
+    margin-top: 30px;
+    padding: 5px;
+    font-weight: bold;
+    width: 200px;
+    color: #000000;
+    background-color: #ffd778;
+}
+.letter_bloc_agenda_libelle {
+    background-color: #ffffcc;
+    font-weight:bold;
+    width: 110px;
+    padding: 5px;
+}
+.letter_bloc_agenda_ville {
+    background-color: #ffffcc;
+    font-weight:bold;
+    width: 190px;
+    border: 1px solid #2dabda;
+    padding: 5px;
+}
+
+.bloc_normal {
+    background-color: #ffffff;
+}
+.bloc_couleur {
+    background-color: #eeeeee;
+    /*width: 740px;*/
+}

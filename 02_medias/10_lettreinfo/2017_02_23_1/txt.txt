@@ -1,0 +1,566 @@
+
+
+
+    
+        
+        Ensemble ici | # 2017-08 : Ensemble Ici, tous acteurs de la vie locale !
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Bonjour &agrave; toutes et &agrave; tous,
+&nbsp;
+Le num&eacute;rique, des cultures.&nbsp;
+Ce week-end, c'est le Festival des Cultures num&eacute;riques et Mangas, organis&eacute; par Aventic, Asoft, le Service Municipal Jeunesse de Nyons et DECOR &agrave; la Maison de Pays &agrave; Nyons !
+Vendredi 24 F&eacute;vrier &agrave; 20h30 : Caf&eacute; Discut' avec Jean-Claude Bondaz sur la th&eacute;matique des pratiques des jeunes sur internet
+Samedi 25 F&eacute;vrier &agrave; partir de 14h : Des vieilles consoles &agrave; l'imprimante 3D, en passant par la culture manga, d&eacute;couvrez des espaces pens&eacute;s pour exp&eacute;rimenter et s'informer.
+&nbsp;
+&nbsp;
+Piq&ucirc;re de rappel sur le projet :
+Les adh&eacute;rents (particuliers ou structures) ont acc&egrave;s la rubrique "M&eacute;dias" du site, c'est-&agrave;-dire qu'ils peuvent proposer articles, photos, vid&eacute;os, reportages ou points de vue. On aimerait ne pas s'appeler participatif pour rien !
+A propos, il y a du nouveau sur l'affaire de l'h&ocirc;pital local de Buis-les-Baronnies, retrouvez l'article comment&eacute;.
+&nbsp;
+Une tr&egrave;s belle semaine &agrave; vous,
+L'&eacute;quipe Ensemble Ici - Baronnies, qui cherche (de nouveau) un volontaire en service civique.                Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici. Il vous est ais&eacute; d'en ajouter via les formulaires du site. Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d'info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles! 
+contact@ensembleici.fr
+&nbsp;
+L'assocation DECOR est la structure juridique qui porte les projets Ensemble Ici - Baronnies et RadiO'live, webradio init&eacute;rante. Elle a besoin de votre soutien pour continuer d'exercer ses missions. 
+Pensez &agrave; l'adh&eacute;sion
+        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Hautes Baronnies                        
+                    
+                    Concert blues d' EXCEPTION: Cisco herzhaft
+                    Concert , MONTBRUN-LES-BAINS
+                    Samedi 04 mars 2017
+                    
+
+                    &nbsp;Pays de Buis-les-Baronnies                        
+                    
+                    SAISON 2 Gargoulette'NB
+                    Rencontre , BUIS-LES-BARONNIES
+                    du vendredi 09 décembre 2016 au lundi 17 avril 2017
+                    
+
+                                            
+                    
+                    Ciné-goûter
+                    Projection , BUIS-LES-BARONNIES
+                    Mercredi 22 février 2017
+                    
+
+                                            
+                    
+                    La vallée des loups
+                    Projection , BUIS-LES-BARONNIES
+                    Vendredi 24 février 2017
+                    
+
+                    Pays de Dieulefit-Bourdeaux                        
+                    
+                    YVES JAMAIT (CONCERT BIZZ'ART)
+                    Concert , DIEULEFIT
+                    Vendredi 03 mars 2017
+                    
+
+                    &nbsp;Pays de Rémuzat                        
+                    
+                    Frizaplat et Djulius
+                    Concert , MONTREAL-LES-SOURCES
+                    Samedi 25 février 2017
+                    
+
+                    &nbsp;Val d'Eygues                        
+                    
+                    Partir en vacances
+                    journée d'information , CURNIER
+                    du lundi 13 février au vendredi 19 mai 2017
+                    
+
+                                            
+                    
+                    Los Cortes Gypsy Mariano
+                    Concert , NYONS
+                    Vendredi 24 février 2017
+                    
+
+                                            
+                    
+                    MEDITATION
+                    Atelier , NYONS
+                    Vendredi 24 février 2017
+                    
+
+                                            
+                    
+                    café discut'
+                    Débat , NYONS
+                    Vendredi 24 février 2017
+                    
+
+                                            
+                    
+                    FESTIVAL des Cultures Numériques et Manga
+                    Festival , NYONS
+                    du vendredi 24 au samedi 25 février 2017
+                    
+
+                                            
+                    
+                    Inauguration nouvelle friperie !
+                    Rencontre , NYONS
+                    Samedi 25 février 2017
+                    
+
+                                            
+                    
+                    Pop fabrik
+                    Spectacle , NYONS
+                    Mercredi 01 mars 2017
+                    
+
+                                            
+                    
+                    Fête de la Soupe de Montaulieu
+                    Manifestation , MONTAULIEU
+                    du samedi 04 au dimanche 05 mars 2017
+                    
+
+                    Retrouvez l'agenda complet sur www.ensembleici.fr...            
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            DECOR recherche un service civique pour 6 mois !
+                
+                    
+                    
+                                                        LES PILLES
+                    
+                    
+                
+                                    Le CEDER recrute 1 directeur(trice) en CDI
+                
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    remplacement CDD poste
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        VENTEROL
+                    
+                    
+                
+                                    S.E.L. (Système d'Échange Local)
+                
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    Recherche créateurs et artistes
+                
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    Cherche chambre pour 3 mois
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    Recherche Atelier
+                
+                    
+                    
+                                                        SAINTE-JALLE
+                    
+                    
+                
+                                    Voiture à vendre
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        LES PILLES
+                    
+                    
+                
+                                    Un chapiteau pour "Pilles sous les étoiles" !
+                
+                    
+                    
+                                                        LES PILLES
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            DECOR
+                DEveloppement des COmmunautés Rurales
+                
+                                        LES PILLES
+                        Association                
+                
+                
+                            @soft Condorcet
+                association pour l'informatique
+                
+                                        CONDORCET
+                        Association                
+                
+                
+                            AVENTIC
+                Espaces Publics Numériques
+                
+                                        REMUZAT
+                        Association                
+                
+                
+                            Association ReZonance
+                Média participatif de proximité
+                
+                                        LABLACHERE
+                        Association                
+                
+                
+                            ASSOCIATION pour la PRATIQUE de la PLEINE CONSCIENCE
+                APPC
+                
+                                        MIRABEL-AUX-BARONNIES
+                        Association                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+    Le collectif "Ensemble ici" :
+
+        
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

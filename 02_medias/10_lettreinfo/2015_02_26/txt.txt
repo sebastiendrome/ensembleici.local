@@ -1,0 +1,651 @@
+
+
+    
+        
+        Ensemble ici | 26/02/2015 :# 2015-09 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 26/02 au 08/03/2015
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous,
+
+Nouvelle &eacute;mission &agrave; &eacute;couter sur Ensemble ici :
+&quot;C&eacute;dric, producteur de spiruline : du Mali &agrave; Sainte Jalle&quot;&nbsp;
+
+Devenez vous aussi &quot;&eacute;diteur&quot; pour votre localit&eacute; :
+Vous pourrez ainsi &eacute;crire des articles, diffuser des documents audios, et ben&eacute;ficier d&#39;un ensemble de services !
+
+Pour cela,&nbsp;acc&eacute;dez au&nbsp;bulletin d&#39;adh&eacute;sion&nbsp;ou&nbsp;contactez nous&nbsp;!
+
+L&#39;outil est l&agrave;, &agrave; nous de le prendre en main pour mieux vivre ensemble, ici...
+
+
+	Belle semaine,
+	L&#39;&eacute;quipe Ensemble Ici.
+
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								Café Citoyen : "la connaissance de l'islam"
+								Débat , MONTBRUN-LES-BAINS
+								Mercredi 04 mars 2015
+						
+
+					&nbsp;Pays de Buis-les-Baronnies							
+													
+								L'économie circulaire
+								Conférence , BUIS-LES-BARONNIES
+								Vendredi 27 février 2015
+						
+
+												
+													
+								La Boum 2
+								Fête , BESIGNAN
+								Samedi 28 février 2015
+						
+
+												
+													
+								Prix littéraire des Baronnies
+								Lecture , BUIS-LES-BARONNIES
+								Samedi 28 février 2015
+						
+
+												
+													
+								Concours de belote
+								Tournoi , SAINT-SAUVEUR-GOUVERNET
+								Samedi 28 février 2015
+						
+
+												
+													
+								La Cave du Troc, votre Boutik' gratuite!
+								Visite , MOLLANS-SUR-OUVEZE
+								du samedi 28 février au dimanche 01 mars 2015
+						
+
+												
+													
+								Cie Innana
+								Spectacle , BUIS-LES-BARONNIES
+								Vendredi 06 mars 2015
+						
+
+												
+													
+								Stage techniques théâtrales - "Chant lyrique et placement de la voix" animé par Catherine BOURGEOIS
+								Stage , BUIS-LES-BARONNIES
+								du samedi 07 au dimanche 08 mars 2015
+						
+
+												
+													
+								13eme Orchidées passion
+								Exposition , BUIS-LES-BARONNIES
+								du samedi 07 au dimanche 08 mars 2015
+						
+
+					Pays de Rémuzat							
+													
+								Coin-Coin
+								Spectacle , MONTREAL-LES-SOURCES
+								Samedi 28 février 2015
+						
+
+					&nbsp;Val d'Eygues							
+													
+								du troc au sub-prime
+								Conférence , NYONS
+								Jeudi 26 février 2015
+						
+
+												
+													
+								Soirée contes et musiques
+								Conte , CONDORCET
+								Vendredi 27 février 2015
+						
+
+												
+													
+								Comédie Toc Toc
+								Spectacle , NYONS
+								Samedi 28 février 2015
+						
+
+												
+													
+								trial des oliviers 
+								Performance , NYONS
+								du samedi 28 février au dimanche 01 mars 2015
+						
+
+												
+													
+								Soupe d'Epeautre en chansons 
+								Repas , VINSOBRES
+								du samedi 28 février au dimanche 01 mars 2015
+						
+
+												
+													
+								Soirée italienne
+								Repas , CURNIER
+								du samedi 28 février au samedi 28 mars 2015
+						
+
+												
+													
+								Concert classique de Francesco ATTESTI
+								Concert , NYONS
+								Dimanche 01 mars 2015
+						
+
+												
+													
+								Formation en massage-bien-être
+								Stage , LES PILLES
+								du lundi 02 au vendredi 06 mars 2015
+						
+
+												
+													
+								A la découverte de la naturopathie
+								Conférence , NYONS
+								Mercredi 04 mars 2015
+						
+
+												
+													
+								Conférence "Fra Angelico"
+								Conférence , NYONS
+								Jeudi 05 mars 2015
+						
+
+												
+													
+								BRICOMUSIC 
+								Atelier , NYONS
+								Vendredi 06 mars 2015
+						
+
+												
+													
+								Bar à Soupe
+								Fête , NYONS
+								Vendredi 06 mars 2015
+						
+
+												
+													
+								Concert Gospel
+								Concert , NYONS
+								Samedi 07 mars 2015
+						
+
+												
+													
+								Histoires et tintamarres
+								Conte , NYONS
+								Samedi 07 mars 2015
+						
+
+												
+													
+								Conférence débat de Hervé LIFFRAN
+								Conférence , VINSOBRES
+								Samedi 07 mars 2015
+						
+
+					Ailleurs dans le coin							
+													
+								Stage de cirque
+								Stage , VAISON-LA-ROMAINE
+								du mardi 24 février au samedi 07 mars 2015
+						
+
+												
+													
+								Les cafés littéraires de Taulignan
+								Rencontre , TAULIGNAN
+								Jeudi 26 février 2015
+						
+
+												
+													
+								Tchayok en concert
+								Atelier , SERRES
+								Samedi 28 février 2015
+						
+
+												
+													
+								Stage de jardinage : Soins naturels au jardin
+								Stage , SIMIANE-LA-ROTONDE
+								Samedi 28 février 2015
+						
+
+												
+													
+								Formation à la symptothermie 
+								Stage , VALREAS
+								Dimanche 01 mars 2015
+						
+
+												
+													
+								32eme salon de la carte postale et toutes collections
+								Salon , GRIGNAN
+								Dimanche 08 mars 2015
+						
+
+												
+													
+								Gratiferia
+								Marché , REVEST-DU-BION
+								Dimanche 08 mars 2015
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													La Cave du Troc, votre Boutik' gratuite!
+							
+						
+						
+														MOLLANS-SUR-OUVEZE
+						
+						
+					
+					
+													Lapinos à vendre
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														AUBRES
+						
+						
+					
+					
+													vends mazda demio
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+					
+													Recherche hébergement Grenoble
+							
+						
+						
+														CONDORCET
+						
+						
+					
+					
+													Guitare classique 4/4 pour débutant, Sylvana et accessoires
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														LA MOTTE-CHALANCON
+						
+						
+					
+					
+													Locaux associatifs à partager
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+					
+													Association Le Local
+							
+						
+						
+														REMUZAT
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Maison des Vautours
+								
+								
+							
+							
+															REMUZAT
+								Association							
+							
+						
+						
+														Arom'Yiddish
+								
+								Groupe de musique klezmer
+							
+							
+															DIEULEFIT
+								Association							
+							
+						
+						
+														RadiO'live
+								
+								Webradio itinérante
+							
+							
+															NYONS
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

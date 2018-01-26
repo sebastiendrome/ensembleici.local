@@ -1,0 +1,429 @@
+
+
+
+    
+        
+        Ensemble ici | Bulletin #4 Ensemble Ici Pays de Romans
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Boujour &agrave; toutes et &agrave; tous !
+L'air se colore de parfums d'&eacute;t&eacute;, et les animations se multiplient sur nos territoires :) Ce WE, la F&ecirc;te de la r&eacute;cup' de la Ressourcerie Verte bat son plein, tandis que de dr&ocirc;les de bicyclettes envahissent la Place Maurice Faure pour la grande F&ecirc;te du V&eacute;lo et du Tour... Pour celles et ceux qui ne sauraient choisir, ces deux &eacute;v&eacute;nements organisent un v&eacute;lobus pour voyager de l'un &agrave; l'autre en toute convivialit&eacute; !
+Vous remarquez qu'il manque un &eacute;v&eacute;nement &agrave; l'agenda ? Vous pouvez l'ajouter vous-m&ecirc;me sur ensembleici.fr !
+Joyeuse semaine &agrave; vous !
+&nbsp;
+&nbsp;                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Chabeuil                        
+                    
+                    Musichiens
+                    Concert , CHATEAUDOUBLE
+                    Samedi 03 juin 2017
+                    
+
+                                            
+                    
+                    Troquet littéraire
+                    Lecture , CHATEAUDOUBLE
+                    Mardi 06 juin 2017
+                    
+
+                                            
+                    
+                    Fête des bourgeons
+                    Fête , CHABEUIL
+                    Dimanche 11 juin 2017
+                    
+
+                    Pays de l'Herbasse                        
+                    
+                    Fête de la MJC
+                    Fête , SAINT-DONAT-SUR-L'HERBASSE
+                    du vendredi 09 au samedi 17 juin 2017
+                    
+
+                                            
+                    
+                    Parlez-moi d'humour
+                    Festival , SAINT-DONAT-SUR-L'HERBASSE
+                    du samedi 10 au dimanche 11 juin 2017
+                    
+
+                    Pays de Romans                        
+                    
+                    Faîtes de la Récup' !  8ème édition 
+                    Festival , ROMANS-SUR-ISERE
+                    du lundi 29 mai au samedi 03 juin 2017
+                    
+
+                                            
+                    
+                    Concert : Salamandre (Rock)
+                    Concert , ROMANS-SUR-ISERE
+                    Samedi 03 juin 2017
+                    
+
+                                            
+                    
+                    Didgeridoo Drôme Party 2
+                    Concert , ROMANS-SUR-ISERE
+                    Samedi 03 juin 2017
+                    
+
+                                            
+                    
+                    Fête du Vélo 
+                    Fête , ROMANS-SUR-ISERE
+                    du samedi 03 au dimanche 04 juin 2017
+                    
+
+                                            
+                    
+                    Création en famille
+                    Atelier , ROMANS-SUR-ISERE
+                    Mercredi 07 juin 2017
+                    
+
+                                            
+                    
+                    Petit déjeuner au PlatO
+                    Rencontre , ROMANS-SUR-ISERE
+                    Vendredi 09 juin 2017
+                    
+
+                                            
+                    
+                    Fabrication de matériels d'apprentissage
+                    Atelier , ROMANS-SUR-ISERE
+                    Samedi 10 juin 2017
+                    
+
+                    Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...            
+        
+    
+    
+            
+                        
+    
+
+
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Vente logements "cohabitat" à Die
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Le PlatO
+                Fabrique de spectacles
+                
+                                        ROMANS-SUR-ISERE
+                        Association                
+                
+                
+                            Auberge de l'Isère
+                O' berges de l'Isère
+                
+                                        ROMANS-SUR-ISERE
+                        Association                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

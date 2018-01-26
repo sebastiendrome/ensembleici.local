@@ -1,0 +1,719 @@
+
+
+    
+        
+        Ensemble ici | # 24 : Ensemble Ici en Baronnies
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 05 au 15/12/2013
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	NOUVEAU sur &quot;Ensemble Ici&quot;:
+
+	
+	D&eacute;couvrez le calendrier global des &eacute;v&egrave;nements partag&eacute;s par vos soins en cliquant [ici]
+
+	
+	Un nouvel outil d&#39;&eacute;change et de diffusion autog&eacute;r&eacute;, actualis&eacute; de mani&egrave;re permanente et imm&eacute;diate &agrave; partir des informations ajout&eacute;es via les formulaires du site!
+	
+	La version imprimable de l&#39;agenda des 10 prochains jours est &eacute;galement en libre acc&eacute;s.*
+	&nbsp;
+
+	Belle semaine &agrave; tous!
+	Et ne ratez pas le festival Contes et Rencontres, qui poursuit sa route sur de nombreux villages!
+	
+	&nbsp;
+
+	*Ces deux nouveaux services seront bient&ocirc;t accessibles depuis le portail www.ensembleici.fr
+	En attendant, vos retours nous aideront &agrave; les am&eacute;liorer!
+			Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici. Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site. Tous ensemble, solidaires, b&acirc;tissons cet outil d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, et bient&ocirc;t forums.		
+	
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								Gratiféria
+								Marché , REILHANETTE
+								Dimanche 08 décembre 2013
+						
+
+					&nbsp;Pays de Buis-les-Baronnies							
+													
+								Téléthon
+								Manifestation , MOLLANS-SUR-OUVEZE
+								du vendredi 06 au samedi 07 décembre 2013
+						
+
+												
+													
+								Clin d'oeil au Pays du Soleil Levant
+								Exposition , MOLLANS-SUR-OUVEZE
+								du samedi 07 au lundi 30 décembre 2013
+						
+
+												
+													
+								Dans la lumière du Mont Fudji
+								Conte , BUIS-LES-BARONNIES
+								Mercredi 11 décembre 2013
+						
+
+												
+													
+								Va, va, va, le magnifique!
+								Conte , SAINT-SAUVEUR-GOUVERNET
+								Vendredi 13 décembre 2013
+						
+
+					&nbsp;Pays de Rémuzat							
+													
+								Soirée thématique: sécurité sur internet
+								Conférence , REMUZAT
+								Vendredi 06 décembre 2013
+						
+
+												
+													
+								Dis-Moi
+								Conte , REMUZAT
+								Vendredi 06 décembre 2013
+						
+
+												
+													
+								Liza, sans frontières
+								Spectacle , VILLEPERDRIX
+								Samedi 07 décembre 2013
+						
+
+												
+													
+								Marché de Noël 
+								Marché , REMUZAT
+								Dimanche 15 décembre 2013
+						
+
+					&nbsp;Val d'Eygues							
+													
+								Contes et rencontres
+								Conte , NYONS
+								du jeudi 21 novembre au dimanche 22 décembre 2013
+						
+
+												
+													
+								FAEP (Familles A Energie Positive)
+								Jeux , NYONS
+								du lundi 02 décembre 2013 au mercredi 30 avril 2014
+						
+
+												
+													
+								Toupetituli
+								Lecture , NYONS
+								Samedi 07 décembre 2013
+						
+
+												
+													
+								Parole d'os
+								Conte , NYONS
+								Samedi 07 décembre 2013
+						
+
+												
+													
+								Nyons en fêtes
+								Manifestation , NYONS
+								du samedi 07 décembre 2013 au mercredi 01 janvier 2014
+						
+
+												
+													
+								Contes entre deux eaux
+								Conte , AUBRES
+								Dimanche 08 décembre 2013
+						
+
+												
+													
+								Les évènements de 1848: de la révolution de février à la IIe République
+								Conférence , NYONS
+								Lundi 09 décembre 2013
+						
+
+												
+													
+								"Dose le son"
+								Concert , NYONS
+								du lundi 09 au mardi 10 décembre 2013
+						
+
+												
+													
+								Atelier pâtisseries orientales
+								Repas , NYONS
+								Mardi 10 décembre 2013
+						
+
+												
+													
+								Philomène la raconteuse
+								Conte , NYONS
+								Mercredi 11 décembre 2013
+						
+
+												
+													
+								La géométrie des silences
+								Conte , CONDORCET
+								Jeudi 12 décembre 2013
+						
+
+												
+													
+								Vacances en familles pour foyers à petit budget!
+								Rencontre , NYONS
+								Vendredi 13 décembre 2013
+						
+
+												
+													
+								Tokyo, Histoire dans la mégapole japonaise
+								Conte , VENTEROL
+								Vendredi 13 décembre 2013
+						
+
+												
+													
+								Stage de conte
+								Conte , CONDORCET
+								du vendredi 13 au samedi 14 décembre 2013
+						
+
+												
+													
+								A portée de Voix
+								Conte , CONDORCET
+								Samedi 14 décembre 2013
+						
+
+												
+													
+								Les Ouates, polyphonies vocales
+								Concert , NYONS
+								Samedi 14 décembre 2013
+						
+
+												
+													
+								La fontaine aux jouets
+								Fête , NYONS
+								Samedi 14 décembre 2013
+						
+
+												
+													
+								Exposition d'Henri Gruere
+								Exposition , CURNIER
+								du samedi 14 au dimanche 15 décembre 2013
+						
+
+												
+													
+								Marché de Noël des Pilanthropes
+								Marché , LES PILLES
+								Dimanche 15 décembre 2013
+						
+
+												
+													
+								Dans l'sac du quêteux
+								Spectacle , NYONS
+								Dimanche 15 décembre 2013
+						
+
+					Ailleurs dans le coin							
+													
+								Bagarres
+								Conte , FAUCON
+								Jeudi 05 décembre 2013
+						
+
+												
+													
+								Le bonheur... Qu'est ce que c'est?
+								Conte , VALREAS
+								Vendredi 06 décembre 2013
+						
+
+												
+													
+								Chapiteau d'hiver
+								Spectacle , BOURG-SAINT-ANDEOL
+								du vendredi 06 au dimanche 15 décembre 2013
+						
+
+												
+													
+								Sortie botanique
+								Atelier , GRIGNAN
+								Samedi 07 décembre 2013
+						
+
+												
+													
+								Marché provençal de l'avent
+								Marché , GRIGNAN
+								du samedi 07 au dimanche 08 décembre 2013
+						
+
+												
+													
+								Claude Barzotti
+								Concert , VALREAS
+								Dimanche 08 décembre 2013
+						
+
+												
+													
+								Babel
+								Conte , VAISON-LA-ROMAINE
+								Mardi 10 décembre 2013
+						
+
+												
+													
+								Avant que j'oublie
+								Spectacle , VALAURIE
+								Mardi 10 décembre 2013
+						
+
+												
+													
+								Tragédie "Thyeste" de Sénèque
+								Spectacle , GRILLON
+								Dimanche 15 décembre 2013
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Appel à participation défilé Biennale de la Danse septembre .2014
+							
+						
+						
+														CURNIER
+						
+						
+					
+					
+													Appartement à louer à Londres
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													cherche personne parlant et lisant japonais
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													pension chat
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														BESIGNAN
+						
+						
+					
+					
+													joueur-euse de clarinette
+							
+						
+						
+														CHATEAUNEUF-DE-BORDETTE
+						
+						
+					
+					
+													URGENT ! Collecte Banque alimentaire
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													HORS LE VENT Roman
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														VOULTE-SUR-RHONE
+						
+						
+					
+					
+													Offre d'emploi: Chargé de mission
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Recrutements: animateurs et serveurs à Pierrelatte 
+							
+						
+						
+														PIERRELATTE
+						
+						
+					
+					
+													Offre d'emploi: Cariste
+							
+						
+						
+														SAINT-PAUL-TROIS-CHATEAUX
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Association Familiale les Baronnies
+								
+								
+							
+							
+															BUIS-LES-BARONNIES
+								Association							
+							
+						
+						
+														Foyer des jeunes
+								
+								de La Motte Chalancon
+							
+							
+															LA MOTTE-CHALANCON
+								Association							
+							
+						
+						
+														@soft Condorcet
+								
+								association pour l'informatique
+							
+							
+															CONDORCET
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+			
+				
+			
+				
+			
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

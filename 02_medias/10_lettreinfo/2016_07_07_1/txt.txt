@@ -1,0 +1,1071 @@
+
+
+    
+        
+        Ensemble ici | # 2016-28 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 07 au 17/07/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous,
+	&nbsp;
+
+	L&#39;association DECOR, qui porte les projets Ensemble Ici et RadiO&#39;live, a pr&eacute;sent&eacute; son Assembl&eacute;e G&eacute;n&eacute;rale le mardi 5 juillet.
+	
+	Une vingtaine de personnes se sont r&eacute;unies pour discuter du projet qui, depuis quelques ann&eacute;es d&eacute;j&agrave;, &eacute;claire l&#39;actualit&eacute; sociale, culturelle et citoyenne des Baronnies... et maintenant sur d&#39;autres territoires !
+
+	Nous remercions tous les participants d&#39;&ecirc;tre venus, et mettons &agrave; la disposition de tous un diaporama r&eacute;capitulatif, accessible en cliquant  ici !
+
+
+	
+		
+
+
+	
+	Et n&#39;oubliez pas votre rendez-vous du lundi devenu incontournable : Radio-buvette aux Pilles autour d&#39;un spectacle de cirque vertigineux !&nbsp; &nbsp; &nbsp; &nbsp;
+
+
+	Belle semaine &agrave; vous,
+	
+	L&#39;&eacute;quipe d&#39;Ensemble ici Baronnies
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+                Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+                
+        
+		
+			
+				
+				Diois							
+													
+								Concert - Eglise de St Julien en Quint
+								Concert , SAINT-JULIEN-EN-QUINT
+								Vendredi 08 juillet 2016
+						
+
+					&nbsp;Pays de Buis-les-Baronnies							
+													
+								"Aquarelle et crayons"
+								Exposition , BUIS-LES-BARONNIES
+								du dimanche 05 juin au dimanche 10 juillet 2016
+						
+
+												
+													
+								3e défi culinaire amateur
+								Manifestation , BUIS-LES-BARONNIES
+								du lundi 13 juin au samedi 15 octobre 2016
+						
+
+												
+													
+								Newsletter juillet
+								Manifestation , BUIS-LES-BARONNIES
+								du vendredi 01 au dimanche 31 juillet 2016
+						
+
+												
+													
+								Les petits cochons
+								Concert , SAINT-SAUVEUR-GOUVERNET
+								du mercredi 06 au jeudi 07 juillet 2016
+						
+
+												
+													
+								Exposition de Bachir Hadji
+								Exposition , BEAUVOISIN
+								Samedi 09 juillet 2016
+						
+
+												
+													
+								Marché artisanal
+								Marché , BUIS-LES-BARONNIES
+								Samedi 09 juillet 2016
+						
+
+												
+													
+								Marché provençal
+								Marché , MOLLANS-SUR-OUVEZE
+								Samedi 09 juillet 2016
+						
+
+												
+													
+								Vent de panique
+								Concert , SAINT-SAUVEUR-GOUVERNET
+								Samedi 09 juillet 2016
+						
+
+												
+													
+								Journées d'Art 
+								Fête , PROPIAC
+								du samedi 09 au dimanche 10 juillet 2016
+						
+
+												
+													
+								La Cave du Troc, Votre Boutik' gratuite de Prêt à Porter et articles en tout genre!
+								Visite , MOLLANS-SUR-OUVEZE
+								du samedi 09 au samedi 30 juillet 2016
+						
+
+												
+													
+								Aromatiques & Tilleul en Baronnies 
+								Foire , BUIS-LES-BARONNIES
+								Dimanche 10 juillet 2016
+						
+
+												
+													
+								les ptits pestacles de l'été
+								Spectacle , BUIS-LES-BARONNIES
+								du lundi 11 au vendredi 15 juillet 2016
+						
+
+												
+													
+								Sérénades en Baronnies
+								Festival , BUIS-LES-BARONNIES
+								du lundi 11 au mercredi 20 juillet 2016
+						
+
+												
+													
+								les P'tis Pestacles de l'été 2016
+								Festival , BUIS-LES-BARONNIES
+								du lundi 11 juillet au vendredi 26 août 2016
+						
+
+												
+													
+								Bal du 14 juillet
+								Fête , MOLLANS-SUR-OUVEZE
+								Jeudi 14 juillet 2016
+						
+
+												
+													
+								TZARIK
+								Concert , BEAUVOISIN
+								Vendredi 15 juillet 2016
+						
+
+												
+													
+								Les Peintres dans la Rue
+								Exposition , MOLLANS-SUR-OUVEZE
+								du samedi 16 au dimanche 17 juillet 2016
+						
+
+					Pays de Rémuzat							
+													
+								Atelier "Créer son site Web"
+								Atelier , REMUZAT
+								du jeudi 02 juin au jeudi 07 juillet 2016
+						
+
+												
+													
+								Mlle de La Charce
+								Projection , VERCLAUSE
+								Samedi 09 juillet 2016
+						
+
+												
+													
+								Renaissance Sonore
+								Stage , LA MOTTE-CHALANCON
+								du samedi 09 au dimanche 10 juillet 2016
+						
+
+												
+													
+								Ballade contée
+								Conte , LA MOTTE-CHALANCON
+								Mardi 12 juillet 2016
+						
+
+												
+													
+								Concert Gâmal
+								Concert , LA MOTTE-CHALANCON
+								Mardi 12 juillet 2016
+						
+
+												
+													
+								Tricot & co
+								Exposition , VILLEPERDRIX
+								du samedi 16 au dimanche 24 juillet 2016
+						
+
+					Val d'Eygues							
+													
+								COURS DE YOGA à domicile
+								Cours , NYONS
+								du lundi 11 avril au samedi 31 décembre 2016
+						
+
+												
+													
+								Exposition NID D'ART
+								Exposition , NYONS
+								du dimanche 08 mai au lundi 18 juillet 2016
+						
+
+												
+													
+								Expo
+								Exposition , NYONS
+								du dimanche 22 mai au jeudi 15 septembre 2016
+						
+
+												
+													
+								Venez goûter...  Le  COWORKING
+								Rencontre , NYONS
+								du mercredi 15 juin au mercredi 17 août 2016
+						
+
+												
+													
+								exposition  de sculptures
+								Exposition , NYONS
+								du lundi 20 juin au samedi 30 juillet 2016
+						
+
+												
+													
+								Betty
+								Exposition , NYONS
+								du jeudi 23 juin au dimanche 24 juillet 2016
+						
+
+												
+													
+								Exposition d'avril et d'ailleurs
+								Exposition , MIRABEL-AUX-BARONNIES
+								du samedi 25 juin au samedi 27 août 2016
+						
+
+												
+													
+								Fresque et atelier Pop-pup à Curnier Plage
+								Jeux , CURNIER
+								Jeudi 07 juillet 2016
+						
+
+												
+													
+								Fabrication d'hôtels à insectes !
+								Atelier , CURNIER
+								Vendredi 08 juillet 2016
+						
+
+												
+													
+								"Bien à vous"
+								Spectacle , NYONS
+								Vendredi 08 juillet 2016
+						
+
+												
+													
+								Vernissage
+								Exposition , NYONS
+								Vendredi 08 juillet 2016
+						
+
+												
+													
+								Concerts de la Chorale du Delta
+								Concert , NYONS
+								du vendredi 08 juillet au dimanche 07 août 2016
+						
+
+												
+													
+								concert Frizaplat et Djulius
+								Concert , CURNIER
+								Samedi 09 juillet 2016
+						
+
+												
+													
+								Tous à la fête des Pilles le 9 juillet !
+								Fête , LES PILLES
+								Samedi 09 juillet 2016
+						
+
+												
+													
+								La Bande à Koustik
+								Concert , NYONS
+								Samedi 09 juillet 2016
+						
+
+												
+													
+								Visites et assiettes paysannes
+								Manifestation , SAINT-FERREOL-TRENTE-PAS
+								Samedi 09 juillet 2016
+						
+
+												
+													
+								Initiation à la BATUCADA
+								Atelier , SAINTE-JALLE
+								Samedi 09 juillet 2016
+						
+
+												
+													
+								Les Voix du Coin 
+								Concert , VENTEROL
+								Samedi 09 juillet 2016
+						
+
+												
+													
+								Initiation au STOP MOTION
+								Atelier , LES PILLES
+								Dimanche 10 juillet 2016
+						
+
+												
+													
+								Festival de théâtre Festivolt
+								Spectacle , NYONS
+								Dimanche 10 juillet 2016
+						
+
+												
+													
+								RADIO BUVETTE
+								Atelier , LES PILLES
+								Lundi 11 juillet 2016
+						
+
+												
+													
+								Exceptionnel spectacle de cirque au marché des producteurs des Pilles !
+								Spectacle , LES PILLES
+								Lundi 11 juillet 2016
+						
+
+												
+													
+								Fanfare Vent de Panique
+								Concert , MIRABEL-AUX-BARONNIES
+								Lundi 11 juillet 2016
+						
+
+												
+													
+								STAGE : Fabriquer sa peinture
+								Stage , NYONS
+								du lundi 11 au mercredi 13 juillet 2016
+						
+
+												
+													
+								Stage arts plastiques
+								Atelier , AUBRES
+								du lundi 11 au samedi 16 juillet 2016
+						
+
+												
+													
+								Sérénades en Baronnies
+								Festival , SAINTE-JALLE
+								du lundi 11 au mercredi 20 juillet 2016
+						
+
+												
+													
+								Fresque et atelier cirque
+								Atelier , CURNIER
+								Mardi 12 juillet 2016
+						
+
+												
+													
+								Concert La Lora Tango
+								Concert , NYONS
+								Mardi 12 juillet 2016
+						
+
+												
+													
+								Jeux de société et atelier couture
+								Atelier , CURNIER
+								Mercredi 13 juillet 2016
+						
+
+												
+													
+								Soirée concerts à Curnier Plage !
+								Fête , CURNIER
+								Mercredi 13 juillet 2016
+						
+
+												
+													
+								Control Z
+								Concert , NYONS
+								Jeudi 14 juillet 2016
+						
+
+												
+													
+								A la ferme du Cochon Rustique
+								Visite , SAINT-FERREOL-TRENTE-PAS
+								Samedi 16 juillet 2016
+						
+
+												
+													
+								5ème édition Parcours artistique et convivial de Venterol
+								Exposition , VENTEROL
+								du samedi 16 au dimanche 17 juillet 2016
+						
+
+												
+													
+								Scène ouverte, 1ere partie avec "Bobosapiens"
+								Concert , LES PILLES
+								Dimanche 17 juillet 2016
+						
+
+												
+													
+								Apér'olive
+								Concert , NYONS
+								Dimanche 17 juillet 2016
+						
+
+												
+													
+								Dimanches des Arts
+								Exposition , NYONS
+								Dimanche 17 juillet 2016
+						
+
+					Ailleurs dans le coin							
+													
+								Stage céramique Raku
+								Stage , CHAMARET
+								du samedi 04 juin au samedi 10 septembre 2016
+						
+
+												
+													
+								Exposition Emilie Losch
+								Exposition , VALAURIE
+								du vendredi 10 juin au dimanche 10 juillet 2016
+						
+
+												
+													
+								Exposition Jacques Clerc
+								Exposition , GRIGNAN
+								du samedi 18 juin au dimanche 04 septembre 2016
+						
+
+												
+													
+								Les fêtes Nocturnes - Don Quichotte
+								Spectacle , GRIGNAN
+								du vendredi 24 juin au samedi 20 août 2016
+						
+
+												
+													
+								Cours été Qiqong Taichi  à Dieulefit 2016
+								Cours , DIEULEFIT
+								du vendredi 01 juillet au mercredi 31 août 2016
+						
+
+												
+													
+								VAISON DANSES 2016
+								Festival , VAISON-LA-ROMAINE
+								du lundi 04 au vendredi 29 juillet 2016
+						
+
+												
+													
+								Festival Oasis Bizz'Art
+								Festival , LAUPIE
+								Jeudi 07 juillet 2016
+						
+
+												
+													
+								Sieste Acoustique, un concert pas comme les autres
+								Concert , SUZE-LA-ROUSSE
+								Jeudi 07 juillet 2016
+						
+
+												
+													
+								Et dans cet arbre...
+								Spectacle , AVIGNON
+								du jeudi 07 au samedi 30 juillet 2016
+						
+
+												
+													
+								Festival Oasis Bizz'Art
+								Festival , LAUPIE
+								Vendredi 08 juillet 2016
+						
+
+												
+													
+								Atelier Participatif
+								Rencontre , ROSANS
+								Vendredi 08 juillet 2016
+						
+
+												
+													
+								Foxaswing
+								Concert , SUZE-LA-ROUSSE
+								Vendredi 08 juillet 2016
+						
+
+												
+													
+								FESTIVAL PLI n°2
+								Festival , PONT-DE-BARRET
+								du vendredi 08 au dimanche 10 juillet 2016
+						
+
+												
+													
+								Les Concerts Tôt
+								Concert , VALREAS
+								du vendredi 08 juillet au vendredi 26 août 2016
+						
+
+												
+													
+								Festival Oasis Bizz'Art
+								Festival , LAUPIE
+								Samedi 09 juillet 2016
+						
+
+												
+													
+								Autour de nous...
+								Rencontre , POET-LAVAL
+								Samedi 09 juillet 2016
+						
+
+												
+													
+								Vide greniers du Théâtre Pascale Vaillant
+								Vide-grenier , VAISON-LA-ROMAINE
+								Dimanche 10 juillet 2016
+						
+
+												
+													
+								Festival Off's : Bill Deraime 
+								Concert , LAUPIE
+								Lundi 11 juillet 2016
+						
+
+												
+													
+								Terre nourricière : horizon permaculture
+								journée d'information , BRUIS
+								Vendredi 15 juillet 2016
+						
+
+												
+													
+								Festival au fil  des voix
+								Festival , VAISON-LA-ROMAINE
+								du vendredi 15 au jeudi 21 juillet 2016
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+                
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													RECHERCHE MOBILIER
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Cherche outils de jardinage
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Monte-escalier Acorn Superglide
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														CONDORCET
+						
+						
+					
+					
+													Ancienne cintreuse cuivre CU 320 Virax caisse en bois d'origine
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														CONDORCET
+						
+						
+					
+					
+													donne scanner CanoScan Lide 500F
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													A vendre frigo et gazinière
+							
+						
+						
+														ROCHEBRUNE
+						
+						
+					
+					
+													A la recherche de colocataires !
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													RECHERCHE LOGEMENT
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Recherche Musiciens
+							
+						
+						
+														NYONS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Éditions du Bon Pied
+								
+								
+							
+							
+															SAINTE-JALLE
+								Association							
+							
+						
+						
+														Le Cochon Rustique des Baronnies
+								
+								élevage en plein air de porcs rustiques
+							
+							
+															SAINT-FERREOL-TRENTE-PAS
+								Etablissement privé							
+							
+						
+						
+														Ordi'contact
+								
+								Dépannage et assistance informatique à domicile
+							
+							
+															ARPAVON
+								Auto-entrepreneur							
+							
+						
+						
+														SALON BIEN ETRE , MEDECINES ALTERNATIVES
+								
+								
+							
+							
+															BEGUDE-DE-MAZENC
+								Association							
+							
+						
+						
+														MÔMES ET MERVEILLES
+								
+								Association culturelle pour les enfants - Dieulefit
+							
+							
+															DIEULEFIT
+								Association							
+							
+						
+						
+														Allison Choquart, Design Numérique
+								
+								Entreprise d'infographie
+							
+							
+															ESPENEL
+								Auto-entrepreneur							
+							
+						
+						
+														Kanda Prod
+								
+								Maison artisanale de production audiovisuelle
+							
+							
+															VALDROME
+								Auto-entrepreneur							
+							
+						
+						
+														 la Buen'aventure
+								
+								une action de l'association Buenas Ondas Collectif qui vise à rendre la nature accessible à tous! 
+							
+							
+															MENGLON
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+    
+	Le collectif "Ensemble ici" :
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+        
+
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

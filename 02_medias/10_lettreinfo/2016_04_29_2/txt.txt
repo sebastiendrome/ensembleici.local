@@ -1,0 +1,545 @@
+
+
+    
+        
+        Ensemble ici | Lettre de EnsembleIci - Vallee de la Drome / Diois, 2016 #7 - 28 avril
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 29/04 au 09/05/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						Bonjour,
+
+Chaud - froid - chaud - froid - chaud - froid
+Des rendez-vous pour s&#39;a&eacute;rer, pour se rapprocher des plantes, pour danser. Des rendez-vous pour &quot;travailler de l&#39;int&eacute;rieur&quot; quand il fait frais dehors... m&eacute;ditation, information Biovallee, concert, dessin, massage,...
+
+Pas de nouveaut&eacute;s dans la forme de la pr&eacute;sentation des listes pdf cette cemaine, mais y en aura d&#39;autres, suspens !
+
+Une info &agrave; partager ? N&#39;h&eacute;sitez pas &agrave; publier des informations, vous aussi. Contributeurs d&#39;information : Ne renseignez pas vos adresses courriels dans les descriptifs mais dans le champs pr&eacute;vu &agrave; cela, pour &eacute;viter des d&eacute;sagr&eacute;ments sur votre adresse courriel.
+
+Bon printemps, bons WE prolong&eacute;s pour ceux qui en ont,
+
+Avec l&#39;enthousiasme et le plaisir d&#39;&ecirc;tre Ensemble, Ici, dans la Vall&eacute;e de la Dr&ocirc;me / Diois, avec vous,
+
+
+
+	Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois
+	&nbsp;
+
+	
+
+	
+	Rappel
+	Tous les &eacute;v&eacute;nements &agrave; venir dans les 10 jours, list&eacute;s en PDF : en haut des &eacute;v&eacute;nements cliquez sur &quot;l&#39;agenda complet des &eacute;v&eacute;nements au format PDF&quot; ,
+	Toutes les derni&egrave;res annonces, list&eacute;es en PDF : en haut des annonces cliquez sur &quot;la liste compl&egrave;te des petites annonces au format PDF&quot;
+					
+	
+
+
+
+	
+                Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+                
+        
+		
+			
+				
+				Crestois Pays de Saillans							
+													
+								Café mortel à Crest
+								Rencontre , CREST
+								Vendredi 29 avril 2016
+						
+
+												
+													
+								Kiosk live session 2
+								Concert , CREST
+								Vendredi 29 avril 2016
+						
+
+												
+													
+								Concert de soutien à l'Agriculture Paysanne
+								Concert , MIRABEL-ET-BLACONS
+								Samedi 30 avril 2016
+						
+
+												
+													
+								Bols de Cristal
+								Concert , PIEGROS-LA-CLASTRE
+								Jeudi 05 mai 2016
+						
+
+					&nbsp;Diois							
+													
+								Evènements Mai juin à la Bonneterie
+								Manifestation , DIE
+								du vendredi 22 avril au lundi 20 juin 2016
+						
+
+												
+													
+								Cycle d'initiation Pleine Présence
+								Atelier , DIE
+								du jeudi 28 avril au dimanche 12 juin 2016
+						
+
+												
+													
+								Rencontre Parents du Diois
+								Rencontre , DIE
+								Samedi 30 avril 2016
+						
+
+												
+													
+								Stage chant kabyle
+								Stage , DIE
+								du samedi 30 avril au dimanche 01 mai 2016
+						
+
+												
+													
+								Café de l'emploi
+								Rencontre , DIE
+								Lundi 02 mai 2016
+						
+
+												
+													
+								Stage d'Initiation formation au Massage Sensitif 
+								Stage , MARIGNAC-EN-DIOIS
+								du lundi 02 au vendredi 06 mai 2016
+						
+
+												
+													
+								Immersion nature et pratiques artistiques
+								Stage , BARNAVE
+								du jeudi 05 au dimanche 08 mai 2016
+						
+
+												
+													
+								Ateliers Plantes Sauvages pour Savon et Cuisine
+								Atelier , VACHERES-EN-QUINT
+								du vendredi 06 mai au mercredi 24 août 2016
+						
+
+												
+													
+								Atelier du Jardin à la Tisane
+								Promenade , DIE
+								Samedi 07 mai 2016
+						
+
+												
+								Rendez-vous dansant dans le joli mois de mai
+								Atelier , DIE
+								Dimanche 08 mai 2016
+						
+
+												
+													
+								Vide grenier festif Marignac en Diois
+								Vide-grenier , MARIGNAC-EN-DIOIS
+								Dimanche 08 mai 2016
+						
+
+					Val de Drôme							
+													
+								With - Cie Lève un Peu Les Bras
+								Spectacle , EURRE
+								Vendredi 29 avril 2016
+						
+
+												
+													
+								APRES-MIDI CREATIVE A BEAUFORT 
+								Atelier , BEAUFORT-SUR-GERVANNE
+								Samedi 30 avril 2016
+						
+
+												
+													
+								Stage Plantes Sauvages & Cuisine
+								Atelier , EYGLUY-ESCOULIN
+								Samedi 30 avril 2016
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+                
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Journée Constellations Familiales
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													stage de yoga
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													Séjours nature enfants/ados
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													"C'est d'apprendre, qui est sacré! - Les premiers pas d'une classe Freinet"
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													articles de pêche
+							
+						
+						
+														MOLIERES-GLANDAZ
+						
+						
+					
+					
+													recherche coordonnees installateur poele à bois
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													Recherche bénévoles pour le "Marché du tiroir" à Suze, les lundis de juillet/ aout
+							
+						
+						
+														SUZE
+						
+						
+					
+					
+													Objets trouvés : sac à dos et lunettes de vue
+							
+						
+						
+														CREST
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														composy
+								
+								Formation - Communication - Consultant
+							
+							
+															DIE
+								SCOP							
+							
+						
+						
+														Marche et Dessine
+								
+								
+							
+							
+															OMBLEZE
+															
+							
+						
+						
+														Association de sauvegarde des cimetières familiaux de la Drôme -A.S.C.F.D
+								
+								
+							
+							
+															DIE
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

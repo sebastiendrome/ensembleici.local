@@ -1,0 +1,713 @@
+
+
+    
+        
+        Ensemble ici | # 2016-12 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 17 au 27/03/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Ensemble, ici, et maintenant ailleurs !
+
+Ca y est ! Notre m&eacute;dia citoyen des Baronnies s&#39;appr&ecirc;te &agrave; voir d&#39;autres horizons&nbsp;:
+
+Un collectif d&#39;acteurs de divers territoires est en train de se constituer, notamment sur la vall&eacute;e de la Dr&ocirc;me et le Diois&hellip;
+Ainsi, vous pouvez d&egrave;s aujourd&#39;hui consulter &quot;Ensemble Ici&quot; pour conna&icirc;tre l&rsquo;actualit&eacute; sociale, culturelle et citoyenne de ces nouvelles vall&eacute;es et vous inscrire &agrave; leur propre lettre d&rsquo;info !
+Vous pouvez d&#39;ailleurs retrouver celle de cette semaine (leur toute premi&egrave;re !) en cliquant ici.
+
+
+	L&#39;essaimage est donc lanc&eacute;: parlez-en autour de vous ou contactez nous pour que &laquo;&nbsp;Ensemble ici&nbsp;&raquo; ne soit plus qu&rsquo;ici, mais aussi ailleurs !
+
+	
+	&nbsp;
+
+	L&#39;&eacute;picerie des Pilles est en danger, soutenez-la !
+	Un appel &agrave; financement participatif est lanc&eacute; : retrouvez leur annonce sur Ensemble Ici.
+	
+		
+		Belle semaine &agrave; toutes et &agrave; tous !
+	
+		&nbsp;
+
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+                
+        
+		
+			
+				
+				Hautes Baronnies							
+													
+								Présentation de Cosmodrôme, Observatoire Claude Tavenier
+								Visite , SEDERON
+								Samedi 19 mars 2016
+						
+
+					&nbsp;Pays de Buis-les-Baronnies							
+													
+								CARNAVAL 2016
+								Fête , BUIS-LES-BARONNIES
+								Vendredi 18 mars 2016
+						
+
+												
+													
+								Carnaval 2016
+								Fête , BUIS-LES-BARONNIES
+								Vendredi 18 mars 2016
+						
+
+												
+													
+								Le barbier de Séville - Opéra au cinéma
+								Projection , BUIS-LES-BARONNIES
+								Samedi 19 mars 2016
+						
+
+												
+													
+								Lectures, à auteures d'yeux, Exposition
+								Lecture , BUIS-LES-BARONNIES
+								Samedi 19 mars 2016
+						
+
+												
+													
+								les plantes comestibles
+								Randonnée , BUIS-LES-BARONNIES
+								Samedi 19 mars 2016
+						
+
+												
+													
+								SALONS DETENTE ET BIEN ETRE
+								Salon , BUIS-LES-BARONNIES
+								du samedi 19 au dimanche 20 mars 2016
+						
+
+												
+													
+								La Cave du Troc, Votre Boutik' gratuite de Prêt à Porter et articles en tout genre!
+								Visite , MOLLANS-SUR-OUVEZE
+								du samedi 19 au samedi 26 mars 2016
+						
+
+												
+													
+								Vide grenier et Marché de Printemps
+								Vide-grenier , PROPIAC
+								Dimanche 20 mars 2016
+						
+
+					Pays de Rémuzat							
+													
+								Les promenades du tambourinaïre
+								Promenade , LA MOTTE-CHALANCON
+								Dimanche 20 mars 2016
+						
+
+					&nbsp;Val d'Eygues							
+													
+								Stage de Massage Bien Être
+								Stage , NYONS
+								du lundi 14 au vendredi 18 mars 2016
+						
+
+												
+													
+								Les rendez-vous des résidences Mars 2016
+								Atelier , NYONS
+								Jeudi 17 mars 2016
+						
+
+												
+													
+								"La Nuit des Rois" 
+								Spectacle , NYONS
+								Vendredi 18 mars 2016
+						
+
+												
+													
+								Les rendez-vous des résidences Mars 2016
+								Atelier , NYONS
+								Vendredi 18 mars 2016
+						
+
+												
+													
+								Conférence Naturopathie
+								Conférence , NYONS
+								Samedi 19 mars 2016
+						
+
+												
+													
+								Goûter lecture à Curnier
+								Lecture , CURNIER
+								Mercredi 23 mars 2016
+						
+
+												
+													
+								L'ogre et l'enfant 
+								Spectacle , VINSOBRES
+								Jeudi 24 mars 2016
+						
+
+												
+													
+								les plantes comestibles
+								Randonnée , NYONS
+								Samedi 26 mars 2016
+						
+
+												
+													
+								Stage jardinage et cueillette de printemps
+								Cours , NYONS
+								du samedi 26 au lundi 28 mars 2016
+						
+
+					Ailleurs dans le coin							
+													
+								Atelier Qi-Qong
+								Cours , VALREAS
+								Vendredi 18 mars 2016
+						
+
+												
+													
+								Atelier maquettes et pliages
+								Atelier , GRIGNAN
+								Samedi 19 mars 2016
+						
+
+												
+													
+								GRATIFERIA
+								Marché , REVEST-DU-BION
+								Samedi 19 mars 2016
+						
+
+												
+													
+								Soirée Celte
+								Concert , SAINT-PANTALEON-LES-VIGNES
+								Samedi 19 mars 2016
+						
+
+												
+													
+								Les Parolivores
+								Concert , SEGURET
+								Samedi 19 mars 2016
+						
+
+												
+													
+								Octobre Rose en Mars !
+								Manifestation , TAULIGNAN
+								Samedi 19 mars 2016
+						
+
+												
+													
+								Sons d'aujourd'hui et mots d'hier
+								Concert , VAISON-LA-ROMAINE
+								Samedi 19 mars 2016
+						
+
+												
+													
+								2e Randuro des Géants 2016
+								Randonnée , PUYMERAS
+								Dimanche 20 mars 2016
+						
+
+												
+													
+								concert 
+								Concert , VALREAS
+								Dimanche 20 mars 2016
+						
+
+												
+													
+								Soirée cinéma : 2 films
+								Projection , LACHAU
+								Lundi 21 mars 2016
+						
+
+												
+													
+								Projection "Je lutte donc je suis"
+								Projection , PORTES-EN-VALDAINE
+								Mercredi 23 mars 2016
+						
+
+												
+													
+								Art public ?
+								Conférence , SERRES
+								Vendredi 25 mars 2016
+						
+
+												
+													
+								Atelier Qi-Qong
+								Cours , VALREAS
+								Vendredi 25 mars 2016
+						
+
+												
+													
+								Concert de Pâques
+								Manifestation , GRIGNAN
+								Dimanche 27 mars 2016
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													L'association familiale recherche un volontaire en service civique
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													La Cigale recherche un volontaire en service civique
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Soutien à l'épicerie des Pilles pour le carburant
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													Cherche musiciens
+							
+						
+						
+														VENTEROL
+						
+						
+					
+					
+													Cherche Serre d'Occasion
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													COLLEGIENS CHERCHENT CHAUSSURES
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													Séance de REIKI
+							
+						
+						
+														MONTAULIEU
+						
+						
+					
+					
+													cherche caravane
+							
+						
+						
+														MONTCLAR-SUR-GERVANNE
+						
+						
+					
+					
+													Vends Portes-Fenêtres
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														FAUCON
+						
+						
+					
+					
+													Jardin à louer ou en échange de légumes
+							
+						
+						
+														VALREAS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														CHEMINS SINGULIERS
+								
+								Accompagnement Biographique - Médiation CNV
+							
+							
+															AOUSTE-SUR-SYE
+								Auto-entrepreneur							
+							
+						
+						
+														Les Ateliers du Vivant
+								
+								Se relier au Vivant par la création
+							
+							
+															MONTMAUR-EN-DIOIS
+								Auto-entrepreneur							
+							
+						
+						
+														LA SOURCE
+								
+								Maison de santé naturelle
+							
+							
+															DIE
+								Association							
+							
+						
+						
+														Gaïa du Rivau
+								
+								Artiste plasticienne
+							
+							
+															NYONS
+								Auto-entrepreneur							
+							
+						
+						
+														Collectif de la Gratuité
+								
+								
+							
+							
+															DIE
+															
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

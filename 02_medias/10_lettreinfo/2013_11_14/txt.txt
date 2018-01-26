@@ -1,0 +1,678 @@
+
+
+    
+        
+        Ensemble ici | # 21 : Ensemble Ici en Baronnies
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 14 au 24/11/2013
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; tous,
+
+Voici l&#39;agenda des dix prochains jours, les derni&egrave;res petites annonces et les nouvelles structures ajout&eacute;es par les utilisateurs et acteurs d&#39;Ensemble Ici!
+
+N&#39;h&eacute;sitez pas &agrave; partager vos informations sur le site et &agrave; inviter votre entourage &agrave; s&#39;inscrire &agrave; la Newsletter:
+C&#39;est avec la participation de tous et de chacun que nous pourrons, ensemble, faciliter la vie locale et devenir acteurs du territoire!
+
+Le projet &quot;Ensemble Ici&quot; ne peut exister sans vous.
+
+Belle semaine &agrave; tous,
+
+	&quot;L&#39;&eacute;quipe Ensemble ici&quot;.
+					
+	
+
+
+	
+		
+			
+				
+				Pays de Buis-les-Baronnies							
+													
+								Bourse aux Jouets et aux Vêtements enfants
+								Manifestation , BUIS-LES-BARONNIES
+								Dimanche 17 novembre 2013
+						
+
+												
+													
+								spectacle de marionnettes
+								Spectacle , BUIS-LES-BARONNIES
+								Mercredi 20 novembre 2013
+						
+
+					Pays de Rémuzat							
+													
+								Concert de Jean-Marie Loubry
+								Concert , MONTREAL-LES-SOURCES
+								Samedi 23 novembre 2013
+						
+
+					&nbsp;Val d'Eygues							
+													
+								Café de France
+								Concert , MIRABEL-AUX-BARONNIES
+								Samedi 16 novembre 2013
+						
+
+												
+													
+								CONCERT OAI STAR + DUBMOOD
+								Concert , NYONS
+								Samedi 16 novembre 2013
+						
+
+												
+													
+								De bulles en bulles (ANNULE ! )
+								Conte , NYONS
+								Samedi 16 novembre 2013
+						
+
+												
+													
+								Rencontre avec Nelcya Delanoë autour de son livre "D'une petite rafle provençale" (éd.du Seuil)
+								Rencontre , NYONS
+								Samedi 16 novembre 2013
+						
+
+												
+													
+								Amnesty International
+								Marché , NYONS
+								du samedi 16 au dimanche 17 novembre 2013
+						
+
+												
+													
+								"BLOOD TIES" (Guillaume Canet)
+								Projection , NYONS
+								Lundi 18 novembre 2013
+						
+
+												
+													
+								Histoires et tintamarres
+								Lecture , NYONS
+								Mercredi 20 novembre 2013
+						
+
+												
+													
+								Malika Verlaguet
+								Conte , NYONS
+								Jeudi 21 novembre 2013
+						
+
+												
+													
+								Histoire du vignoble et des vins de la Drôme
+								Rencontre , NYONS
+								Jeudi 21 novembre 2013
+						
+
+												
+													
+								Rencontre avec Philippe Georget
+								Rencontre , NYONS
+								Vendredi 22 novembre 2013
+						
+
+												
+													
+								Toupetituli
+								Lecture , NYONS
+								Samedi 23 novembre 2013
+						
+
+												
+													
+								Bourse aux BD
+								Marché , NYONS
+								Samedi 23 novembre 2013
+						
+
+												
+													
+								Dessinons l'avenir !
+								Atelier , NYONS
+								Samedi 23 novembre 2013
+						
+
+												
+													
+								3ème Festival Polar à Nyons
+								Festival , NYONS
+								du samedi 23 au dimanche 24 novembre 2013
+						
+
+												
+													
+								A la découverte des structures sonores des frères Baschet
+								Stage , VENTEROL
+								du samedi 23 au dimanche 24 novembre 2013
+						
+
+												
+													
+								"Cheval du vent"
+								Conte , VENTEROL
+								Dimanche 24 novembre 2013
+						
+
+					&nbsp;Ailleurs dans le coin							
+													
+								Lionel Suarez Trio
+								Concert , GRIGNAN
+								Vendredi 15 novembre 2013
+						
+
+												
+													
+								Cie Joe Sature et ses joyeux osselets
+								Spectacle , SEGURET
+								Vendredi 15 novembre 2013
+						
+
+												
+													
+								10 eme marché de Noël
+								Exposition , ROSANS
+								du vendredi 15 novembre au mardi 31 décembre 2013
+						
+
+												
+													
+								Spectacle de Santo Barracato
+								Concert , DIEULEFIT
+								Samedi 16 novembre 2013
+						
+
+												
+													
+								"Rencontres du petit colophon rouge - De la lettre aux mots"
+								Rencontre , GRIGNAN
+								Samedi 16 novembre 2013
+						
+
+												
+													
+								Vincent ROCA
+								Spectacle , RASTEAU
+								Samedi 16 novembre 2013
+						
+
+												
+													
+								Histoires-Histoires, Des Cordeliers à Marcel Pagnol
+								Spectacle , VALREAS
+								Samedi 16 novembre 2013
+						
+
+												
+													
+								Le Trail des trufiières
+								Manifestation , SAINT-PAUL-TROIS-CHATEAUX
+								du samedi 16 au dimanche 17 novembre 2013
+						
+
+												
+													
+								Bourse au collection
+								Foire , PIERRELATTE
+								Dimanche 17 novembre 2013
+						
+
+												
+													
+								Foire aux fruits d'hiver
+								Foire , SAOU
+								Dimanche 17 novembre 2013
+						
+
+												
+													
+								Festiv'jazz
+								Festival , CHABEUIL
+								du jeudi 21 au samedi 23 novembre 2013
+						
+
+												
+													
+								PEP'S + MON'A + Beyond
+								Concert , DIEULEFIT
+								Samedi 23 novembre 2013
+						
+
+												
+													
+								Soirée Gospel
+								Concert , TAULIGNAN
+								Samedi 23 novembre 2013
+						
+
+												
+													
+								Stage apprendre la vannerie
+								Atelier , EOURRES
+								du samedi 23 au dimanche 24 novembre 2013
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													cherche seche linge
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													cherche ordi portable
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														CORNILLAC
+						
+						
+					
+					
+													recherche maison pour collocation
+							
+						
+						
+														POET-SIGILLAT
+						
+						
+					
+					
+													Donne revues de jardinage et housse pour piano électrique
+							
+						
+						
+														SAINT-FERREOL-TRENTE-PAS
+						
+						
+					
+					
+													cherche location
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													four à micro onde
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														TAULIGNAN
+						
+						
+					
+					
+													Devenir Bénévole !
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Dons campagne hivernale 2013
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Offre de formation ADVF
+							
+						
+						
+														TEIL
+						
+						
+					
+					
+													recherche logement
+							
+						
+						
+														SOLERIEUX
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Association INTERVALLE
+								
+								Accueil de jour
+							
+							
+															BUIS-LES-BARONNIES
+								Association							
+							
+						
+						
+														Gîte d'étape et de séjour Les Curebiasses
+								
+								8 chambres 
+							
+							
+															REMUZAT
+								société privée							
+							
+						
+						
+														Le Cochon Rustique des Baronnies
+								
+								élevage en plein air de porcs rustiques
+							
+							
+															SAINT-FERREOL-TRENTE-PAS
+								Etablissement privé							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+			
+				
+			
+				
+			
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

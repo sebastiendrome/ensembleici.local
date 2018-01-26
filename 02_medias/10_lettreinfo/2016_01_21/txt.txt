@@ -1,0 +1,706 @@
+
+
+    
+        
+        Ensemble ici | # 2016-04 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 21 au 31/01/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous,
+	
+	
+		Vous souvenez vous de ce petit th&eacute;&acirc;tre &agrave; Condorcet, au sein du Centre d&#39;H&eacute;bergement et de R&eacute;insertion Sociale d&#39;Aube Nouvelle, que nous avions soutenu il y a deux ans ?
+	
+		RadiOlive &eacute;tait l&agrave; lors de la derni&egrave;re repr&eacute;sentation au Th&eacute;&acirc;tre de L&#39;Aube avec une troupe de th&eacute;&acirc;tre mont&eacute;e par des r&eacute;sidents et des travailleurs sociaux du CHRS, avant sa liquidation judiciaire en juin 2015...
+	
+		Une &eacute;mission &agrave; partager sans mod&eacute;ration !
+		
+		&nbsp;
+	
+		Depuis d&eacute;cembre 2015, Ensemble ici accueille deux stagiaires !&nbsp; Pour en savoir plus sur leur projet &quot;Art Ensemble ici&quot; cliquez ICI.
+		&nbsp;
+	
+		Belle semaine &agrave; tous
+
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								Le Pas de Bême - Compagnie Théâtre Déplié / Adrien Béal
+								Spectacle , BALLONS
+								Mercredi 27 janvier 2016
+						
+
+					&nbsp;Pays de Buis-les-Baronnies							
+													
+								Soirée citoyenne autour du film "Demain"
+								Débat , BUIS-LES-BARONNIES
+								Vendredi 22 janvier 2016
+						
+
+												
+													
+								Compétition Kids Athlé
+								Tournoi , BUIS-LES-BARONNIES
+								Samedi 23 janvier 2016
+						
+
+												
+													
+								Stage de techniques théâtrales - "Le théâtre grec" animé par Virginie AIMONE
+								Stage , BUIS-LES-BARONNIES
+								du samedi 23 au dimanche 24 janvier 2016
+						
+
+												
+													
+								EXPO VENTE 
+								Marché , BUIS-LES-BARONNIES
+								Dimanche 24 janvier 2016
+						
+
+												
+													
+								Concert "Trio Atypique" 
+								Concert , BUIS-LES-BARONNIES
+								Dimanche 24 janvier 2016
+						
+
+												
+													
+								Loto de Propiac
+								Manifestation , PROPIAC
+								Dimanche 24 janvier 2016
+						
+
+												
+													
+								Petite Source
+								Spectacle , BUIS-LES-BARONNIES
+								Vendredi 29 janvier 2016
+						
+
+												
+													
+								Fête de la Fraternité
+								Fête , BUIS-LES-BARONNIES
+								Dimanche 31 janvier 2016
+						
+
+					Pays de Rémuzat							
+													
+								Contes et Saveurs
+								Conte , MONTREAL-LES-SOURCES
+								Samedi 23 janvier 2016
+						
+
+					&nbsp;Val d'Eygues							
+													
+								Les rendez-vous des RésidenceS
+								Rencontre , NYONS
+								du lundi 18 janvier au vendredi 18 mars 2016
+						
+
+												
+													
+								Ateliers et scènes slam Couleur café
+								Manifestation , NYONS
+								du mardi 19 janvier au mardi 15 mars 2016
+						
+
+												
+													
+								Don du sang
+								Rencontre , NYONS
+								Jeudi 21 janvier 2016
+						
+
+												
+													
+								 Méditation & gymnastique sensorielle avec Candice Giacomino
+								Stage , NYONS
+								Samedi 23 janvier 2016
+						
+
+												
+													
+								Stage d'accordéon
+								Stage , NYONS
+								Samedi 23 janvier 2016
+						
+
+												
+													
+								Hommage à Louis Armstrong
+								Concert , VINSOBRES
+								Samedi 23 janvier 2016
+						
+
+												
+													
+								 "Maria Stuarda"
+								Spectacle , NYONS
+								Dimanche 24 janvier 2016
+						
+
+												
+													
+								Facéties d'un soir
+								Spectacle , NYONS
+								Dimanche 24 janvier 2016
+						
+
+												
+													
+								"Les Eaux souterraines"
+								Conférence , NYONS
+								Lundi 25 janvier 2016
+						
+
+												
+													
+								Conférence: Andrea Mantegna
+								Conférence , NYONS
+								Jeudi 28 janvier 2016
+						
+
+												
+													
+								LES INSTANTS MUSICALES
+								Projection , AUBRES
+								Samedi 30 janvier 2016
+						
+
+												
+													
+								Pièce de Théâtre : Action - Réaction 
+								Spectacle , NYONS
+								Samedi 30 janvier 2016
+						
+
+												
+													
+								 Taï Chi et Qi Gong
+								Stage , LES PILLES
+								du samedi 30 au dimanche 31 janvier 2016
+						
+
+					&nbsp;Ailleurs dans le coin							
+													
+								XIV-emes Rencontres Ecologie au Quotidien
+								Manifestation , DIE
+								du vendredi 22 au dimanche 31 janvier 2016
+						
+
+												
+													
+								Nettoyage de printemps
+								Rencontre , BARRET-SUR-MEOUGE
+								Samedi 23 janvier 2016
+						
+
+												
+													
+								Théâtre Musical 
+								Spectacle , SAINT-PANTALEON-LES-VIGNES
+								Samedi 23 janvier 2016
+						
+
+												
+													
+								Concert d'orgue
+								Concert , SAINT-PAUL-TROIS-CHATEAUX
+								Samedi 23 janvier 2016
+						
+
+												
+													
+								Spectacle d'improvisation 
+								Spectacle , VESC
+								Samedi 23 janvier 2016
+						
+
+												
+													
+								Envies d'agir !
+								Débat , VALREAS
+								Dimanche 24 janvier 2016
+						
+
+												
+													
+								LE PAS DE BEME
+								Spectacle , VALAURIE
+								Mardi 26 janvier 2016
+						
+
+												
+													
+								Spectacle "Le P'tit Cirk"
+								Spectacle , TAULIGNAN
+								Vendredi 29 janvier 2016
+						
+
+												
+													
+								Conférence "Nouvelle conscience, Nouvelle médecine"
+								Conférence , TAULIGNAN
+								Vendredi 29 janvier 2016
+						
+
+												
+													
+								Exposition Sylvie Garraud, structures etc...
+								Exposition , VALAURIE
+								du vendredi 29 janvier au dimanche 13 mars 2016
+						
+
+												
+													
+								Musiqus et saveurs d'IRAN
+								Concert , SAINT-VINCENT-SUR-JABRON
+								Samedi 30 janvier 2016
+						
+
+												
+													
+								Rythm'and Bouffe
+								Repas , SEGURET
+								Samedi 30 janvier 2016
+						
+
+												
+													
+								Gratiféria
+								Marché , TAULIGNAN
+								Dimanche 31 janvier 2016
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													YOGA DE SAMARA, NADI YOGA, LOU YONG, MEDITATION
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+					
+													tapis de marche 
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAINT-MAURICE-SUR-EYGUES
+						
+						
+					
+					
+													Recherche familles d'accueil pour voyage scolaire sur Nyons
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													atelier découverte de la pleine conscience 
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														CORNILLON-SUR-L'OULE
+						
+						
+					
+					
+													Canapé à donner
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Cherche réfrigérateur
+							
+						
+						
+														CURNIER
+						
+						
+					
+					
+													Stage de Danse Africaine
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														REAUVILLE
+						
+						
+					
+					
+													L'association des Ateliers du Grand Voyageur recrute !
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													recherche H. Lefevre
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Artistes plasticien(ne)s des Baronnies :  Valorisez  votre activité artistique  sur le portail  ENSEMBLE ici !
+							
+						
+						
+														LES PILLES
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														copo
+								
+								email sur metal
+							
+							
+															GRIGNAN
+															
+							
+						
+						
+														Laetitia Gaudefroy Colombot
+								
+								Créatrice Plasticienne - Art thérapeute
+							
+							
+															VENTEROL
+															
+							
+						
+						
+														Art Ensemble ici !
+								
+								
+							
+							
+															LES PILLES
+															
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

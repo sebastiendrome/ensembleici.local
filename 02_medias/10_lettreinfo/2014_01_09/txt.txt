@@ -1,0 +1,574 @@
+
+
+    
+        
+        Ensemble ici | # 01 : Ensemble Ici, tous acteurs de la vie locale!
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 09 au 19/01/2014
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; tous,
+
+En collaboration avec un collectif d&#39;associations et d&#39;habitants du sud Dr&ocirc;me et nord Vaucluse, &quot;Ensemble Ici&quot; s&#39;engage sur l&#39;organisation d&#39;un &quot;Gros d&eacute;bat&quot; sur le th&egrave;me de la &quot;Transition&quot;.
+
+Comment repenser la vie locale, les solidarit&eacute;s, le rapport &agrave; l&#39;environnement, la culture, l&#39;&eacute;conomie ou encore chacun des autres domaines qui d&eacute;terminent notre vie ici, et en soci&eacute;t&eacute;?
+
+C&#39;est &agrave; nous tous d&#39;y r&eacute;pondre, ensemble, courant avril! A l&#39;issue de ce &quot;Gros d&eacute;bat&quot;, des actions concr&egrave;tes pourront &ecirc;tre propos&eacute;es et port&eacute;es par des volontaires.
+
+D&#39;ici l&agrave;, cette initiative ind&eacute;pendante souhaite se construire collectivement et mobiliser le plus largement possible: n&#39;h&eacute;sitez pas &agrave; relayer l&#39;information, &agrave; nous contacter ou &agrave; organiser des &quot;temps d&#39;&eacute;changes&quot; autour de chez vous!
+
+Un premier espace de discussion sera bient&ocirc;t propos&eacute; sur le site www.ensembleici.fr pour vous tenir informer et commencer &agrave; &eacute;changer!
+
+	
+	Belle semaine,
+	
+	L&#39;&eacute;quipe &quot;Ensemble Ici&quot;.
+			Voici les infos de la semaine dont vous trouvez le détail sur le site Ensemble ici.
+Il vous est aisé d'en ajouter via les formulaires du site.Tous ensemble, solidaires, bâtissons cet outil de partage et d'info autogéré pour mieux vivre sur notre territoire : événements, activités, annonces, projets, et bientôt forums!*N'hésitez pas à nous contacter pour tout renseignement ou pour soumettre vos propositions : contact@ensembleici.fr		
+	
+
+
+	
+		
+			
+				
+				Pays de Buis-les-Baronnies							
+													
+								Soirée "Sénégaulois"
+								Projection , BUIS-LES-BARONNIES
+								Vendredi 10 janvier 2014
+						
+
+												
+													
+								Soirée théâtre
+								Spectacle , BUIS-LES-BARONNIES
+								Samedi 11 janvier 2014
+						
+
+												
+													
+								L'Olive et l'huile en fête
+								Manifestation , BUIS-LES-BARONNIES
+								Dimanche 19 janvier 2014
+						
+
+					Val d'Eygues							
+													
+								Empreintes
+								Exposition , NYONS
+								du mardi 07 janvier au samedi 01 février 2014
+						
+
+												
+													
+								Repas partagé tiré du sac !
+								Rencontre , NYONS
+								du jeudi 09 au jeudi 30 janvier 2014
+						
+
+												
+													
+								"Chant et percussions"
+								Atelier , VENTEROL
+								du jeudi 09 janvier au jeudi 19 juin 2014
+						
+
+												
+													
+								Défilé de la Biennale de la danse de Lyon 
+								Festival , LES PILLES
+								du jeudi 09 janvier au mardi 23 septembre 2014
+						
+
+												
+													
+								Trio "L'impair vert" en concert au Café de France
+								Concert , MIRABEL-AUX-BARONNIES
+								Samedi 11 janvier 2014
+						
+
+												
+													
+								Soirée projection 
+								Projection , MONTAULIEU
+								Samedi 11 janvier 2014
+						
+
+												
+													
+								Stage de danse kalbéliya avec Maria Robin 
+								Manifestation , MONTAULIEU
+								du samedi 11 au dimanche 12 janvier 2014
+						
+
+												
+													
+								Sophrologie à l'Atelier du Chouchalout
+								Atelier , LES PILLES
+								du samedi 11 janvier au samedi 17 mai 2014
+						
+
+												
+													
+								Volt: "L'anniversaire", comédie familiale
+								Spectacle , NYONS
+								Dimanche 12 janvier 2014
+						
+
+												
+													
+								Le centre hospitalier de Saint Antoine, son cochon et ses loups garous
+								Conférence , NYONS
+								Lundi 13 janvier 2014
+						
+
+												
+													
+								Zoom sur la police scientifique
+								Exposition , NYONS
+								du mardi 14 janvier au samedi 01 février 2014
+						
+
+												
+													
+								Wanted
+								Jeux , NYONS
+								Mercredi 15 janvier 2014
+						
+
+												
+													
+								Comédie de Valence Théâtre "l'Apprenti" 
+								Spectacle , VINSOBRES
+								Jeudi 16 janvier 2014
+						
+
+												
+													
+								Toupetituli
+								Lecture , NYONS
+								Samedi 18 janvier 2014
+						
+
+												
+													
+								Promenade à Novezan
+								Promenade , VENTEROL
+								Dimanche 19 janvier 2014
+						
+
+					Ailleurs dans le coin							
+													
+								Rencontre en direct de Lago Agrio en Equateur
+								Rencontre , BEGUDE-DE-MAZENC
+								Mardi 14 janvier 2014
+						
+
+												
+													
+								Théâtre d'improvisation
+								Atelier , SAINT-PAUL-TROIS-CHATEAUX
+								Dimanche 19 janvier 2014
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Cherche paille pour maison
+							
+						
+						
+														MIRABEL-AUX-BARONNIES
+						
+						
+					
+					
+													Recherche un volontaire en service civique!
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													Cherche location
+							
+						
+						
+														AUBRES
+						
+						
+					
+					
+													Emprunt d'outils / matériaux de récup'
+							
+						
+						
+														CURNIER
+						
+						
+					
+					
+													Propose services
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Tresses - coiffures afro-antillaises
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														ARPAVON
+						
+						
+					
+					
+													Cherche  emploi
+							
+						
+						
+														CURNIER
+						
+						
+					
+					
+													La Cigale recrute un chargé de communication!
+							
+						
+						
+														NYONS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														CEDER
+								
+								Centre pour l'Environnement et le Développement des Energies Renouvelables
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														La miellerie de Lulu
+								
+								
+							
+							
+															FERRASSIERES
+								Auto-entrepreneur							
+							
+						
+						
+														Theatre école de la lance et des baronnies
+								
+								TELB
+							
+							
+															BUIS-LES-BARONNIES
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+			
+				
+			
+				
+			
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

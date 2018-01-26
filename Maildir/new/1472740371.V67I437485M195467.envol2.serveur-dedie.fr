@@ -1,0 +1,281 @@
+Return-Path: <theo@envol2.serveur-dedie.fr>
+X-Original-To: ensemble
+Delivered-To: ensemble@envol2.serveur-dedie.fr
+Received: by envol2.serveur-dedie.fr (Postfix, from userid 5090)
+	id 222271F9C3A1; Thu,  1 Sep 2016 16:32:51 +0200 (CEST)
+To: najestageformation@ouvaton.org
+Subject: ensembleici.fr - nouveau message de Théo Fortunato - Ensemble Ici
+X-PHP-Originating-Script: 5090:_include_smtp.php
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="=_c7bec32a716d264b6f98452378e3e1a7"
+From: theo fortunato ensemble ici <theo.fortunato@gmail.com>
+Subject: =?UTF-8?Q?ensembleici=2Efr_-_nouveau_message_de_Th=C3=A9o_Fortun?=
+ =?UTF-8?Q?ato_-_Ensemble_Ici?=
+X-Mailer: PHP/5.4.45
+X-Sender: <www.ensembleici.fr>
+X-auth-smtp-user: <theo fortunato ensemble ici <theo.fortunato@gmail.com>>
+X-Priority: 3
+X-Unsubscribe-Web: 
+X-Unsubscribe-Email: <mailto:theo fortunato ensemble ici
+ <theo.fortunato@gmail.com>>
+Message-Id: <20160901143251.222271F9C3A1@envol2.serveur-dedie.fr>
+Date: Thu,  1 Sep 2016 16:32:51 +0200 (CEST)
+
+--=_c7bec32a716d264b6f98452378e3e1a7
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+
+Bonjour,
+
+Ce stage peut m'int=C3=A9resser !
+Est-il possible de recevoir la plaquette de pr=C3=A9sentation (programme) e=
+t devis? (financement possible via mon OPCA)
+
+Merci d'avance !
+
+Th=C3=A9o.
+--=_c7bec32a716d264b6f98452378e3e1a7
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DU=
+TF-8" />
+        <title>Ensemble ici</title>
+		<style type=3D"text/css">
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" b=
+utton. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{wi=
+dth:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from ch=
+anging default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decorati=
+on:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100%=
+ !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override=
+ */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:600px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Over=
+ride */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail =
+Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		</style>
+	</head>
+    <body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=
+=3D"0" offset=3D"0">
+    	<center>
+        	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"=
+100%" width=3D"100%" id=3D"backgroundTable" bgcolor=3D"#F0EDEA">
+            	<tr>
+                	<td align=3D"center" valign=3D"top">
+                        <!-- // Begin Template Preheader \\ -->
+                        <table border=3D"0" cellpadding=3D"10" cellspacing=
+=3D"0" width=3D"600" id=3D"templatePreheader">
+                            <tr>
+                                <td valign=3D"top" class=3D"preheaderConten=
+t">
+                                <br/>
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- // End Template Preheader \\ -->
+                    	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"600" id=3D"templateContainer" style=3D"border: 1px solid #E3D6C7=
+;" bgcolor=3D"#FFFFFF">
+                        	<tr>
+                            	<td align=3D"center" valign=3D"top">
+                                    <!-- // Begin Template Header \\ -->
+                                	<table border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" width=3D"600" id=3D"templateHeader">
+                                        <tr>
+                                            <td class=3D"headerContent"><br=
+/>
+                                            	<a href=3D"http://www.ensemble=
+ici.fr/">   =20
+						    <img src=3D"http://www.ensembleici.fr/img/ensembleici-bandeau-600=
+=2Ejpg" style=3D"max-width:600px;" id=3D"headerImage campaign-icon" />
+						</a>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Header \\ -->
+                                </td>
+                            </tr>
+                        	<tr>
+                            	<td align=3D"center" valign=3D"top">
+                                    <!-- // Begin Template Body \\ -->
+                                	<table border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" width=3D"600" id=3D"templateBody">
+                                    	<tr>
+                                            <td valign=3D"top" class=3D"bod=
+yContent">
+                               =20
+                                                <!-- // Begin Module: Stand=
+ard Content \\ -->
+                                                <table border=3D"0" cellpad=
+ding=3D"20" cellspacing=3D"0" width=3D"100%">
+                                                    <tr>
+                                                        <td valign=3D"top">=
+<br/>
+Bonjour,<br /><br />Ce stage peut m'int=C3=A9resser !<br />Est-il possible =
+de recevoir la plaquette de pr=C3=A9sentation (programme) et devis? (financ=
+ement possible via mon OPCA)<br /><br />Merci d'avance !<br /><br />Th=C3=
+=A9o.<p class=3D"signature" style=3D"text-align:left;font-style:italic;colo=
+r:rgb(227, 214, 199);border-top: 1px solid rgb(227, 214, 199); margin: 1em =
+5em 0em 1em;padding:1em;">Th=C3=A9o Fortunato - Ensemble Ici</p>           =
+                                                     <br />
+														</td>
+                                                    </tr>
+                                                </table>
+                                                <!-- // End Module: Standar=
+d Content \\ -->
+                                               =20
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Body \\ -->
+                                </td>
+                            </tr>
+                        	<tr>
+                            	<td align=3D"center" valign=3D"top">
+                                    <!-- // Begin Template Footer \\ -->
+                                	<table border=3D"0" cellpadding=3D"10" cel=
+lspacing=3D"0" width=3D"600" id=3D"templateFooter">
+                                    	<tr>
+                                        	<td valign=3D"top" class=3D"footer=
+Content">
+                                           =20
+                                                <!-- // Begin Module: Stand=
+ard Footer \\ -->
+                                                <table border=3D"0" cellpad=
+ding=3D"10" cellspacing=3D"0" width=3D"100%">
+                                                    <tr>
+                                                        <td valign=3D"top" =
+width=3D"350">
+								<p style=3D'font-style:italic; font-size:11px; color:#E16A0C'>Ce me=
+ssage a =C3=A9t=C3=A9 envoy&eacute; depuis le site <a style=3D'font-style:i=
+talic; color:#E16A0C' href=3D'http://www.ensembleici.fr'>www.ensembleici.fr=
+</a></p>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <!-- // End Module: Standar=
+d Footer \\ -->
+                                           =20
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Footer \\ -->
+                                </td>
+                            </tr>
+                        </table>
+                        <br />
+                    </td>
+                </tr>
+            </table>
+        </center>
+    </body>
+</html>
+
+--=_c7bec32a716d264b6f98452378e3e1a7--
+

@@ -1,0 +1,529 @@
+
+
+
+    
+        
+        Ensemble ici | Bulletin #22 Ensemble Ici Pays de Romans
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Bonjour tout le monde !
+&nbsp;
+L'hiver n'est pas encore l&agrave;, on le sent pourtant arriver avec les premi&egrave;res gel&eacute;es. Certaines y pensent et nous pr&eacute;parent un mois de d&eacute;cembre anim&eacute; et convivial avec le calendrier de l'avent. Chaque soir, un foyer accueille celles et ceux qui voudront bien partager un pot, une visite d'atelier, un projet associatif, un savoir-faire, une projection, un sujet de discussion, ou tout simplement faire connaissance. Vous pouvez toutes et tous proposer de faire accueil l'une de ces soir&eacute;es.
+Cette semaine, un accent particulier sur les ateliers, nombreux dans l'agenda. On en profite pour y ajouter quelques dates du Valence Atelier Libre, une association dynamique sur les &eacute;changes de savoir-faire et son... atelier.
+&nbsp;On vous souhaite une bonne semaine.                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Pays de Romans
+                    Parlons Vélo !
+                    Débat , ROMANS-SUR-ISERE
+                    du dimanche 22 octobre au jeudi 30 novembre 2017
+                    
+
+                                            
+                    
+                    Mener une réunion participative, de bonnes bases pour les premiers pas
+                    Atelier , ROMANS-SUR-ISERE
+                    Jeudi 02 novembre 2017
+                    
+
+                                            
+                    
+                    Soirée bambins
+                    Projection , ROMANS-SUR-ISERE
+                    Vendredi 03 novembre 2017
+                    
+
+                                            
+                    
+                    "L'enfant qui cherchait son arbre"
+                    Conte , ROMANS-SUR-ISERE
+                    Vendredi 03 novembre 2017
+                    
+
+                                            
+                    
+                    l'atelier de réparation vélo
+                    Atelier , ROMANS-SUR-ISERE
+                    Samedi 04 novembre 2017
+                    
+
+                                            
+                    
+                    Conférence gesticulée "La guerre de 39/18"
+                    Conférence , ROMANS-SUR-ISERE
+                    Samedi 04 novembre 2017
+                    
+
+                                            
+                    
+                    Formation à la co-écoute
+                    Atelier , ROMANS-SUR-ISERE
+                    du samedi 04 au dimanche 05 novembre 2017
+                    
+
+                                            
+                    
+                    Atelier Corps, Bien-être et Santé
+                    Atelier , ROMANS-SUR-ISERE
+                    Lundi 06 novembre 2017
+                    
+
+                                            
+                    
+                    Rencontre "Paroles de parents"
+                    Rencontre , ROMANS-SUR-ISERE
+                    Mardi 07 novembre 2017
+                    
+
+                                            
+                    
+                    Du neuf avec du vieux
+                    Atelier , ROMANS-SUR-ISERE
+                    Jeudi 09 novembre 2017
+                    
+
+                                            
+                    
+                    AGORA des 3 maisons de Quartier
+                    journée d'information , ROMANS-SUR-ISERE
+                    Jeudi 09 novembre 2017
+                    
+
+                                            
+                    
+                    " Le concert ! " Cie Luni Création
+                    Concert , ROMANS-SUR-ISERE
+                    Vendredi 10 novembre 2017
+                    
+
+                                            
+                    
+                    « La place n'était pas vide »
+                    Conférence , ROMANS-SUR-ISERE
+                    Vendredi 10 novembre 2017
+                    
+
+                                            
+                    
+                    Le Care dans tous ses états
+                    Festival , ROMANS-SUR-ISERE
+                    du vendredi 10 au samedi 11 novembre 2017
+                    
+
+                                            
+                    
+                    Solidarité Palestine
+                    Manifestation , MOURS-SAINT-EUSEBE
+                    du samedi 11 au dimanche 12 novembre 2017
+                    
+
+                                            
+                    
+                    Rafraîchir un meuble de récup'
+                    Atelier , ROMANS-SUR-ISERE
+                    du samedi 11 au dimanche 12 novembre 2017
+                    
+
+                    &nbsp;Ailleurs dans le coin                        
+                    
+                    Bricol'ensemble
+                    Atelier , VALENCE
+                    Jeudi 02 novembre 2017
+                    
+
+                                            
+                    
+                    Projection AD OFF au Lux
+                    Projection , VALENCE
+                    Mardi 07 novembre 2017
+                    
+
+                                            
+                    
+                    On fait des bières !
+                    Atelier , VALENCE
+                    Mardi 07 novembre 2017
+                    
+
+                                            
+                    
+                    Bricol'ensemble
+                    Atelier , VALENCE
+                    Mercredi 08 novembre 2017
+                    
+
+                                            
+                    
+                    Imprimante 3D : Initiation et projets personnels
+                    Atelier , VALENCE
+                    Jeudi 09 novembre 2017
+                    
+
+                                            
+                    
+                    Atelier fabrication de produits d’entretien naturels
+                    Atelier , VALENCE
+                    Vendredi 10 novembre 2017
+                    
+
+                                
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            CHERCHE PETITE MAISON à LOUER
+                
+                    
+                    
+                                                        ROMANS-SUR-ISERE
+                    
+                    
+                
+                                    Cherche maison à louer secteur Chabeuil
+                
+                    
+                    
+                                                        CHABEUIL
+                    
+                    
+                
+                                    Colocation maman solo
+                
+                    
+                    
+                                                        ROMANS-SUR-ISERE
+                    
+                    
+                
+                                    Calendrier de l'avent 2017 : Appel à participant-e-s !
+                
+                    
+                    
+                                                        ROMANS-SUR-ISERE
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            MJC du Pays de l'Herbasse
+                
+                
+                                        SAINT-DONAT-SUR-L'HERBASSE
+                        Association                
+                
+                
+                            Maison de Quartier St-Nicolas
+                Centre social
+                
+                                        ROMANS-SUR-ISERE
+                        Association                
+                
+                
+                            Valence Atelier Libre
+                Partage de savoirs et savoir-faire, mutualisation d'ateliers
+                
+                                        VALENCE
+                        Association                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

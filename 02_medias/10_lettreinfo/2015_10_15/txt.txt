@@ -1,0 +1,807 @@
+
+
+    
+        
+        Ensemble ici | # 2015-42 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 15 au 25/10/2015
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Rencontr&#39;Actions: les suites !
+
+
+La journ&eacute;e du 26 septembre &agrave; Curnier a permis de se rencontrer, parfois de mieux se conna&icirc;tre, et de r&eacute;fl&eacute;chir ensemble aux mani&egrave;res de r&eacute;pondre &agrave; certaines probl&eacute;matiques que l&#39;on peut rencontrer dans nos vall&eacute;es.
+
+Il s&#39;agit d&#39;une petite graine qui ne demande d&eacute;sormais qu&#39;&agrave; pousser: ne nous arr&ecirc;tons pas l&agrave; !
+
+Pour les suites:
+(cliquer sur les liens)
+
+&gt;&gt; Apr&egrave;s le march&eacute;, retrouvons nous !
+
+&gt;&gt; Caravans&eacute;rail: rencontres solidaires !			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								Fête de la courge
+								Fête , MONTBRUN-LES-BAINS
+								Dimanche 18 octobre 2015
+						
+
+												
+													
+								Stage Cinéma - réalise ton film
+								Stage , SEDERON
+								du lundi 19 au vendredi 23 octobre 2015
+						
+
+					Pays de Buis-les-Baronnies							
+													
+								Newsletter octobre
+								Cours , BUIS-LES-BARONNIES
+								du jeudi 01 au samedi 31 octobre 2015
+						
+
+												
+													
+								la semaine bleue
+								Rencontre , BUIS-LES-BARONNIES
+								du lundi 12 au vendredi 16 octobre 2015
+						
+
+												
+													
+								SCRATCH BANDITS CREW  + Echec et Diplomates
+								Concert , BUIS-LES-BARONNIES
+								du vendredi 16 au samedi 17 octobre 2015
+						
+
+												
+													
+								Theatral Rock'n Roll Show
+								Spectacle , BUIS-LES-BARONNIES
+								Samedi 17 octobre 2015
+						
+
+												
+													
+								CAFE CITOYEN
+								Débat , BUIS-LES-BARONNIES
+								Mardi 20 octobre 2015
+						
+
+												
+													
+								"Drôles de poulettes"
+								Spectacle , BUIS-LES-BARONNIES
+								Mercredi 21 octobre 2015
+						
+
+												
+													
+								Ciné Sports Nature en Baronnies 
+								Festival , BUIS-LES-BARONNIES
+								du vendredi 23 au dimanche 25 octobre 2015
+						
+
+					&nbsp;Pays de Rémuzat							
+													
+								chorale à Cornillon
+								Cours , CORNILLON-SUR-L'OULE
+								du mercredi 30 septembre 2015 au mercredi 29 juin 2016
+						
+
+												
+													
+								Les journées de Paulette
+								Spectacle , REMUZAT
+								Vendredi 16 octobre 2015
+						
+
+												
+													
+								Vautour à Saint-May
+								Promenade , SAINT-MAY
+								Samedi 17 octobre 2015
+						
+
+												
+													
+								lecture musicale itinérante
+								Lecture , LA MOTTE-CHALANCON
+								Dimanche 18 octobre 2015
+						
+
+												
+													
+								Fête des fruits et légumes d'automne 
+								Fête , REMUZAT
+								Samedi 24 octobre 2015
+						
+
+					Val d'Eygues							
+													
+								LAHORE NADI YOGA 
+								Cours , NYONS
+								du vendredi 18 septembre 2015 au lundi 04 juillet 2016
+						
+
+												
+													
+								La Bolha - Reprise des répétitions tous les mercredis
+								Atelier , AUBRES
+								du dimanche 20 septembre au jeudi 31 décembre 2015
+						
+
+												
+													
+								ATELIERS PERCUSSIONS CORPORELLES
+								Cours , VENTEROL
+								du lundi 28 septembre 2015 au mardi 21 juin 2016
+						
+
+												
+													
+								couscous-lecture
+								Lecture , NYONS
+								Jeudi 15 octobre 2015
+						
+
+												
+													
+								Prêts croisés de livres aimés
+								Rencontre , NYONS
+								Jeudi 15 octobre 2015
+						
+
+												
+													
+								EXPOSITION E.MANDELMANN et I.JOLIVEL
+								Exposition , VENTEROL
+								du jeudi 15 au dimanche 25 octobre 2015
+						
+
+												
+													
+								CAFE CITOYEN
+								Débat , NYONS
+								Vendredi 16 octobre 2015
+						
+
+												
+													
+								Grande braderie au profit de l'UNICEF
+								Vide-grenier , NYONS
+								du vendredi 16 au dimanche 18 octobre 2015
+						
+
+												
+													
+								SOIREE JAZZ
+								Concert , CURNIER
+								Samedi 17 octobre 2015
+						
+
+												
+													
+								NADI YOGA
+								Atelier , NYONS
+								Samedi 17 octobre 2015
+						
+
+												
+													
+								Concert Arapà
+								Concert , SAINTE-JALLE
+								Samedi 17 octobre 2015
+						
+
+												
+													
+								Authentique TANGO argentin
+								Cours , VENTEROL
+								Samedi 17 octobre 2015
+						
+
+												
+													
+								Yoga du rire
+								Atelier , NYONS
+								du samedi 17 octobre au samedi 19 décembre 2015
+						
+
+												
+													
+								Taïchi Détente
+								Atelier , NYONS
+								du samedi 17 octobre au samedi 19 décembre 2015
+						
+
+												
+													
+								Francis Laffon et son tour FL
+								Concert , CHATEAUNEUF-DE-BORDETTE
+								Dimanche 18 octobre 2015
+						
+
+												
+													
+								Sortie cinéma et débat autour du film "FATIMA"
+								Projection , NYONS
+								Dimanche 18 octobre 2015
+						
+
+												
+													
+								Les Becs de Jazz
+								Concert , NYONS
+								Dimanche 18 octobre 2015
+						
+
+												
+													
+								Chachango
+								Atelier , NYONS
+								du mardi 20 octobre au mardi 22 décembre 2015
+						
+
+												
+													
+								 Contest Jam
+								Performance , NYONS
+								Mercredi 21 octobre 2015
+						
+
+												
+													
+								Visite des cochons !
+								Visite , SAINT-FERREOL-TRENTE-PAS
+								Mercredi 21 octobre 2015
+						
+
+												
+													
+								Après le marché, retouvons nous !
+								Rencontre , NYONS
+								Jeudi 22 octobre 2015
+						
+
+												
+													
+								Concert Véronique PESTEL
+								Concert , LES PILLES
+								Vendredi 23 octobre 2015
+						
+
+												
+													
+								Présentation du programme Contes & Rencontres
+								Réunion , NYONS
+								Vendredi 23 octobre 2015
+						
+
+												
+													
+								Caravanserail
+								Manifestation , NYONS
+								du vendredi 23 au samedi 24 octobre 2015
+						
+
+												
+													
+								Stage de tango argentin
+								Stage , NYONS
+								du vendredi 23 au mercredi 28 octobre 2015
+						
+
+												
+													
+								Cochon grillé au four à pain
+								Repas , SAINT-FERREOL-TRENTE-PAS
+								Dimanche 25 octobre 2015
+						
+
+												
+													
+								stage de Yoga
+								Stage , SAINTE-JALLE
+								Dimanche 25 octobre 2015
+						
+
+					Ailleurs dans le coin							
+													
+								16 octobre. Nos choix pour cette Rentrée littéraire 
+								Atelier , SAINT-PAUL-TROIS-CHATEAUX
+								Vendredi 16 octobre 2015
+						
+
+												
+													
+								TOC TOC
+								Spectacle , TAULIGNAN
+								Vendredi 16 octobre 2015
+						
+
+												
+													
+								Rando Bistrot à Brantes
+								Randonnée , BRANTES
+								Samedi 17 octobre 2015
+						
+
+												
+													
+								Rencontre autour de l'exposition ENTRE INTIME ET AUTOPORTRAIT [UN TEMPS DILATE]
+								Conférence , GRIGNAN
+								Samedi 17 octobre 2015
+						
+
+												
+													
+								L'heure du conte
+								Conte , VAISON-LA-ROMAINE
+								Samedi 17 octobre 2015
+						
+
+												
+													
+								Fête du Parc naturel régional des Baronnies Provençales 
+								Fête , BARRET-SUR-MEOUGE
+								Dimanche 18 octobre 2015
+						
+
+												
+													
+								 Concert avec "Les Frères Bouclier" - Les Amis de la Musique
+								Concert , VAISON-LA-ROMAINE
+								Dimanche 18 octobre 2015
+						
+
+												
+													
+								Antiquités / Brocante d'octobre
+								Vide-grenier , VAISON-LA-ROMAINE
+								Dimanche 18 octobre 2015
+						
+
+												
+													
+								Séjour photo avec Patrick Mouial
+								Exposition , RIBEYRET
+								du lundi 19 au jeudi 22 octobre 2015
+						
+
+												
+													
+								Concert "A la française"
+								Concert , EYGALAYES
+								Samedi 24 octobre 2015
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Poêle à bois faïence Oliger
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														VENTEROL
+						
+						
+					
+					
+													EPICERIE DE PRODUCTEURS
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Cherche colocataire 
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Alizarine : Péniche cherche vignerons intéressés par le transport fluvial de vins
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Chauffage Poêle bois 
+							
+						
+						
+														FAUCON
+						
+						
+					
+					
+													 association Familiale du Nyonsais- Carrefour des Habitants
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Récupération anciens vélos 
+							
+						
+						
+														FAUCON
+						
+						
+					
+					
+													Porte cellier bois massif
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														FAUCON
+						
+						
+					
+					
+													Porte garage Tubauto basculante
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														FAUCON
+						
+						
+					
+					
+													Centre équestre du Rouet: appel à financement
+							
+						
+						
+														CONDORCET
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Compagnie du grain à moudre
+								
+								
+							
+							
+															MERINDOL-LES-OLIVIERS
+								Association							
+							
+						
+						
+														Pren-lo d'aise
+								
+								Association d'éducation populaire et de découverte des Baronnies
+							
+							
+															BUIS-LES-BARONNIES
+								Association							
+							
+						
+						
+														Milenki
+								
+								Développement humain
+							
+							
+															NYONS
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

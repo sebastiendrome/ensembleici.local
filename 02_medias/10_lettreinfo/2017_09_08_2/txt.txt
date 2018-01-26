@@ -1,0 +1,729 @@
+
+
+
+    
+        
+        Ensemble ici | Lettre d'Ensemble Ici - Vallee de la Drome Diois. 2017 #36 - 8 Septembre
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Bonjour &agrave; toutes et &agrave; tous,
+Retrouvez ci-dessous les &eacute;v&eacute;nements et petites annonces pr&eacute;vus jusqu'au 17 septembre.
+Bonne lecture et &agrave; bient&ocirc;t !
+&nbsp;
+Etienne - Ensemble Ici Vall&eacute;e de la Dr&ocirc;me / Diois.
+&nbsp;
+Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois
+                
+Rappel T&eacute;l&eacute;chargeable depuis cette lettre, en fichier PDF, depuis le haut des 2 rubriques : - tous les &eacute;v&eacute;nements jusqu'au 2e WE &agrave; venir, - toutes les annonces de ces 30 derniers jours
+C'est vous qui publiez, modifier, compl&eacute;tez vos informations locales !
+Ensemble Ici : l'information par et pour les habitants de la Vall&eacute;e de la Dr&ocirc;me / Diois
+
+Vous&nbsp;appr&eacute;ciez Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois :
+&nbsp;"abonnement volontaire" / don mensuel&nbsp;
+Pour que l'animation du site puisse continuer,merci de votre soutien&nbsp;
+Adh&eacute;sion
+&nbsp;        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Crestois Pays de Saillans                        
+                    
+                    Les Rencontres ADHOC #3
+                    Manifestation , MIRABEL-ET-BLACONS
+                    du mercredi 06 au dimanche 10 septembre 2017
+                    
+
+                                            
+                    
+                    Ateliers enfants / Coopcinelle
+                    journée d'information , AOUSTE-SUR-SYE
+                    Vendredi 08 septembre 2017
+                    
+
+                                            
+                    
+                    Concert des Mama cholita
+                    Concert , MIRABEL-ET-BLACONS
+                    Vendredi 08 septembre 2017
+                    
+
+                                            
+                    
+                    Les Ouates
+                    Concert , CREST
+                    Samedi 09 septembre 2017
+                    
+
+                                            
+                    
+                    Portes Ouvertes Crest'Actif
+                    journée d'information , CREST
+                    Samedi 09 septembre 2017
+                    
+
+                                            
+                    
+                    Concert de Los[K]soS
+                    Concert , MIRABEL-ET-BLACONS
+                    Samedi 09 septembre 2017
+                    
+
+                                            
+                    
+                    FÊTE DES ETOILES à Véronne
+                    Fête , VERONNE
+                    du samedi 09 au dimanche 10 septembre 2017
+                    
+
+                                            
+                    
+                    Concert Art Gecko Beat
+                    Concert , MIRABEL-ET-BLACONS
+                    Dimanche 10 septembre 2017
+                    
+
+                                            
+                    
+                    Ateliers enfants / Coopcinelle
+                    Atelier , AOUSTE-SUR-SYE
+                    du mardi 12 septembre 2017 au samedi 30 juin 2018
+                    
+
+                                            
+                    
+                    Cycle d'Ateliers Communication Consciente
+                    Atelier , VERONNE
+                    Mercredi 13 septembre 2017
+                    
+
+                                            
+                    
+                    ciné casse-croûte 
+                    Projection , AOUSTE-SUR-SYE
+                    Vendredi 15 septembre 2017
+                    
+
+                    
+                    festival "curieuses démocraties 2017"
+                    Débat , SAILLANS
+                    du vendredi 15 au dimanche 17 septembre 2017
+                    
+
+                                            
+                    
+                    STAGE DE GÉOBIOLOGIE
+                    Stage , ESPENEL
+                    Samedi 16 septembre 2017
+                    
+
+                                            
+                    
+                    stage de découverte de l'improvisation théâtrale
+                    Stage , PIEGROS-LA-CLASTRE
+                    Samedi 16 septembre 2017
+                    
+
+                                            
+                    
+                    la Clic
+                    Stage , CREST
+                    du samedi 16 au dimanche 17 septembre 2017
+                    
+
+                    Diois                        
+                    
+                    TOUT DE SUITE + MARWANNY
+                    Concert , DIE
+                    Vendredi 08 septembre 2017
+                    
+
+                    
+                    Grande soirée TADRA
+                    Projection , DIE
+                    Jeudi 14 septembre 2017
+                    
+
+                                            
+                    
+                    Soirée "Monde Paysan" au Pestel
+                    Rencontre , DIE
+                    Vendredi 15 septembre 2017
+                    
+
+                                            
+                    
+                    Journées Européennes du Patrimoine - Sainte Croix
+                    Visite , SAINTE-CROIX
+                    du samedi 16 au dimanche 17 septembre 2017
+                    
+
+                                            
+                    
+                    expo mixte: photo/peinture/écriture
+                    Exposition , SAINTE-CROIX
+                    du samedi 16 septembre au jeudi 12 octobre 2017
+                    
+
+                                            
+                    
+                    Spectacle REGARDS CROISES
+                    Spectacle , SAINTE-CROIX
+                    Dimanche 17 septembre 2017
+                    
+
+                    Val de Drôme                        
+                    
+                    Ouverture Val de Cirque, festival Entre Sor-Tilège
+                    Festival , EURRE
+                    du vendredi 08 au mardi 12 septembre 2017
+                    
+
+                                            
+                    
+                    Forum des associations
+                    Fête , LIVRON-SUR-DROME
+                    Samedi 09 septembre 2017
+                    
+
+                                            
+                    
+                    Vide Grenier
+                    Vide-grenier , LIVRON-SUR-DROME
+                    Dimanche 10 septembre 2017
+                    
+
+                                            
+                    
+                    Journées du Patrimoine 
+                    Manifestation , CHABRILLAN
+                    du samedi 16 au dimanche 17 septembre 2017
+                    
+
+                    
+                    Journées Européennes du Patrimoine
+                    Exposition , LIVRON-SUR-DROME
+                    du samedi 16 au dimanche 17 septembre 2017
+                    
+
+                    Retrouvez l'agenda complet sur www.ensembleici.fr...            
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Accompagnement administratif
+                
+                    
+                    
+                                                        AIX-EN-DIOIS
+                    
+                    
+                
+                                    Maison à vendre
+                
+                    
+                    
+                                                        MENGLON
+                    
+                    
+                
+                                    meuble TV design
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        AIX-EN-DIOIS
+                    
+                    
+                
+                                    groupement pour ramonage
+                
+                    
+                    
+                                                        PIEGROS-LA-CLASTRE
+                    
+                    
+                
+                                    Recherche un un âne et son bât (prêt 1/2 journée)
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    constellations familiales
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Pates à gogo !
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Climbing
+                
+                    
+                    
+                                                        LUC-EN-DIOIS
+                    
+                    
+                
+                                    Parce qu'un rat ne pond pas !
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Sommier 140x190
+                
+                    
+                    
+                                                        RECOUBEAU-JANSAC
+                    
+                    
+                
+                                    Chaussures randos femme Asolo + chaussons escalade Millet
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Megane Scenic 1.9 dTi
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Echange hébergement / aide à la personne
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        SAILLANS
+                    
+                    
+                
+                                    Sac de chenevotte (chanvre)
+                
+                    
+                    
+                                                        PIEGROS-LA-CLASTRE
+                    
+                    
+                
+                                    Retraite d'inspiration vipassana
+                
+                    
+                    
+                                                        PIEGROS-LA-CLASTRE
+                    
+                    
+                
+                                    professionnel(le) de la petite enfance
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Ateliers enfants / Coopcinelle
+                
+                    
+                    
+                                                        AOUSTE-SUR-SYE
+                    
+                    
+                
+                                    Offre emploi ADMR LE VELLAN
+                
+                    
+                    
+                                                        BEAUFORT-SUR-GERVANNE
+                    
+                    
+                
+                                    petite armoire
+                
+                    
+                    
+                                                        SAINT-ANDEOL
+                    
+                    
+                
+                                    Table
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        SAINT-ANDEOL
+                    
+                    
+                
+                                    buffet
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        SAINT-ANDEOL
+                    
+                    
+                
+                                    Télévision GRANDIN 22 pouces
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        SAINT-ANDEOL
+                    
+                    
+                
+                                    Lampe moyeu roue de charette
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        SAINT-ANDEOL
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            ESPACE AU MAS CLOS
+                espace para médical
+                
+                                        BEAUFORT-SUR-GERVANNE
+                        Etablissement privé                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

@@ -1,0 +1,680 @@
+
+
+
+    
+        
+        Ensemble ici | # 2016-45 : Ensemble Ici, tous acteurs de la vie locale !
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Bonjour &agrave; toutes et &agrave; tous !
+&nbsp;
+Toute cette semaine et ce week-end retrouvez les membres de l'association DECOR et de RadiO'live.
+Les 4i&egrave;me rencontres nationales radiophoniques se d&eacute;roulent cette ann&eacute;e &agrave; Die. Au programme, ateliers d'&eacute;change de savoirs radio, pour toutes et tous, quelque soit votre (in-)exp&eacute;rience.
+La Foire des Pilles : Une journ&eacute;e autour des plantes &agrave; parfums, aromatiques et m&eacute;dicinales, organis&eacute;e par l'association Les Pilles, Histoire et Patrimoine.
+&nbsp;
+Une tr&egrave;s belle semaine, 
+l'&eacute;quipe Ensemble Ici
+&nbsp;
+&nbsp;                Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici. Il vous est ais&eacute; d'en ajouter via les formulaires du site. Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d'info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles! 
+contact@ensembleici.fr
+        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Pays de Buis-les-Baronnies                        
+                    
+                    Soirée jeu à Saint Auban sur l'Ouvèze
+                    Jeux , SAINT-AUBAN-SUR-L'OUVEZE
+                    Vendredi 04 novembre 2016
+                    
+
+                                            
+                    
+                    Apres midi jeu Tout public
+                    Jeux , BUIS-LES-BARONNIES
+                    Dimanche 06 novembre 2016
+                    
+
+                                            
+                    
+                    La colère dans le vent
+                    Projection , BUIS-LES-BARONNIES
+                    Lundi 07 novembre 2016
+                    
+
+                    Pays de Rémuzat                        
+                    
+                    Atelier "Créer son site web"
+                    Atelier , REMUZAT
+                    du lundi 24 octobre au samedi 31 décembre 2016
+                    
+
+                                            
+                    
+                    Formation au numérique pour les demandeurs d'emploi
+                    Atelier , REMUZAT
+                    du lundi 24 octobre au samedi 31 décembre 2016
+                    
+
+                                            
+                    
+                    Chacun son Sud
+                    Concert , MONTREAL-LES-SOURCES
+                    Samedi 05 novembre 2016
+                    
+
+                    Val d'Eygues                        
+                    
+                    Formation au numérique pour les demandeurs d'emploi
+                    Atelier , SAHUNE
+                    du lundi 24 octobre au samedi 31 décembre 2016
+                    
+
+                                            
+                    
+                    Atelier "Créer son site web"
+                    Atelier , SAHUNE
+                    du lundi 24 octobre au samedi 31 décembre 2016
+                    
+
+                                            
+                    
+                    Atelier "Des mots animés"
+                    Atelier , MIRABEL-AUX-BARONNIES
+                    du mardi 25 octobre 2016 au mercredi 28 juin 2017
+                    
+
+                                            
+                    
+                    Formation numérique pour les demandeurs d'emploi
+                    Atelier , NYONS
+                    du mardi 01 novembre 2016 au mardi 28 février 2017
+                    
+
+                                            
+                    
+                    Conférence : Le divin Mozart
+                    Conférence , NYONS
+                    Jeudi 03 novembre 2016
+                    
+
+                                            
+                    
+                    Un simple interrogatoire
+                    Spectacle , NYONS
+                    Vendredi 04 novembre 2016
+                    
+
+                                            
+                    
+                    SOPHROLOGIE
+                    Atelier , LES PILLES
+                    Samedi 05 novembre 2016
+                    
+
+                                            
+                    
+                    Première journée de l'accompagnement et des soins palliatifs à Nyons
+                    journée d'information , NYONS
+                    Samedi 05 novembre 2016
+                    
+
+                                            
+                    
+                    Atelier de pratique à l'Espace Bien-être
+                    Atelier , NYONS
+                    Samedi 05 novembre 2016
+                    
+
+                    
+                    conférence "la motricité libre du jeune enfant de 0 à 1 an"
+                    Conférence , NYONS
+                    Samedi 05 novembre 2016
+                    
+
+                                            
+                    
+                    conférence /débat "la motricité libre du jeune enfant de 0 à 1 an"
+                    Conférence , NYONS
+                    Samedi 05 novembre 2016
+                    
+
+                                            
+                    
+                    Foire des Pilles
+                    Foire , LES PILLES
+                    Dimanche 06 novembre 2016
+                    
+
+                    
+                    Autour des mots, écriture et calligraphie
+                    Atelier , NYONS
+                    du lundi 07 novembre 2016 au lundi 03 avril 2017
+                    
+
+                                            
+                    
+                    Dédicace de Colette Brun-Castelly pour Une Cité à part 
+                    Rencontre , NYONS
+                    Samedi 12 novembre 2016
+                    
+
+                                            
+                    
+                    Mozart en baronnies
+                    Concert , NYONS
+                    du samedi 12 au dimanche 13 novembre 2016
+                    
+
+                                            
+                    
+                    Le Super Bal
+                    Concert , NYONS
+                    du samedi 12 au dimanche 13 novembre 2016
+                    
+
+                    &nbsp;Val de Drôme                        
+                    
+                    Forum "Un changement humain pour un changement de société"
+                    Stage , ROCHE-SUR-GRANE
+                    du mardi 08 au dimanche 13 novembre 2016
+                    
+
+                    &nbsp;Ailleurs dans le coin                        
+                    
+                    Théâtre musique et magie 
+                    Spectacle , VALREAS
+                    Vendredi 04 novembre 2016
+                    
+
+                                            
+                    
+                    Soirée Pirates - Moules frites
+                    Conférence , BOURDEAUX
+                    Samedi 05 novembre 2016
+                    
+
+                                            
+                    
+                    Forum ouvert « Aujourd’hui, ensemble, ici, on fait quoi pour demain ? »fiche
+                    Rencontre , ROMANS-SUR-ISERE
+                    Samedi 05 novembre 2016
+                    
+
+                                            
+                    
+                    LA VOIX HUMAINE
+                    Spectacle , VAISON-LA-ROMAINE
+                    Samedi 05 novembre 2016
+                    
+
+                                            
+                    
+                    Récital Piano Voix
+                    Concert , VALREAS
+                    Samedi 05 novembre 2016
+                    
+
+                                            
+                    
+                    Chants du Monde
+                    Stage , DIEULEFIT
+                    du samedi 05 au dimanche 06 novembre 2016
+                    
+
+                                            
+                    
+                    Hip-Hop
+                    Stage , DIEULEFIT
+                    Vendredi 11 novembre 2016
+                    
+
+                                            
+                    
+                    Nina Attal
+                    Concert , RASTEAU
+                    Vendredi 11 novembre 2016
+                    
+
+                                            
+                    
+                    Banshie
+                    Concert , VALAURIE
+                    Vendredi 11 novembre 2016
+                    
+
+                                
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Recherche lieu de vie
+                
+                    
+                    
+                                                        VENTEROL
+                    
+                    
+                
+                                    [2017] Rech. Emploi Administratif, Communication ou de Coordination
+                
+                    
+                    
+                                                        SAINT-SAUVEUR-GOUVERNET
+                    
+                    
+                
+                                    Se faire livrer du bon cochon
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        SAINT-FERREOL-TRENTE-PAS
+                    
+                    
+                
+                                    Nouveau : une Maison de Services Au Public à Rémuzat
+                
+                    
+                    
+                                                        REMUZAT
+                    
+                    
+                
+                                    Nouveau : Maison de Services Au Public à Sahune
+                
+                    
+                    
+                                                        SAHUNE
+                    
+                    
+                
+                                    Nouveau : une Maison de Services Au Public à Verclause
+                
+                    
+                    
+                                                        VERCLAUSE
+                    
+                    
+                
+                                    Recherche logement et pourquoi pas un emploi ! 
+                
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    La maison des citoyens de la Drôme provencale
+                
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    Recherche logement
+                
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    Expo-vente des dessins et toiles
+                
+                    
+                    
+                                                        VENTEROL
+                    
+                    
+                
+                                    création procès slam carmentran de Buis
+                
+                    
+                    
+                                                        BUIS-LES-BARONNIES
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            le Tam-Tam des Baronnies
+                Site Internet d'informations locales
+                
+                                        BUIS-LES-BARONNIES
+                                        
+                
+                
+                            Association Chrysalide asp 26
+                accompagnement
+                
+                                        CURNIER
+                        Association                
+                
+                
+                            nouveau : magasin d'instruments de musique
+                NYONS MUSIC CENTER
+                
+                                        NYONS
+                        Etablissement privé                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+    Le collectif "Ensemble ici" :
+
+        
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

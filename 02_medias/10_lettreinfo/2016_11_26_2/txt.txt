@@ -1,0 +1,611 @@
+
+
+
+    
+        
+        Ensemble ici | Lettre d'Ensemble Ici - Vallee de la Drome / Diois, 2016 #36 - 26 novembre
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Chers habitants et acteurs de la Vall&eacute;e, du Diois, toutes et tous acteurs locaux,
+PENSEZ A REGARDER LES INFOS DANS LE PDF DE CETTE LETTRE : un clic en haut de la rubrique Agenda, un autre en haut de la rubrique Petites annonces, et vous avez l'ensemble des infos fra&icirc;ches sur Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois. Cette semaine le lien direct du PDF Agenda, du PDF Annonces, sans avoir besoin d'aller en haut des rubriques.
+Agenda sur 15 jours :&nbsp; &agrave; noter, la f&ecirc;te dioise du jeu samedi et&nbsp;dimanche &agrave; l'ESCDD &agrave; Die : t&eacute;moignage d'un "m&eacute;decins du monde", avec film/d&eacute;bat "L'Homme qui r&eacute;pare les femmes". Le WE prochain, le s&eacute;minaire du SPARE : 2 jours pour d&eacute;marrer le travail avec vous, habitants et acteurs de la Vall&eacute;e / Diois, sur la gestion &agrave; venir de la rivi&egrave;re Dr&ocirc;me.
+Les annonces r&eacute;centes : des offres d'emploi !N'h&eacute;sitez pas &agrave; d&eacute;noncer vos "bons plans", publiez un peu en avance les &eacute;v&eacute;nements que vous aimez et o&ugrave; vous serez !Bonne semaine, bonne lecture,
+Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois
+
+&nbsp;
+&nbsp;                
+Rappel T&eacute;l&eacute;chargeable depuis cette lettre, en fichier PDF : - tous les &eacute;v&eacute;nements &agrave; venir dans les 2 semaines, - toutes les annonces de ces derniers jours
+C'est vous qui publiez et alimentez les rubriques du site : ajoutez, modifier, compl&eacute;tez vos informations locales !
+Ensemble Ici : l'information par et pour les habitants de la Vall&eacute;e de la Dr&ocirc;me / Diois
+
+Si vous appr&eacute;ciez Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois : soutenez-nous par votre adh&eacute;sion !
+Nous ne touchons aucune subvention : merci d'avance de votre soutien ( don / adh&eacute;sion )        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Crestois Pays de Saillans                        
+                    
+                    Débarquement d'arbres fruitiers à Crest !
+                    Fête , CREST
+                    Samedi 26 novembre 2016
+                    
+
+                                            
+                    
+                    Au bord du livre
+                    Fête , SAILLANS
+                    Samedi 26 novembre 2016
+                    
+
+                                            
+                    
+                    Découverte des jeux coopératifs sans matériel
+                    Atelier , CREST
+                    Vendredi 02 décembre 2016
+                    
+
+                                            
+                    
+                    "Blanche" au Bistro du Solaure
+                    Spectacle , PIEGROS-LA-CLASTRE
+                    Vendredi 02 décembre 2016
+                    
+
+                                            
+                    
+                    Marché de Noël à AUREL
+                    Marché , AUREL
+                    Samedi 03 décembre 2016
+                    
+
+                                            
+                    
+                    Tous acteurs de la rivière Drôme ! 
+                    Réunion , SAILLANS
+                    du samedi 03 au dimanche 04 décembre 2016
+                    
+
+                                            
+                    
+                    FETE DES LUMIERES à Veronne, le 3 décembre. Pour petits et grands
+                    Fête , VERONNE
+                    du samedi 03 au dimanche 04 décembre 2016
+                    
+
+                                            
+                    
+                    marché de noel à Piègros
+                    Marché , PIEGROS-LA-CLASTRE
+                    Dimanche 04 décembre 2016
+                    
+
+                    Diois                        
+                    
+                    Fête dioise du jeu
+                    Jeux , DIE
+                    du samedi 26 au dimanche 27 novembre 2016
+                    
+
+                                            
+                    
+                    Soirée "humanitaire" :  "médecin du monde" et film "L'homme qui répare les femmes"
+                    Rencontre , DIE
+                    Dimanche 27 novembre 2016
+                    
+
+                                            
+                    
+                    Rencontre du Radisel
+                    Rencontre , DIE
+                    Dimanche 27 novembre 2016
+                    
+
+                                            
+                    
+                    EPN de LATELIER - "Vie privée, e-réputation"
+                    Atelier , DIE
+                    Mercredi 30 novembre 2016
+                    
+
+                                            
+                    
+                    REPAS CONCERT avec SINGLE TRACK
+                    Concert , BEAUMONT-EN-DIOIS
+                    Vendredi 02 décembre 2016
+                    
+
+                                            
+                    
+                    La mémoire des serpillères
+                    Spectacle , DIE
+                    Vendredi 02 décembre 2016
+                    
+
+                                            
+                    
+                    Atelier Parents&Enfants
+                    Atelier , MENGLON
+                    Samedi 03 décembre 2016
+                    
+
+                    &nbsp;Val de Drôme                        
+                    
+                    Djeli Moussa Condé
+                    Concert , EURRE
+                    Samedi 26 novembre 2016
+                    
+
+                                            
+                    
+                    Cabaret Burlesque 
+                    Spectacle , GRANE
+                    du samedi 26 au dimanche 27 novembre 2016
+                    
+
+                                            
+                    
+                    "Kalthoum" Ibrahim Maalouf
+                    Concert , LORIOL-SUR-DROME
+                    Lundi 28 novembre 2016
+                    
+
+                                
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Garde régulière de 2 enfants
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    recherche local cours musique
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Cherche cuisine
+                
+                    
+                    
+                                                        BARNAVE
+                    
+                    
+                
+                                    Lit articulé, matelas à mémoire de forme
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        MARIGNAC-EN-DIOIS
+                    
+                    
+                
+                                    Contraceptour - la contraception masculine
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        LUC-EN-DIOIS
+                    
+                    
+                
+                                    LE CHASSEUR FRANCAIS
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    vente pneus neige
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Vends écharpe de portage Lana
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    Fiche de poste "Chargé(e) de communication / Community Manager" 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        AOUSTE-SUR-SYE
+                    
+                    
+                
+                                    Du Pain de Barsac dans la Vallée de Quint!
+                
+                    
+                    
+                                                        BARSAC
+                    
+                    
+                
+                                    appareil auditif
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        MARIGNAC-EN-DIOIS
+                    
+                    
+                
+                                    Tansports -Déplacements
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    REMORQUE
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        AUREL
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            LA TOUR AMBULANTE
+                Traiteur événementiel - Caviste ambulant
+                
+                                        MONTLAUR-EN-DIOIS
+                        société privée                
+                
+                
+                            CASA LOQUITA
+                
+                
+                                        DIE
+                        Association                
+                
+                
+                            LITTLEZ
+                
+                
+                                        DIE
+                        Auto-entrepreneur                
+                
+                
+                            Le Pain de Barsac
+                boulangerie ambulante
+                
+                                        BARSAC
+                        Etablissement privé                
+                
+                
+                            espace de coworking lilO
+                
+                
+                                        LIVRON-SUR-DROME
+                        Etablissement public                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

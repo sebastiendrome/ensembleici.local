@@ -1,0 +1,508 @@
+
+
+    
+        
+        Ensemble ici | Lettre d'Ensemble Ici - Vallee de la Drome / Diois, 2016 #23 - 25 aout
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 26/08 au 05/09/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						Bonjour &agrave; toutes et tous,
+
+Retour de la Lettre, apr&egrave;s une petite semaine d&#39;absence.
+Agenda :&nbsp; la rentr&eacute;e se pr&eacute;pare mais encore de belles soir&eacute;es d&#39;&eacute;t&eacute; en perspectives.
+Les annonces : Allez fouiller dans le PDF pour trouver quelques belles propositions de location.
+
+	&nbsp;
+N&#39;h&eacute;sitez pas &agrave; partager vos &quot;bons plans&quot;, publiez un peu en avance les &eacute;v&eacute;nements que vous aimez et o&ugrave; vous serez !
+
+Merci &agrave; ceux qui ont d&eacute;j&agrave; adh&eacute;r&eacute; &agrave; notre association Ensemble Ici &quot;chez vous&quot;. Partagez l&#39;appel &agrave; adh&eacute;sion (cliquez ici pour adh&eacute;rer en ligne), comme vous partagez vos infos !
+
+En septembre quelques nouveaut&eacute;s sur le site et les PDFs de la Lettre : patience...
+
+
+Bonne lecture,
+
+
+	Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois
+
+	
+			
+	
+		Rappel
+		T&eacute;l&eacute;chargeable depuis cette lettre, en fichier PDF :
+		- tous les &eacute;v&eacute;nements &agrave; venir dans les 10 jours,
+		- toutes les annonces de ces derniers jours
+
+
+Si vous appr&eacute;ciez Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois :
+soutenez-nous par votre adh&eacute;sion ! (lien vers la page d&#39;adh&eacute;sion, ici)		
+	
+
+
+
+	
+                Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+                
+        
+		
+			
+				
+				Crestois Pays de Saillans							
+													
+								MOONSHINER à la Terrasse d'Eva
+								Concert , SAILLANS
+								du vendredi 26 au samedi 27 août 2016
+						
+
+												
+													
+								Stage Jeux D'acteur et de Clown avec Todd Leger
+								Stage , AUREL
+								du dimanche 28 août au lundi 05 septembre 2016
+						
+
+												
+													
+								PREMICES
+								Stage , CREST
+								Mardi 30 août 2016
+						
+
+					Diois							
+													
+								Simon Widdowson 
+								Concert , DIE
+								Jeudi 25 août 2016
+						
+
+												
+													
+								Duo my favorite things
+								Concert , DIE
+								Samedi 27 août 2016
+						
+
+												
+								Stage Apprendre à faire ensemble
+								Stage , DIE
+								du samedi 27 au dimanche 28 août 2016
+						
+
+												
+													
+								trio bertolino
+								Concert , SAINT-ANDEOL
+								Dimanche 28 août 2016
+						
+
+												
+													
+								Bébés, la parole est à vous...
+								Stage , DIE
+								du dimanche 28 au mardi 30 août 2016
+						
+
+												
+													
+								Randonnée musicale
+								Visite , DIE
+								Mercredi 31 août 2016
+						
+
+												
+													
+								Atelier Découverte Communication Consciente
+								Atelier , DIE
+								Jeudi 01 septembre 2016
+						
+
+												
+													
+								rock'n'roll et swing sur Die par le trio Surfin'K
+								Concert , DIE
+								Vendredi 02 septembre 2016
+						
+
+					Val de Drôme							
+													
+								NUIT DES ETOILES et MUSIQUE 
+								Manifestation , EYGLUY-ESCOULIN
+								Vendredi 26 août 2016
+						
+
+												
+													
+								Freakshow 2016
+								Festival , GIGORS-ET-LOZERON
+								du vendredi 26 au dimanche 28 août 2016
+						
+
+												
+													
+								OUVERTURE de L'EPICERIE ASSOCIATIVE GERVANNE-SYE
+								Manifestation , BEAUFORT-SUR-GERVANNE
+								Samedi 27 août 2016
+						
+
+												
+								Rencontre de la medecine des roses
+								Stage , GIGORS-ET-LOZERON
+								du samedi 03 au dimanche 04 septembre 2016
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+                
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													CHERCHE Covoit Valence tgv/Die 30/08 21h38
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													Chatons
+							
+						
+						
+														EURRE
+						
+						
+					
+					
+													lait infantile Bébé Mandorle Riz 1er âge
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														PONET-ET-SAINT-AUBAN
+						
+						
+					
+					
+													Tuyau de poele Poujoulat té diametre150 
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														PONET-ET-SAINT-AUBAN
+						
+						
+					
+					
+													Je cherche des chevalets...
+							
+						
+						
+														MONTMAUR-EN-DIOIS
+						
+						
+					
+					
+													sèche linge à vendre
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														VAL-MARAVEL
+						
+						
+					
+					
+													Cours Arts Plastiques
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													cours particuliers de violon et Eveil musical
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														BARSAC
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Cartier Lena... Animatrice d'ateliers artistiques.
+								
+								
+							
+							
+															BARSAC
+								Auto-entrepreneur							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

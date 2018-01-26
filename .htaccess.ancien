@@ -1,0 +1,169 @@
+DirectoryIndex index.php
+
+# Le serveur doit suivre les liens symboliques :
+Options +FollowSymlinks
+# Activation du module de réécriture d'URL :
+RewriteEngine on
+RewriteBase /
+# custom 404 page
+ErrorDocument 404 /404.html
+# use utf-8 encoding for anything served text/plain or text/html
+AddDefaultCharset utf-8
+# force utf-8 for a number of file formats
+AddCharset utf-8 .html .css .js .xml .json .rss
+# We don't need to tell everyone we're apache.
+ServerSignature Off
+
+# redirection anciennes pages :
+RedirectPermanent /v4 http://www.ensembleici.fr
+RedirectPermanent /qui.php http://www.ensembleici.fr/
+RedirectPermanent /futuresite.php http://www.ensembleici.fr/
+RedirectPermanent /projet.php http://www.ensembleici.fr/
+RedirectPermanent /soutenir.php http://www.ensembleici.fr/
+RedirectPermanent /parledenous.php http://www.ensembleici.fr/
+RedirectPermanent /reseau.php http://www.ensembleici.fr/
+
+#--------------------------------------------------
+# Règles de réécriture d'URL :
+#--------------------------------------------------
+# Note : pagination agenda, rep, pa,... passées en GET directement, via l'option [QSA]
+
+# Accès à une ville :
+RewriteRule ^([a-z-]+).([0-9]+)\.html$   index.php?id_ville=$2&nom_ville=$1 [L,QSA]
+# Accès à une ville + mémorisation du choix :
+RewriteRule ^([a-z-]+).([0-9]+).choix\.html$   index.php?id_ville=$2&choixville=1&nom_ville=$1 [L,QSA]
+
+# Accès à tous les evenements, toutes structures d'une ville :
+RewriteRule ^([a-z-]+).([0-9]+).tout.agenda\.html$   index.php?id_ville=$2&specif=1&tous_evts=1&nom_ville=$1 [L,QSA]
+RewriteRule ^([a-z-]+).([0-9]+).tout.repertoire\.html$   index.php?id_ville=$2&specif=1&tous_struct=1&nom_ville=$1 [L,QSA]
+RewriteRule ^([a-z-]+).([0-9]+).toutes.petites-annonces\.html$   index.php?id_ville=$2&specif=1&tous_pa=1&nom_ville=$1 [L,QSA]
+
+# Accès à une ville, avec selection d'une vie :
+RewriteRule ^([a-z-]+).([a-z-]+).([0-9]+).([0-9]+)\.html$   index.php?nom_ville=$1&nom_vie=$2&id_ville=$3&id_vie=$4 [L,QSA]
+# Accès à une ville + mémorisation, avec selection d'une vie  :
+RewriteRule ^([a-z-]+).([a-z-]+).([0-9]+).([0-9]+).choix\.html$   index.php?nom_ville=$1&nom_vie=$2&id_ville=$3&id_vie=$4&choixville=1 [L,QSA]
+
+# Accès à une ville, avec selection d'un tag :
+RewriteRule ^([a-z-]+).([a-z,A-Z,0-9,-]+).tag.([0-9]+).([0-9]+)\.html$   index.php?nom_ville=$1&nom_tag=$2&id_ville=$3&id_tag=$4 [L,QSA]
+# Accès à une ville + mémorisation, avec selection d'un tag :
+RewriteRule ^([a-z-]+).([a-z,A-Z,0-9,-]+).tag.([0-9]+).([0-9]+).choix\.html$   index.php?nom_ville=$1&nom_tag=$2&id_ville=$3&id_tag=$4&choixville=1 [L,QSA]
+
+# Accès à une ville, avec selection d'un tag et vie de provenance :
+RewriteRule ^([a-z-]+).([a-z,A-Z,0-9,-]+).tag.([0-9]+).([0-9]+).([0-9]+)\.html$   index.php?nom_ville=$1&nom_tag=$2&id_ville=$3&id_tag=$4&id_vie=$5 [L,QSA]
+
+# Accès à une ville, avec selection d'un sous tag :
+RewriteRule ^([a-z-]+).([a-z-]+).sstag.([0-9]+).([0-9]+)\.html$   index.php?nom_ville=$1&nom_tag=$2&id_ville=$3&id_tag=$4&ss_tag=1 [L]
+# Accès à une ville + mémorisation, avec selection d'un tag :
+# RewriteRule ^([a-z-]+).([a-z-]+).sstag.([0-9]+).([0-9]+).choix\.html$   index.php?nom_ville=$1&nom_tag=$2&id_ville=$3&id_tag=$4&choixville=1&ss_tag=1 [L]
+
+# Changer de ville :
+RewriteRule ^ville-changer\.html$   index.php?changerville=1 [L]
+
+# Afficher un evenement (avec tag / vie de provenance) :
+RewriteRule ^evenement.([a-z-]+).([a-z,A-Z,0-9,-]+).([0-9]+).([0-9]+)\.html$   auto_previsu.php?id_ville=$3&no_fiche=$4&type=evenement&liste=1 [L,QSA]
+RewriteRule ^evenement.([a-z-]+).([a-z,A-Z,0-9,-]+).([0-9]+).([0-9]+).([0-9]+)\.html$   auto_previsu.php?id_ville=$3&no_fiche=$4&type=evenement&liste=1&id_vie=$5 [L,QSA]
+RewriteRule ^evenement.([a-z-]+).([a-z,A-Z,0-9,-]+).([0-9]+).([0-9]+).([0-9]+).([0-9]+)\.html$   auto_previsu.php?id_ville=$3&no_fiche=$4&type=evenement&liste=1&id_vie=$5&id_tag=$6 [L,QSA]
+
+# Afficher une structure (avec tag / vie de provenance) :
+RewriteRule ^structure.([a-z-]+).([a-z,A-Z,0-9,-]+).([0-9]+).([0-9]+)\.html$   auto_previsu.php?id_ville=$3&no_fiche=$4&type=structure&liste=1 [L,QSA]
+RewriteRule ^structure.([a-z-]+).([a-z,A-Z,0-9,-]+).([0-9]+).([0-9]+).([0-9]+)\.html$   auto_previsu.php?id_ville=$3&no_fiche=$4&type=structure&liste=1&id_vie=$5 [L,QSA]
+RewriteRule ^structure.([a-z-]+).([a-z,A-Z,0-9,-]+).([0-9]+).([0-9]+).([0-9]+).([0-9]+)\.html$   auto_previsu.php?id_ville=$3&no_fiche=$4&type=structure&liste=1&id_vie=$5&id_tag=$6 [L,QSA]
+
+# Afficher une petite annonce (avec tag / vie de provenance) :
+RewriteRule ^petiteannonce.([a-z-]+).([a-z,A-Z,0-9,-]+).([0-9]+).([0-9]+)\.html$   auto_previsu.php?id_ville=$3&no_fiche=$4&type=petiteannonce&liste=1 [L,QSA]
+RewriteRule ^petiteannonce.([a-z-]+).([a-z,A-Z,0-9,-]+).([0-9]+).([0-9]+).([0-9]+)\.html$   auto_previsu.php?id_ville=$3&no_fiche=$4&type=petiteannonce&liste=1&id_vie=$5 [L,QSA]
+RewriteRule ^petiteannonce.([a-z-]+).([a-z,A-Z,0-9,-]+).([0-9]+).([0-9]+).([0-9]+).([0-9]+)\.html$   auto_previsu.php?id_ville=$3&no_fiche=$4&type=petiteannonce&liste=1&id_vie=$5&id_tag=$6 [L,QSA]
+
+# Accès à une page de contenu texte :
+RewriteRule ^([0-9]+).([a-z-_]+)\.html$   contenu_texte.php?id_bloc=$1&nom_bloc=$2 [L]
+
+RewriteRule ^ajouter_un_evenement\.html$  ajout_evenement.php [L]
+RewriteRule ^ajouter_une_annonce\.html$  ajout_annonce.php [L]
+RewriteRule ^ajouter_une_structure\.html$  ajout_structure.php [L]
+RewriteRule ^ajouter_une_petiteannonce\.html$  auto_petiteannonce_etape1.php [L]
+RewriteRule ^identification\.html$  inscription.php?etape=etape1 [L]
+RewriteRule ^inscription-simple\.html$  inscription-simple.php [L,QSA]
+RewriteRule ^desinscription\.html$  desinscription.php [L,QSA]
+RewriteRule ^contact\.html$  contact.php [L]
+RewriteRule ^espace_personnel\.html$  espace_personnel.php [L]
+RewriteRule ^espace_personnel_retour\.html$  espace_personnel.php?depuis_derniere_etape=1 [L]
+RewriteRule ^guide_utilisation_du_site\.html$  guide_utilisation.php [L]
+RewriteRule ^partenaires\.html$  partenaires.php [L]
+RewriteRule ^mentions_legales\.html$  mentions_legales.php [L]
+RewriteRule ^signaler_un_abus\.html$  signaler_un_abus.php [L]
+RewriteRule ^explications\.html$  explications.php [L]
+RewriteRule ^plan_site\.html$  plan_site.php [L]
+RewriteRule ^faire_un_don\.html$  faire_un_don.php [L]
+
+
+# Cache, performances et temps de chargement
+# Voir http://www.seomix.fr/guide-htaccess-performances-et-temps-de-chargement/
+
+# MOD_DEFLATE COMPRESSION
+SetOutputFilter DEFLATE
+AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml application/x-javascript application/x-httpd-php
+#Pour les navigateurs incompatibles
+BrowserMatch ^Mozilla/4 gzip-only-text/html
+BrowserMatch ^Mozilla/4\.0[678] no-gzip
+BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
+BrowserMatch \bMSI[E] !no-gzip !gzip-only-text/html
+#ne pas mettre en cache si ces fichiers le sont déjà
+SetEnvIfNoCase Request_URI \.(?:gif|jpe?g|png)$ no-gzip
+#les proxies doivent donner le bon contenu
+Header append Vary User-Agent env=!dont-vary
+
+# BEGIN Expire headers
+<IfModule mod_expires.c>
+ ExpiresActive On
+ ExpiresDefault "access plus 7200 seconds"
+ ExpiresByType image/jpg "access plus 2592000 seconds"
+ ExpiresByType image/jpeg "access plus 2592000 seconds"
+ ExpiresByType image/png "access plus 2592000 seconds"
+ ExpiresByType image/gif "access plus 2592000 seconds"
+ AddType image/x-icon .ico
+ ExpiresByType image/ico "access plus 2592000 seconds"
+ ExpiresByType image/icon "access plus 2592000 seconds"
+ ExpiresByType image/x-icon "access plus 2592000 seconds"
+ ExpiresByType text/css "access plus 2592000 seconds"
+ ExpiresByType text/javascript "access plus 2592000 seconds"
+ ExpiresByType text/html "access plus 7200 seconds"
+ ExpiresByType application/xhtml+xml "access plus 7200 seconds"
+ ExpiresByType application/javascript A259200
+ ExpiresByType application/x-javascript "access plus 2592000 seconds"
+ ExpiresByType application/x-shockwave-flash "access plus 2592000 seconds"
+</IfModule>
+# END Expire headers
+
+# BEGIN Cache-Control Headers
+<IfModule mod_headers.c>
+ <FilesMatch "\\.(ico|jpe?g|png|gif|swf|gz|ttf)$">
+ Header set Cache-Control "max-age=2592000, public"
+ </FilesMatch>
+ <FilesMatch "\\.(css)$">
+ Header set Cache-Control "max-age=2592000, public"
+ </FilesMatch>
+ <FilesMatch "\\.(js)$">
+ Header set Cache-Control "max-age=2592000, private"
+ </FilesMatch>
+<filesMatch "\\.(html|htm)$">
+Header set Cache-Control "max-age=7200, public"
+</filesMatch>
+# Disable caching for scripts and other dynamic files
+<FilesMatch "\.(pl|php|cgi|spl|scgi|fcgi)$">
+Header unset Cache-Control
+</FilesMatch>
+</IfModule>
+# END Cache-Control Headers
+
+# KILL THEM ETAGS
+Header unset ETag
+FileETag none
+
+# protect the htaccess file
+<files .htaccess>
+order allow,deny
+deny from all
+</files>
+
+# protection de la lecture des répertoires
+Options -Indexes

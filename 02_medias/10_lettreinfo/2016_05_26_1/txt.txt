@@ -1,0 +1,794 @@
+
+
+    
+        
+        Ensemble ici | # 2016-22 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 26/05 au 05/06/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous,
+	&nbsp;
+
+	Cette semaine, trois temps forts dans l&#39;actualit&eacute; qui r&eacute;sonnent jusqu&#39;ici !
+
+	
+	LOI TRAVAIL :
+
+	Manifestations, blocages et nouvelle journ&eacute;e de mobilisation...
+	Ici, d&eacute;s ce soir, une conf&eacute;rence de Dominique Coujard vous est propos&eacute;e &agrave; Malauc&egrave;ne (19h) autour de l&#39;Etat de droit, l&#39;Etat d&#39;Urgence et le 49-3. Une deuxi&egrave;me se tiendra au Po&euml;t Laval &agrave; 20h par Samuel Michalon : Pourquoi travailler&nbsp;? 
+
+	REFUGIES&nbsp;:
+
+	Le Comit&eacute; citoyen de Nyons pour les r&eacute;fugi&eacute;s a re&ccedil;u confirmation qu&#39;une famille syrienne, actuellement en Turquie, devrait &ecirc;tre accueillie &agrave; Nyons d&#39;ici un mois.
+
+	Une liste d&#39;objets n&eacute;cessaires &agrave; leur accueil a &eacute;t&eacute; dress&eacute;e&nbsp;: retrouvez l&#39;annonce ici.
+	Et si vous n&#39;avez pas de meubles &agrave; donner, soutenez le comit&eacute; en achetant des g&acirc;teaux orientaux et occidentaux, jeudi prochain, au march&eacute; de Nyons ! Plus d&#39;infos, ici !
+	
+	Retrouvez une interview radio de Claire Pirotte, membre du comit&eacute; de soutien, qui revient sur la situation suite &agrave; l&#39;accord entre l&#39;Europe et la Turquie... C&#39;est par ici ! &nbsp; 
+
+	
+	CULTURE : 
+
+	Pour la deuxi&egrave;me ann&eacute;e cons&eacute;cutive, ARTS ET CULTURE et La Cigale offrent la possibilit&eacute; &agrave; trois groupes s&eacute;lectionn&eacute;s de se pr&eacute;senter sur une sc&egrave;ne professionnelle.&nbsp;: Lance toi&nbsp;! Ce samedi &agrave; 21h &agrave; Taulignan.
+
+	&nbsp;
+
+	Tr&egrave;s bonne semaine &agrave; vous !
+	
+	L&#39;&eacute;quipe d&#39;Ensemble ici Baronnies
+
+	
+	&nbsp;
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+                Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+                
+        
+		
+			
+				
+				Crestois Pays de Saillans							
+													
+								Atelier Ensemble Ici - à Crest
+								Atelier , CREST
+								Vendredi 27 mai 2016
+						
+
+					&nbsp;Pays de Buis-les-Baronnies							
+													
+								Aelier   scène slam
+								Atelier , BUIS-LES-BARONNIES
+								Jeudi 26 mai 2016
+						
+
+												
+													
+								 ATELIER TRICOT NOMADE 
+								Atelier , BUIS-LES-BARONNIES
+								Samedi 28 mai 2016
+						
+
+												
+													
+								Le rêve olympique
+								Projection , BUIS-LES-BARONNIES
+								Samedi 28 mai 2016
+						
+
+												
+													
+								 A LA RENCONTRE DES OISEAUX
+								Stage , PLAISIANS
+								du samedi 28 au dimanche 29 mai 2016
+						
+
+												
+													
+								Fête du printemps
+								Fête , LA ROCHE-SUR-LE-BUIS
+								du samedi 04 au dimanche 05 juin 2016
+						
+
+												
+													
+								fête du printemps
+								Concert , LA ROCHE-SUR-LE-BUIS
+								du samedi 04 au dimanche 05 juin 2016
+						
+
+												
+													
+								vide grenier de l'ACS chapelle de Pierrelongue
+								Marché , PIERRELONGUE
+								Dimanche 05 juin 2016
+						
+
+					&nbsp;Pays de Rémuzat							
+													
+								Stage résidentiel "de la Voix à la Voie":
+								Stage , LA MOTTE-CHALANCON
+								du vendredi 27 au dimanche 29 mai 2016
+						
+
+												
+													
+								Atelier "Créer son site Web"
+								Atelier , REMUZAT
+								du jeudi 02 juin au jeudi 07 juillet 2016
+						
+
+												
+													
+								Gérard PRATS
+								Concert , MONTREAL-LES-SOURCES
+								Samedi 04 juin 2016
+						
+
+					Val d'Eygues							
+													
+								Dimanches des Arts
+								Marché , NYONS
+								du dimanche 08 mai au dimanche 21 août 2016
+						
+
+												
+													
+								Concert :  fête de la Musique
+								Concert , NYONS
+								du vendredi 20 mai au mercredi 22 juin 2016
+						
+
+												
+													
+								Expo
+								Exposition , NYONS
+								du dimanche 22 mai au jeudi 15 septembre 2016
+						
+
+												
+													
+								Bhadjans 
+								Concert , LES PILLES
+								Jeudi 26 mai 2016
+						
+
+												
+													
+								Calou Jazz
+								Concert , NYONS
+								Jeudi 26 mai 2016
+						
+
+												
+													
+								EXPOSITION
+								Exposition , VENTEROL
+								du jeudi 26 mai au dimanche 12 juin 2016
+						
+
+												
+													
+								Expo photos de la nature 
+								Exposition , NYONS
+								du jeudi 26 mai au vendredi 01 juillet 2016
+						
+
+												
+													
+								Le Printemps des Castors
+								Conférence , LES PILLES
+								Vendredi 27 mai 2016
+						
+
+												
+													
+								Soirée rétrogaming
+								Jeux , NYONS
+								Vendredi 27 mai 2016
+						
+
+												
+													
+								THEATRE
+								Spectacle , VINSOBRES
+								Vendredi 27 mai 2016
+						
+
+												
+													
+								ATELIER BODYMUSIC
+								Atelier , CURNIER
+								Samedi 28 mai 2016
+						
+
+												
+													
+								LES INSTANTS MUSICALES
+								Concert , MONTAULIEU
+								Samedi 28 mai 2016
+						
+
+												
+													
+								Soirée tartes flambées
+								Repas , NYONS
+								Samedi 28 mai 2016
+						
+
+												
+													
+								Digue Dondaine
+								Festival , NYONS
+								Samedi 28 mai 2016
+						
+
+												
+													
+								repas fête des mères
+								Repas , CURNIER
+								Dimanche 29 mai 2016
+						
+
+												
+													
+								Conversation sur la peinture 
+								Rencontre , PIEGON
+								Dimanche 29 mai 2016
+						
+
+												
+													
+								Vente de gâteaux du Comité Citoyen de Nyons pour les Réfugiés
+								Manifestation , NYONS
+								Jeudi 02 juin 2016
+						
+
+												
+													
+								Mucho-Macho
+								Concert , NYONS
+								Vendredi 03 juin 2016
+						
+
+												
+													
+								PRESENTATION DU FILM sur YOGANANDA
+								Projection , NYONS
+								Vendredi 03 juin 2016
+						
+
+												
+													
+								apéro concert et braderie
+								Fête , NYONS
+								Samedi 04 juin 2016
+						
+
+												
+													
+								Fête du Printemps du haut-Nyonsais
+								Fête , CURNIER
+								Dimanche 05 juin 2016
+						
+
+					Ailleurs dans le coin							
+													
+								Nuit Debout Sud Luberon Val de Durance
+								Débat , CADENET
+								Jeudi 26 mai 2016
+						
+
+												
+													
+								Conférence de Dominique Coujard
+								Conférence , MALAUCENE
+								Jeudi 26 mai 2016
+						
+
+												
+													
+								Pourquoi travailler ?
+								Conférence , POET-LAVAL
+								Jeudi 26 mai 2016
+						
+
+												
+													
+								Du désherbant dans l'eau du robinet
+								Réunion , RASTEAU
+								Vendredi 27 mai 2016
+						
+
+												
+													
+								Concert La Pompe Honnête
+								Concert , VALREAS
+								Vendredi 27 mai 2016
+						
+
+												
+													
+								Les Compagnons de la Pierre Blanche
+								Festival , SUZE-LA-ROUSSE
+								du vendredi 27 au dimanche 29 mai 2016
+						
+
+												
+													
+								Lance toi !
+								Concert , TAULIGNAN
+								Samedi 28 mai 2016
+						
+
+												
+													
+								FILM Léonard Gianadda "Faire de sa vie quelque chose de grand"
+								Projection , VAISON-LA-ROMAINE
+								Lundi 30 mai 2016
+						
+
+												
+													
+								Barbara
+								Spectacle , VALAURIE
+								du vendredi 03 au samedi 04 juin 2016
+						
+
+									
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+                
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													recherche bottes de paille pour potager
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Offre d’emploi : chargé(e) de mission démocratie participative
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAILLANS
+						
+						
+					
+					
+													Velo enfant
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													CHALLENGE MOBILITE REGIONAL 2016
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Aidez-nous à financer notre 1er Festival à St André de Rosans!
+							
+						
+						
+														SAINT-ANDRE-DE-ROSANS
+						
+						
+					
+					
+													Appartement à louer
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Une chambre à louer pour l'été à Marignac-en-diois
+							
+						
+						
+														MARIGNAC-EN-DIOIS
+						
+						
+					
+					
+													Troc confiture de figue contre miel
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													emploi sur ferme familiale
+							
+						
+						
+														PENNES-LE-SEC
+						
+						
+					
+					
+													Cherche meubles et objets pour l'accueil d'une famille de réfugiés
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													partenaire de footing
+							
+						
+						
+														NYONS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														La cigale
+								
+								Diffuseurs de bonheurs
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														Comité Citoyen de Nyons pour les Réfugiés
+								
+								
+							
+							
+															NYONS
+															
+							
+						
+						
+														LA GUINGUETTE
+								
+								Restauration et animation, itinérante en Baronnies
+							
+							
+															SAINTE-JALLE
+								Auto-entrepreneur							
+							
+						
+						
+														La terrasse d'Eva
+								
+								Snack-Restaurant
+							
+							
+															SAILLANS
+								Etablissement privé							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+    
+	Le collectif "Ensemble ici" :
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+            
+            
+			
+            
+        
+        
+
+Les partenaires :		
+				
+			
+				
+			
+				
+			
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

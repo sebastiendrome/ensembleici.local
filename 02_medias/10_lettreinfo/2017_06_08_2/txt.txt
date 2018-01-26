@@ -1,0 +1,677 @@
+
+
+
+    
+        
+        Ensemble ici | Lettre d'Ensemble Ici - Vallee de la Drome / Diois, 2017 #24 - 8 Juin
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Chers habitants et acteurs de la Vall&eacute;e, du Diois, toutes et tous acteurs locaux,
+Prochaine &eacute;mission Mais Qu'est-ce Qui S'Passe ? : test Lettre
+&nbsp;
+Vous souvenez vous ?
+- les particuliers peuvent adh&eacute;rer (10&euro;) pour nous soutenir
+- les personnes morales peuvent &ecirc;tre adh&eacute;rent partenaire (50&euro;), avec un &eacute;change de visibilit&eacute;, ou adh&eacute;sion basique (30&euro;)
+- qui veut peut opter pour un abonnement volontaire : un don mensuel du montant de son choix
+L'embarras du choix , si vous pensez qu'Ensemble Ici est utile...
+Agenda : &agrave; noter,
+
+c'est la F&ecirc;te de la Nature dans toute la France ce WE, programme sur ladrome.fr/...
+dimanche : 17e journ&eacute;e des peintres dans la rue &agrave; Chabrillan
+prochainement (WE prochain), dans votre vall&eacute;e : le Festival Latino &agrave; Saillans, le March&eacute; des Potiers et Les Espi&egrave;gleries - Festival de la Clairette &agrave; Die
+
+Bonne lecture, et bonnes sorties printani&egrave;res...
+Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois
+
+&nbsp;                
+Rappel T&eacute;l&eacute;chargeable depuis cette lettre, en fichier PDF, depuis le haut des 2 rubriques : - tous les &eacute;v&eacute;nements jusqu'au 2e WE &agrave; venir, - toutes les annonces de ces 30 derniers jours
+C'est vous qui publiez, modifier, compl&eacute;tez vos informations locales !
+Ensemble Ici : l'information par et pour les habitants de la Vall&eacute;e de la Dr&ocirc;me / Diois
+
+Si vous appr&eacute;ciez Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois :
+&nbsp;"abonnement volontaire" / don mensuel&nbsp;
+Nous ne touchons aucune subvention. Pour que l'animation du site puisse continuer avec notre salari&eacute;,merci de votre soutien
+Adh&eacute;sion
+&nbsp;        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Crestois Pays de Saillans                        
+                    
+                    challenge mobilité
+                    Manifestation , CREST
+                    Jeudi 08 juin 2017
+                    
+
+                                            
+                    
+                    Festival itinérant de la transition énergétique
+                    Rencontre , CREST
+                    Vendredi 09 juin 2017
+                    
+
+                                            
+                    
+                    handicapé vous dites !?... handicapable je vous réponds !
+                    Manifestation , CREST
+                    du samedi 10 au dimanche 11 juin 2017
+                    
+
+                                            
+                    
+                    Le social en travail
+                    Stage , SAILLANS
+                    du lundi 12 au vendredi 16 juin 2017
+                    
+
+                                            
+                    
+                    Animer l'intelligence collective
+                    Stage , SAILLANS
+                    du lundi 12 au vendredi 16 juin 2017
+                    
+
+                                            
+                    
+                    Soirée "Aux rythmes de l'Afrique" - En Soutien à l'association Yiriba Do 
+                    Concert , CREST
+                    Jeudi 15 juin 2017
+                    
+
+                                            
+                    
+                    [NOUVELLE DATE] 4eme Anniversaire de l'Atelier Vélo de Crest !!
+                    Fête , CREST
+                    Jeudi 15 juin 2017
+                    
+
+                                            
+                    
+                    'Les Pousses du Bamboo Orchestra' en concert à Crest
+                    Concert , CREST
+                    Samedi 17 juin 2017
+                    
+
+                    Diois                        
+                    
+                    Exposition Etter Céline
+                    Exposition , DIE
+                    du vendredi 19 mai au lundi 31 juillet 2017
+                    
+
+                                            
+                    
+                    EXPO PEINTURE ODILE TOUILLIER
+                    Exposition , SAINTE-CROIX
+                    du samedi 27 mai au jeudi 22 juin 2017
+                    
+
+                                            
+                    
+                    Ateliers de l'ESCDD en fête !
+                    Atelier , DIE
+                    du samedi 03 au jeudi 08 juin 2017
+                    
+
+                                            
+                    
+                    AG dwatts
+                    Réunion , DIE
+                    Jeudi 08 juin 2017
+                    
+
+                    
+                    CHOEUR ADHEMAR chante le Requiem de Mozart
+                    Concert , DIE
+                    Vendredi 09 juin 2017
+                    
+
+                                            
+                    
+                     Conférence sur "La Blessure de la perte gémellaire…"
+                    Conférence , DIE
+                    Vendredi 09 juin 2017
+                    
+
+                                            
+                    
+                    FÊTE DE L'ESCDD
+                    Fête , DIE
+                    Vendredi 09 juin 2017
+                    
+
+                                            
+                    
+                    Portes Ouvertes à l'école Terres d'enfance
+                    Rencontre , DIE
+                    Samedi 10 juin 2017
+                    
+
+                                            
+                    
+                    Journée citoyenne
+                    Randonnée , LUS-LA-CROIX-HAUTE
+                    Samedi 10 juin 2017
+                    
+
+                                            
+                    
+                    Concert du Groupe Vocal "Entre Mers"
+                    Concert , DIE
+                    Mardi 13 juin 2017
+                    
+
+                                            
+                    
+                    Cinéma " C'est beau la vie quand on y pense"
+                    Manifestation , LUS-LA-CROIX-HAUTE
+                    Mercredi 14 juin 2017
+                    
+
+                                            
+                    
+                    Stage Hydrolats et sublimations
+                    Stage , VACHERES-EN-QUINT
+                    du vendredi 16 au dimanche 18 juin 2017
+                    
+
+                                            
+                    
+                    La Grande Famille : Bébé-signes
+                    Atelier , DIE
+                    Samedi 17 juin 2017
+                    
+
+                                            
+                    
+                    Zone de gratuité 0 - 5 ans - Vêtements et accessoires 
+                    Manifestation , DIE
+                    Samedi 17 juin 2017
+                    
+
+                                            
+                    
+                    L'association Les Lucioles a 25 ans
+                    Fête , LUS-LA-CROIX-HAUTE
+                    Samedi 17 juin 2017
+                    
+
+                                            
+                    
+                    Concert : Les Rétroviseurs / Mr Fernand
+                    Concert , VALDROME
+                    Samedi 17 juin 2017
+                    
+
+                                            
+                    
+                    Fête du Pain
+                    Fête , BOULC
+                    du samedi 17 au dimanche 18 juin 2017
+                    
+
+                                            
+                    
+                    BAL FOLK et INAUGURATION du FOURNIL
+                    Fête , BOULC
+                    du samedi 17 au dimanche 18 juin 2017
+                    
+
+                                            
+                    
+                    Rando VTT Club Cycliste de Die
+                    Manifestation , DIE
+                    Dimanche 18 juin 2017
+                    
+
+                    &nbsp;Val de Drôme                        
+                    
+                    Expo peinture - Nathalie Lorre
+                    Exposition , CHABRILLAN
+                    du dimanche 21 mai au dimanche 02 juillet 2017
+                    
+
+                                            
+                    
+                    Soirée Polar avec Ahmed Tiab
+                    Conférence , CHABRILLAN
+                    Vendredi 09 juin 2017
+                    
+
+                                            
+                    
+                    Faire face à l'influence de l'industrie pharmaceutique
+                    Conférence , SOYANS
+                    Samedi 10 juin 2017
+                    
+
+                                            
+                    
+                    Jean JOUZEL, membre du GIEC, Prix Nobel vient à la rencontre de Biovallée®
+                    Rencontre , EURRE
+                    Jeudi 15 juin 2017
+                    
+
+                                            
+                    
+                    Série C
+                    Spectacle , EURRE
+                    Dimanche 18 juin 2017
+                    
+
+                    Retrouvez l'agenda complet sur www.ensembleici.fr...            
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            ancienne machine à coudre Singer
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        SAINT-ANDEOL
+                    
+                    
+                
+                                    pouf
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        SAINT-ANDEOL
+                    
+                    
+                
+                                    affaire sport de combat
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    camion amenagé  camping car
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Cuisinière bois Sidéros 
+                
+                    
+                    
+                                                        BARSAC
+                    
+                    
+                
+                                    Aide pour Graphisme
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    aide autocad
+                
+                    
+                    
+                                                        AIX-EN-DIOIS
+                    
+                    
+                
+                                    Aidez-nous à financer la scolarisation de 20 enfants défavorisés du Burkina Faso avant le 31 juin 2017
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                    2 TATAMIS JAPONAIS 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    MATELAS FUTON 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    stage danse été drome 2017
+                
+                    
+                    
+                                                        BARNAVE
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            MJC Coluche
+                
+                
+                                        LIVRON-SUR-DROME
+                        Association                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

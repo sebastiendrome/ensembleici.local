@@ -1,0 +1,726 @@
+
+
+
+    
+        
+        Ensemble ici | # 2017-43 : Ensemble Ici, tous acteurs de la vie locale !
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Bonjour &agrave; toutes et &agrave; tous ! 
+"Le passage &agrave; l'heure d'hiver se d&eacute;roulera dans la nuit du samedi&nbsp;28 au dimanche 29&nbsp;octobre 2017. &Agrave; 3 heures du matin, il sera 2 heures"
+- &Ccedil;a veut dire qu'on dort une heure de plus, ou de moins&nbsp;?- Donc dimanche si on se donne rendez-vous &agrave; 10h, il faudra y &ecirc;tre une heure plus t&ocirc;t&nbsp;? - Et lundi quand mon r&eacute;veil sonnera &agrave; 7h30, il fera jour&nbsp;?
+Deux fois par an, pour un peu que la langue fourche nous nous acharnons. &Agrave; croire qu'on aime &agrave; tourner en rond.On r&ecirc;ve que tous les jours soient des dimanches, tous, sauf le dimanche du changement d'heure&hellip;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&clubs;&nbsp; C'est arriv&eacute; ! Victime de son succ&egrave;s, la rubrique "petites annonces" d&eacute;borde !Pour des questions de visibilit&eacute; toutes les annonces seront publi&eacute;es dans sur la lettre d'information la semaine de leur publication seulement. Utilisez les th&eacute;matiques (&agrave; droite) et le curseur d&eacute;finissant le p&eacute;rim&egrave;tre de recherche depuis le site internet pour avoir acc&egrave;s &agrave; l'int&eacute;gralit&eacute; des annonces, et &agrave; celles qui vous int&eacute;ressent.
+&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&clubs;&nbsp; &Ccedil;a se passe bient&ocirc;t&nbsp;!Les rencontres CARAVANS&Eacute;RAIL ont lieu ce vendredi&nbsp;27 et ce samedi 28&nbsp;octobre &agrave; l'Ancienne Mairie &agrave; Nyons. Les rencontres &eacute;ph&eacute;m&egrave;res pour imaginer sont port&eacute;es par le PTCE Nyonsais - Baronnies.
+Au programme : - Le PTCE (P&ocirc;le Territorial de Coop&eacute;ration &Eacute;conomique) Nyonsais-Baronnies fait son AGORA&nbsp;! - Une carte interactive et sonore pour r&eacute;pertorier vos projets, sur le lieu de l'&eacute;v&egrave;nement - Des ateliers pour trouver des r&eacute;ponses &agrave; ses questions et rencontrer des initiatives positives  - Des espaces d'&eacute;changes, autour d'un verre ou d'un livre - De grandes tables pour d&eacute;poser des objets et v&ecirc;tements &agrave; troquer - Une conf&eacute;rence-spectacle qui remet les id&eacute;es en place&nbsp;: L'&eacute;nergie du citoyen est-elle renouvelable&nbsp;? - et encore d'autres surprises&hellip;
+Plus d'infos
+&nbsp;L'&eacute;quipe Ensemble Ici - Baronnies est &agrave; votre disposition pour toutes questions ou interogations, Une tr&egrave;s belle semaine &agrave; vous.
+&nbsp;                Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici. Il vous est ais&eacute; d'en ajouter via les formulaires du site. Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d'info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles! 
+contact@ensembleici.fr
+&nbsp;
+L'assocation DECOR est la structure juridique qui porte les projets Ensemble Ici - Baronnies et RadiO'live, webradio init&eacute;rante. Elle a besoin de votre soutien pour continuer d'exercer ses missions. 
+Pensez &agrave; l'adh&eacute;sion
+        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Hautes Baronnies                        
+                    
+                    Chants Provençaux !
+                    Concert , BARRET-SUR-MEOUGE
+                    Samedi 28 octobre 2017
+                    
+
+                                            
+                    
+                    Soutenez Ecoloc!
+                    Spectacle , BARRET-SUR-MEOUGE
+                    du samedi 28 octobre au dimanche 10 décembre 2017
+                    
+
+                                            
+                    
+                    Zoa Jukebox, Rockabilly
+                    Concert , BALLONS
+                    Dimanche 29 octobre 2017
+                    
+
+                    Pays de Buis-les-Baronnies
+                    Atelier Feldenkrais meditation
+                    Atelier , BUIS-LES-BARONNIES
+                    du samedi 21 octobre au samedi 30 décembre 2017
+                    
+
+                                            
+                    
+                    Séminaire Marwanny
+                    Conférence , MOLLANS-SUR-OUVEZE
+                    Jeudi 26 octobre 2017
+                    
+
+                                            
+                    
+                    La Bohème
+                    Projection , BUIS-LES-BARONNIES
+                    Samedi 28 octobre 2017
+                    
+
+                                            
+                    
+                    Tiempo Ideale
+                    Concert , MOLLANS-SUR-OUVEZE
+                    Samedi 28 octobre 2017
+                    
+
+                                            
+                    
+                    TELB - Stage de théâtre 
+                    Stage , BUIS-LES-BARONNIES
+                    du samedi 28 au dimanche 29 octobre 2017
+                    
+
+                                            
+                    
+                    Conférence "De la chirurgie d'Ambroise Paré à celle d'aujourd'hui"
+                    Conférence , BUIS-LES-BARONNIES
+                    Jeudi 02 novembre 2017
+                    
+
+                                            
+                    
+                    Concerts // Amundsen //  Duplafond
+                    Concert , MOLLANS-SUR-OUVEZE
+                    Samedi 04 novembre 2017
+                    
+
+                                            
+                    
+                    VIDE GRENIER des Enfants
+                    Vide-grenier , BUIS-LES-BARONNIES
+                    Dimanche 05 novembre 2017
+                    
+
+                                            
+                    
+                    Concert // Bob Cooper
+                    Concert , MOLLANS-SUR-OUVEZE
+                    Dimanche 05 novembre 2017
+                    
+
+                    Pays de Rémuzat                        
+                    
+                    Inauguration de L'ALIM à Rosans
+                    Rencontre , ROSANS
+                    Samedi 04 novembre 2017
+                    
+
+                    &nbsp;Val d'Eygues                        
+                    
+                    Galerie Ombre
+                    Exposition , VENTEROL
+                    du dimanche 01 octobre au dimanche 05 novembre 2017
+                    
+
+                                            
+                    
+                    EXPOSITION
+                    Exposition , VENTEROL
+                    du jeudi 19 octobre au dimanche 05 novembre 2017
+                    
+
+                                            
+                    
+                     SOPHROLOGIE 
+                    Atelier , LES PILLES
+                    Jeudi 26 octobre 2017
+                    
+
+                                            
+                    
+                    Voyage à vélo sur la Dolce Via en Ardèche
+                    Randonnée , NYONS
+                    du jeudi 26 au samedi 28 octobre 2017
+                    
+
+                                            
+                    
+                    Créez votre site web professionnel ou personnel
+                    Atelier , NYONS
+                    du jeudi 26 octobre au jeudi 21 décembre 2017
+                    
+
+                                            
+                    
+                    SOIREE JEUX DU MONDE
+                    Jeux , NYONS
+                    Vendredi 27 octobre 2017
+                    
+
+                                            
+                    
+                    MEDITATION
+                    Atelier , NYONS
+                    Vendredi 27 octobre 2017
+                    
+
+                                            
+                    
+                    CARAVANSERAIL #3
+                    Rencontre , NYONS
+                    du vendredi 27 au samedi 28 octobre 2017
+                    
+
+                                            
+                    
+                    CONCERT MIKE GREENE & TOMEK DZIANO
+                    Concert , NYONS
+                    du vendredi 27 au samedi 28 octobre 2017
+                    
+
+                                            
+                    
+                    JUST FOR DANCE
+                    Fête , LES PILLES
+                    Samedi 28 octobre 2017
+                    
+
+                                            
+                    
+                    Conférence Populaire
+                    Spectacle , NYONS
+                    Samedi 28 octobre 2017
+                    
+
+                                            
+                    
+                    STAGE  FIGURE LIBRE
+                    Stage , LES PILLES
+                    du samedi 28 au dimanche 29 octobre 2017
+                    
+
+                                            
+                    
+                    Soirée littéraire
+                    Lecture , LES PILLES
+                    Jeudi 02 novembre 2017
+                    
+
+                                            
+                    
+                    Degiheugi + Pitt Poule
+                    Concert , NYONS
+                    Vendredi 03 novembre 2017
+                    
+
+                                            
+                    
+                    CONCERT CHORAL au Temple de NYONS
+                    Concert , NYONS
+                    Samedi 04 novembre 2017
+                    
+
+                                            
+                    
+                    FOIRE des PILLES
+                    Foire , LES PILLES
+                    Dimanche 05 novembre 2017
+                    
+
+                                            
+                    
+                    Atelier Accordéon
+                    Atelier , NYONS
+                    Dimanche 05 novembre 2017
+                    
+
+                    Ailleurs dans le coin                        
+                    
+                    ToutiFesti
+                    Festival , VALREAS
+                    du jeudi 12 au dimanche 29 octobre 2017
+                    
+
+                                            
+                    
+                    MAGIE A LA FERME
+                    Spectacle , VAISON-LA-ROMAINE
+                    Jeudi 26 octobre 2017
+                    
+
+                                            
+                    
+                    MES TOURS DU MONDE
+                    Spectacle , VAISON-LA-ROMAINE
+                    Jeudi 26 octobre 2017
+                    
+
+                                            
+                    
+                    JULES MAZYN AU PIANO
+                    Spectacle , VAISON-LA-ROMAINE
+                    Vendredi 27 octobre 2017
+                    
+
+                                            
+                    
+                    Après les Vendanges : Son del Puente
+                    Concert , VILLEDIEU
+                    Vendredi 27 octobre 2017
+                    
+
+                                            
+                    
+                    Le marché des fruits anciens
+                    Foire , ORPIERRE
+                    Samedi 28 octobre 2017
+                    
+
+                                            
+                    
+                     RECITS DE FEMMES - Samedi 28/10
+                    Spectacle , VAISON-LA-ROMAINE
+                    Samedi 28 octobre 2017
+                    
+
+                                            
+                    
+                    Après les Vendanges - FRÉDÉRIC FROMET
+                    Spectacle , RASTEAU
+                    Mardi 31 octobre 2017
+                    
+
+                                            
+                    
+                    Martin Luther Gospel King
+                    Spectacle , VALREAS
+                    Mardi 31 octobre 2017
+                    
+
+                                
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Parabole
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        FAUCON
+                    
+                    
+                
+                                    LOGEMENT COMMUNAL A LOUER
+                
+                    
+                    
+                                                        SAINT-SAUVEUR-GOUVERNET
+                    
+                    
+                
+                                    Repas du 11 novembre 2017
+                
+                    
+                    
+                                                        MOLLANS-SUR-OUVEZE
+                    
+                    
+                
+                                    Donne 3 adorables chatons
+                
+                    
+                    
+                                                        CONDORCET
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Carrefour des habitants
+                
+                
+                                        NYONS
+                        Association                
+                
+                
+                            La cigale
+                Diffuseurs de bonheurs
+                
+                                        NYONS
+                        Association                
+                
+                
+                            ANCRE
+                antenne du Nyonsais Baronnies
+                
+                                        NYONS
+                        Association                
+                
+                
+                            Ecoloc
+                Le repère solidaire de la méouge: Hébergement, animations, services de proximité 
+                
+                                        BARRET-SUR-MEOUGE
+                        Association                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+    Le collectif "Ensemble ici" :
+
+        
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

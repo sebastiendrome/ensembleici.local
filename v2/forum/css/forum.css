@@ -1,0 +1,552 @@
+body{	
+	background-image: url("http://www.ensembleici.fr/img/bg-body.png");
+	background-repeat: repeat;
+	font-family: Arial,Helvetica,sans-serif;
+	color: gray;
+	padding-left: 10px;
+}
+
+.sujet{	
+	margin: 10px;
+	-webkit-border-radius: 7px;
+	 -khtml-border-radius: 7px;
+	   -moz-border-radius: 7px;
+	        border-radius: 7px;
+	border: 1px solid #E3D6C7;
+	background-color: #FFFFFF;
+	padding: 15px;
+	display: inline-block;
+	margin-left: 15%;
+}
+
+.entete_forum_ville{
+	-webkit-border-radius: 7px;
+	-khtml-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+	margin-left: 30%;
+	border: 1px solid rgb(227, 214, 199);
+	background-color: rgb(255, 255, 255);
+	padding: 15px;
+	width: 640px;
+	text-align: center;
+	display: block;
+	padding-top: 0px;
+}
+
+.descriptionsujet{	
+	padding-left: 30px;
+	text-align: left;
+	margin: auto;
+	display: inline-block;
+}
+
+.descriptionsujet2{	
+	padding-left: 30px;
+	margin: auto;
+	display: inline-block;
+}
+
+.petitTitre{	
+	font: bold 22px "Yanone Kaffeesatz";
+	color: gray;
+	padding-left: 10px;
+}
+
+.titrefils{	
+	text-align: center;
+	font-size: 30px;
+	color: rgb(100,100,100);
+}
+
+.soustitre{
+	text-align: center;
+	font-size: 20px;
+	color: rgb(125,125,125);
+	text-align: left;
+}
+
+.bandeau{
+	background-image: url("../images/ensembleicilogo.png");
+	background-repeat: no-repeat;
+	height: 100px;
+	width: 500px;
+	background-position: 17px 0px;
+	display: block;
+	min-height: 100px;
+	min-width: 500px;
+	position: relative;
+}
+
+.marginlogin{
+	margin: 0px;
+	margin-right: 10px;	
+	padding: 0px;
+}
+
+.titredufils{
+	font: bold 18px "Yanone Kaffeesatz";	
+}
+
+.tabreponse{
+	margin-left: 30px;		
+}
+
+.decaler10{
+	margin-left: 10px;	
+	width: 100%;
+}
+
+.affichage_commentaires{
+	background-color: whitesmoke;
+	border-radius:10px; 
+	-moz-border-radius:4px; /* Firefox */ 
+	-webkit-border-radius:4px; /* Safari y Chrome */ 
+	width: 750px;
+	padding:5px;
+	text-align: left;
+	border: 3px solid rgb(227, 214, 199);
+	padding-right: 15px;
+}
+
+.divcenter{
+	text-align: center;	
+}
+
+.bouton_repondre{
+	text-align: right;	
+	width: 100%;
+}
+	
+.decaler{
+	text-align: center;
+	width: 100%;
+	padding-left: 9%;
+}
+
+.entete_commentaire{
+	/*background-color: #A8D53D;*/
+	color: white;	
+	text-align: center;
+	font: bold 22px "Yanone Kaffeesatz";
+	background: linear-gradient(rgb(24,143,190 ), rgb(66, 187, 230));
+	background: -webkit-linear-gradient(rgb(24,143,190 ), rgb(66, 187, 230));
+	background: -moz-linear-gradient(rgb(24,143,190 ), rgb(66, 187, 230));
+	margin-right: -10px;
+}
+
+.titre_commentaire{
+	font-size: 25px;		
+}
+
+.divgeneral{
+	display: inline;
+	overflow: hidden;
+}
+
+.divcommentaire{
+	background-color: whitesmoke;	
+}
+
+table{
+	min-width: 600px;	
+	max-width: 1200px;
+}
+
+fieldset{
+	margin-left: 20px;
+}
+
+th { 	
+	color: #fff;
+	text-decoration: none; 
+	font-size: 30px;
+}
+
+td { 
+	border-right: 2px solid #fff; 
+	border-bottom: 2px solid #fff; 
+	text-align: left; 
+	vertical-align: top;
+	overflow: hidden;
+	padding-left: 5px;	
+	font-size: 19px;
+	font-family: Arial,Helvetica,sans-serif;
+} 
+
+td a {
+	text-decoration: none; 
+	font-weight: bold; 
+	display: block;
+	font-size: 21px;
+}
+	
+td a:link, td a:visited { 
+	color: rgb(247, 165, 100); 	
+	font-size: 16px;
+	text-decoration: none;
+} 
+	
+td a:hover, td a:active, .nav:hover, .nav:active { 
+	color: #6aa3ae; 
+	margin-left: 5px;
+}
+
+.nav:hover, .nav:active { 
+	color: #808080; 
+	margin-left: 5px;
+}
+
+ul, ol {
+    margin-left: 0px;
+}
+
+ul, ol, dl {
+    font-size: 1em;
+    line-height: 1.6;
+    margin-bottom: 1.25em;
+    list-style-position: outside;
+    font-family: inherit;
+}
+div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, th, td {
+    margin: 0px;
+    padding: 0px;
+    direction: ltr;
+}
+
+button.small, .button.small {
+    padding-top: 0.625em;
+    padding-bottom: 0.5625em;
+    padding: 0.5625em 1.125em 0.625em;
+}
+
+button, .button {
+	border-style: solid;
+   border-width: 1px;
+   cursor: pointer;
+   font-family: inherit;
+   font-weight: bold;
+   line-height: normal;
+   margin: 0px 0px 1.25em;
+   position: relative;
+   text-decoration: none;
+   text-align: center;
+   display: inline-block;
+   padding: 0.75em 1.5em 0.8125em;
+   font-size: 1em;
+   background-color: rgb(45, 171, 218);
+   border-color: rgb(34, 132, 161);
+   color: white;    
+   padding-top: 0.8125em;
+   padding-bottom: 0.75em;
+   font-size: 20px;
+   box-shadow: 0px 1px 0px rgba(255, 255, 255, 0.5) inset;
+   transition: background-color 300ms ease-out 0s;    
+}
+
+.login {
+   padding-left: 20px;
+   margin-left: 20px; 
+   right: 0px;
+	top: 0px;
+	position: absolute;
+}
+
+.button2 {
+   background-color: rgb(255, 200, 100);
+   border-color: rgb(255, 215, 120);
+   border-style: solid;
+   border-width: 1px;
+   cursor: pointer;
+   font-family: inherit;
+   font-weight: bold;
+   line-height: normal;
+   margin: 0px 0px 1.25em;
+   position: relative;
+   text-decoration: none;
+   text-align: center;
+   display: inline-block;
+   padding: 0.75em 1.5em 0.8125em;
+   font-size: 1em;  
+   color: white;    
+   padding-top: 0.8125em;
+   padding-bottom: 0.75em;
+   font-size: 20px;
+   box-shadow: 0px 1px 0px rgba(255, 255, 255, 0.5) inset;
+   transition: background-color 300ms ease-out 0s;   
+}
+
+button2:active, .button2:active {
+	-webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2) inset;
+	box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2) inset;
+}
+
+button2:hover, button2:focus, .button2:hover, .button2:focus {
+   background-color: rgb(255, 215, 120);
+   border-color: rgb(247, 165, 70);
+   color: rgb(97, 107, 118);
+}
+
+.buttonactive{
+	background-color: rgb(34, 132, 161);
+   color: white;
+}
+
+button:active, .button:active {
+	-webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2) inset;
+	box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2) inset;
+}
+
+.button-group {
+   list-style: none outside none;
+   margin: 0px;
+   display: inline-flex;
+   position: relative;
+	float: initial;
+}
+
+*, *:before, *:after {
+	-moz-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+button:hover, button:focus, .button:hover, .button:focus {
+    background-color: rgb(34, 132, 161);
+    color: white;
+}
+a:hover, a:focus {
+    color: rgb(39, 149, 182);
+}
+a:hover {
+    cursor: pointer;
+}
+a:active, a:hover {
+    outline: 0px none;
+}
+a:focus {
+    outline: thin dotted;
+}
+
+a {
+    color: rgb(43, 166, 203);
+    text-decoration: none;
+    line-height: inherit;
+    background: none repeat scroll 0% 0% transparent;
+}
+
+.grass{
+	font-weight: 900;	
+}
+
+.calendar { 
+	table-layout: fixed;
+	width: 83%;
+	float: left;
+	padding: 0;
+	margin: 0;
+	font: normal 12px/20px;
+	color: #616B76;
+	text-align: center;
+	margin-right: 12px;
+	min-width: 905px;
+	max-width: 4000px;
+	-webkit-background-size: 900px 900px;
+	-moz-background-size: 900px 900px;
+	-o-background-size: 900px 900px;
+	background-size: 900px 900px;
+}
+
+.evtslongueduree{
+	color: rgb(97, 107, 118);
+	min-width: 15%;
+	max-width: 500px;
+}
+
+.celuleevtslongueduree{
+	padding-bottom: 12px;
+	padding-top: 8px;	
+	padding-left: 5px;
+	font-size: 14px;
+}
+
+.nav, .nav a { 
+	font: bold 26px "Bauhaus 93";
+	color: #fff; 
+	text-align: center; 
+	text-decoration: none; 
+}
+
+.divcelda{
+	height: 300px;	
+	position: relative;	
+}
+
+.divcontenido{
+	overflow: hidden;
+	margin-bottom: 50px;
+	z-index: 0;
+	position: absolute;
+	height: 260px;
+	top: 30px;
+	left: 0px;
+	margin-left: 1px;
+	margin-right: 1px;
+	padding-right: 1px;
+	padding-left: 1px;
+	width: 100%;
+	font-size: 14px;
+}
+
+.fondfonce2:active, .fondfonce2:hover, .fondfonce:active, .fondfonce:hover, .celuleevtslongueduree:active, .celuleevtslongueduree:hover, .divcontenido:hover, .divcontenido:active{
+	background-image: none;
+	background-color: whitesmoke;
+	opacity: 0.9;
+}
+
+.divtransparent{
+	z-index: 2;
+	position: absolute;
+	height: 300px;	
+	background-color: transparent;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+}
+
+.divtransparent:hover, .divtransparent:active{
+	background-color: rgb(45, 171, 218);
+	opacity: 0.1;
+}
+
+.fondfonce{
+	background-image: url("../images/bg-body-fonce.png");
+	background-repeat: repeat;
+}
+
+.fondfonce2{
+	background-image: url("../images/bg-body-fonce2.png");
+	background-repeat: repeat;
+}
+
+.numerito{
+	color: gray;
+	font-size: 20px;
+	font-weight: bold;
+/*	background-color: #CBDCFE;*/	
+}
+
+.titre{
+	width: 100%;
+	text-align: left;
+	font-size: 50px;
+	color: rgb(85, 211, 255);
+	padding-left: 5%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.texte{
+	display: block;
+	padding-left: 150px;
+	color: rgb(45, 171, 218);
+	font-size: 19px;
+	font-family: Arial,Helvetica,sans-serif;
+	min-width: 800px;
+	min-height: 100px;
+	width: 800px;
+	padding-top: 28px;
+	font-size: 13px;
+	text-align: center;
+}
+
+.entete{
+	display: inline-flex;
+	display: -webkit-flex;
+	display: -moz-flex;
+	margin-bottom: 19px;
+	width: 100%;
+	position: relative;
+}
+
+.mois{
+	font-size: 35px;
+}
+
+.noborder{
+	border-collapse: hidden;
+	border-style: none;
+	border: 0px;		
+}
+
+.borderleft{
+	border-left: 2px solid rgb(255, 255, 255);	
+}
+
+.calendar2 { 
+	table-layout: fixed;
+	width: 83%; 
+	min-width: 400px;
+	max-width: 800px;
+	float: left;
+	padding: 0; margin: 0; 
+	font: normal 12px/20px; 
+	color: #616B76; 
+	text-align: center; 
+	margin-right: 12px;
+	-webkit-background-size: 900px 900px;          
+   -moz-background-size: 900px 900px;           
+   -o-background-size: 900px 900px;           
+   background-size: 900px 900px;  
+}
+
+.calendar2 td {
+	padding-top: 15px;
+	padding-bottom: 15px;	
+	padding-left: 5px;
+}
+
+.jourdelasemaine{
+	width: 100px;
+	color: rgb(255, 255, 255);
+	text-decoration: none;
+	text-align: center;
+	vertical-align: top;
+	padding-left: 3px;
+	padding-right: 3px;
+   font: bold 30px "Yanone Kaffeesatz";
+}
+
+.fleches{
+	padding-top: 10px;
+	padding-bottom: 0px;	
+	font-size: 30px;
+}
+
+.enlaces{
+	display: block;
+	font-family: Arial,Helvetica,sans-serif;
+	text-align: center;
+	position: absolute;
+	float: right;
+	font-size: 22px;
+	color: rgb(0, 0, 0);
+}
+
+.position1{
+	left: 200px;
+}
+
+.position2{
+	left: 560px;
+	top: 143px;
+	font-size: 13px;
+	color: rgb(97, 107, 118);
+	font-weight: normal; 
+}
+.versionImprimable{
+	color: rgb(97, 107, 118);
+}
+
+.versionImprimable:hover, .versionImprimable:active{
+	color: rgb(45, 171, 218);
+}

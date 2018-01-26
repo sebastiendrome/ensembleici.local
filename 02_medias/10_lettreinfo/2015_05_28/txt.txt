@@ -1,0 +1,681 @@
+
+
+    
+        
+        Ensemble ici | # 2015-22 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 28/05 au 07/06/2015
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous,
+&nbsp;
+
+Ce week-end en plus de toutes les mamans, les enfants ont aussi leur f&ecirc;te avec la Digue Dondaine&nbsp;!
+Festival jeune public digue dondaine Th&eacute;&acirc;tre, cirque, marionnettes ... Une journ&eacute;e pour le jeune public !
+
+Et vendredi, venez danser sous le chapiteau pour le concert d&rsquo;ouverture&hellip;
+Soir&eacute;e chapiteau Zik soir&eacute;e concert sous le chapiteau de la compagnie &quot; O&ugrave; r&ecirc;vent les arbres&quot;.
+
+&hellip; Retrouvez l&rsquo;ensemble des &eacute;v&eacute;nements, annonces et activit&eacute;s dans cette lettre d&rsquo;info,&nbsp;&agrave; partager sans mod&eacute;ration&nbsp;!
+&nbsp;
+
+	Belle semaine,
+	L&rsquo;&eacute;quipe Ensemble Ici.
+&nbsp;
+
+N.B&nbsp;: Ensemble Ici recherche un(e) volontaire en service civique&nbsp;!
+Yann, &nbsp;notre volontaire en service civique qui a suivi le projet ces cinq derniers mois nous quitte au d&eacute;but du mois de juillet et nous recherchons quelqu&#39;un pour le remplacer...
+&gt; Plus d&#39;infos en cliquant ICI&nbsp;!
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+		
+			
+				
+				Pays de Buis-les-Baronnies							
+													
+								Faites du sport
+								Atelier , BUIS-LES-BARONNIES
+								du jeudi 19 février au dimanche 31 mai 2015
+						
+
+												
+													
+								STAGE Théâtre Improvisation
+								Atelier , PIERRELONGUE
+								Samedi 06 juin 2015
+						
+
+					Val d'Eygues							
+													
+								Expositions artistiques
+								Exposition , NYONS
+								du mercredi 06 au dimanche 31 mai 2015
+						
+
+												
+													
+								Vendredis des Arts
+								Exposition , NYONS
+								du vendredi 22 au vendredi 29 mai 2015
+						
+
+												
+													
+								Ateliers rempaillage de chaises
+								Atelier , NYONS
+								du samedi 23 au samedi 30 mai 2015
+						
+
+												
+													
+								Vide-grenier Mirabel-aux-Baronnies
+								Vide-grenier , MIRABEL-AUX-BARONNIES
+								du dimanche 24 mai au dimanche 20 septembre 2015
+						
+
+												
+													
+								Initiation/démonstration du travail artisanal du cuir
+								Atelier , NYONS
+								Jeudi 28 mai 2015
+						
+
+												
+													
+								Soirée chapiteau Zik
+								Concert , NYONS
+								Vendredi 29 mai 2015
+						
+
+												
+													
+								match d'impro
+								Spectacle , NYONS
+								Vendredi 29 mai 2015
+						
+
+												
+													
+								Théâtre " Cuisine d'écrivain "
+								Spectacle , VINSOBRES
+								Vendredi 29 mai 2015
+						
+
+												
+													
+								Stage et spectacle de danse orientale
+								Manifestation , MONTAULIEU
+								du vendredi 29 au dimanche 31 mai 2015
+						
+
+												
+													
+								Chorale des 3 vallées
+								Concert , AUBRES
+								Samedi 30 mai 2015
+						
+
+												
+													
+								Soirée enChantée
+								Rencontre , NYONS
+								Samedi 30 mai 2015
+						
+
+												
+													
+								Fabriquer soi-même ses instruments de musique
+								Atelier , NYONS
+								Samedi 30 mai 2015
+						
+
+												
+													
+								Festival jeune public : Digue Dondaine
+								Festival , NYONS
+								Samedi 30 mai 2015
+						
+
+												
+													
+								fête des mères
+								Repas , CURNIER
+								Dimanche 31 mai 2015
+						
+
+												
+													
+								Sortie orchidées
+								Promenade , NYONS
+								Dimanche 31 mai 2015
+						
+
+												
+													
+								On chante encore un coup
+								Rencontre , NYONS
+								Dimanche 31 mai 2015
+						
+
+												
+													
+								Lectures poétiques plurielles
+								Lecture , PIEGON
+								Dimanche 31 mai 2015
+						
+
+												
+													
+								"La graine qui voulait changer de peau"
+								Spectacle , NYONS
+								Mercredi 03 juin 2015
+						
+
+												
+													
+								Baladez curieux !
+								Promenade , NYONS
+								du mercredi 03 juin au lundi 31 août 2015
+						
+
+												
+													
+								Rencontres inattendues " Ce matin j'étais lépreux"
+								Spectacle , PIEGON
+								Jeudi 04 juin 2015
+						
+
+												
+													
+								Conférence "Jardiner Sans Se Ruiner"
+								Conférence , NYONS
+								Vendredi 05 juin 2015
+						
+
+												
+													
+								Les balades du tambourinaïre
+								Atelier , NYONS
+								Samedi 06 juin 2015
+						
+
+												
+													
+								Festival du Vent et des Enfants
+								Festival , SAINTE-JALLE
+								Samedi 06 juin 2015
+						
+
+												
+													
+								Petit Marché des producteurs
+								Marché , VENTEROL
+								du samedi 06 juin au samedi 29 août 2015
+						
+
+												
+													
+								Les journées du "fait main"
+								Exposition , SAINTE-JALLE
+								Dimanche 07 juin 2015
+						
+
+					&nbsp;Ailleurs dans le coin							
+													
+								Pièce de théâtre « Une heure et demie de retard »
+								Spectacle , CHAMARET
+								Vendredi 29 mai 2015
+						
+
+												
+													
+								ATELIER FELDENKRAIS
+								Atelier , VAISON-LA-ROMAINE
+								Samedi 30 mai 2015
+						
+
+												
+													
+								Finale du tremplin Lance-Toi !
+								Concert , TAULIGNAN
+								du samedi 30 au dimanche 31 mai 2015
+						
+
+												
+													
+								Foire de grillon
+								Foire , GRILLON
+								Dimanche 31 mai 2015
+						
+
+												
+													
+								Concert "Monalisa"
+								Concert , SUZE-LA-ROUSSE
+								Samedi 06 juin 2015
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													La Cave du Troc
+							
+						
+						
+														MOLLANS-SUR-OUVEZE
+						
+						
+					
+					
+													Donne clavier PC 
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Ouverture Magasin de producteur
+							
+						
+						
+														REMUZAT
+						
+						
+					
+					
+													La cigale manque de place !
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Ouverture des pré-inscriptions pour la micro-crèche !
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													Cherche cosplayeurs/cosplayeuses
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Location
+							
+						
+						
+														CONDORCET
+						
+						
+					
+					
+													Appel à candidatures Digue Jam
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Appel à bénévoles pour un chantier participatif !
+							
+						
+						
+														MIRABEL-AUX-BARONNIES
+						
+						
+					
+					
+													Ensemble Ici recherche un(e) volontaire en service civique !
+							
+						
+						
+														LES PILLES
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														le tambourinaire
+								
+								
+							
+							
+															LA MOTTE-CHALANCON
+								Association							
+							
+						
+						
+														Couleur café
+								
+								Café culturel
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														Pren-lo d'aise
+								
+								Association d'éducation populaire et de découverte des Baronnies
+							
+							
+															BUIS-LES-BARONNIES
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

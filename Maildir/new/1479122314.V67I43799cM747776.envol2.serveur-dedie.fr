@@ -1,0 +1,378 @@
+Return-Path: <>
+X-Original-To: ensemble@envol2.serveur-dedie.fr
+Delivered-To: ensemble@envol2.serveur-dedie.fr
+Received: by envol2.serveur-dedie.fr (Postfix)
+	id AD6711F9C438; Mon, 14 Nov 2016 12:18:34 +0100 (CET)
+Date: Mon, 14 Nov 2016 12:18:34 +0100 (CET)
+From: MAILER-DAEMON@envol2.serveur-dedie.fr (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: ensemble@envol2.serveur-dedie.fr
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="9A5281F9C3F0.1479122314/envol2.serveur-dedie.fr"
+Message-Id: <20161114111834.AD6711F9C438@envol2.serveur-dedie.fr>
+
+This is a MIME-encapsulated message.
+
+--9A5281F9C3F0.1479122314/envol2.serveur-dedie.fr
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host envol2.serveur-dedie.fr.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<de@envol2.serveur-dedie.fr> (expanded from <de>): unknown user: "de"
+
+<diois@envol2.serveur-dedie.fr> (expanded from <diois>): unknown user: "diois"
+
+<ici@envol2.serveur-dedie.fr> (expanded from <ici>): unknown user: "ici"
+
+<la@envol2.serveur-dedie.fr> (expanded from <la>): unknown user: "la"
+
+<vallee@envol2.serveur-dedie.fr> (expanded from <vallee>): unknown user:
+    "vallee"
+
+<ateliersaule.l@yahoo.com>: host mta7.am0.yahoodns.net[66.196.118.37] said: 554
+    Message not allowed - Headers are not RFC compliant[291] (in reply to end
+    of DATA command)
+
+<drome@envol2.serveur-dedie.fr> (expanded from <drome>): unknown user: "drome"
+
+--9A5281F9C3F0.1479122314/envol2.serveur-dedie.fr
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; envol2.serveur-dedie.fr
+X-Postfix-Queue-ID: 9A5281F9C3F0
+X-Postfix-Sender: rfc822; ensemble@envol2.serveur-dedie.fr
+Arrival-Date: Mon, 14 Nov 2016 12:18:32 +0100 (CET)
+
+Final-Recipient: rfc822; de@envol2.serveur-dedie.fr
+Original-Recipient: rfc822; de
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "de"
+
+Final-Recipient: rfc822; diois@envol2.serveur-dedie.fr
+Original-Recipient: rfc822; diois
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "diois"
+
+Final-Recipient: rfc822; ici@envol2.serveur-dedie.fr
+Original-Recipient: rfc822; ici
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "ici"
+
+Final-Recipient: rfc822; la@envol2.serveur-dedie.fr
+Original-Recipient: rfc822; la
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "la"
+
+Final-Recipient: rfc822; vallee@envol2.serveur-dedie.fr
+Original-Recipient: rfc822; vallee
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "vallee"
+
+Final-Recipient: rfc822; ateliersaule.l@yahoo.com
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; mta7.am0.yahoodns.net
+Diagnostic-Code: smtp; 554 Message not allowed - Headers are not RFC
+    compliant[291]
+
+Final-Recipient: rfc822; drome@envol2.serveur-dedie.fr
+Original-Recipient: rfc822; drome
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "drome"
+
+--9A5281F9C3F0.1479122314/envol2.serveur-dedie.fr
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <ensemble@envol2.serveur-dedie.fr>
+Received: by envol2.serveur-dedie.fr (Postfix, from userid 5090)
+	id 9A5281F9C3F0; Mon, 14 Nov 2016 12:18:32 +0100 (CET)
+To: ateliersaule.l@yahoo.com
+Subject: ensembleici.fr - nouveau message de Ensemble ici - Vallée de la Drôme / Diois
+X-PHP-Originating-Script: 5090:_include_smtp.php
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="=_d59a0509b579e395181b05ab00aaff13"
+From: ensemble ici vallee de la drome diois <lelien.vdd@ensembleici.fr>
+Subject: =?UTF-8?Q?ensembleici=2Efr_-_nouveau_message_de_Ensemble_ici_-_V?=
+ =?UTF-8?Q?all=C3=A9e_de_la_Dr=C3=B4me_/_Diois?=
+X-Mailer: PHP/5.4.45
+X-Sender: <www.ensembleici.fr>
+X-auth-smtp-user: <ensemble ici vallee de la drome diois
+ <lelien.vdd@ensembleici.fr>>
+X-Priority: 3
+X-Unsubscribe-Web: 
+X-Unsubscribe-Email: <mailto:ensemble ici vallee de la drome diois
+ <lelien.vdd@ensembleici.fr>>
+Message-Id: <20161114111832.9A5281F9C3F0@envol2.serveur-dedie.fr>
+Date: Mon, 14 Nov 2016 12:18:32 +0100 (CET)
+
+--=_d59a0509b579e395181b05ab00aaff13
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+
+essai test pour votre r=C3=A9ception
+--=_d59a0509b579e395181b05ab00aaff13
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DU=
+TF-8" />
+        <title>Ensemble ici</title>
+		<style type=3D"text/css">
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" b=
+utton. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{wi=
+dth:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from ch=
+anging default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decorati=
+on:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100%=
+ !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override=
+ */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:600px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Over=
+ride */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail =
+Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		</style>
+	</head>
+    <body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=
+=3D"0" offset=3D"0">
+    	<center>
+        	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"=
+100%" width=3D"100%" id=3D"backgroundTable" bgcolor=3D"#F0EDEA">
+            	<tr>
+                	<td align=3D"center" valign=3D"top">
+                        <!-- // Begin Template Preheader \\ -->
+                        <table border=3D"0" cellpadding=3D"10" cellspacing=
+=3D"0" width=3D"600" id=3D"templatePreheader">
+                            <tr>
+                                <td valign=3D"top" class=3D"preheaderConten=
+t">
+                                <br/>
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- // End Template Preheader \\ -->
+                    	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"600" id=3D"templateContainer" style=3D"border: 1px solid #E3D6C7=
+;" bgcolor=3D"#FFFFFF">
+                        	<tr>
+                            	<td align=3D"center" valign=3D"top">
+                                    <!-- // Begin Template Header \\ -->
+                                	<table border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" width=3D"600" id=3D"templateHeader">
+                                        <tr>
+                                            <td class=3D"headerContent"><br=
+/>
+                                            	<a href=3D"http://www.ensemble=
+ici.fr/">   =20
+						    <img src=3D"http://www.ensembleici.fr/img/ensembleici-bandeau-600=
+=2Ejpg" style=3D"max-width:600px;" id=3D"headerImage campaign-icon" />
+						</a>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Header \\ -->
+                                </td>
+                            </tr>
+                        	<tr>
+                            	<td align=3D"center" valign=3D"top">
+                                    <!-- // Begin Template Body \\ -->
+                                	<table border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" width=3D"600" id=3D"templateBody">
+                                    	<tr>
+                                            <td valign=3D"top" class=3D"bod=
+yContent">
+                               =20
+                                                <!-- // Begin Module: Stand=
+ard Content \\ -->
+                                                <table border=3D"0" cellpad=
+ding=3D"20" cellspacing=3D"0" width=3D"100%">
+                                                    <tr>
+                                                        <td valign=3D"top">=
+<br/>
+essai test pour votre r=C3=A9ception<p class=3D"signature" style=3D"text-al=
+ign:left;font-style:italic;color:rgb(227, 214, 199);border-top: 1px solid r=
+gb(227, 214, 199); margin: 1em 5em 0em 1em;padding:1em;">Ensemble ici - Val=
+l=C3=A9e de la Dr=C3=B4me / Diois</p>                                      =
+                          <br />
+														</td>
+                                                    </tr>
+                                                </table>
+                                                <!-- // End Module: Standar=
+d Content \\ -->
+                                               =20
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Body \\ -->
+                                </td>
+                            </tr>
+                        	<tr>
+                            	<td align=3D"center" valign=3D"top">
+                                    <!-- // Begin Template Footer \\ -->
+                                	<table border=3D"0" cellpadding=3D"10" cel=
+lspacing=3D"0" width=3D"600" id=3D"templateFooter">
+                                    	<tr>
+                                        	<td valign=3D"top" class=3D"footer=
+Content">
+                                           =20
+                                                <!-- // Begin Module: Stand=
+ard Footer \\ -->
+                                                <table border=3D"0" cellpad=
+ding=3D"10" cellspacing=3D"0" width=3D"100%">
+                                                    <tr>
+                                                        <td valign=3D"top" =
+width=3D"350">
+								<p style=3D'font-style:italic; font-size:11px; color:#E16A0C'>Ce me=
+ssage a =C3=A9t=C3=A9 envoy&eacute; depuis le site <a style=3D'font-style:i=
+talic; color:#E16A0C' href=3D'http://www.ensembleici.fr'>www.ensembleici.fr=
+</a></p>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <!-- // End Module: Standar=
+d Footer \\ -->
+                                           =20
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Footer \\ -->
+                                </td>
+                            </tr>
+                        </table>
+                        <br />
+                    </td>
+                </tr>
+            </table>
+        </center>
+    </body>
+</html>
+
+--=_d59a0509b579e395181b05ab00aaff13--
+
+
+--9A5281F9C3F0.1479122314/envol2.serveur-dedie.fr--

@@ -1,0 +1,702 @@
+
+
+    
+        
+        Ensemble ici | Lettre d'Ensemble Ici - Vallee de la Drome / Diois, 2016 #25 - 9 septembre
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 08 au 18/09/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						Bonjour &agrave; toutes et tous,
+
+Merci pour le flot de publications qui a notablement augment&eacute; cette semaine sur Ensemble Ici !
+
+Agenda :&nbsp; merci au Festival Ad Hoc &agrave; Mirabel et Blacon ( 20 films documentaires au programme, entre autre) d&#39;alimenter g&eacute;n&eacute;reusement et sympathiquement les infos d&#39;Ensemble Ici (&eacute;couter aussi l&#39;interview de l&#39;&eacute;mission MQQSP ici) ; &agrave; noter particuli&egrave;rement la semaine prochaine, la semaine de l&#39;&eacute;conomie locale &agrave; Saillans (bien s&ucirc;r Ensemble Ici participe), pour tous les saillansons et habitants proches ; vous trouverez la prochaine soir&eacute;e du Cabaret des Rami&egrave;res &agrave; Eurre, l&#39;Usine Vivante qui ne manquera pas de vous ouvrir ses portes pour les Journ&eacute;es du Patrimoine, les Forums associatifs en plein boum ce WE.
+Les annonces : pas mal d&#39;activit&eacute;s se pr&eacute;sentent. A l&#39;avenir, l&#39;agenda accueillera mieux les rendez-vous tr&egrave;s r&eacute;guliers. A noter : le chantier participatif de l&#39;Ancien Monast&egrave;re de Ste Croix et l&#39;appel &agrave; coups de pouce des Agit&eacute;s du Local &agrave; Die. Et ce jeu de d&eacute;veloppement local d&eacute;cid&eacute;ment fort sympathique semble-t-il !
+
+	&nbsp;
+N&#39;h&eacute;sitez pas &agrave; partager vos &quot;bons plans&quot;, publiez un peu en avance les &eacute;v&eacute;nements que vous aimez et o&ugrave; vous serez !
+
+On n&#39;est plus tr&egrave;s loin de vous offrir des fichiers PDFs joints &agrave; cette Lettre, tous beaux, tous neufs, tout propre.
+Si les adh&eacute;sions &agrave; Ensemble Ici augmentaient comme le nombre d&#39;info sur le site cette semaine... on ne saurait comment vous remercier !
+
+
+Bonne semaine, bonne lecture, bons documentaires &agrave; Mirabel et Blacon, bonne &eacute;conomie locale &agrave; Saillans, bons Forums associatifs, et belles journ&eacute;es du Patrimoine,
+
+
+	Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois
+
+	
+			
+	
+		Rappel
+		T&eacute;l&eacute;chargeable depuis cette lettre, en fichier PDF :
+		- tous les &eacute;v&eacute;nements &agrave; venir dans les 10 jours,
+		- toutes les annonces de ces derniers jours
+
+
+Si vous appr&eacute;ciez Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois :
+soutenez-nous par votre adh&eacute;sion ! (lien vers la page d&#39;adh&eacute;sion, ici)		
+	
+
+
+
+	
+                Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+                
+        
+		
+			
+				
+				Crestois Pays de Saillans							
+													
+								Duo à cordes "Hors des Sentiers Battus"
+								Concert , AUREL
+								Vendredi 09 septembre 2016
+						
+
+												
+													
+								CONCERT de BEGAYER
+								Concert , MIRABEL-ET-BLACONS
+								Vendredi 09 septembre 2016
+						
+
+												
+													
+								Jean François Pauvros en concert
+								Concert , MIRABEL-ET-BLACONS
+								Samedi 10 septembre 2016
+						
+
+												
+													
+								SASASLI en concert
+								Concert , MIRABEL-ET-BLACONS
+								Dimanche 11 septembre 2016
+						
+
+												
+													
+								INDIEGROUND SOUND SYSTEM
+								Concert , MIRABEL-ET-BLACONS
+								Dimanche 11 septembre 2016
+						
+
+												
+													
+								Présentation de nouveaux services et de Ensemble Ici aux professionnels de Saillans et alentours
+								journée d'information , SAILLANS
+								Lundi 12 septembre 2016
+						
+
+												
+													
+								Semaine de l'économie locale - Saillans
+								Rencontre , SAILLANS
+								du lundi 12 au dimanche 18 septembre 2016
+						
+
+												
+													
+								PREMICES
+								Stage , CREST
+								Mardi 13 septembre 2016
+						
+
+												
+													
+								Usine Vivante aux Journées du Patrimoine
+								Visite , CREST
+								du samedi 17 au dimanche 18 septembre 2016
+						
+
+												
+													
+								Atelier / permanence - prise en main de Ensemble Ici pour les habitants
+								Atelier , SAILLANS
+								Dimanche 18 septembre 2016
+						
+
+					&nbsp;Diois							
+													
+								Séminaire : écoute dans le vent
+								Rencontre , VAL-MARAVEL
+								du jeudi 08 au dimanche 11 septembre 2016
+						
+
+												
+													
+								Trajet Spectacle propose un atelier découverte gratuit PRATIQUE DU JEU CLOWNESQUE le 9 septembre de 19h à 22h
+								Atelier , DIE
+								Vendredi 09 septembre 2016
+						
+
+												
+								Choeur en Diois
+								journée d'information , MISCON
+								Samedi 10 septembre 2016
+						
+
+												
+													
+								Stage de Chant Hindustani
+								Stage , LESCHES-EN-DIOIS
+								du samedi 10 au dimanche 11 septembre 2016
+						
+
+												
+													
+								Opera sur Cour
+								Spectacle , CHATILLON-EN-DIOIS
+								du samedi 10 septembre au lundi 10 octobre 2016
+						
+
+												
+													
+								Conférence avec les Twofeathers
+								Conférence , SAINTE-CROIX
+								Dimanche 11 septembre 2016
+						
+
+												
+													
+								Echanges de Pratiques Numériques du Mercredi
+								Atelier , DIE
+								Mercredi 14 septembre 2016
+						
+
+												
+													
+								CABARET IMPROMPTU
+								Performance , DIE
+								Vendredi 16 septembre 2016
+						
+
+												
+													
+								Bébé la parole est à vous...
+								Stage , DIE
+								du vendredi 16 au dimanche 18 septembre 2016
+						
+
+												
+													
+								chasses, danses et traditions
+								Fête , CHATILLON-EN-DIOIS
+								Samedi 17 septembre 2016
+						
+
+												
+													
+								Atelier Jardin "Faire Ses Graines"
+								Atelier , DIE
+								Samedi 17 septembre 2016
+						
+
+												
+													
+								Blanche Aurore Céleste
+								Spectacle , DIE
+								du samedi 17 au dimanche 18 septembre 2016
+						
+
+					Val de Drôme							
+													
+								Cours de Couture à Beaufort-sur-Gervanne
+								Atelier , BEAUFORT-SUR-GERVANNE
+								Lundi 12 septembre 2016
+						
+
+												
+													
+								FAUT QU'ÇA GUINCHE
+								Concert , EURRE
+								Vendredi 16 septembre 2016
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+                
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Cherche participants pour atelier découverte crusine
+							
+						
+						
+														LUC-EN-DIOIS
+						
+						
+					
+					
+													pirater 2017
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													Activités et randonnées nature
+							
+						
+						
+														CREST
+						
+						
+					
+					
+													randonnée nature et méditation
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													pleine conscience Drôme
+							
+						
+						
+														CLIOUSCLAT
+						
+						
+					
+					
+													Cours de tournage d'art sur bois 
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														CHABRILLAN
+						
+						
+					
+					
+													Chambre dans coloc
+							
+						
+						
+														CREST
+						
+						
+					
+					
+													Vente directe de miel à la miellerie
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													luminothérapie 
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													radiateur
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													revues /journaux...
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													Cherche famille d'accueil pour un chat adorable jusqu'au printemps 
+							
+						
+						
+														BEAUMONT-EN-DIOIS
+						
+						
+					
+					
+													electro menager
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													Offre emploi agent de développement ESCDD
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													chantier participatif: réfection de la toiture du Monastère de ste Croix
+							
+						
+						
+														SAINTE-CROIX
+						
+						
+					
+					
+													Les Agités du Local recherchent
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													batterie à vendre
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														MENGLON
+						
+						
+					
+					
+													Vente à la ferme et libre-cueillette
+							
+						
+						
+														MONTLAUR-EN-DIOIS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Couture à Criel
+								
+								stages et cours de couture, ateliers
+							
+							
+															BEAUFORT-SUR-GERVANNE
+															
+							
+						
+						
+														Trajet Spectacle
+								
+								
+							
+							
+															DIE
+								Association							
+							
+						
+						
+														l'Arbre aux savoirs
+								
+								réseau d'échanges réciproques de savoirs
+							
+							
+															LORIOL-SUR-DROME
+								Association							
+							
+						
+						
+														ECOLE DE MUSIQUE INTERCOMMUNALE LIVRON-LORIOL
+								
+								Syndicat Intercommunal d'Enseignement Artistique
+							
+							
+															LIVRON-SUR-DROME
+								Etablissement public							
+							
+						
+						
+														ANCIEN MONASTERE DE SAINTE CROIX
+								
+								structure d'accueil de séjours internationaux
+							
+							
+															SAINTE-CROIX
+															
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

@@ -1,0 +1,785 @@
+
+
+    
+        
+        Ensemble ici | # 2016-10 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 03 au 13/03/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	
+		Entre local et global, Ensemble ici vous informe des actus citoyennes !
+	
+	
+		P&eacute;tition contre un projet de piste foresti&egrave;re au Pas des Ondes
+	Le site du Pas des Ondes dans la vall&eacute;e de l&rsquo;Oule pr&egrave;s de Cornillon constitue un haut lieu de la biodiversit&eacute;. L&rsquo;Office National des For&ecirc;ts envisage d&rsquo;ouvrir une piste foresti&egrave;re qui traversera tout le cirque de Viviers. Pour pouvoir pr&eacute;server ce site et bloquer ce projet, une p&eacute;tition a &eacute;t&eacute; mise en place: retrouvez l&agrave; en cliquant ICI.
+	
+		
+		
+			Expos&eacute;-D&eacute;bat : le grand accord transatlantique
+		Un expos&eacute;-d&eacute;bat sera pr&eacute;sent&eacute; par le collectif Stop TAFTA du Pays Nyonsais &agrave; Aubres le vendredi 4 mars &agrave; 20h30 : &quot; V&eacute;ritable menace pour les d&eacute;mocraties et les peuples &quot;, ce projet de trait&eacute; de libre &eacute;change entre les Etats-Unis et l&rsquo;Union Europ&eacute;enne est actuellement n&eacute;goci&eacute; en secret devant la Commission Europ&eacute;enne... 
+	
+	
+		Et puis retrouvez ici un appel citoyen et militant pour un rassemblement &agrave; Nyons contre la loi Travail mais aussi &agrave; Avignon, Valence et Grenoble.
+
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+                
+        
+		
+			
+				
+				Crestois Pays de Saillans							
+													
+								Initiation au Lindy Hop
+								Cours , CREST
+								Vendredi 04 mars 2016
+						
+
+												
+													
+								Atelier de Qi Gong
+								Atelier , CREST
+								Dimanche 06 mars 2016
+						
+
+					Diois							
+													
+								Atelier laine, de la toison brute au filage
+								Atelier , DIE
+								Samedi 05 mars 2016
+						
+
+												
+													
+								Le lindy hop revient au goût du jour
+								Atelier , DIE
+								Mercredi 09 mars 2016
+						
+
+					Hautes Baronnies							
+													
+								Concert festif ! Fatum Fatras   Leopold et Carmen (1ere partie)
+								Concert , REILHANETTE
+								Samedi 05 mars 2016
+						
+
+					&nbsp;Pays de Buis-les-Baronnies							
+													
+								Les Petits Chanteurs à la Croix de Bois
+								Concert , BUIS-LES-BARONNIES
+								Jeudi 03 mars 2016
+						
+
+												
+													
+								Concert d'Elodie Soulard, accordéon classique 
+								Concert , BUIS-LES-BARONNIES
+								Samedi 05 mars 2016
+						
+
+												
+													
+								Soirée déguisée
+								Fête , PROPIAC
+								Samedi 05 mars 2016
+						
+
+												
+													
+								Orchidées passion
+								Exposition , BUIS-LES-BARONNIES
+								du samedi 05 au dimanche 06 mars 2016
+						
+
+												
+													
+								LE FESTIN DES POETES
+								Spectacle , BEAUVOISIN
+								Vendredi 11 mars 2016
+						
+
+												
+													
+								Cinéma
+								Projection , BUIS-LES-BARONNIES
+								Vendredi 11 mars 2016
+						
+
+												
+													
+								EGGO + BEN EGGER + NOE TIKK [Techno house électronique]
+								Concert , BUIS-LES-BARONNIES
+								Vendredi 11 mars 2016
+						
+
+					&nbsp;Pays de Rémuzat							
+													
+								HISTOIRES ET FANTÔMES
+								Conte , MONTREAL-LES-SOURCES
+								Samedi 12 mars 2016
+						
+
+					&nbsp;Val d'Eygues							
+													
+								Exposé - Débat   LE GRAND ACCORD TRANSATLANTIQUE
+								Débat , AUBRES
+								Vendredi 04 mars 2016
+						
+
+												
+													
+								Concert Eva Zacharias et Lucien Rosselet 
+								Concert , PIEGON
+								Vendredi 04 mars 2016
+						
+
+												
+													
+								Les rendez-vous des résidences Mars 2016
+								Atelier , NYONS
+								Samedi 05 mars 2016
+						
+
+												
+													
+								Concert Swing System Trio
+								Concert , VINSOBRES
+								Samedi 05 mars 2016
+						
+
+												
+													
+								Fête de la soupe
+								Manifestation , MONTAULIEU
+								du samedi 05 au dimanche 06 mars 2016
+						
+
+												
+													
+								Épiphanies du quotidien
+								Exposition , NYONS
+								du samedi 05 au lundi 21 mars 2016
+						
+
+												
+													
+								Théâtre à Aubres
+								Spectacle , AUBRES
+								Dimanche 06 mars 2016
+						
+
+												
+													
+								Trial des Oliviers 5ème édition 
+								Rencontre , NYONS
+								Dimanche 06 mars 2016
+						
+
+												
+													
+								Séance spéciale: "JE SUIS LE PEUPLE"
+								Projection , NYONS
+								Lundi 07 mars 2016
+						
+
+												
+													
+								On enrichit le bulletin papier des 4 saisons !
+								Réunion , CURNIER
+								Mercredi 09 mars 2016
+						
+
+												
+													
+								Rassemblement citoyen contre la loi travail
+								Manifestation , NYONS
+								Mercredi 09 mars 2016
+						
+
+												
+													
+								THEATRE DES HABITANTS
+								Spectacle , CHATEAUNEUF-DE-BORDETTE
+								Dimanche 13 mars 2016
+						
+
+												
+													
+								LA SOURCE
+								Spectacle , LES PILLES
+								Dimanche 13 mars 2016
+						
+
+												
+													
+								Atelier corps et voix
+								Atelier , MONTAULIEU
+								Dimanche 13 mars 2016
+						
+
+												
+													
+								Concert classique de Francesco Attesti
+								Concert , NYONS
+								Dimanche 13 mars 2016
+						
+
+					Val de Drôme							
+													
+								Les cotylédons, école associative montessori
+								Manifestation , ALLEX
+								Samedi 12 mars 2016
+						
+
+												
+													
+								 STAGE D’IMPROVISATION 
+								Stage , EURRE
+								du samedi 12 au dimanche 13 mars 2016
+						
+
+					Ailleurs dans le coin							
+													
+								Conférence-dédicace de Nicole Faucon Pellet
+								Conférence , GRIGNAN
+								Vendredi 04 mars 2016
+						
+
+												
+													
+								Scène ouverte à Séguret
+								Concert , SEGURET
+								Vendredi 04 mars 2016
+						
+
+												
+													
+								Exposition de maquettes de Grignan
+								Exposition , GRIGNAN
+								du vendredi 04 au dimanche 20 mars 2016
+						
+
+												
+													
+								Printemps des poètes
+								Spectacle , TAULIGNAN
+								Samedi 05 mars 2016
+						
+
+												
+													
+								initiation formation au Massage Sensitif mars
+								Stage , BOURG-LES-VALENCE
+								du samedi 05 au dimanche 06 mars 2016
+						
+
+												
+													
+								« Le corps, le souffle, la voix dans le jeu de l’acteur »
+								Atelier , CUREL
+								du samedi 05 au dimanche 06 mars 2016
+						
+
+												
+													
+								Concert Brassens au Foyer Rural de Solérieux le 6 Mars 2016 à 17 h.
+								Concert , SOLERIEUX
+								Dimanche 06 mars 2016
+						
+
+												
+													
+								Grève générale contre la loi travail
+								Manifestation , AVIGNON
+								Mercredi 09 mars 2016
+						
+
+												
+													
+								Grève générale contre la loi travail
+								Manifestation , GRENOBLE
+								Mercredi 09 mars 2016
+						
+
+												
+													
+								Atelier maquettes et pliages
+								Atelier , GRIGNAN
+								Mercredi 09 mars 2016
+						
+
+												
+													
+								Grève générale contre la loi travail
+								Manifestation , VALENCE
+								Mercredi 09 mars 2016
+						
+
+												
+													
+								Spectacle de soutien 
+								Spectacle , VAISON-LA-ROMAINE
+								Samedi 12 mars 2016
+						
+
+												
+													
+								Atelier Massage-bien-être.
+								Atelier , PUYMERAS
+								Dimanche 13 mars 2016
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													L'association familiale recherche des bénévoles
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													stage de poterie primitive et chi gong
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														BELLEGARDE-EN-DIOIS
+						
+						
+					
+					
+													Entretiens individuels
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+					
+													A Rebrousse Poil
+							
+						
+						
+														MARSEILLE
+						
+						
+					
+					
+													recherche professeur de harpe celtique
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													Vends billets de train Lyon-Paris  Aller et AR
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAINTE-JALLE
+						
+						
+					
+					
+													Buffet bois années 60
+							
+						
+						
+														FAUCON
+						
+						
+					
+					
+													Petit réfrigérateur d'appoint
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														FAUCON
+						
+						
+					
+					
+													Alain Martinez Géobiologue
+							
+						
+						
+														MONTAULIEU
+						
+						
+					
+					
+													Location maison octobre à fin décembre 2016 
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													Vends 2 enceintes acoustiques SANSUI
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														FAUCON
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														ANCRE
+								
+								antenne du Nyonsais Baronnies
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														BATUCABUIS
+								
+								
+							
+							
+															BUIS-LES-BARONNIES
+								Association							
+							
+						
+						
+														Biovallée - Le Campus 
+								
+								Développement durable et gouvernance territoriale
+							
+							
+															EURRE
+								Collectivité locale							
+							
+						
+						
+														MUSEE ARCHEOLOGIQUE DU PEGUE
+								
+								Société du Patrimoine Péguois d'Histoire et d'Archéologie
+							
+							
+															LE PEGUE
+								Association							
+							
+						
+						
+														CHEMINS SINGULIERS
+								
+								Accompagnement Biographique - Médiation CNV
+							
+							
+															AOUSTE-SUR-SYE
+								Auto-entrepreneur							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

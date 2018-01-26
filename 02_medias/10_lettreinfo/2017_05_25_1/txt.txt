@@ -1,0 +1,757 @@
+
+
+
+    
+        
+        Ensemble ici | # 2017-21 : Ensemble Ici, tous acteurs de la vie locale !
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Bonjour &agrave; toutes et &agrave; tous!
+&nbsp;
+** Ensemble Ici sur Carnet de Campagne,&nbsp;France Inter **
+Le soleil est de retour, il rayonne jusque dans nos postes radio avec la douce voix de Maud interview&eacute;e sur France Inter dans l'emission "Carnets de Campagne" (Philippe Bertrand). Nous y avons eut la chance de pr&eacute;senter l'association DECOR, parente de nos petits b&eacute;b&eacute;s: Ensemble Ici et RadiO'Live. Un beau moment pour mettre en avant nos id&eacute;aux: citoyennet&eacute;, partage et solidarit&eacute;!&nbsp;
+CLIQUEZ ICI pour &eacute;couter l'&eacute;mission (2/5) du Mardi 23 Mai 2017
+&nbsp;
+&nbsp;
+** F&ecirc;te Mondiale du Jeu: Samedi 27 Mai 2017**&nbsp;
+.... Venez vous rafraichir Samedi 27 Mai &agrave; Buis les Baronnies, sous les Arcades (14h/ minuit), &agrave; la F&ecirc;te Mondiale du Jeu. Parmis vous, RadiO'Live animera des ateliers ludiques pour vous faire d&eacute;couvrir le monde de la radio!&nbsp;
+&nbsp;
+&nbsp;
+** Challenge Mobilit&eacute;: 8 Juin 2017 ** &nbsp;
+Associations, entreprises, administrations: un challenge vous attend!&nbsp;
+&nbsp;
+Poursuivons notre d&eacute;marche citoyenne avec la promotion des modes de transports alternatifs :&nbsp; le Challenge Mobilit&eacute;&nbsp;s'inscrit comme un outil de mobilisation pour f&eacute;d&eacute;rer les salari&eacute;s et le tissu &eacute;conomique local : un moyen ludique et convivial pour promouvoir toutes des solutions plus &eacute;conomiques et plus propres.
+&nbsp;
+Le jour J, chacun est invit&eacute; &agrave; laisser sa voiture au garage au profit de la marche, du v&eacute;lo, des transports en commun ou du covoiturage pour effectuer son trajet domicile-travail.
+De la joie, de la convivialit&eacute;, de l'&eacute;colo ? Alors tous &agrave; vos v&eacute;los !&nbsp;
+&nbsp;Pour en savoir plus : CLIQUEZ ICI
+&nbsp;
+Belle semaine ensoleill&eacute;e &agrave; toutes et &agrave; tous !                Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici. Il vous est ais&eacute; d'en ajouter via les formulaires du site. Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d'info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles! 
+contact@ensembleici.fr
+&nbsp;
+L'assocation DECOR est la structure juridique qui porte les projets Ensemble Ici - Baronnies et RadiO'live, webradio init&eacute;rante. Elle a besoin de votre soutien pour continuer d'exercer ses missions. 
+Pensez &agrave; l'adh&eacute;sion
+        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Hautes Baronnies                        
+                    
+                    Jambalaiya
+                    Concert , BALLONS
+                    Jeudi 25 mai 2017
+                    
+
+                                            
+                    
+                    Les P'tits bals (perdurent) #1 : L'hexagonal
+                    Fête , MONTBRUN-LES-BAINS
+                    Dimanche 28 mai 2017
+                    
+
+                                            
+                    
+                    Conférence sommeil et stress
+                    Conférence , MONTBRUN-LES-BAINS
+                    Mercredi 31 mai 2017
+                    
+
+                    Pays de Buis-les-Baronnies                        
+                    
+                    Exposition peinture OTENIA
+                    Exposition , BUIS-LES-BARONNIES
+                    du samedi 13 au mercredi 31 mai 2017
+                    
+
+                                            
+                    
+                    Concert  de Jaumeto Ramel - Chansons Provençales
+                    Concert , MOLLANS-SUR-OUVEZE
+                    Jeudi 25 mai 2017
+                    
+
+                                            
+                    
+                    Jeux de société-Résidence Saint Louis
+                    Jeux , MOLLANS-SUR-OUVEZE
+                    Jeudi 25 mai 2017
+                    
+
+                                            
+                    
+                    Fête Mondiale du Jeu à Buis les Baronnies 
+                    Jeux , BUIS-LES-BARONNIES
+                    Samedi 27 mai 2017
+                    
+
+                                            
+                    
+                    ATEL'MUZ
+                    Concert , BUIS-LES-BARONNIES
+                    Samedi 27 mai 2017
+                    
+
+                                            
+                    
+                    GRATIFERIA
+                    Marché , BUIS-LES-BARONNIES
+                    Samedi 27 mai 2017
+                    
+
+                                            
+                    
+                    Atelier "Art de Vivre"
+                    Atelier , LA ROCHE-SUR-LE-BUIS
+                    Samedi 27 mai 2017
+                    
+
+                                            
+                    
+                    Apéro vinyles
+                    Rencontre , MOLLANS-SUR-OUVEZE
+                    Samedi 27 mai 2017
+                    
+
+                                            
+                    
+                    "La BOUTIKODON" 
+                    Visite , MOLLANS-SUR-OUVEZE
+                    du samedi 27 mai au samedi 24 juin 2017
+                    
+
+                                            
+                    
+                    Concert de soutien
+                    Concert , BUIS-LES-BARONNIES
+                    Dimanche 28 mai 2017
+                    
+
+                                            
+                    
+                    Expo collective de sérigraphie / Concert Ventre de biche
+                    Concert , MOLLANS-SUR-OUVEZE
+                    Samedi 03 juin 2017
+                    
+
+                                            
+                    
+                    Cueillette du tilleul
+                    Manifestation , BUIS-LES-BARONNIES
+                    Dimanche 04 juin 2017
+                    
+
+                    Pays de Rémuzat                        
+                    
+                    Contes en musique
+                    Conte , CORNILLAC
+                    Samedi 27 mai 2017
+                    
+
+                                            
+                    
+                    VILLIPENDRIX Art Is Show #2
+                    Festival , VILLEPERDRIX
+                    du samedi 03 au dimanche 04 juin 2017
+                    
+
+                    Val d'Eygues                        
+                    
+                    le marché producteurs des Pilles
+                    Marché , LES PILLES
+                    du lundi 15 mai au lundi 30 octobre 2017
+                    
+
+                                            
+                    
+                    LE 18 MAI Ouverture de la Guinguette au camping minicipal les oliviers
+                    Repas , SAHUNE
+                    du jeudi 18 mai au mardi 31 octobre 2017
+                    
+
+                                            
+                    
+                    SPORT
+                    Tournoi , MIRABEL-AUX-BARONNIES
+                    du vendredi 19 mai au dimanche 11 juin 2017
+                    
+
+                                            
+                    
+                    CONCERT TOMADO SYSTEM (reggae, soul, funk...)
+                    Concert , SAHUNE
+                    Vendredi 26 mai 2017
+                    
+
+                                            
+                    
+                    Rencontre autour du jardinage
+                    Stage , NYONS
+                    du vendredi 26 au dimanche 28 mai 2017
+                    
+
+                                            
+                    
+                    Conférence et atelier de Biodanza à Nyons
+                    Conférence , NYONS
+                    Samedi 27 mai 2017
+                    
+
+                    
+                    concert 
+                    Concert , VENTEROL
+                    Samedi 27 mai 2017
+                    
+
+                                            
+                    
+                    N'achetez plus jamais de peinture, fabriquez-la !
+                    Atelier , NYONS
+                    du samedi 27 au dimanche 28 mai 2017
+                    
+
+                                            
+                    
+                    Repas Fête des Mères
+                    Repas , CURNIER
+                    Dimanche 28 mai 2017
+                    
+
+                                            
+                    
+                    Sister Grace
+                    Concert , NYONS
+                    Lundi 29 mai 2017
+                    
+
+                                            
+                    
+                    Conférence: La Maladie de Lyme
+                    Conférence , NYONS
+                    Mardi 30 mai 2017
+                    
+
+                                            
+                    
+                    Grand déballage de la Ressourcerie
+                    Manifestation , NYONS
+                    du vendredi 02 au samedi 03 juin 2017
+                    
+
+                                            
+                    
+                    SESSIONS ACCORDÉON
+                    Stage , NYONS
+                    Samedi 03 juin 2017
+                    
+
+                                            
+                    
+                    Pique-Nique chez le Vigneron Indépendant
+                    Manifestation , NYONS
+                    du samedi 03 au lundi 05 juin 2017
+                    
+
+                                            
+                    
+                    Lancement de l'application "Rando-Terroir"
+                    Randonnée , NYONS
+                    du samedi 03 au lundi 05 juin 2017
+                    
+
+                                
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Je cherche des poules et une canne
+                
+                    
+                    
+                                                        SAINTE-JALLE
+                    
+                    
+                
+                                    Cherche micro-tracteur pour faire du jardin
+                
+                    
+                    
+                                                        SAHUNE
+                    
+                    
+                
+                                    Lieu de vie
+                
+                    
+                    
+                                                        VENTEROL
+                    
+                    
+                
+                                    Récuperation essaim abeilles
+                
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    paille
+                
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    famille d'accueil
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        SAHUNE
+                    
+                    
+                
+                                    ASOFT recherche un technicien en informatique
+                
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    ASOFT recherche un animateur numérique
+                
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                    Puériculture
+                
+                    
+                    
+                                                        BUIS-LES-BARONNIES
+                    
+                    
+                
+                                    OUVERTURE DE LA GUINGUETTE A SAHUNE
+                
+                    
+                    
+                                                        SAHUNE
+                    
+                    
+                
+                                    location
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        VENTEROL
+                    
+                    
+                
+                                    Vends cuisinière vitrocéramique FAR
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        VINSOBRES
+                    
+                    
+                
+                                    Geobiologue- Conseiller en habitat sain
+                
+                    
+                    
+                                                        RASTEAU
+                    
+                    
+                
+                                    ETAGERE + RANGE CD
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        VENTEROL
+                    
+                    
+                
+                                    appartement
+                
+                    
+                    
+                                                        NYONS
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            IPAM
+                Maison des plantes
+                
+                                        BUIS-LES-BARONNIES
+                        Association                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+    Le collectif "Ensemble ici" :
+
+        
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

@@ -1,0 +1,651 @@
+
+
+    
+        
+        Ensemble ici | # 2015-04 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 22/01 au 01/02/2015
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous,
+
+On sent bien aujourd&rsquo;hui la n&eacute;cessite de rompre avec l&rsquo;individualisme ambiant, dans un monde qui se d&eacute;shumanise.
+Le titre du projet Ensemble Ici r&eacute;sume sa d&eacute;marche : se donner les moyens de vivre ensemble localement !
+
+&quot;Ensemble Ici&quot; est une initiative ind&eacute;pendante et citoyenne qui vise &agrave; faciliter les &eacute;changes et &agrave; mutualiser l&rsquo;information de tous styles entre habitants et acteurs locaux.
+
+Il s&#39;agit d&#39;un outil&nbsp; &agrave; s&rsquo;approprier, une r&eacute;sistance &agrave; l&rsquo;individualisme et &agrave; la crise par davantage d&rsquo;&eacute;changes, de r&eacute;ciprocit&eacute;, d&rsquo;&eacute;cologie, de solutions locales et de solidarit&eacute;.
+
+Chacun peut intervenir &agrave; son niveau !
+Nous pouvons ainsi &eacute;changer nos informations, partager nos services et mieux savoir ce qui anime notre r&eacute;gion, tant au niveau culturel que social et citoyen.
+&nbsp;
+Pour une nouvelle forme de m&eacute;dia collaboratif : &agrave; vos plumes et claviers&nbsp;!
+
+	
+	Belle semaine,
+	
+	L&#39;&eacute;quipe Ensemble ici.
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums, et bient&ocirc;t articles!
+	
+	
+		contact@ensembleici.fr
+
+		
+	
+
+
+	
+		
+			
+				
+				Pays de Buis-les-Baronnies							
+													
+								soirée Bollywood
+								Atelier , BUIS-LES-BARONNIES
+								Samedi 24 janvier 2015
+						
+
+												
+													
+								Concert Jeunes Talents
+								Concert , BUIS-LES-BARONNIES
+								Dimanche 25 janvier 2015
+						
+
+												
+													
+								Monalisa, ensemble vocal féminin
+								Spectacle , MOLLANS-SUR-OUVEZE
+								Dimanche 25 janvier 2015
+						
+
+												
+													
+								Le bateau
+								Spectacle , BUIS-LES-BARONNIES
+								Vendredi 30 janvier 2015
+						
+
+					&nbsp;Val d'Eygues							
+													
+								Catch-Impro
+								Spectacle , NYONS
+								Jeudi 22 janvier 2015
+						
+
+												
+													
+								Moto club Trial des Oliviers
+								Réunion , NYONS
+								Vendredi 23 janvier 2015
+						
+
+												
+													
+								Les becs de jazz
+								Concert , CHATEAUNEUF-DE-BORDETTE
+								Samedi 24 janvier 2015
+						
+
+												
+													
+								Monalisa, ensemble vocal féminin
+								Spectacle , SAINTE-JALLE
+								Samedi 24 janvier 2015
+						
+
+												
+													
+								Soupes et chansons
+								Repas , VENTEROL
+								du samedi 24 au dimanche 25 janvier 2015
+						
+
+												
+													
+								Loto de l'Ecole Aubres-Les Pilles
+								Jeux , AUBRES
+								Dimanche 25 janvier 2015
+						
+
+												
+													
+								DEGUSTATION GRATUITE
+								Marché , NYONS
+								Dimanche 25 janvier 2015
+						
+
+												
+													
+								Concert des chorales
+								Concert , NYONS
+								Dimanche 25 janvier 2015
+						
+
+												
+													
+								 La Sonate à Kreutzer
+								Concert , PIEGON
+								Dimanche 25 janvier 2015
+						
+
+												
+													
+								Association Chrysalide ASP 26
+								Réunion , CURNIER
+								Lundi 26 janvier 2015
+						
+
+												
+													
+								La peinture et la réalité
+								Conférence , NYONS
+								Lundi 26 janvier 2015
+						
+
+												
+													
+								La fatale histoire de Jacques et son Maître
+								Spectacle , NYONS
+								Mercredi 28 janvier 2015
+						
+
+												
+													
+								31e Alicoque, Fête de l'huile nouvelle
+								Fête , NYONS
+								du mercredi 28 janvier au dimanche 01 février 2015
+						
+
+												
+													
+								Concert Rassegna 
+								Concert , NYONS
+								Vendredi 30 janvier 2015
+						
+
+												
+													
+								Spectacle enfants
+								Spectacle , CURNIER
+								Samedi 31 janvier 2015
+						
+
+												
+													
+								JOURNEE BIEN-ETRE
+								Stage , NYONS
+								Samedi 31 janvier 2015
+						
+
+												
+													
+								REPAS CONCERT
+								Concert , CURNIER
+								du samedi 31 janvier au dimanche 01 février 2015
+						
+
+												
+													
+								Fête de la soupe
+								Fête , MONTAULIEU
+								Samedi 07 février 2015
+						
+
+					Ailleurs dans le coin							
+													
+								Jamais Pareil Show
+								Spectacle , MONTBRISON-SUR-LEZ
+								Samedi 24 janvier 2015
+						
+
+												
+													
+								RYTM'&BOUFFE
+								Repas , SEGURET
+								Samedi 24 janvier 2015
+						
+
+												
+													
+								Une heure et demie de retard
+								Atelier , TAULIGNAN
+								Dimanche 25 janvier 2015
+						
+
+												
+													
+								Tubes de légende
+								Spectacle , VALREAS
+								Dimanche 25 janvier 2015
+						
+
+												
+													
+								Conférence sur la sûreté nucléaire en Vallée du Rhône
+								Conférence , BEGUDE-DE-MAZENC
+								Vendredi 30 janvier 2015
+						
+
+												
+													
+								Des roses pour mon amour
+								Spectacle , ROCHE-SAINT-SECRET-BECONNE
+								Vendredi 30 janvier 2015
+						
+
+												
+													
+								A tire d'elles
+								Spectacle , BEGUDE-DE-MAZENC
+								Samedi 31 janvier 2015
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Cherche logement
+							
+						
+						
+														AUBRES
+						
+						
+					
+					
+													Recherche jongleurs de feu
+							
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Atelier hebdomadaire Feldenkrais
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														BUIS-LES-BARONNIES
+						
+						
+					
+					
+													Cherche emploi services à la personne / saison agricole
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													covoiturage Nyons/Les pilles
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													VW transporter T3 1,7D
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAINT-SAUVEUR-GOUVERNET
+						
+						
+					
+					
+													Emploi
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													Informatique
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														NYONS
+						
+						
+					
+					
+													PEUGEOT BREAK 405 pour pièces ou réparation
+							
+						
+						
+														LES PILLES
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Compagnie EN ROUE LIBRE
+								
+								
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														Petits fruits et Cie
+								
+								Framboises et plantes aromatiques et médicinales
+							
+							
+															MONTAULIEU
+								Etablissement privé							
+							
+						
+						
+														La Cave du Troc
+								
+								Votre Boutik' gratuite!
+							
+							
+															MOLLANS-SUR-OUVEZE
+															
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+			
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    

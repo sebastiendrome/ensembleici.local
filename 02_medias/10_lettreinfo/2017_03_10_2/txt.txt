@@ -1,0 +1,685 @@
+
+
+
+    
+        
+        Ensemble ici | Lettre d'Ensemble Ici - Vallee de la Drome / Diois, 2017 #10 - 10 mars
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                Chers habitants et acteurs de la Vall&eacute;e, du Diois, toutes et tous acteurs locaux,
+Prochaine &eacute;mission Mais Qu'est-ce Qui S'Passe ? : Journ&eacute;e nettoyage de printemps &agrave; L'Ancien Monast&egrave;re de Sainte-Croix les 18/19 mars, suite &agrave; la fin du chantier d'hiver 2016/2017 (bilan du chantier).
+Agenda : &agrave; noter,
+
+le faux Contest d'escalade &agrave; Die, dimanche 12 mars : sur inscription
+L'association Merlin d&eacute;marre des ateliers de Florith&eacute;rapie pr&egrave;s de Die, le 15 mars prochain
+21 mars : 2e r&eacute;union publique de radio Saint Ferr&eacute;ol, pour que le plus grand nombre de crestois s'emparre de leur radio !
+beaucoup d'autres RdV &agrave; lire dans le PDF Agenda : vous avez pas mal de lecture, merci de partager vos infos, Ensemble, ici, dans la vall&eacute;e de la Dr&ocirc;me / Diois !
+
+&nbsp; Bonne lecture,
+Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois
+
+&nbsp;
+&nbsp;                
+Rappel T&eacute;l&eacute;chargeable depuis cette lettre, en fichier PDF, depuis le haut des 2 rubriques : - tous les &eacute;v&eacute;nements jusqu'au 3e WE &agrave; venir, - toutes les annonces de ces 30 derniers jours
+C'est vous qui publiez, modifier, compl&eacute;tez vos informations locales !
+Ensemble Ici : l'information par et pour les habitants de la Vall&eacute;e de la Dr&ocirc;me / Diois
+
+Si vous appr&eacute;ciez Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois :
+&nbsp;"abonnement volontaire" / don mensuel&nbsp;
+Nous ne touchons aucune subvention. Pour que l'animation du site puisse continuer avec notre salari&eacute;,merci de votre soutien
+Adh&eacute;sion
+&nbsp;        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Crestois Pays de Saillans                        
+                    
+                    Concert Stéphanie G
+                    Concert , CREST
+                    Samedi 11 mars 2017
+                    
+
+                                            
+                    
+                    Stage "Découverte de la géobiologie"
+                    Stage , ESPENEL
+                    Samedi 11 mars 2017
+                    
+
+                    
+                    Concert Raffu
+                    Concert , SAILLANS
+                    Samedi 11 mars 2017
+                    
+
+                                            
+                    
+                    WE découverte du clown
+                    Stage , CREST
+                    du samedi 11 au dimanche 12 mars 2017
+                    
+
+                                            
+                    
+                    Les âges de la Maturité
+                    Stage , PIEGROS-LA-CLASTRE
+                    du samedi 11 au dimanche 12 mars 2017
+                    
+
+                                            
+                    
+                    La sexualité - Soi, l'autre et l'amour !
+                    Stage , PIEGROS-LA-CLASTRE
+                    du samedi 11 au dimanche 12 mars 2017
+                    
+
+                                            
+                    
+                    secrets des champs
+                    Projection , AOUSTE-SUR-SYE
+                    Vendredi 17 mars 2017
+                    
+
+                                            
+                    
+                    Réunion de présentation des futurs ateliers d'écriture-poésie 
+                    Atelier , CREST
+                    Vendredi 17 mars 2017
+                    
+
+                                            
+                    
+                    SEMINAIRE GRAINE DE JOIE - LE REVEIL
+                    Stage , CREST
+                    du vendredi 17 au dimanche 19 mars 2017
+                    
+
+                                            
+                    
+                    Flux Riflo n°4
+                    Concert , SAILLANS
+                    Samedi 18 mars 2017
+                    
+
+                                            
+                    
+                    Bols de Cristal
+                    Concert , PIEGROS-LA-CLASTRE
+                    Dimanche 19 mars 2017
+                    
+
+                    Diois                        
+                    
+                    autour du 8 mars à Die
+                    journée d'information , DIE
+                    du mardi 07 au mardi 14 mars 2017
+                    
+
+                                            
+                    
+                    Mieux comprendre le pommier pour mieux le soigner
+                    Atelier , DIE
+                    Samedi 11 mars 2017
+                    
+
+                                            
+                    
+                    Aïkido : journée internationale des femmes
+                    Manifestation , DIE
+                    Samedi 11 mars 2017
+                    
+
+                                            
+                    
+                    P'tit Bal Folk avec Mattman
+                    Concert , DIE
+                    Samedi 11 mars 2017
+                    
+
+                                            
+                    
+                    Bal des enfants et concert
+                    Fête , LUC-EN-DIOIS
+                    Samedi 11 mars 2017
+                    
+
+                                            
+                    
+                    La Rumeur Du Barreau de Chaise
+                    Spectacle , DIE
+                    du samedi 11 au dimanche 12 mars 2017
+                    
+
+                                            
+                    
+                    Contest d'escalade
+                    Tournoi , DIE
+                    Dimanche 12 mars 2017
+                    
+
+                                            
+                    
+                    Atelier danses folk
+                    Atelier , DIE
+                    Lundi 13 mars 2017
+                    
+
+                                            
+                    
+                    Echanges de Pratiques Numériques à LATELIER
+                    Atelier , DIE
+                    Mercredi 15 mars 2017
+                    
+
+                    
+                    Bal Folk avec Mélopées et Moribondes !
+                    Concert , DIE
+                    Jeudi 16 mars 2017
+                    
+
+                                            
+                    
+                    CONFERENCE sur les CROP-CIRCLES
+                    Conférence , DIE
+                    Jeudi 16 mars 2017
+                    
+
+                                            
+                    
+                    La vaccination ça se discute
+                    Débat , DIE
+                    Vendredi 17 mars 2017
+                    
+
+                                            
+                    
+                    C'est mon dernier bal !
+                    Concert , CHATILLON-EN-DIOIS
+                    du vendredi 17 au samedi 18 mars 2017
+                    
+
+                                            
+                    
+                    Stage Taï-Chi, Chi-kong
+                    Stage , BOULC
+                    du samedi 18 au dimanche 19 mars 2017
+                    
+
+                    
+                    Fête du Jeu 
+                    Jeux , PONTAIX
+                    Dimanche 19 mars 2017
+                    
+
+                    Val de Drôme                        
+                    
+                    Echappés du Carrousel 
+                    Spectacle , EURRE
+                    Vendredi 10 mars 2017
+                    
+
+                                            
+                    
+                    Tibo bientôt
+                    Concert , EURRE
+                    du vendredi 10 au samedi 11 mars 2017
+                    
+
+                                            
+                    
+                    Soirée Tarots
+                    Jeux , CHABRILLAN
+                    Samedi 11 mars 2017
+                    
+
+                                            
+                    
+                    Duo Heiting Soucasse
+                    Concert , LIVRON-SUR-DROME
+                    Samedi 11 mars 2017
+                    
+
+                                            
+                    
+                    Tribute to The Velvet Underground au CBGC
+                    Concert , GIGORS-ET-LOZERON
+                    du samedi 11 au dimanche 12 mars 2017
+                    
+
+                                            
+                    
+                    concert : Banshie
+                    Concert , CHABRILLAN
+                    Vendredi 17 mars 2017
+                    
+
+                                            
+                    
+                    Zig Zags, Pratos et Tous En Tong au CBGC
+                    Concert , GIGORS-ET-LOZERON
+                    Dimanche 19 mars 2017
+                    
+
+                    Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...            
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Recherche vélo de randonnée
+                
+                    
+                    
+                                                        RECOUBEAU-JANSAC
+                    
+                    
+                
+                                    Mini Stage Multi Yoga 8/9 Avril 
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        MISCON
+                    
+                    
+                
+                                    cherche accompagnateurs pour Cedric
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        CHATILLON-EN-DIOIS
+                    
+                    
+                
+                                    festival latino
+                
+                    
+                    
+                                                        SAILLANS
+                    
+                    
+                
+                                    Table à repasser
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Programmation culturelle chez Dédé
+                
+                    
+                    
+                                                        VALDROME
+                    
+                    
+                
+                                    Cherche Prof de math
+                
+                    
+                    
+                                                        EYGLUY-ESCOULIN
+                    
+                    
+                
+                                    SACOCHE ANE
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        LUC-EN-DIOIS
+                    
+                    
+                
+                                    meubles
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    ECHANGE petit frigo
+                
+                    
+                    
+                                                        DIE
+                    
+                    
+                
+                                    Recherche poules pondeuses
+                
+                    
+                    
+                                                        CREST
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Etienne Magin - video - graphisme - post production
+                
+                
+                                        LUC-EN-DIOIS
+                        Auto-entrepreneur                
+                
+                
+                            LEVA NEVE
+                A cheval dans le Diois/Vercors
+                
+                                        DIE
+                                        
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+

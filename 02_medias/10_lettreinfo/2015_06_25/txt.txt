@@ -1,0 +1,725 @@
+
+
+    
+        
+        Ensemble ici | # 2015-26 : Ensemble Ici, tous acteurs de la vie locale !
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 25/06 au 05/07/2015
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						
+	Bonjour &agrave; toutes et &agrave; tous,
+	&nbsp;
+
+	La Tribune fait le point sur le projet&nbsp;:
+	Ensemble ici vise &agrave; d&eacute;velopper la mise en r&eacute;seau des initiatives du territoire.
+	&nbsp;
+
+	URGENT:
+	Nous recherchons un(e) volontaire en service civique !
+
+	Vous avez moins de 26 ans, vous souhaitez participer &agrave; la vie du territoire, vous &ecirc;tes int&eacute;ress&eacute;s par les initiatives citoyennes, mais aussi par l&rsquo;&eacute;v&eacute;nementiel, l&#39;information locale et le multim&eacute;dia (radio, web, vid&eacute;o..)?
+
+	Alors n&#39;h&eacute;sitez pas &agrave; nous contacter !
+
+	Infos et candidatures&nbsp;:&nbsp;
+	Service civique,&nbsp;Animer un &quot;multim&eacute;dia&quot; participatif et citoyen (web, radio, ...)
+
+	
+	Belle semaine,
+
+	L&#39;&eacute;quipe ensemble ici
+			
+	Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici.
+	Il vous est ais&eacute; d&#39;en ajouter via les formulaires du site.
+	Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d&#39;info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles!
+	
+	
+		contact@ensembleici.fr
+		
+	
+
+
+
+	
+		
+			
+				
+				Hautes Baronnies							
+													
+								Art environnemental dans la Vallée du Toulourenc
+								Promenade , REILHANETTE
+								du mardi 16 juin au dimanche 01 novembre 2015
+						
+
+												
+													
+								Sentier Art et Nature
+								Exposition , REILHANETTE
+								du samedi 20 juin au samedi 11 juillet 2015
+						
+
+												
+													
+								Résidences Grandeur Nature
+								Rencontre , REILHANETTE
+								du samedi 20 juin au samedi 11 juillet 2015
+						
+
+												
+													
+								Faites de la philo !
+								Manifestation , REILHANETTE
+								Dimanche 05 juillet 2015
+						
+
+					&nbsp;Pays de Buis-les-Baronnies							
+													
+								2e défi culinaire le climat dans notre assiette
+								Repas , BUIS-LES-BARONNIES
+								du mercredi 17 juin au samedi 10 octobre 2015
+						
+
+												
+													
+								« Heureux qui comme Ulysse … »
+								Concert , BEAUVOISIN
+								Vendredi 26 juin 2015
+						
+
+												
+													
+								Fête du cinéma
+								Projection , BUIS-LES-BARONNIES
+								du dimanche 28 juin au mercredi 01 juillet 2015
+						
+
+												
+													
+								balade nocturne
+								Promenade , BUIS-LES-BARONNIES
+								Jeudi 02 juillet 2015
+						
+
+												
+													
+								Concert de chants du Grand Caucase
+								Concert , BUIS-LES-BARONNIES
+								Vendredi 03 juillet 2015
+						
+
+												
+													
+								Le Manteau
+								Spectacle , MOLLANS-SUR-OUVEZE
+								Vendredi 03 juillet 2015
+						
+
+					Pays de Rémuzat							
+													
+								La guinguette
+								Rencontre , VILLEPERDRIX
+								du jeudi 18 juin au dimanche 13 septembre 2015
+						
+
+												
+													
+								Concerts à La Motte Chalancon
+								Concert , LA MOTTE-CHALANCON
+								Vendredi 26 juin 2015
+						
+
+												
+													
+								Vivre les passages du cancer autrement
+								Stage , CORNILLON-SUR-L'OULE
+								du dimanche 28 juin au jeudi 02 juillet 2015
+						
+
+					Val d'Eygues							
+													
+								Vendredis des Arts
+								Exposition , NYONS
+								du vendredi 12 juin au vendredi 11 septembre 2015
+						
+
+												
+													
+								La guinguette
+								Rencontre , SAINTE-JALLE
+								du jeudi 18 juin au dimanche 13 septembre 2015
+						
+
+												
+													
+								La guinguette
+								Rencontre , VENTEROL
+								du jeudi 18 juin au dimanche 13 septembre 2015
+						
+
+												
+													
+								LUTHERIE SAUVAGE #3
+								Atelier , LES PILLES
+								Jeudi 25 juin 2015
+						
+
+												
+													
+								Soubresauts, lecture poétique & apéro
+								Conte , NYONS
+								Jeudi 25 juin 2015
+						
+
+												
+													
+								Festival Lucien Durosoir
+								Festival , NYONS
+								du jeudi 25 au dimanche 28 juin 2015
+						
+
+												
+													
+								Soirée salsa, initiation à la salsa cubaine
+								Cours , NYONS
+								Vendredi 26 juin 2015
+						
+
+												
+													
+								soirée dansante
+								Repas , CURNIER
+								du samedi 27 au dimanche 28 juin 2015
+						
+
+												
+													
+								Les balades du tambourinaïre
+								Atelier , NYONS
+								Dimanche 28 juin 2015
+						
+
+												
+													
+								Vide grenier du comité des fêtes
+								Vide-grenier , SAINTE-JALLE
+								Dimanche 28 juin 2015
+						
+
+												
+													
+								Baladez curieux...! Ateliers plantes
+								Atelier , NYONS
+								du mercredi 01 juillet au mercredi 26 août 2015
+						
+
+												
+													
+								Découvrir l'impression 3D
+								Atelier , NYONS
+								Jeudi 02 juillet 2015
+						
+
+												
+													
+								Festival "Art et Foi"
+								Festival , NYONS
+								du jeudi 02 au lundi 06 juillet 2015
+						
+
+												
+													
+								DIGUE JAM #3
+								Festival , NYONS
+								du samedi 04 au dimanche 05 juillet 2015
+						
+
+					Ailleurs dans le coin							
+													
+								Exposition des peintures de Brigitte Bonnaire au Hang'Art
+								Exposition , SERRES
+								du vendredi 22 mai au lundi 13 juillet 2015
+						
+
+												
+													
+								FESTIVAL LARAGNE QUARTIERS D'ETE - Concert - chant choral
+								Concert , ANTONAVES
+								Jeudi 25 juin 2015
+						
+
+												
+													
+								amène ta chaise !
+								Spectacle , TAULIGNAN
+								Samedi 27 juin 2015
+						
+
+												
+													
+								Rencontre avec l'auteur Guillaume Fayard à Eourres
+								Rencontre , EOURRES
+								du samedi 27 au dimanche 28 juin 2015
+						
+
+												
+													
+								Exposition André du Besset 
+								Exposition , GRIGNAN
+								du samedi 27 juin au dimanche 30 août 2015
+						
+
+												
+													
+								Un été pour neuf peintres et céramistes
+								Exposition , GRIGNAN
+								du dimanche 28 juin au dimanche 30 août 2015
+						
+
+												
+													
+								FESTIVAL LARAGNE QUARTIERS D'ETE  - film conférence "Escapade au Maroc
+								Projection , ANTONAVES
+								Mardi 30 juin 2015
+						
+
+												
+													
+								Stage d'expression artistique et Land Art
+								Atelier , ORANGE
+								Jeudi 02 juillet 2015
+						
+
+												
+													
+								Courts dans la nuit
+								Projection , SEGURET
+								du samedi 04 au dimanche 05 juillet 2015
+						
+
+												
+													
+								Exquisses Festival #2
+								Festival , VALDROME
+								du samedi 04 au dimanche 05 juillet 2015
+						
+
+												
+													
+								7e édition du festival de cinéma en plein air
+								Festival , VISAN
+								du samedi 04 juillet au dimanche 30 août 2015
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													Ensemble Ici recherche un(e) volontaire en service civique !
+							
+						
+						
+														LES PILLES
+						
+						
+					
+					
+													Donne chaton
+							
+						
+						
+														MALAUCENE
+						
+						
+					
+					
+													Liquidation du magasin d'Aube Nouvelle
+							
+						
+						
+														NYONS
+						
+						
+					
+					
+													CHERCHE FRAMBOISES BIO pour CONFITURE
+							
+						
+						
+														MONTGUERS
+						
+						
+					
+					
+													Déballage, muzik, apéro-grillades sous le Pont à la Cave du Troc! 
+							
+						
+						
+														MOLLANS-SUR-OUVEZE
+						
+						
+					
+					
+													annulation fête votive de Curnier
+							
+						
+						
+														CURNIER
+						
+						
+					
+					
+													Nettoyage d'appareil audio, imprimantes ...
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														MOLLANS-SUR-OUVEZE
+						
+						
+					
+					
+													Stage de piano!
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														CURNIER
+						
+						
+					
+					
+													Espace-Temps-Musical
+							
+						
+						
+														VALREAS
+						
+						
+					
+					
+													offre d'emploi juriste
+							
+						
+						
+														LYON
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														Association "Rock on the l'Oule"
+								
+								
+							
+							
+															LA MOTTE-CHALANCON
+								Association							
+							
+						
+						
+														Toilettes Du Monde
+								
+								
+							
+							
+															NYONS
+								Association							
+							
+						
+						
+														TerresDeMusique / Festival Musiques Futées !
+								
+								concerts et rencontres musiques du monde
+							
+							
+															VOLVENT
+								Association							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+
+
+	Le collectif "Ensemble ici" :
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+	
+Les partenaires :		
+				
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

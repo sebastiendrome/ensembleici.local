@@ -1,0 +1,574 @@
+
+
+    
+        
+        Ensemble ici | Lettre de EnsembleIci - Vallee de la Drome / Diois, 2016 #9 - 12 mai
+		
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+			body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+			/* Reset Styles */
+			body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table td{border-collapse:collapse;}
+			#backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			body, #backgroundTable{
+				background-color:#F0EDEA;
+			}
+			#templateContainer{
+				border: 1px solid #E3D6C7;
+			}
+			a {
+				text-decoration: none;
+				color: inherit;
+			}
+			h1, .h1{
+				color:#E16A0C;
+				display:block;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			h2, .h2{
+				color:#2DABDA;
+				display:block;
+				font-family:Arial;
+				font-size:30px;
+				font-weight:bold;
+				line-height:100%;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				text-align:left;
+			}
+			#templateHeader{
+				background-color:#FFFFFF;
+				border-bottom:0;
+			}
+			.headerContent{
+				color:#445158;
+				font-family:Arial;
+				font-size:34px;
+				font-weight:bold;
+				line-height:100%;
+				padding:0;
+				text-align:center;
+				vertical-align:middle;
+			}
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:650px !important;
+			}
+			#templateContainer, .bodyContent{
+				background-color:#FFFFFF;
+			}
+			.bodyContent div{
+				color:#445158;
+				font-family:Arial;
+				font-size:14px;
+				line-height:150%;
+				text-align:left;
+			}
+			.bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.bodyContent img{
+				display:inline;
+				height:auto;
+			}
+			#templateFooter{
+				background-color:#FFFFFF;
+				border-top:0;
+			}
+			.footerContent div{
+				color:#707070;
+				font-family:Arial;
+				font-size:12px;
+				line-height:125%;
+				text-align:left;
+			}
+			.footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+				color:#2DABDA;
+				font-weight:normal;
+				text-decoration:underline;
+			}
+			.footerContent img{
+				display:inline;
+			}
+		
+	
+    
+    	
+        	
+            	
+                	
+                        
+                        
+                            
+                                
+										
+		                                    Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+
+											
+												
+												Du 13 au 23/05/2016
+												
+											
+										
+											&nbsp;
+												
+										
+										
+											&nbsp;
+										
+										
+											&nbsp;
+										
+			                        
+                                
+                            
+                        
+                        
+                    	
+                        	
+                            	
+                                    
+                                	
+                                        
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                            
+                                
+                                                
+                                                
+                                                    
+                                                        
+    														
+
+
+
+	
+		
+						Bonjour &agrave; toutes et &agrave; tous,
+
+Apr&egrave;s l&#39;Ascension, la Pentec&ocirc;te : les WE rallongent avec les heures d&#39;ensoleillement... d&#39;&eacute;clairage par source solaire.
+Des lieux cherch&eacute;s, des lieux propos&eacute;s : au printemps, vous d&eacute;placez vos lieux de vie.
+Dans les RdV : de la convivialit&eacute;, des jeux, de la musique, du contact avec le v&eacute;g&eacute;tal et la terre, oui le printemps nous pousse &agrave; sortir et respirer bien fort.
+
+L&#39;&eacute;quipe a l&#39;honneur et le plaisir de vous annoncer l&#39;Assembl&eacute;e G&eacute;n&eacute;rale fondatrice de notre nouvelle Association &quot;Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois&quot; qui aura lieu le
+
+	6 Juin 2016 &agrave; Saillans de 17h30 - 20h, au th&eacute;&acirc;tre du temple.
+
+La structure aura pour but d&#39;animer et d&#39;ancrer localement cet outil d&#39;information participatif avec le maximum&nbsp;d&#39;habitants, d&#39;acteurs socio-professionnels et des collectivit&eacute;s.
+
+Cette soir&eacute;e sera le lancement officiel d&#39;Ensemble Ici dans la Vall&eacute;e&nbsp;/ le Diois et le moment fondateur pour poser ensemble le mode de gouvernance de notre Association.
+Plus vous serez nombreux, plus nous serons heureux.
+
+
+N&#39;h&eacute;sitez pas &agrave; publier des informations, vous aussi. Contributeurs d&#39;information : Ne renseignez pas vos adresses courriels dans les descriptifs mais dans le champs pr&eacute;vu &agrave; cela, pour &eacute;viter des d&eacute;sagr&eacute;ments sur votre adresse courriel.
+
+Bonne lecture,
+Avec l&#39;enthousiasme et le plaisir d&#39;&ecirc;tre Ensemble, Ici, dans la Vall&eacute;e de la Dr&ocirc;me / Diois, avec vous,
+
+
+	Ensemble Ici - Vall&eacute;e de la Dr&ocirc;me / Diois
+
+	
+
+	Rappel
+	Tous les &eacute;v&eacute;nements &agrave; venir dans les 10 jours, list&eacute;s en PDF : en haut des &eacute;v&eacute;nements cliquez sur &quot;l&#39;agenda complet des &eacute;v&eacute;nements au format PDF&quot; ,
+	Toutes les derni&egrave;res annonces, list&eacute;es en PDF : en haut des annonces cliquez sur &quot;la liste compl&egrave;te des petites annonces au format PDF&quot;
+					
+	
+
+
+
+	
+                Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+                
+        
+		
+			
+				
+				Crestois Pays de Saillans							
+													
+								Découverte des jeux coopératifs sans matériel
+								Jeux , CREST
+								Vendredi 13 mai 2016
+						
+
+												
+													
+								Soirée NASA
+								Concert , AUREL
+								Samedi 21 mai 2016
+						
+
+												
+													
+								Cercles de Femmes
+								Stage , SAILLANS
+								du samedi 21 au dimanche 22 mai 2016
+						
+
+					Diois							
+													
+								Exposition de peintures
+								Exposition , DIE
+								du mardi 12 avril au mardi 31 mai 2016
+						
+
+												
+													
+								Evènements Mai juin à la Bonneterie
+								Manifestation , DIE
+								du vendredi 22 avril au lundi 20 juin 2016
+						
+
+												
+													
+								Atelier Potager Bio à Die
+								Atelier , DIE
+								Samedi 14 mai 2016
+						
+
+												
+								Concert des Moonshiners au Tchaïwalla
+								Concert , DIE
+								Samedi 14 mai 2016
+						
+
+												
+								Concert Chris Proctor et Michel Gentils
+								Concert , MENGLON
+								Samedi 14 mai 2016
+						
+
+												
+													
+								A la découverte du feutrage de la laine
+								Atelier , MONTMAUR-EN-DIOIS
+								Samedi 14 mai 2016
+						
+
+												
+													
+								Stage plantes sauvages
+								Stage , BOULC
+								du samedi 14 au lundi 16 mai 2016
+						
+
+												
+													
+								tissage et couture à la bonneterie
+								Stage , DIE
+								du samedi 14 au lundi 16 mai 2016
+						
+
+												
+													
+								Journée "fenêtres ouvertes"à l'école primaire Caminando
+								Rencontre , MENGLON
+								Lundi 16 mai 2016
+						
+
+												
+													
+								Prochaine réunion Bis Usus Création Ressourcerie du Diois
+								Réunion , DIE
+								Mardi 17 mai 2016
+						
+
+												
+								Sentiers du doc Paysage
+								Projection , BARNAVE
+								Jeudi 19 mai 2016
+						
+
+												
+								ATELIER CORPS-VOIX-TEXTE
+								Atelier , DIE
+								Vendredi 20 mai 2016
+						
+
+												
+													
+								Restitution Projet Solidaire Sénégal
+								Exposition , DIE
+								Samedi 21 mai 2016
+						
+
+												
+													
+								Yoga collectif adulte
+								Atelier , DIE
+								Samedi 21 mai 2016
+						
+
+												
+													
+								Stage terre Nourricière
+								Stage , BOULC
+								du samedi 21 au dimanche 22 mai 2016
+						
+
+					Val de Drôme							
+													
+								FINANCEMENT PARTICIPATIF pour l'EPICERIE !!!!
+								Manifestation , BEAUFORT-SUR-GERVANNE
+								du samedi 30 avril au samedi 11 juin 2016
+						
+
+												
+													
+								Apres-midi conviviale et festive à Beaufort-sur-Gervanne 
+								Fête , BEAUFORT-SUR-GERVANNE
+								Samedi 14 mai 2016
+						
+
+												
+													
+								BAL FOLK A BEAUFORT-SUR-GERVANNE
+								Fête , BEAUFORT-SUR-GERVANNE
+								du samedi 14 au dimanche 15 mai 2016
+						
+
+												
+													
+								soirée contes et ballades contées
+								Conte , CHABRILLAN
+								du samedi 14 au dimanche 15 mai 2016
+						
+
+												
+													
+								Soirée CONCERT à Suze 
+								Concert , SUZE
+								du samedi 21 au dimanche 22 mai 2016
+						
+
+					Retrouvez l'agenda complet sur www.ensembleici.fr...				
+			
+		
+		
+			
+							
+		
+	
+	
+	
+	        Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+                
+		
+			
+			Un aper&ccedil;u des petites annonces partag&eacute;es sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+				
+													"C'est d'apprendre, qui est sacré! - Les premiers pas d'une classe Freinet"
+							
+						
+						
+														DIE
+						
+						
+					
+					
+													Ordinateur netbook
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														CREST
+						
+						
+					
+					
+													COLOCATION
+							
+						
+						
+														AOUSTE-SUR-SYE
+						
+						
+					
+					
+													Abat-jour métal Suspension
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														DIE
+						
+						
+					
+					
+													Transport d'objets et de personnes Luc-Die-Villard de Lans
+							
+						
+						
+														LUC-EN-DIOIS
+						
+						
+					
+					
+													Offre d’emploi : chargé(e) de mission démocratie participative
+							&nbsp;&nbsp;&nbsp;
+						
+						
+														SAILLANS
+						
+						
+					
+									
+					
+										
+				
+				
+			
+		
+	
+	
+	
+	
+		
+			
+			Un aper&ccedil;u du r&eacute;pertoire partag&eacute; sur www.ensembleici.fr ! &nbsp;
+			
+		
+		
+			
+				
+					
+														REFLEXOLOGIE PLANTAIRE A DOMICILE
+								
+								
+							
+							
+															DIE
+															
+							
+						
+						
+														Nolibos - Solstice
+								
+								Prototypage. Conception. Fabrication numérique
+							
+							
+															MOLIERES-GLANDAZ
+								Coopérative							
+							
+						
+						
+														Tiss'âges
+								
+								Lieu d'Accueil Enfants Parents
+							
+							
+															CREST
+								Association							
+							
+						
+						
+														Restaurant Le Tchaïwalla
+								
+								Bio Végétarien
+							
+							
+															DIE
+								société privée							
+							
+						
+											
+						
+												
+					
+				
+			
+		
+	
+	
+														
+                                                    
+                                                
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        	
+                            	
+                                    
+                                	
+                                    	
+                                        	
+                                            
+                                                
+                                                
+                                                    
+                                                        
+														Vous pouvez transférer cette lettre d'information :
+																												
+                                                        
+															
+															Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+																														
+														
+													
+                                                    
+                                                        
+															Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+															Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+															
+															Si vous souhaitez vous désinscrire, cliquez ici.
+															
+
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                        
+                    
+                
+            
+        
+    
+

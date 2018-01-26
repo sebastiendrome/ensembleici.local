@@ -1,0 +1,571 @@
+
+
+
+    
+        
+        Ensemble ici | # 2018-01 : Ensemble Ici, tous acteurs de la vie locale !
+        
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;font-size: .9em;font-family:Gill Sans’,Corbel,Tahoma,sans-serif;}
+            img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+            table td{border-collapse:collapse;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            body, #backgroundTable{
+                    background-color:#F0EDEA;
+            }
+            #templateContainer{
+                    border: 1px solid #E3D6C7;
+            }
+            a {
+                    text-decoration: none;
+                    color: inherit;
+            }
+            h1, .h1{
+                    color:#E16A0C;
+                    display:block;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            h2, .h2{
+                    color:#2DABDA;
+                    display:block;
+                    font-family:Arial;
+                    font-size:30px;
+                    font-weight:bold;
+                    line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    text-align:left;
+            }
+            #templateHeader{
+                    background-color:#FFFFFF;
+                    border-bottom:0;
+            }
+            .headerContent{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:34px;
+                    font-weight:bold;
+                    line-height:100%;
+                    padding:0;
+                    text-align:center;
+                    vertical-align:middle;
+            }
+            .headerContent a {
+                padding: 0;
+            }
+            .headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:650px !important;
+            }
+            #templateContainer, .bodyContent{
+                    background-color:#FFFFFF;
+            }
+            .bodyContent div{
+                    color:#445158;
+                    font-family:Arial;
+                    font-size:14px;
+                    line-height:150%;
+                    text-align:left;
+            }
+            .bodyContent div a:link, .bodyContent div a:visited, /* Yahoo! Mail Override */ .bodyContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+            #templateFooter{
+                    background-color:#FFFFFF;
+                    border-top:0;
+            }
+            .footerContent div{
+                    color:#707070;
+                    font-family:Arial;
+                    font-size:12px;
+                    line-height:125%;
+                    text-align:left;
+            }
+            .footerContent div a:link, .footerContent div a:visited, /* Yahoo! Mail Override */ .footerContent div a .yshortcuts /* Yahoo! Mail Override */{
+                    color:#2DABDA;
+                    font-weight:normal;
+                    text-decoration:underline;
+            }
+            .footerContent img{
+                    display:inline;
+            }
+        
+    
+    
+    	
+            
+            	
+                    
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                            Si ce message ne s'affiche pas correctement, visualisez la version en ligne.
+                                            
+                                            
+                                            
+                                                
+                                            
+                                            
+                                                
+                                                
+                                                
+                                            
+                                            
+                                                
+                                            
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                        
+                                            &nbsp;
+                                        
+                                    
+                                
+                            
+                        
+                        
+                    	
+                            
+                            	
+                                    
+                                	
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                    
+                                    	
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+
+    
+        
+                                &nbsp;&nbsp; BONNE ANN&Eacute;E &Agrave; TOUTES ET &Agrave; TOUS !&nbsp;&nbsp;   
+2018 sera l'ann&eacute;e du changement&nbsp;!
+Nous avons pleins d'id&eacute;es pour renforcer Ensemble Ici, ici d'abord, ailleurs aussi. - Des ateliers de pratiques radiophoniques mensuels pour s'initier et se perfectionner aux outils de la radio - Des animations cousu-main tout public et/ou sp&eacute;cifiques aux petites structures - Une partie M&Eacute;DIAS qui s&rsquo;&eacute;crit &agrave; plusieurs mains - De nouvelles fonctionnalit&eacute;s pour fluidifier l&rsquo;usage du site
+Ces envies neuves ne changent pas le fond. Ensemble Ici &oelig;uvre toujours pour rendre visible (et audible) vos initiatives, pour cr&eacute;er les bases d&rsquo;une soci&eacute;t&eacute; plus humaine et plus respectueuse, pour permettre un acc&egrave;s g&eacute;n&eacute;ralis&eacute; aux arts et aux cultures, pour faciliter les &eacute;changes localement et pour promouvoir la richesse de nos communes rurales.Ensemble Ici est un outil, un m&eacute;dia local et participatif, d&eacute;velopp&eacute; pour connecter les &ecirc;tres humains qui cohabitent sur un territoire. 
+&nbsp;&nbsp; Pour commencer l&rsquo;ann&eacute;e en beaut&eacute; et en paroles,
+&deg; Pascale vous parle, ou plut&ocirc;t, fait cui cui&hellip;
+
+
+
+
+&deg; &Agrave; ne pas oublier&nbsp;: &nbsp; 40 ans, l&rsquo;&acirc;ge de la maturit&eacute;, dit-on. &nbsp; DECOR f&ecirc;te les siens le 11 Janvier au Caf&eacute; des Philanthropes&nbsp;!
+
+&nbsp;
+
+
+
+&nbsp;
+L'&eacute;quipe Ensemble ici - Baronnies vous souhaite des sourires pour cette ann&eacute;e 2018, de l'&eacute;l&eacute;gance pour vos rencontres et du soutien pour vos projets !                Voici les infos de la semaine dont vous trouvez le d&eacute;tail sur le site Ensemble ici. Il vous est ais&eacute; d'en ajouter via les formulaires du site. Tous ensemble, solidaires, b&acirc;tissons cet outil de partage et d'info autog&eacute;r&eacute; pour mieux vivre sur notre territoire : &eacute;v&eacute;nements, activit&eacute;s, annonces, forums et articles! 
+contact@ensembleici.fr
+&nbsp;
+L'assocation DECOR est la structure juridique qui porte les projets Ensemble Ici - Baronnies et RadiO'live, webradio init&eacute;rante. Elle a besoin de votre soutien pour continuer d'exercer ses missions. 
+Pensez &agrave; l'adh&eacute;sion
+        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter l'agenda complet au format PDF 
+
+    
+        
+            
+            Hautes Baronnies                        
+                    
+                    Mistigri -  Samedi Jouons à Mévouillon
+                    Jeux , MEVOUILLON
+                    Samedi 06 janvier 2018
+                    
+
+                                            
+                    
+                    GRATIFÉRIA
+                    Marché , MONTBRUN-LES-BAINS
+                    Samedi 06 janvier 2018
+                    
+
+                    Pays de Buis-les-Baronnies                        
+                    
+                    Théâtre "Prouve-le" 
+                    Spectacle , BUIS-LES-BARONNIES
+                    Vendredi 12 janvier 2018
+                    
+
+                    &nbsp;Pays de Rémuzat                        
+                    
+                    Est- ce que répandre du bleu c'est faire la mer ?
+                    Lecture , MONTREAL-LES-SOURCES
+                    Samedi 13 janvier 2018
+                    
+
+                    &nbsp;Val d'Eygues                        
+                    
+                    Journée détente
+                    Atelier , CURNIER
+                    Jeudi 04 janvier 2018
+                    
+
+                                            
+                    
+                    Fatalisme technologique contre l'avenir
+                    Conférence , LES PILLES
+                    Jeudi 04 janvier 2018
+                    
+
+                                            
+                    
+                    Les Pilanthropes
+                    Rencontre , LES PILLES
+                    du jeudi 04 au samedi 27 janvier 2018
+                    
+
+                                            
+                    
+                    SOIRÉE JEUX DU MONDE + GALETTE !
+                    Jeux , NYONS
+                    Vendredi 05 janvier 2018
+                    
+
+                                            
+                    
+                    Atelier CHANT ET RYTHMES des Antilles et d’ailleurs
+                    Atelier , NYONS
+                    du lundi 08 au vendredi 19 janvier 2018
+                    
+
+                                            
+                    
+                    DECOR fête ses 40 ans ! 
+                    Rencontre , LES PILLES
+                    Jeudi 11 janvier 2018
+                    
+
+                                            
+                    
+                    SCENES OUVERTES
+                    Concert , NYONS
+                    Vendredi 12 janvier 2018
+                    
+
+                                            
+                    
+                    Atelier Accordéon
+                    Atelier , NYONS
+                    Samedi 13 janvier 2018
+                    
+
+                                            
+                    
+                    Voix de Fêtes a 10ans déjà !!!
+                    Fête , VINSOBRES
+                    Samedi 13 janvier 2018
+                    
+
+                    Ailleurs dans le coin                        
+                    
+                    Scène ouverte
+                    Concert , SEGURET
+                    du vendredi 05 janvier au samedi 02 juin 2018
+                    
+
+                    &nbsp;Diois                        
+                    
+                    Qi Gong et Sons
+                    Stage , DIE
+                    du vendredi 05 au dimanche 07 janvier 2018
+                    
+
+                    Retrouvez l'agenda complet sur www.ensembleici.fr...Retrouvez l'agenda complet sur www.ensembleici.fr...            
+        
+    
+    
+            
+                        
+    
+
+
+Si vous le souhaitez, vous pouvez consulter la liste complète des petites annonces au format PDF
+
+    
+        
+        Un aperçu des petites annonces partagées sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            CHANTIER PARTICIPATIF au Monastère de ste Croix
+                
+                    
+                    
+                                                        SAINTE-CROIX
+                    
+                    
+                
+                                    MOUVEMENT BIODYNAMIQUE
+                
+                    
+                    
+                                                        MONTELIMAR
+                    
+                    
+                
+                                    Cours de peinture expression artistique 
+                
+                    
+                    
+                                                        VISAN
+                    
+                    
+                
+                                    Prof donne cours de maths physique gestion mentale sur Buis les Baronnies
+                &nbsp;&nbsp;&nbsp;
+                    
+                    
+                                                        BUIS-LES-BARONNIES
+                    
+                    
+                
+                                
+                    
+                                        
+            
+            
+        
+    
+
+
+
+    
+        
+        Un aperçu du répertoire partagé sur www.ensembleici.fr ! &nbsp;
+        
+    
+    
+        
+            
+                            Les Pilanthropes
+                espace associatif d'échange, de partage et de rencontre
+                
+                                        LES PILLES
+                        Association                
+                
+                
+                            La cigale
+                Diffuseurs de bonheurs
+                
+                                        NYONS
+                        Association                
+                
+                
+                            Radio Retro FM
+                
+                
+                                        BUIS-LES-BARONNIES
+                        Association                
+                
+                
+                            RadiO'live
+                Webradio itinérante
+                
+                                        NYONS
+                        Association                
+                
+                
+                            RadioLà
+                Écouter et mémoriser la station sur votre player media
+                
+                                        DIEULEFIT
+                        Association                
+                
+                
+                        
+                
+                                
+            
+            
+        
+    
+
+
+    Le collectif "Ensemble ici" :
+
+        
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+            
+
+     
+        Les partenaires : 
+    
+            
+            
+                
+            
+        
+            
+            
+                
+            
+        
+                
+                                                         
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                            
+                            	
+                                    
+                                	
+                                            
+                                        	
+                                                    
+                                                        
+
+                                                            
+                                                                
+                                                                Vous pouvez modifier votre ville de pr&eacute;f&eacute;rence :
+                                                                                                                                
+                                                            
+                                                        
+                                                        
+                                                            
+                                                                
+                                                                    Vous recevez ce message car vous êtes abonné à la lettre d'informations  du site ensembleici.fr.
+                                                                    Conformément à la loi informatique et libertés n°78-17 du 6 Janvier 1978 vous disposez d'un droit d'accès et de rectification des informations vous concernant. 
+                                                                    
+                                                                    Si vous souhaitez vous désinscrire, cliquez ici.
+                                                                
+
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                                
+                                            
+                                        
+                                    
+                                    
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+
