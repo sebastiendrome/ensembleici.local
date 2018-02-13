@@ -2,6 +2,7 @@
 /************************************************
 On récupère les informations dont on a besoin.
 ************************************************/
+// new line from seb
 /***
 	1. Editorial
 	**/
